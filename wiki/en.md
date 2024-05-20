@@ -15,6 +15,7 @@ Feel free to look around and add some of your own changes!
 - [[Rules]]
 - [[Frequently Asked Questions]]
 - [[Game Interface]]
+- [[How to Contribute to the Titanic Wiki]]  
 
 ### World of Titanic and osu!
 
@@ -30,10 +31,6 @@ Feel free to look around and add some of your own changes!
 - [[Beatmap Modding]]
 - [[Beatmap Approval]]
 - [[Ranking Process]]
-
-### Development 
-
-- [[How to Contribute to the Wiki]]
 
 ### People
 
