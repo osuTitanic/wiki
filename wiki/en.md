@@ -13,6 +13,7 @@ Feel free to look around and add some of your own changes!
 
 - [[Installation]]
 - [[Rules]]
+- [[Frequently Asked Questions]]
 - [[Game Interface]]
 
 ### World of Titanic and osu!
@@ -30,8 +31,13 @@ Feel free to look around and add some of your own changes!
 - [[Beatmap Approval]]
 - [[Ranking Process]]
 
+### Development 
+
+- [[How to Contribute to the Wiki]]
+
 ### People
 
 - [[Developers]]
 - [[Beatmap Approval Team]]
 - [[List of notable people]]
+  
