@@ -13,7 +13,9 @@ Feel free to look around and add some of your own changes!
 
 - [[Installation]]
 - [[Rules]]
+- [[Frequently Asked Questions]]
 - [[Game Interface]]
+- [[How to Contribute to the Titanic Wiki]]  
 
 ### World of Titanic and osu!
 
@@ -35,3 +37,4 @@ Feel free to look around and add some of your own changes!
 - [[Developers]]
 - [[Beatmap Approval Team]]
 - [[List of notable people]]
+  
