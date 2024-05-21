@@ -265,7 +265,9 @@ This is the very first version that you can use the clap hitsound! This version 
 
 You can see what hitsound a circle has applied to it by looking at the last flag on in the .osu:
 
-`96,128,45555,1,0` // The last one here is the hitsound
+`96,128,45555,1,2` 
+
+- The value of 2 at the end is the hitsound
 
 |Flag|Hitsound |
 |----|---------|
@@ -278,7 +280,9 @@ These numbers are combined when you add multiple to one object. So for example 6
 
 This is also true of the sliders, if the entire sliderbody has a hitsound applied to it you will see it on the last digit before the slider curve type.
 
-`96,128,52155,2,6,B|96:256,1,100` // Here it is 6, so that means Whistle + Finish.
+`96,128,52155,2,6,B|96:256,1,100`
+
+- Here it is 6, so that means Whistle + Finish.
 
 ## b452 slider head, tail, and reverse arrow hitsounding
 
