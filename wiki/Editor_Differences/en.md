@@ -146,10 +146,10 @@ As of me writing this, this is the oldest possible version that works with osu!t
 
 Before this version in the .osu the first part of a slider body copied the coordinate of the slider head, linking the start of the slider body to the head. However, starting with this version, it no longer does this. This means that all sliders made on this version of osu! and lazer will be broken on older clients, so beware!
 
-|       |.osu Slider Definition                          |
-|-------|------------------------------------------------|
-|Before:|`224,80,17142,2,0,B|224:80|336:32|360:153,1,140`|
-|After: |`224,80,17142,2,0,B|336:32|360:153,1,140`       |
+|       |.osu Slider Definition                        |
+|-------|----------------------------------------------|
+|Before:|224,80,17142,2,0,B|224:80|336:32|360:153,1,140|
+|After: |224,80,17142,2,0,B|336:32|360:153,1,140       |
 
 ## b337 red anchors
 
@@ -159,10 +159,10 @@ Starting with this version you can now create red anchors on all 3 available sli
 
 Red anchors work in the .osu by copying the same slider anchor point twice. If the game sees two identical slider points it will treat it as a red anchor.
 
-|             |.osu Slider Red Anchor vs Normal Anchor        |
-|-------------|-----------------------------------------------|
-|Red Anchor:  |`32,32,85207,6,0,L|128:32|128:160,1,210`       |
-|White Anchor:|`32,32,85207,6,0,L|128:32|128:32|128:160,1,210`|
+|             |.osu Slider Red Anchor vs Normal Anchor      |
+|-------------|---------------------------------------------|
+|Red Anchor:  |32,32,85207,6,0,L|128:32|128:160,1,210       |
+|White Anchor:|32,32,85207,6,0,L|128:32|128:32|128:160,1,210|
 
 ## b337 toggled options are remembered during session
 
@@ -217,4 +217,5 @@ In this version you can now add tags directly to the .osu within Song Setup. Thi
 With this version you can easily see red lines and breaks on the scroll bar. These did show up on the timeline at the top where the notes are, but not on the scrollbar till this version
 
 ![Example of a red line and break on the timeline](https://i.imgur.com/h23JnKZ.png%5B)
+
 This makes seeing aspects of the map a bit easier, as you can see all the maps sections more easily at the bottom
