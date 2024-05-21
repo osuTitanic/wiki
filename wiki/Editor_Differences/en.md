@@ -11,7 +11,7 @@ Some versions of osu! exist that predate the games official public beta.
 
 ## 07-27-2007
 
-This version produces some of the most barebone osu maps. This client lacks the ability to anything outside of circles, even in the .osu the only information is the hitobjects. 
+This version produces some of the most barebone osu maps. This client lacks the ability to do anything outside of circles, even in the .osu the only information is the hitobjects. 
 
 Here is an example of a circle in this version:
 
@@ -44,7 +44,7 @@ This version is significantly more usable then the other pre-release versions. A
 
 ## 09-08-2007
 
-This is the first version that can make actual maps. This version has most of the information needed for a readable.  Headers for splitting up the data have been implemented. SPEEDX and CUSTOMX have been renamed, the audio hash is now included within the .osu file, and you can now place bezier sliders in addition to linear sliders. Notice how there is no way to change difficulty settings. Also there is no way to name a difficulty yet. 
+This is the first version that can make actual maps. This version has far more of the information needed to be a readable map in modern osu! Headers for splitting up the data have been implemented. SPEEDX and CUSTOMX have been renamed, the audio hash is now included within the .osu file, and you can now place bezier sliders in addition to linear sliders. Notice how there is no way to change difficulty settings. Also there is no way to name a difficulty yet. 
 
 I recommend you continue to use the same folder name and file name structure as the previous version though. This explains why some of the earliest beatmaps are all just "default" settings, users didn't have choice yet. 
 
@@ -237,3 +237,54 @@ With this version you can easily see red lines and breaks on the scroll bar. The
 ![Example of a red line and break on the timeline](https://i.imgur.com/h23JnKZ.png%5B)
 
 This makes seeing aspects of the map a bit easier, as you can see all the maps sections more easily at the bottom
+
+## b420 inherited lines
+
+Starting with this version new timing points can inherit the bpm of the previous one. This is what will eventually turn into green lines, but for now they are still red.
+
+![b420 Timing Setup popup, showing off an interited timing point](https://i.imgur.com/tIfXTdJ.png)
+You can tell if a timing point is inherited in the .osu based on if the last flag in the timing point is a 1 or a 0.
+
+```
+[TimingPoints]
+2055,600,4,2,0,65,0
+2555,600,4,2,0,65,1
+```
+
+The last flag being 0 means non inherited, and 1 means inherited in this version, and for a decent amount of versions after this.
+
+## b452 clap hitsound
+
+This is the very first version that you can use the clap hitsound! This version has it both in both available samplesets (Normal and Soft).
+
+![A screenshot of the clap hitsound button from b452](https://i.imgur.com/vEJpCYx.png)
+
+You can see what hitsound an circle has applied to it by looking at the last flag on in the .osu:
+
+`96,128,45555,1,0` // The last one here is the hitsound
+
+|Flag|Hitsound |
+|----|---------|
+|0   |None     |
+|2   |Whistle  |
+|4   |Finish   |
+|8   |Clap     |
+
+These numbers are combined when you add multiple to one object. So for example 6 would be Whistle and Finish.
+
+This is also true of the sliders, if the entire sliderbody has a hitsound applied to it you will see it on the last digit before the slider curve type.
+
+`96,128,52155,2,6,B|96:256,1,100` // Here it is 6, so that means Whistle + Finish.
+
+## b452 slider head, tail, and reverse arrow hitsounding
+
+This version brings another major milestone for hitsounding, you can now hitsound the head, tail, and reverse arrow of a slider individually. Prior to this build you could only hitsound the entire slider body. You can do this by clicking on the body part in the timeline at the top, or the object on the play field until the segment gets highlighted in black.
+
+![An example of me selecting a reverse slider for hitsounding](https://i.imgur.com/JCtv4lf.png)
+To see if the head, tail, or reverse slider has an individual hitsound on it in the .osu
+
+`96,160,61755,2,2,B|224:160,2,100,4|6|10`
+
+Compared with the slider example before, there is now an additional comma after the 100, the 4 being a hitsound on the slider head. Then after the pipe character there is a hitsound value of 6 on the reverse arrow, and after the next pipe a hitsound value of 10 has been applied to the slider tail.  That means the entire slider body has a whistle applied to it, the slider head has a finish applied to it, the reverse arrow has a whistle and finish applied to it, and the slider tail has whistle and clap applied to it.
+
+**This is the first client does not crash if kiai has been applied to a timing point**
