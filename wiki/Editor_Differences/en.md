@@ -281,6 +281,7 @@ This is also true of the sliders, if the entire sliderbody has a hitsound applie
 This version brings another major milestone for hitsounding, you can now hitsound the head, tail, and reverse arrow of a slider individually. Prior to this build you could only hitsound the entire slider body. You can do this by clicking on the body part in the timeline at the top, or the object on the play field until the segment gets highlighted in black.
 
 ![An example of me selecting a reverse slider for hitsounding](https://i.imgur.com/JCtv4lf.png)
+
 To see if the head, tail, or reverse slider has an individual hitsound on it in the .osu
 
 `96,160,61755,2,2,B|224:160,2,100,4|6|10`
