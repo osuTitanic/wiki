@@ -19,7 +19,7 @@ Here is an example of a circle in this version:
 
 ## 07-29-2007
 
-The top of .osu files from this client only stores the TEMPO and the OFFSET. Below this is hit object data. This version is very similar to the previous one, however sliders now (mostly) work! Something important to note is that slider heads and bodies must start at the exact position, unlike in later editor revisions. The only slider curve type that exists in this version is catmull. Since there are no other slider curve types the slider format is simplified.
+The top of .osu files from this client now stores the TEMPO and the OFFSET. Below this is hit object data. This version is very similar to the previous one, however sliders now (mostly) work! Something important to note is that slider heads and bodies must start at the exact position, unlike in later editor revisions. The only slider curve type that exists in this version is catmull. Since there are no other slider curve types the slider format is simplified.
 
 Here is an example of a slider in this version:
 
@@ -110,14 +110,14 @@ In between b53 and b70 linear sliders got added! You can now produce sliders tha
 
 This update to the .osu format offers some new features which are quite useful.
 
-You can now set a audio lead in time, and enable or disable the countdown feature in General
+You can now set a audio lead in time, and enable or disable the countdown feature in General:
 
 ```
 AudioLeadIn: 0
 Countdown: 1
 ```
 
-Timing points have 3 new additions that can be added. 
+Timing points have 3 new additions that can be added:
 
 ```
 [TimingPoints]
@@ -130,11 +130,11 @@ Timing points have 3 new additions that can be added.
 
 ## b196 storyboarding
 
-This is the earliest version of osu! that supports the storyboarding scripting language. The design tab won't be done for many more versions, but if you don't mind doing it in a text editor a lot of the simple functions do work by this point
+This is the earliest version of osu! that supports the storyboarding scripting language. The design tab won't be done for many more versions, but if you don't mind doing it in a text editor, most of the simple functions work in this version.
 
 ## b222 hitsound volume adjustment
 
-This update let's you customize the hitsound volume of any given timing point now . That means that the hitsound volume tag in TimingPoints can be between 0 and 100. The modern game only let's you go down to 5%, and will force any values lower back to 5% when played.
+This update let's you customize the hitsound volume of any given timing point. That means that the hitsound volume tag in Timing Points can be between 0 and 100. The modern game only let's you go down to 5%, and will force any values lower back to 5% when played.
 
 ![Audio section of the Timing Setup panel in b222](https://i.imgur.com/JpWPlyo.png)
 
@@ -148,9 +148,9 @@ This update let's you customize the hitsound volume of any given timing point no
 
 # b282 to b904 (v5)
 
-It's possible the switch to .osu v5 seemed to happen on 2008-03-24, but we have no builds in between b222 and b282. .osu v5 evolved a significant amount during it's time. .osu v5's made in the last version that created this file format won't even work correctly in the first version that made this format!
+The switch to .osu v5 seemed to happen on 2008-03-24, but we have no builds in between b222 and b282. .osu v5 evolved a significant amount during it's time, so much so, that .osu v5's made in the last version that created this file format won't even work correctly in the first version that made this format!
 
-The first versions that use .osu v5 are not majorly different from what came before, it seems that the major change is that 25ms of offset was removed  from new maps going forward due to a change peppy made on March 23rd of 2008. This from his official changelog:
+The first versions that use .osu v5 are not majorly different from what came before, it seems that the major change is that 25ms of offset was removed from new maps going forward due to a change peppy made on March 23rd of 2008. This from his official changelog:
 
 `Realised my silence finding function WASN'T RUNNING! Fixed, and adjusted previous beatmaps to earn themselves a free 25ms offset.`
 
@@ -158,7 +158,7 @@ As of me writing this, this is the oldest possible version that works with osu!t
 
 ## b294 remove redundant slider anchor on slider head
 
-Before this version in the .osu the first part of a slider body copied the coordinate of the slider head, linking the start of the slider body to the head. However, starting with this version, it no longer does this. This means that all sliders made on this version of osu! and lazer will be broken on older clients, so beware!
+Up until this point, the first point of all slider bodies copied the coordinate of the slider head, creating a hardcoded link between the start of the slider body and the head. Starting with this version however, this linking is done automatically by the game, and no longer written explicitely to the .osu file. This means that all sliders made on this version of osu! and later will be broken on older clients, so beware!
 
 |       |.osu Slider Definition                                        |
 |-------|--------------------------------------------------------------|
@@ -169,18 +169,20 @@ Before this version in the .osu the first part of a slider body copied the coord
 
 Starting with this version you can now create red anchors on all 3 available slider types! 
 
-![Red anchor examples on all 3 slider curve types](https://i.imgur.com/wgxg5w7.png)Adding a red anchor to a Bezier allows you to have sharp straight turns, this could be useful in situations where you want one part of the slider with a straight turn, but another part of the slider you want a curved turn. Catmull sliders produce a loop bulb effect on red anchors, where the player is forced to hold on the red anchor. This could be useful on some more gimmicky style maps, or to really emphasize a sound on a slider. As a consequence of the bulb though, the slider will end up appearing shorter than the other curve types when the slider anchors are identical. Adding a red anchor to a Linear slider does not do anything noticeable to it. 
+![Red anchor examples on all 3 slider curve types](https://i.imgur.com/wgxg5w7.png)
+
+Adding a red anchor to a Bezier allows you to have sharp straight turns, this could be useful in situations where you want one part of the slider to have a straight turn, but you want another part to have a curved turn. Catmull sliders produce a loop bulb effect on red anchors, where the player is forced to hold on the red anchor. This could be useful on some more gimmicky maps, or to really emphasize a sound on a slider. As a consequence of the bulb though, the slider will end up appearing shorter than the other curve types when the slider anchors are identical. Adding a red anchor to a Linear slider does not do anything noticeable to it. 
 
 Red anchors work in the .osu by copying the same slider anchor point twice. If the game sees two identical slider points it will treat it as a red anchor.
 
-|             |.osu Slider Red Anchor vs Normal Anchor                      |
+|             |.osu Slider Red Anchor vs White Anchor                       |
 |-------------|-------------------------------------------------------------|
-|Red Anchor:  |<code>32,32,85207,6,0,L\|128:32\|128:160,1,210</code>        |
-|White Anchor:|<code>32,32,85207,6,0,L\|128:32\|128:32\|128:160,1,210</code>|
+|Red Anchor:  |<code>32,32,85207,6,0,L\|128:32\|128:32\|128:160,1,210</code>|
+|White Anchor:|<code>32,32,85207,6,0,L\|128:32\|128:160,1,210</code>        |
 
 ## b337 toggled options are remembered during session
 
-If you press on Distance Snap, or Grid Snap to enable or disable them, the game will remember your selection till you close it.
+If you press on the Distance Snap, or Grid Snap toggle buttons, the client will now remember your selection till you close the game.
 
 ## b370 change slider curve type on the fly
 
