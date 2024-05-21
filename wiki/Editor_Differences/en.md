@@ -52,27 +52,29 @@ It's possible some .osu v2's got updated by peppy to .osu v3 and ranked. There a
 
 Here is the .osu format for this version:
 
-`osu file format v2`
+```
+osu file format v2
 
-`[General]`
-`AudioFilename: audio.mp3`
-`AudioHash: a37859a4a0919cd369a1612762cb0c38`
-`SpeedMultiplier: 1`
-`CustomMultiplier: 1`
+[General]
+AudioFilename: audio.mp3
+AudioHash: a37859a4a0919cd369a1612762cb0c38
+SpeedMultiplier: 1
+CustomMultiplier: 1
 
-`[Metadata]`
-`Title:Dango Daikazoku (TV Size)`
-`Artist:Chata`
-`Creator:Digitalfear117`
+[Metadata]
+Title:Dango Daikazoku (TV Size)
+Artist:Chata
+Creator:Digitalfear117
 
-`[Events]`
+[Events]
 
-`[TimingPoints]`
-`226,600`
+[TimingPoints]
+226,600
 
-`[HitObjects]`
-`0,0,226,2,0,C|0:0|0:128,1,100`
-`0,192,1426,2,0`
+[HitObjects]
+0,0,226,2,0,C|0:0|0:128,1,100
+0,192,1426,2,0
+```
 
 # b53 to b144 (v3)
 
@@ -80,21 +82,25 @@ Here is the first public release of osu! These are the oldest maps that are full
 
 Notable changes to .osu v3 include allowing for user adjustable Difficulty Settings. Note that none of these can be decimals, and that OD and AR are combined:
 
-`[Difficulty]`
-`HPDrainRate:6`
-`CircleSize:4`
-`OverallDifficulty:6` // OD and AR are combined
-`SliderMultiplier: 1.4`
-`SliderTickRate: 2`
+```
+[Difficulty]
+HPDrainRate:6
+CircleSize:4
+OverallDifficulty:6 // OD and AR are combined
+SliderMultiplier: 1.4
+SliderTickRate: 2
+```
 
 You can now choose a sampleset for hitsounds in General:
 `SampleSet: None`
 
 Images or video can now be added, and they will be at the start of the Events tag:
 
-`[Events]`
-`0,0,"katamari2.jpg"` // Background
-`2,34350,47100` // Break
+```
+[Events]
+0,0,"katamari2.jpg" // Background
+2,34350,47100 // Break
+```
 
 ## b70 linear sliders
 In between b53 and b70 linear sliders got added! You can now produce sliders that have the modern day effect of red lines. However in this version, you must choose if you want the entire slider to be linear, entire slider to be bezier, or entire slider to be catmull.
@@ -105,13 +111,17 @@ This update to the .osu format offers some new features which are quite useful.
 
 You can now set a audio lead in time, and enable or disable the countdown feature in General
 
-`AudioLeadIn: 0`
-`Countdown: 1`
+```
+AudioLeadIn: 0
+Countdown: 1
+```
 
 Timing points have 3 new additions that can be added. 
 
-`[TimingPoints]`
-`118,500.004999999999,4,0,1` 
+```
+[TimingPoints]
+118,500.004999999999,4,0,1
+``` 
 
  - 4 refers to timing signature. Nearly all maps will be 4/4
  - 0 here refers to the sampleset. 0 is legacy and will default to Normal. 1 is the correct way to set the Normal sampleset, 2 is for Soft. Remember that the Drum sampleset does not exist yet
@@ -128,8 +138,10 @@ This update let's you customize the hitsound volume of any given timing point no
 ![Audio section of the Timing Setup panel in b222](https://i.imgur.com/givQWIc.png)
 .osu example for hitsound volume:
 
-`[TimingPoints]`
-`118,500.004999999999,4,0,1,42` 
+```
+[TimingPoints]
+118,500.004999999999,4,0,1,42
+```
 - 42 refers to the hitsound volume %
 
 # b282 to b904 (v5)
@@ -187,8 +199,10 @@ This is the first build we have available that can make taiko maps! You can enab
 
 You can tell if a map was made for osu! or taiko by looking at the new flag under the General section of the .osu
 
-`[General]`
-`Mode: 0`
+```
+[General]
+Mode: 0
+```
 -  0 osu! standard
 - 1 taiko
 - 2 catch the beat (won't be added till b504)
@@ -209,8 +223,10 @@ Clicking on the time stamp at the bottom left allows you to go to any time in th
 
 In this version you can now add tags directly to the .osu within Song Setup. This will show up under the Metadata section:
 
-`[Metadata]`
-`Tags:Digitalfear117`
+```
+[Metadata]
+Tags:Digitalfear117
+```
 
 ## b394a red lines and breaks on scrollbar
 
