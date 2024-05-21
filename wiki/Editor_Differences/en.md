@@ -148,8 +148,8 @@ Before this version in the .osu the first part of a slider body copied the coord
 
 |       |.osu Slider Definition                          |
 |-------|------------------------------------------------|
-|Before:|`224,80,17142,2,0,B&#124;224:80&#124;336:32&#124;360:153,1,140`|
-|After: |`224,80,17142,2,0,B&#124;336:32&#124;360:153,1,140`       |
+|Before:|`224,80,17142,2,0,B|224:80|336:32|360:153,1,140`|
+|After: |`224,80,17142,2,0,B|336:32|360:153,1,140`       |
 
 ## b337 red anchors
 
@@ -161,8 +161,8 @@ Red anchors work in the .osu by copying the same slider anchor point twice. If t
 
 |             |.osu Slider Red Anchor vs Normal Anchor        |
 |-------------|-----------------------------------------------|
-|Red Anchor:  |`32,32,85207,6,0,L&#124;128:32&#124;128:160,1,210`       |
-|White Anchor:|`32,32,85207,6,0,L&#124;128:32|128:32&#124;128:160,1,210`|
+|Red Anchor:  |`32,32,85207,6,0,L|128:32|128:160,1,210`       |
+|White Anchor:|`32,32,85207,6,0,L|128:32|128:32|128:160,1,210`|
 
 ## b337 toggled options are remembered during session
 
