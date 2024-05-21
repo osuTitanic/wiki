@@ -328,4 +328,3 @@ Here is a valid storyboard tag example from this version:
 ## b595b design tab (in game storyboard editor)
 
 ![A screenshot of the in game storyboard design tab](https://i.imgur.com/SH47KiN.png)
->>>>>>> Stashed changes
