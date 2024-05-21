@@ -135,7 +135,7 @@ This is the earliest version of osu! that supports the storyboarding scripting l
 
 This update let's you customize the hitsound volume of any given timing point now . That means that the hitsound volume tag in TimingPoints can be between 0 and 100. The modern game only let's you go down to 5%, and will force any values lower back to 5% when played.
 
-![Audio section of the Timing Setup panel in b222](https://i.imgur.com/givQWIc.png)
+![Audio section of the Timing Setup panel in b222](https://i.imgur.com/JpWPlyo.png)
 
 .osu example for hitsound volume:
 
