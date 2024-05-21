@@ -257,11 +257,11 @@ The last flag being 0 means non inherited, and 1 means inherited in this version
 
 ## b452 clap hitsound
 
-This is the very first version that you can use the clap hitsound! This version has it both in both available samplesets (Normal and Soft).
+This is the very first version that you can use the clap hitsound! This version has a clap for both available samplesets (Normal and Soft).
 
 ![A screenshot of the clap hitsound button from b452](https://i.imgur.com/vEJpCYx.png)
 
-You can see what hitsound an circle has applied to it by looking at the last flag on in the .osu:
+You can see what hitsound a circle has applied to it by looking at the last flag on in the .osu:
 
 `96,128,45555,1,0` // The last one here is the hitsound
 
@@ -290,4 +290,4 @@ To see if the head, tail, or reverse slider has an individual hitsound on it in 
 
 Compared with the slider example before, there is now an additional comma after the 100, the 4 being a hitsound on the slider head. Then after the pipe character there is a hitsound value of 6 on the reverse arrow, and after the next pipe a hitsound value of 10 has been applied to the slider tail.  That means the entire slider body has a whistle applied to it, the slider head has a finish applied to it, the reverse arrow has a whistle and finish applied to it, and the slider tail has whistle and clap applied to it.
 
-**This is the first client does not crash if kiai has been applied to a timing point**
+**This is the first client does not have broken sliders if kiai has been applied to a timing point!**
