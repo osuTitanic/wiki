@@ -95,7 +95,10 @@ SliderTickRate: 2
 
 You can now choose a sampleset for hitsounds in General:
 
-`SampleSet: None`
+```
+[General]
+SampleSet: None
+```
 
 Images or video can now be added, and they will be at the start of the Events tag:
 
