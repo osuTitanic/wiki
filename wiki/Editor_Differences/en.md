@@ -243,6 +243,7 @@ This makes seeing aspects of the map a bit easier, as you can see all the maps s
 Starting with this version new timing points can inherit the bpm of the previous one. This is what will eventually turn into green lines, but for now they are still red.
 
 ![b420 Timing Setup popup, showing off an interited timing point](https://i.imgur.com/tIfXTdJ.png)
+
 You can tell if a timing point is inherited in the .osu based on if the last flag in the timing point is a 1 or a 0.
 
 ```
