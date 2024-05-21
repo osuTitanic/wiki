@@ -19,7 +19,7 @@ Here is an example of a circle in this version:
 
 ## 07-29-2007
 
-The top of .osu files from this client only stores the TEMPO and the OFFSET. Below this is hit object data. This version is very similar to the previous one, however sliders now (mostly) work! Something important to note is that slider heads and bodies must start at the exact position, unlike in later editor revisions. The only slider curve type that exists in this version is catmull. Since there are no other slider curve types the slider format is simplified .
+The top of .osu files from this client only stores the TEMPO and the OFFSET. Below this is hit object data. This version is very similar to the previous one, however sliders now (mostly) work! Something important to note is that slider heads and bodies must start at the exact position, unlike in later editor revisions. The only slider curve type that exists in this version is catmull. Since there are no other slider curve types the slider format is simplified.
 
 Here is an example of a slider in this version:
 
@@ -169,7 +169,7 @@ Before this version in the .osu the first part of a slider body copied the coord
 
 Starting with this version you can now create red anchors on all 3 available slider types! 
 
-![Red anchor examples on all 3 slider curve types](https://i.imgur.com/wgxg5w7.png)Adding a red anchor to a Bezier allows you to have sharp straight turns, this could be useful in situations where you want one part of the slider with a straight turn, but another part of the slider you want a curved turn. Catmull sliders produce a loop bulb effect on red anchors, where the player is forced to hold on the red anchor. This could be useful on some more gimmicky style maps, or to really emphasize a sound on a slider. As a consequence of the bulb though, the slider will end up appearing shorter than the other curve types when the slider anchors are identical. Adding a red anchor to a Linear slider does not anything noticeable to it. 
+![Red anchor examples on all 3 slider curve types](https://i.imgur.com/wgxg5w7.png)Adding a red anchor to a Bezier allows you to have sharp straight turns, this could be useful in situations where you want one part of the slider with a straight turn, but another part of the slider you want a curved turn. Catmull sliders produce a loop bulb effect on red anchors, where the player is forced to hold on the red anchor. This could be useful on some more gimmicky style maps, or to really emphasize a sound on a slider. As a consequence of the bulb though, the slider will end up appearing shorter than the other curve types when the slider anchors are identical. Adding a red anchor to a Linear slider does not do anything noticeable to it. 
 
 Red anchors work in the .osu by copying the same slider anchor point twice. If the game sees two identical slider points it will treat it as a red anchor.
 
