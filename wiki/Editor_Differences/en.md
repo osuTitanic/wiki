@@ -33,10 +33,12 @@ This version has 2 new tags in the .osu `SPEEDX` and `CUSTOMX`. SPEEDX is for sl
 
 Here is an example of the header of the .osu file from this version:
 
-`TEMPO 500`
-`OFFSET 126`
-`SPEEDX 1`
-`CUSTOMX 1`
+```
+TEMPO 500
+OFFSET 126
+SPEEDX 1
+CUSTOMX 1
+```
 
 # Pre-release osu! versions (v2)
 
