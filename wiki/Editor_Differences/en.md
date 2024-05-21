@@ -301,4 +301,34 @@ Here is a .osu example of a slider with a reverse arrow, where the entire slider
 
 Compared with the slider example before, there is now an additional comma after the 100, the 4 being a hitsound on the slider head. Then after the pipe character there is a hitsound value of 6 on the reverse arrow, and after the next pipe a hitsound value of 10 has been applied to the slider tail. That means the entire slider body has a whistle applied to it, the slider head has a finish applied to it, the reverse arrow has a whistle and finish applied to it, and the slider tail has whistle and clap applied to it.
 
+<<<<<<< Updated upstream
 **This is the first client does not have broken sliders if kiai has been applied to a timing point!**
+=======
+### b452 is the first client does not have broken sliders if kiai has been applied to a timing point!
+
+## b497 storyboarding changes
+
+Storyboarding in b497 got a big overhaul, this is the format that would later be supported by the first versions of the in game design tab like in b595b. This format isn't hugely different from what modern stable expects, but there are few things to keep in mind. You may not have a design tab yet in this version, but storyboards are visible within the editor. If you want to reload your SB after changes do `CONTROL + L`. Annoyingly, this version of osu! will delete any lines it does not understand. So make sure you keep your text editor open or have backups.
+
+Here are some important rules to know about manual storyboarding in this format:
+
+- X & Y coordinates can never contain decimals `320,227.5` would be invalid, unlike in the modern game.
+- Scale commands must have a start and end command. `S,0,11892,15594,0.4` is valid in modern stable, but it must be adapted to have an end scaling transformation, even if it's just the same value. `S,0,11892,15594,0.4,0.4` is valid in this format
+- Modern stable uses the easy to read Name format for all objects such as `Sprite,Foreground,Centre,` for the start of any object in the storyboard. This version expects you to use numerical values to represent these things. So for my example Sprite is considered type `4`, Foreground is considered type `3`, Centre is considered value `1`. `4,3,1,"Storyboard\Lyrics\A1.png",320,200` would be the valid format for this version.
+
+![Any example of a storyboard loaded in b497](https://i.imgur.com/OUMv1dS.png)
+Here is a valid storyboard tag example from this version:
+
+```
+4,3,1,"Storyboard\Lyrics\A4.png",320,200
+ F,0,232715,232905,0,1
+ S,0,232715,235563,0.4,0.4
+ F,0,235373,235563,1,0
+```
+
+### b504 is the last build to allow CS 0-10 without .osu editing
+
+## b595b design tab (in game storyboard editor)
+
+![A screenshot of the in game storyboard design tab](https://i.imgur.com/SH47KiN.png)
+>>>>>>> Stashed changes
