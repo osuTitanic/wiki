@@ -191,7 +191,7 @@ In this build you can easily try out the different slider curve types by pressin
 |S  |Catmull|
 |D  |Bezier |
 
-![Example of the on screen popup for swapping between slider curve types](https://i.imgur.com/S4bidar.png)
+![Example of the on screen popup for swapping between slider curve types](https://i.imgur.com/5QB6ucb.gif)
 This allows you to experiment more easily with different slider curves on a single object if you want to try some other way to emphasize a sound without having to go up to *Options > Slider Curve Type* every time you want to change types.
 
 ## b370 taiko specifics
