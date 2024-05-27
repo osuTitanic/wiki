@@ -1,6 +1,6 @@
 # Rules
 
-These are the rules that help keep the game and community fun and fair.
+Welcome to Titanic, before you get started please read through these rules for a more safe and pleasent experience.
 
 # Community Rules
 
