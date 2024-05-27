@@ -268,7 +268,7 @@ This is the very first version that you can use the clap hitsound! This version 
 
 ![A screenshot of the clap hitsound button from b452](https://i.imgur.com/vEJpCYx.png)
 
-You can see what hitsound a circle has applied to it by looking at the last flag on in the .osu:
+You can see what hitsound a circle has applied to it by looking at the last flag in the .osu:
 
 `96,128,45555,1,2` 
 
