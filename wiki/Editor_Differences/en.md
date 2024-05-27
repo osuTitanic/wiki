@@ -328,3 +328,28 @@ Here is a valid storyboard tag example from this version:
 ## b595b design tab (in game storyboard editor)
 
 ![A screenshot of the in game storyboard design tab](https://i.imgur.com/SH47KiN.png)
+You can now make storyboards within the game itself!
+
+## b595b green lines
+
+Timing points that only change things with hitsounds are now assigned as green lines! Only timing points with BPM changes (or uninherited points) will receive red lines. Rejoice as you can finally tell what each line's function is!
+
+If you try to import a modern map with slider velocities in it, the game will read the slider velocity change as a BPM multiplier instead, so this version cannot support true slider velocity right now. 
+
+## b595b BPM adjustment
+
+![A screenshot of the Timing section within Timing and Control Points popup menu](https://i.imgur.com/F76WPSr.png)
+
+BPM Adjustment options are now available in the Timing and Control Points popup! This allows you to change the BPM by 0.5x or 2.0 in order to better emphasize more intense or less intense parts of the song! Everything about the editor relates to BPM though, for example, doubling the BPM means your slider velocity is now doubled, your distance snap is now doubled. Even if the value the game displays is the same, this is the actual result. This is the same in the modern game as well.
+
+## b595b additional sample set custom override
+
+![A screenshot of the Audio section within Timing and Control Points popup menu](https://i.imgur.com/AYawU5v.png)
+
+You can now use up to two custom sampleset overrides! Think about the possibilities! 
+
+You can tell within the .osu which sampleset override has been applied to a timing section by looking at the 5th flag
+
+`500,-100,4,2,1,75,0`
+
+- the `1` in the 5th section here denotes that this section is using custom sampleset 1. This is the version version of the game that lets you use up to 2, if the number is higher it will read as if there is no override, so no cheating! osu! won't override any of these when saving at least.
