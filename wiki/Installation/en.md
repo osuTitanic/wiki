@@ -1,6 +1,6 @@
 # Installation
 
-To began playing on Titanic! you can head over to the [downloads page](https://osu.lekuru.xyz/download/) and pick any client from as old as 2007 up to 2014
+To begin playing on Titanic! you can head over to the [downloads page](https://osu.lekuru.xyz/download/) and pick any client from as old as 2007 up to 2014.
 
 ![](https://i.ibb.co/WGqryjw/Screenshot-from-2024-05-27-17-53-40.png)
 
@@ -14,7 +14,7 @@ To register an account you can go to the [registration page](https://osu.lekuru.
 
 ![](https://i.ibb.co/fvdRBrG/Screenshot-from-2024-05-27-18-29-27.png)
 
-After you create your account you will be prompted to verify your email
+After you create your account you will be prompted to verify your email.
 ![](https://i.ibb.co/rQcgSKH/Screenshot-from-2024-05-27-18-39-41.png)
 
 If you want to be able to use the [Discord](https://discord.gg/3VeNPgDUrK) bot all you have to do is type !link and you will be sent a verification code in-game.
