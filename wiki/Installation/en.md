@@ -18,7 +18,7 @@ After you create your account you will be prompted to verify your email:
 
 ![](https://i.ibb.co/rQcgSKH/Screenshot-from-2024-05-27-18-39-41.png)
 
-If you want to be able to use the [Discord](https://discord.gg/3VeNPgDUrK) bot all you have to do is type `!link <username>` and you will be sent a verification code in-game.
+If you want to use the bot on our [Discord](https://discord.gg/3VeNPgDUrK) all you have to do is type `!link <username>` and you will be sent a verification code in-game.
 
 ![](https://i.ibb.co/X7C6yJw/Screenshot-from-2024-05-27-19-10-45.png)
 
