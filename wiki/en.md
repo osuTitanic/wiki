@@ -12,7 +12,7 @@ Feel free to look around and add some of your own changes!
 ### Getting Started
 
 - [[Installation]]
-- [[Rules]]
+- [[Rules]](/wiki/Rules/en.md)
 - [[Frequently Asked Questions]]
 - [[Game Interface]]
 - [[How to Contribute to the Titanic Wiki]]  
