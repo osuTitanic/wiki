@@ -4,9 +4,9 @@ To begin playing on Titanic! you can head over to the [downloads page](https://o
 
 ![](https://i.ibb.co/WGqryjw/Screenshot-from-2024-05-27-17-53-40.png)
 
-After you install it Smart Screen may pop up when you open it, since the game is unsigned. (a certificate for that would cost 200$)
-
 After it finishes installing, all you have to do is extract the folder and double-click `osu!.exe`.
+
+There is a chance that Windows Defender may block it, since the game is unsigned (a certificate for that would cost 200$).
 
 # Registering an account
 
