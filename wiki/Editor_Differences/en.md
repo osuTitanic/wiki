@@ -353,3 +353,42 @@ You can tell within the .osu which sampleset override has been applied to a timi
 `500,-100,4,2,1,75,0`
 
 - the `1` in the 5th section here denotes that this section is using custom sampleset 1. This is the version version of the game that lets you use up to 2, if the number is higher it will read as if there is no override, so no cheating! osu! won't override any of these when saving at least.
+
+## b699 support for mode specific maps
+
+Now when you upload a map it should correctly identify the mode. I can't test this since titanic BSS isn't ready yet, but that means that maps from this client should properly show up as taiko maps, not just taiko maps that were forced to be playable in standard too lol. CtB is not supported yet.
+
+## b699 kiai time
+
+Kiai time can now be added! This adds some visual flare to the game during the timing sections that utilize it. For some reason it also has gameplay modifications as well, such as making some objects worth more points in taiko, changes the HD fade distance to be lower. In addition, there are glow effects for notes. In standard this shows up under notes, and in CtB the glow effect is where the fruit will land.
+
+
+## b699 rotate by...
+
+![Rotate by... popup as seen in b699](https://i.imgur.com/4hWEfOB.png)
+
+You can finally rotate objects by arbitrary amounts, rejoice! Annoyingly you have to type an amount in this version, so it's not all sunshine and rainbows, and no preview, type a number, hit OK and see what horrors you have unleashed I guess lol.
+
+## b753a grid snap and beat snap divisors saved to .osu
+
+Quality of life change, these are now saved to the .osu, so you can see what settings the mapper used, rather than your last used settings.
+
+# b1077a to b1218 (v6)
+
+# b1533 (v7)
+
+This is the only build that we have the creates .osu v7's
+
+# b1652 to b1672 (v8)
+
+# b1700 to b20120916 (v9)
+
+# b20121003shine.test to b20121203 (v10)
+
+This version .osu didn't even last 3 months!
+
+# b20121223 (v11)
+
+This is the only build we have that creates .osu v11's
+
+# b20130303 to ? (v12)
