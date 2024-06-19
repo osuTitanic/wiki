@@ -314,7 +314,7 @@ Here are some important rules to know about manual storyboarding in this format:
 - Modern stable uses the easy to read Name format for all objects such as `Sprite,Foreground,Centre,` for the start of any object in the storyboard. This version expects you to use numerical values to represent these things. So for my example Sprite is considered type `4`, Foreground is considered type `3`, Centre is considered value `1`. `4,3,1,"Storyboard\Lyrics\A1.png",320,200` would be the valid format for this version.
 
 ![Any example of a storyboard loaded in b497](https://i.imgur.com/OUMv1dS.png)
-Here is a valid storyboard tag example from this version:
+Here is a valid storyboard tag example for within a .osb:
 
 ```
 4,3,1,"Storyboard\Lyrics\A4.png",320,200
@@ -322,6 +322,16 @@ Here is a valid storyboard tag example from this version:
  S,0,232715,235563,0.4,0.4
  F,0,235373,235563,1,0
 ```
+
+Here is a valid storyboard tag example for within a .osu:
+
+```
+4,3,1,"Storyboard\Lyrics\A4.png",320,200
+ F,0,232715,232905,0,1
+ S,0,232715,232715,235563,0.4,0.4
+ F,0,235373,235563,1,0
+```
+For some reason the start time for the size transition must be there twice.
 
 ### b504 is the last build to allow CS 0-10 without .osu editing
 
