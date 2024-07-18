@@ -13,6 +13,7 @@ This criteria may change in the future, due to increasing map requests and BAT m
 - **Make sure everything in the map is cleared in terms of [content usage permissions](https://osu.ppy.sh/wiki/Rules/Content_usage_permissions#artist-permissions).**
 - **Maps must be at least 30 seconds long.**
 - **Maps should end around the [80% mark](https://osu.ppy.sh/wiki/images/Ranking_criteria/Simplified_ranking_criteria/img/percent.png) or higher.** If you want to end the map earlier, try cutting the song.
+- **Maps must not use decimal settings. (i.e AR9.3 -> 9)
 
 ### Spread
 
@@ -22,19 +23,7 @@ This criteria may change in the future, due to increasing map requests and BAT m
   - **Exception:** The hardest difficulty can use a custom name, like Normal -> Hard -> *Melancholy*.
 - **Don't skip difficulties.** For example, if you have Normal and Insane difficulties, you need a Hard too.
 - **A [guest mapper](https://osu.ppy.sh/wiki/Beatmap/Guest_difficulty) can't create more difficulties than the [host](https://osu.ppy.sh/wiki/Beatmap/Beatmap_host).**
-- **Minimum requirement for lowest difficulty by mode and length:**
 
-| [Drain time](https://osu.ppy.sh/wiki/Beatmap/Drain_time) |  osu!  | osu!taiko  |
-|:---------------------------------------------------------|:------:|:----------:|
-| **0:30 to 3:30**                                         | Normal |   Futsuu   |
-| **3:30 to 4:15**                                         |  Hard  | Muzukashii |
-| **4:15 to 5:00**                                         | Insane |    Oni     |
-
-| [Drain time](https://osu.ppy.sh/wiki/Beatmap/Drain_time) | osu!catch | osu!mania |
-|:---------------------------------------------------------|:---------:|:---------:|
-| **0:30 to 2:30**                                         |   Salad   |  Normal   |
-| **2:30 to 3:15**                                         |  Platter  |   Hard    |
-| **3:15 to 4:00**                                         |   Rain    |  Insane   |
 
 ### Hitsounds
 
