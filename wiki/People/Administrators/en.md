@@ -1,6 +1,6 @@
-# Titanic Administators
+# Staff
 
-The people who manage and moderate Titanic 
+The people who manage, moderate and improve Titanic every day.
 
 <!-- This should probably have more to it however sending it as is for other people to give ideas towards  -->
 
