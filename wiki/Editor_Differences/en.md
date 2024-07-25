@@ -1,4 +1,5 @@
-﻿# Client Editor Differences - Written by Digitalfear117
+﻿# Client Editor Differences
+### Written by Digitalfear117
 
 This is a simple run down of what each version of the game expects for osu! beatmaps, and how they are generated. This will document any major changes between versions to the best of our ability. You can use the site to understand how to make existing maps work in older versions, or for choosing the best version for the map you want to make! 
 
