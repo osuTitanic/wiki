@@ -24,7 +24,7 @@ Members of the Beatmap Approval Team are responsible primarily for managing the 
 User | Specialization | Additional Languages Spoken | Added Date 
 ---|:---:|:---:|---
 [Adachi](https://osu.titanic.sh/u/39)           |                     | Italian                                     | Since the beginning
-[BlueChinchompa](https://osu.titanic.sh/u/40)   |                     |                                             | Since the beginning
+[BlueChinchompa](https://osu.titanic.sh/u/40)   |                     | Bosnian, Serbian, Croatian                  | Since the beginning
 [wrn81056](https://osu.titanic.sh/u/645)        |                     | French, Malaysian, Russian, German, Chinese | May 19th, 2024[^1] 
 [Digitalfear117](https://osu.titanic.sh/u/809)  | Beatmap File Expert |                                             | May 29th, 2024
 [Kurboh](https://osu.titanic.sh/u/810)          |                     | Croatian                                    | May 22nd, 2024[^3]
@@ -66,13 +66,14 @@ User | Time in BAT
 [Levi](https://osu.titanic.sh/u/2)   | Beginning -> May 19th, 2024
 [Spare](https://osu.titanic.sh/u/92) | December 17th, 2023 -> May 15th, 2024
 [Champ](https://osu.titanic.sh/u/96) | December 17th, 2023 -> May 15th, 2024
-<!--should we include fluxie? -->
+[Fluxie](https://osu.titanic.sh/u/517)[^6] | May 19th, 2024 -> June  6th, 2024
 
 
 ## History
 
-[Levi](https://osu.titanic.sh/u/2) removed himself from BAT as soon as new members showed up to focus more on developing Titanic.
-
+[Levi](https://osu.titanic.sh/u/2) Removed himself from BAT as soon as new members showed up to focus more on developing Titanic.
+[Fluxie](https://osu.titanic.sh/u/517) Got annoyed from being pinged and left.
+[Spare](https://osu.titanic.sh/u/92) and [Champ](https://osu.titanic.sh/u/96) Kicked due to inactivity.
 
 ## Notes
 [^1]: https://discord.com/channels/1152925764262580236/1152925765566988341/1241727343983198270
@@ -80,5 +81,6 @@ User | Time in BAT
 [^3]: https://discord.com/channels/1152925764262580236/1152925765566988341/1242819755241635880
 [^4]: https://discord.com/channels/1152925764262580236/1152925765566988341/1251193374438854706
 [^5]: https://osu.titanic.sh/forum/20/t/472/
+[^6]: https://discord.com/channels/1152925764262580236/1152925765566988341/1241727343983198270
 
 <!-- I used https://web.archive.org/web/20120614084710/http://osu.ppy.sh/wiki/Beatmap_Appreciation_Team as a base and has a fair amount more information, if it's too much information some of it can be removed but it's nice to know imo -Nikku-->
