@@ -428,26 +428,26 @@ This is the .osu version for all maps made on lazer. Inside lazer you can export
 
 This is my modded mapping client that offers many additional features for mappers to use. 
 
-## Slider curve type swapping
+## slider curve type swapping
 
 Just like older clients, you can press A, S, or D to change slider curve types. Unlike old clients you can also press F to change to perfect curves too! This is the first client that you can easily choose any slider curve type.
 
-## Expanded beat snap divisor and distance snap
+## expanded beat snap divisor and distance snap
 
 Using the Unhinged Slider Curve Type, and Unhinged Beat Snap Divisor options in the editor, you can use DS from 0.1x to 16x, and you can map from any beat snap 1/1 to 1/32. These features do also fully work when exported to stable or lazer, so get crazy with it!
 
-## Fixed sv decimal rounding
+## fixed sv decimal rounding
 
 For some reason this version of osu! would round sv's like 0.95 to 1.00. This has been fixed in my client
 
-## Decimal difficulty settings
+## decimal difficulty settings
 
 You cannot use AR's such as 9.5 when uploading maps to titanic. They must be whole numbers. However, if you wish to map for stable or lazer, you can enable this in Compose. Using decimal difficulty settings will save the map as a .osu v13 instead of a v12.
 
-## Taiko and CtB Editors
+## taiko and catch the beat editors
 
 Although modern stable doesn't seem to offer much for Taiko and CtB mapping, they do actually have a few more features. For CtB distance calculation only changes when you move something in the X coordinate, and for Taiko you can actually see the color of the don and kats based on NC's. This is a WIP feature that me and Nikku are currently working on.
 
-## Uploading older .osu formats
+## uploading older .osu formats
 
 All other osu clients force update your .osu file to the version they are built around, however my client is different. You can import your map from another client, and go directly to the upload button. It will ask you if you want to force save, and you can hit No. Doing this will skip the saving process, allowing you to upload any map from any client in a pure fashion! Try this for uploading .osu v9's and earlier, and .osu v128's!
