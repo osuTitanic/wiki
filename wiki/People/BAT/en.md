@@ -23,18 +23,18 @@ Members of the Beatmap Approval Team are responsible primarily for managing the 
 
 User | Specialization | Additional Languages Spoken | Added Date 
 ---|:---:|:---:|---
-[Adachi](https://osu.titanic.sh/u/39)           |               | Italian                                     | Since the beginning
-[BlueChinchompa](https://osu.titanic.sh/u/40)   |               |                                             | Since the beginning
-[wrn81056](https://osu.titanic.sh/u/645)        |               | French, Malaysian, Russian, German, Chinese | May 19th, 2024[^1] 
-[Digitalfear117](https://osu.titanic.sh/u/809)  | .osu mapping  |                                             | May 29th, 2024
-[Kurboh](https://osu.titanic.sh/u/810)          |               | Croatian                                    | May 22nd, 2024[^3]
-[Nikku](https://osu.titanic.sh/u/811)           | Storyboarding |                                             | May 19th, 2024[^1]
-[-Ady](https://osu.titanic.sh/u/821)            |               |                                             | May 19th, 2024[^1]
-[Oposh](https://osu.titanic.sh/u/829)           |               | Polish                                      | May 19th, 2024[^1]
-[Cartman](https://osu.titanic.sh/u/857)         |               | Tagalog                                     | May 20th, 2024[^2]
-[iSlodinx](https://osu.titanic.sh/u/869)        |               | Serbian, Croatian, Bosnian, some Macedonian | May 29th, 2024
-[arutama](https://osu.titanic.sh/u/905)         |               | Indonesian                                  | June 14th, 2024[^4] 
-[Ignacio](https://osu.titanic.sh/u/943)         |               | Spanish                                     | July 15th, 2024[^5]
+[Adachi](https://osu.titanic.sh/u/39)           |                     | Italian                                     | Since the beginning
+[BlueChinchompa](https://osu.titanic.sh/u/40)   |                     |                                             | Since the beginning
+[wrn81056](https://osu.titanic.sh/u/645)        |                     | French, Malaysian, Russian, German, Chinese | May 19th, 2024[^1] 
+[Digitalfear117](https://osu.titanic.sh/u/809)  | Beatmap File Expert |                                             | May 29th, 2024
+[Kurboh](https://osu.titanic.sh/u/810)          |                     | Croatian                                    | May 22nd, 2024[^3]
+[Nikku](https://osu.titanic.sh/u/811)           | Storyboarding       |                                             | May 19th, 2024[^1]
+[-Ady](https://osu.titanic.sh/u/821)            |                     |                                             | May 19th, 2024[^1]
+[Oposh](https://osu.titanic.sh/u/829)           |                     | Polish                                      | May 19th, 2024[^1]
+[Cartman](https://osu.titanic.sh/u/857)         |                     | Tagalog                                     | May 20th, 2024[^2]
+[iSlodinx](https://osu.titanic.sh/u/869)        |                     | Serbian, Croatian, Bosnian, some Macedonian | May 29th, 2024
+[arutama](https://osu.titanic.sh/u/905)         |                     | Indonesian                                  | June 14th, 2024[^4] 
+[Ignacio](https://osu.titanic.sh/u/943)         |                     | Spanish                                     | July 15th, 2024[^5]
 
 
 ### Taiko Team Members
