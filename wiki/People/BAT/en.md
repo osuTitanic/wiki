@@ -16,7 +16,7 @@ Members of the Beatmap Approval Team are responsible primarily for managing the 
 
 ## Current Members
 
-*Please note: All BAT speak English unless otherwise noted.*
+*Please note: All BAT members speak English unless otherwise noted.*
 
 
 ### Standard Team Members
