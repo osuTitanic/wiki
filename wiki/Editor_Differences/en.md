@@ -385,6 +385,8 @@ Quality of life change, these are now saved to the .osu, so you can see what set
 
 # b1077a to b1218 (v6)
 
+.osu v6 fixed an issue with stacking over spinners that existed in .osu v5's. Bugs like this are maintained in gameplay, but are not visible in the editor
+
 # b1533 (v7)
 
 This is the only build that we have the creates .osu v7's
@@ -393,12 +395,59 @@ This is the only build that we have the creates .osu v7's
 
 # b1700 to b20120916 (v9)
 
+Peppy decided to wage war on all the older slider curve types. .osu v9's contain only bezier sliders. Linear sliders are recreated through red anchors or 2 point beziers, catmulls and linears are no longer selectable using the slider curve type hotkeys. Any slider curves your map has when you open them in these clients will be maintained, but if you try adding any new points to any old slider it becomes a bezier.
+
 # b20121003shine.test to b20121203 (v10)
 
-This version .osu didn't even last 3 months!
+This version .osu didn't even last 3 months! This version also introduced romanized artist and song fields, and is the first .osu version to save the BeatmapID and BeatmapsetID fields directly in the .osu file.
+
+## b20121008 osz2
+
+This is the very first release version of osu! that uploads maps as osz2's. The important part about this feature, is only clients with osz2 support can currently upload maps on titanic. So if you want to upload your maps, this is the version version you can use!
 
 # b20121223 (v11)
 
-This is the only build we have that creates .osu v11's
+This is the only build we have that creates .osu v11's. There are a few version of osu! that saves every slider as perfect curve sliders, you can see this in maps like this one: https://osu.ppy.sh/beatmapsets/66346#osu/193641. This is very similar to what .osu v9's did with bezier sliders, however at some point in this iteration it got switched to the way we all know today. 2 point sliders are always saved linear, 3 points as perfect curves, 4 points or more as bezier. This is how osu! reads the maps that claim every slider is a perfect curve, so may as well just save it like this so it's easier to parse the .osu file.
 
-# b20130303 to ? (v12)
+# b20130303 to mid 2014 (v12)
+
+
+# mid 2014 to mid 2015 (v13)
+
+This build adds the ability to add decimal difficulty values to maps! At the time this got added you could only do .5 increments, but this would later be changed to support .1 increments. However, do note that decimal difficulty settings are against the ranking criteria on titanic! Do not upload maps with AR 9.5 for example.
+
+# mid 2015 to now (v14)
+
+This build added a feature for CtB. It has to do with sliders, and I can't remember what it is now. Will check later
+
+# Late 2018 to now (v128)
+
+This is the .osu version for all maps made on lazer. Inside lazer you can export maps in compatiblity mode (osz) for editing on stable, or you can save in the lazer format (olz) for editing on lazer. As of the time of me writing this (7-25-2024), there has never been a 100% pure .osu v128 ranked, as all lazer maps ranked on Bancho, or Titanic have been updated on stable during the ranking process, bringing the .osu version back to v14. However, using my modded client you can actually upload the map as a pure .osu v128, so if you are feeling adventurous you could be the very first one to do so!
+
+# b20130303 Digital Client++
+
+This is my modded mapping client that offers many additional features for mappers to use. 
+
+## Slider curve type swapping
+
+Just like older clients, you can press A, S, or D to change slider curve types. Unlike old clients you can also press F to change to perfect curves too! This is the first client that you can easily choose any slider curve type.
+
+## Expanded beat snap divisor and distance snap
+
+Using the Unhinged Slider Curve Type, and Unhinged Beat Snap Divisor options in the editor, you can use DS from 0.1x to 16x, and you can map from any beat snap 1/1 to 1/32. These features do also fully work when exported to stable or lazer, so get crazy with it!
+
+## Fixed sv decimal rounding
+
+For some reason this version of osu! would round sv's like 0.95 to 1.00. This has been fixed in my client
+
+## Decimal difficulty settings
+
+You cannot use AR's such as 9.5 when uploading maps to titanic. They must be whole numbers. However, if you wish to map for stable or lazer, you can enable this in Compose. Using decimal difficulty settings will save the map as a .osu v13 instead of a v12.
+
+## Taiko and CtB Editors
+
+Although modern stable doesn't seem to offer much for Taiko and CtB mapping, they do actually have a few more features. For CtB distance calculation only changes when you move something in the X coordinate, and for Taiko you can actually see the color of the don and kats based on NC's. This is a WIP feature that me and Nikku are currently working on.
+
+## Uploading older .osu formats
+
+All other osu clients force update your .osu file to the version they are built around, however my client is different. You can import your map from another client, and go directly to the upload button. It will ask you if you want to force save, and you can hit No. Doing this will skip the saving process, allowing you to upload any map from any client in a pure fashion! Try this for uploading .osu v9's and earlier, and .osu v128's!
