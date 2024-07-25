@@ -403,7 +403,7 @@ This version .osu didn't even last 3 months! This version also introduced romani
 
 ## b20121008 osz2
 
-This is the very first release version of osu! that uploads maps as osz2's. The important part about this feature, is only clients with osz2 support can currently upload maps on titanic. So if you want to upload your maps, this is the version version you can use!
+This is the very first release version of osu! that uploads maps as osz2's. The important part about this feature, is only clients with osz2 support can currently upload maps on titanic. So if you want to upload your maps, this is the first version you can use!
 
 # b20121223 (v11)
 
