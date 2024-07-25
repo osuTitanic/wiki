@@ -427,7 +427,7 @@ This is the .osu version for all maps made on lazer. Inside lazer you can export
 
 # b20130303 Digital Client++
 
-This is my modded mapping client that offers many additional features for mappers to use. 
+This a modded mapping client made by Digitalfear117, with help from Nikku, Tree, and Levi! This offers many legacy and stable features for mappers to use, and a few extra new ones as well.
 
 ## slider curve type swapping
 
