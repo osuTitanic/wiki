@@ -6,6 +6,10 @@ Hi, I'm Digitalfear117 and I like old editors. It is my hope that users of titan
 
 I have omitted some versions from this list if I could not find any significant changes to the editor within them. If I have missed something feel free to reach out to me, or contribute to this so this page!
 
+### Uploading maps on titanic
+
+As of the time of me writing this, BSS has just been released on titanic! However, during the development of osu!, uploading maps changed drastically. Right now titanic only supports clients that can upload osz2 formatted maps. That means you can use b20121003shine.test and later for uploading maps! If you want to upload maps from an older client, I recommend you use my b20130303 modded client, as you have the option to bypass updating the map before upload. If you use any other client to upload your map made on an older client, it will update things and break compatibility with the old client you originally mapped it on!
+
 # Pre-release osu! versions (v1)
 
 Some versions of osu! exist that predate the games official public beta. A lot of the earliest maps in the game were made during this pre-release era and were updated by peppy to .osu v3 and ranked.
@@ -423,6 +427,7 @@ This is a change that peppy has flip flopped on many times. In modern stable thi
 Compared to previous .osu firmat updates, this brings many new features to the format!
 
 ## b20121003shine.test mania editor
+![b20121003shine.test mania editor](https://github.com/user-attachments/assets/2cc8b95a-ae3b-4693-948d-eda2a979bf9f)
 
 This is the very first version that supports mania! It has some differences compared to modern. This veraion of the game uses a very basic column grid with normal hitobjects. This gives a great view of how mania maps are acrually stored in the .osu file. The playfield is divided into how many columns the map has (based on circle size). Sliders are used for LN's, the modern "Hold Note" button does not exist yet.
 
@@ -444,7 +449,7 @@ This is important, as tools such as Mapset Verifier check to make sure these tag
 
 This is the actual reason for peppy incrementing the format to v10. This is the second time a .osu incrememnt happened due to issues with Bezier sliders lol
 
-## b20121008 osz2
+## b20121003shine.test osz2
 
 This is the very first release version of osu! that uploads maps as osz2's. The important part about this feature, is only clients with osz2 support can currently upload maps on titanic. So if you want to upload your maps, this is the first version you can use!
 
