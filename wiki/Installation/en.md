@@ -2,7 +2,7 @@
 
 To begin playing on Titanic! you can head over to the [downloads page](https://osu.titanic.sh/download/) and pick any client from as old as 2007 up to 2014.
 
-![image](https://github.com/user-attachments/assets/260d6df7-966a-4bef-aa6a-3f77c82553fd)
+<img src="img/BuildDownload.png">
 
 After it finishes installing, all you have to do is extract the folder and double-click `osu!.exe`.
 
@@ -12,25 +12,23 @@ There is a chance that Windows Defender may block it, since the game is unsigned
 
 To register an account you can go to the [registration page](https://osu.titanic.sh/account/register) by clicking on "I'm New!" (**Remember you are only allowed to have *ONE* account EVER!**)
 
-![image](https://github.com/user-attachments/assets/7308ccca-6d55-49c6-bdd9-60f1af7be306)
+<img src="img/NewUser.png">
 
 After you create your account you will be prompted to verify your email:
 
-![image](https://github.com/user-attachments/assets/a0e8edb5-fa02-4d7e-80c1-f5fef038c268)
+<img src="img/Verification.png">
 
 ## Discord Bot
 
 If you want to use the bot on our [Discord](https://discord.gg/3VeNPgDUrK) all you have to do is type `!link <username>` and you will be sent a verification code in-game.
 
-![image](https://github.com/user-attachments/assets/bb9fbc6f-161a-445e-8196-8642ba1758ce)
+<img src="img/Link-Start.png">
 
-![image](https://github.com/user-attachments/assets/8823f09c-75d3-4922-af62-e8bdd60d4cd3)
+<img src="img/Link-ingame.png">
 
-![image](https://github.com/user-attachments/assets/0eaf79f2-a236-4711-97fd-2f66598ceb54)
-
+<img src="img/Link-Finished.png">
 
 ## Linux Installation
-
 
 ### Step 1: Prerequisites
 
