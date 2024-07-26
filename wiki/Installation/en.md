@@ -40,10 +40,9 @@ Fedora: `sudo dnf install -y git`
 
 **Install Lutris**
 
-Ubuntu/Debian: https://github.com/lutris/lutris/releases // Get the .deb package from here!                                                                
+Ubuntu/Debian: https://github.com/lutris/lutris/releases (Get the .deb package from here)
 Arch Linux: `sudo pacman -S lutris`                                                                                                                        
 Fedora: `sudo dnf install lutris`
-
 Flatpak: `flatpak install flathub net.lutris.Lutris`
 
 **Install needed drivers**
