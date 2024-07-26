@@ -55,7 +55,7 @@ https://github.com/lutris/docs/blob/master/InstallingDrivers.md
 Pipewire performs much better on osu! than Pulseaudio, you can install it by following:
 https://github.com/NelloKudo/osu-winello/wiki/Installing-PipeWire
 
-### Step 2: Installation of osu-winello osu! stable client (in order to get his tweaks)
+### Step 2: Installation of osu-winello
 
 `git clone https://github.com/NelloKudo/osu-winello.git`                                                                                                       
 `cd osu-winello`                                                                                                                                          
