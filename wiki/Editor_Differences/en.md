@@ -434,10 +434,12 @@ This is the very first version that supports mania! It has some differences comp
 Mania was so experimental during the time of this format, that maps were not allowed to be ranked during this .osu version on Bancho. All Mania maps that weremade during this time were updated alongside the editor improving.
 
 ## b20121003shine.test sampleset additions
+![b20121003shine.test SamepleSet Additions](https://github.com/user-attachments/assets/d831e732-de2c-4218-afbc-e347e072b28a)
 
 This greatly expands hitsounding, you can add the soft, normal, drum versions of any hitsound on top of the original sampleset's hitsound, creating much more depth. 
 
 ## b20121003shine.test romanized artist and song fields 
+![b20121003shine.test Song Setup](https://github.com/user-attachments/assets/5e29401b-6933-4cfa-afe0-4f92edbaa12a)
 
 Finally you use the original language for the artist and song name and English as well. This is an important feature on Bancho, if the artist's name is written in another language on Bancho, you must use both fields as per the ranking criteria. Take the Japanese artist monet, her name is always written in English, so only the normal field is needed. This is not an enforced rule of titanic though.
 
