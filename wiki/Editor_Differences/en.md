@@ -500,7 +500,7 @@ You cannot use AR's such as 9.5 when uploading maps to titanic. They must be who
 
 ## taiko and catch the beat editors
 
-Although modern stable doesn't seem to offer much for Taiko and CtB mapping, they do actually have a few more features. For CtB distance calculation only changes when you move something in the X coordinate, and for Taiko you can actually see the color of the don and kats based on NC's. This is a WIP feature that me and Nikku are currently working on.
+Although modern stable doesn't seem to offer much for Taiko and CtB mapping, they do actually have a few more features. For CtB distance calculation only changes when you move something in the X coordinate, and for Taiko you can actually see the color of the don and kats based on NC's.
 
 ## uploading older .osu formats
 
