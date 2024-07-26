@@ -143,7 +143,7 @@ Now from here you can launch osu! and enjoy
 You may have to apply the tweaks listed here
 https://github.com/NelloKudo/osu-winello/wiki/Wayland-support
 
-If you have any issues do not be afraid to ask in the [Titanic discord](https://discord.gg/qupv72e7YH) or in the [website forums](https://osu.titanic.sh/forum/).
+If you have any issues do not be afraid to ask in the [Titanic Discord](https://discord.gg/qupv72e7YH) or in the [support forum](https://osu.titanic.sh/forum/7).
 
 
 
