@@ -1,14 +1,14 @@
 ﻿# Client Editor Differences
+
 ### Written by Digitalfear117
 
-This is a simple run down of what each version of the game expects for osu! beatmaps, and how they are generated. This will document any major changes between versions to the best of our ability. You can use the site to understand how to make existing maps work in older versions, or for choosing the best version for the map you want to make! 
+Hi, I'm Digitalfear117, and I like old editors. It is my hope that users of titanic will be able to map and rank songs using any of the available versions of osu! This guide goes over features in chronological order of being added. It also explains how the .osu file format works, and what the values do. Hopefully by the end of this page you can understand how to make modern maps work in older clients, and can choose the best client for making your maps! 
 
-I have omitted some versions from this list if I could not find any significant changes to the editor within them. If I have missed something feel free to reach out to me so this wiki page can be updated!
-
+I have omitted some versions from this list if I could not find any significant changes to the editor within them. If I have missed something feel free to reach out to me, or contribute to this so this page!
 
 # Pre-release osu! versions (v1)
 
-Some versions of osu! exist that predate the games official public beta. 
+Some versions of osu! exist that predate the games official public beta. A lot of the earliest maps in the game were made during this pre-release era and were updated by peppy to .osu v3 and ranked.
 
 ## 07-27-2007
 
@@ -43,15 +43,15 @@ CUSTOMX 1
 
 # Pre-release osu! versions (v2)
 
-This version is significantly more usable then the other pre-release versions. As of right now we only have one version that produces .osu v2's.
+This version of the game is significantly more usable then the other pre-release versions. As of right now we only have one client that produces .osu v2's.
 
 ## 09-08-2007
 
-This is the first version that can make actual maps. This version has far more of the information needed to be a readable map in modern osu! Headers for splitting up the data have been implemented. SPEEDX and CUSTOMX have been renamed, the audio hash is now included within the .osu file, and you can now place bezier sliders in addition to linear sliders. Notice how there is no way to change difficulty settings. Also there is no way to name a difficulty yet. 
+This version has far more of the information needed to be a readable map in modern osu!. Headers for splitting up the data have been implemented. SPEEDX and CUSTOMX have been renamed, the audio hash is now included within the .osu file, and you can now place bezier sliders in addition to linear sliders. Notice how there is no way to change difficulty settings. Also there is no way to name a difficulty yet. 
 
 I recommend you continue to use the same folder name and file name structure as the previous version though. This explains why some of the earliest beatmaps are all just "default" settings, users didn't have choice yet. 
 
-It's possible some .osu v2's got updated by peppy to .osu v3 and ranked. There are no ranked .osu v2's, v3's are the first official version.
+There are no ranked .osu v2's, v3's are the first official version.
 
 Here is the .osu format for this version:
 
@@ -386,21 +386,63 @@ Quality of life change, these are now saved to the .osu, so you can see what set
 
 # b1077a to b1218 (v6)
 
-.osu v6 fixed an issue with stacking over spinners that existed in .osu v5's. Bugs like this are maintained in gameplay, but are not visible in the editor
+.osu v6 fixed an issue with stacking objects over spinners and animation speeds in storyboards that existed in .osu v5's. Bugs like this are maintained for compatibility in gameplay, but are not visible in the editor. The editor updates the map to the most recent format when you open it (this is why you get prompted to update old maps if you simply just open them and do nothing, and then exit)
 
 # b1533 (v7)
 
-This is the only build that we have the creates .osu v7's
+This is the only build that we have the creates .osu v7's. This fixed a calculation issue with multipart bezier sliders.
 
 # b1652 to b1672 (v8)
 
+According to documentation, 3 changes were made with v8. 
+
+## mm additions
+
+Constant sliderticks-per-beat are now generated
+
+## HP drain near breaks
+
+I don't know if it was made harder or easier. No one cares exactly how HP works, so this kind of stuff never gets fully documented.
+
+## taiko triple drumrolls
+
+It's not clear if they were added, or fixed in this version.
+
 # b1700 to b20120916 (v9)
+
+## b1700 only bezier sliders
 
 Peppy decided to wage war on all the older slider curve types. .osu v9's contain only bezier sliders. Linear sliders are recreated through red anchors or 2 point beziers, catmulls and linears are no longer selectable using the slider curve type hotkeys. Any slider curves your map has when you open them in these clients will be maintained, but if you try adding any new points to any old slider it becomes a bezier.
 
+## b1700 spinner new combos are no longer enforced
+
+This is a change that peppy has flip flopped on many times. In modern stable this is actually enforced again, but on modern lazer it isn't. Older versions had it not enforced, then it became enforced.
+
 # b20121003shine.test to b20121203 (v10)
 
-This version .osu didn't even last 3 months! This version also introduced romanized artist and song fields, and is the first .osu version to save the BeatmapID and BeatmapsetID fields directly in the .osu file.
+Compared to previous .osu firmat updates, this brings many new features to the format!
+
+## b20121003shine.test mania editor
+
+This is the very first version that supports mania! It has some differences compared to modern. This veraion of the game uses a very basic column grid with normal hitobjects. This gives a great view of how mania maps are acrually stored in the .osu file. The playfield is divided into how many columns the map has (based on circle size). Sliders are used for LN's, the modern "Hold Note" button does not exist yet.
+
+Mania was so experimental during the time of this format, that maps were not allowed to be ranked during this .osu version on Bancho. All Mania maps that weremade during this time were updated alongside the editor improving.
+
+## b20121003shine.test sampleset additions
+
+This greatly expands hitsounding, you can add the soft, normal, drum versions of any hitsound on top of the original sampleset's hitsound, creating much more depth. 
+
+## b20121003shine.test romanized artist and song fields 
+
+Finally you use the original language for the artist and song name and English as well. This is an important feature on Bancho, if the artist's name is written in another language on Bancho, you must use both fields as per the ranking criteria. Take the Japanese artist monet, her name is always written in English, so only the normal field is needed. This is not an enforced rule of titanic though.
+
+## b20121003shine.test BeatmapID and BeatmapsetID saved directly to the .osu file. 
+
+This is important, as tools such as Mapset Verifier check to make sure these tags are there, and therefore are an unspoken requirement to the Ranking Criteria on Bancho. Titanic does jot force this though.
+
+## b20121003shine.test fixed each bezier sliders part being 1/50 second too short
+
+This is the actual reason for peppy incrementing the format to v10. This is the second time a .osu incrememnt happened due to issues with Bezier sliders lol
 
 ## b20121008 osz2
 
@@ -408,10 +450,21 @@ This is the very first release version of osu! that uploads maps as osz2's. The 
 
 # b20121223 (v11)
 
-This is the only build we have that creates .osu v11's. There are a few version of osu! that saves every slider as perfect curve sliders, you can see this in maps like this one: https://osu.ppy.sh/beatmapsets/66346#osu/193641. This is very similar to what .osu v9's did with bezier sliders, however at some point in this iteration it got switched to the way we all know today. 2 point sliders are always saved linear, 3 points as perfect curves, 4 points or more as bezier. This is how osu! reads the maps that claim every slider is a perfect curve, so may as well just save it like this so it's easier to parse the .osu file.
+This is the only build we have that creates .osu v11's. 
+
+## "only" perfect curve sliders
+
+There are a few version of osu! that saves every slider as perfect curve sliders, you can see this in maps like this one: https://osu.ppy.sh/beatmapsets/66346#osu/193641. This is very similar to what .osu v9 and v10 did with bezier sliders. 
+
+## linear, perfect curve, bezier slider saving in .osu file
+
+At some point it got switched to the way we all know today. Honestly I'm not even sure if this is a v12 change or a v11 change yet. 
+
+2 point sliders are always saved linear, 3 points as perfect curves, 4 points or more as bezier. This is how osu! reads the maps that claim every slider is a perfect curve, so may as well just save it like this so it's easier to parse the .osu file.
 
 # b20130303 to mid 2014 (v12)
 
+I have no idea what this added
 
 # mid 2014 to mid 2015 (v13)
 
@@ -419,7 +472,7 @@ This build adds the ability to add decimal difficulty values to maps! At the tim
 
 # mid 2015 to now (v14)
 
-This build added a feature for CtB. It has to do with sliders, and I can't remember what it is now. Will check later
+This versions adds per node sampleset changes to sliders (or juice streams) for Catch the Beat. I'm a CtB and I don't even know what this means, and I have no idea if anyone uses this to be honest.
 
 # Late 2018 to now (v128)
 
