@@ -1,4 +1,4 @@
-# Staff
+# Administracja
 
 Ludzie którzy zarządzają, moderują i ulepszają titanic'a każdego dnia.
 

@@ -1,4 +1,4 @@
-# Installation
+# Instalacja
 
 Aby zacząć gre na Titanic'u! przejdź na stronie [pobierania clientów](https://osu.titanic.sh/download/) I wybierz dowolną wersje od 2007 roku aż do 2014
 
