@@ -12,7 +12,7 @@ To get started you can take a look at the [[installation guide]] or just go to t
 
 ## How do I find beatmaps?
 
-You can download beatmaps via osu! Direct or on the [beatmaps page](https://osu.titanic.sh/beatmapsets/) on the website. Downloading maps from the offical osu! website works as well.
+You can download beatmaps via osu!direct or on the [beatmaps page](https://osu.titanic.sh/beatmapsets/) on the website. Downloading maps from the official osu! website works as well.
 
 ## My game is feeling slow/laggy, how can I fix that?
 
