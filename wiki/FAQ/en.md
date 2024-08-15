@@ -33,5 +33,5 @@ You have two options for this. Either submit one from the editor in-game, or req
 
 ## Where can I report bugs or suggest features?
 
-You can suggest features in the the [Feature Requests](https://osu.titanic.sh/forum/6) page on the forums.
+You can suggest features in the [Feature Requests](https://osu.titanic.sh/forum/6) page on the forums.
 To report bugs you will also need to go to the [Bug Reports](https://osu.titanic.sh/forum/18) page on the forums.
