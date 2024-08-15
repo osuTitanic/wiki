@@ -16,7 +16,7 @@ You can download beatmaps via osu! Direct or on the [beatmaps page](https://osu.
 
 ## My game is feeling slow/laggy, how can I fix that?
 
-Many players sadly face this issue and most often it can be fixed by setting the RefreshRate value in the osu!.yourname.cfg file, to your monitors refresh rate. If you are still experiencing issues, please try to mess around with the graphics & fps settings, until it feels right!
+Many players sadly face this issue and most often it can be fixed by setting the `RefreshRate` value in the `osu!.yourname.cfg` file, to your monitors refresh rate. If you are still experiencing issues, please try to mess around with the graphics & fps settings, until it feels right! Other versions of the game might also give you a better or worse experience.
 
 ## Will RX/AP scores be submitted?
 
