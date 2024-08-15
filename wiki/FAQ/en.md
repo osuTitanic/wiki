@@ -20,7 +20,7 @@ Many players sadly face this issue and most often it can be fixed by setting the
 
 ## Will RX/AP scores be submitted?
 
-Yes we support Relax and AutoPilot submittion. We currently do not have seperate leaderboards for these at the moment. They do give PP and score but not as much compared to vanillia to keep things fair.
+Yes, we do support Relax and Autopilot submission, with one noticeable difference to other servers: Ranks for Vanilla, Relax and Autopilot are merged together, since they do give PP and score, but not as much compared to Vanilla to keep things fair.
 
 ## What PP system is this?
 
