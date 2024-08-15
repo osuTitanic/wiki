@@ -10,7 +10,7 @@ Titanic! is a private server for [osu!](https://osu.ppy.sh), that was designed t
 
 To get started you can take a look at the [[installation guide]] or just go to the [downloads page](https://osu.titanic.sh/download/) on our website.
 
-## How can I get beatmaps.
+## How do I find beatmaps?
 
 You can download beatmaps via osu! Direct or on the [beatmaps page](https://osu.titanic.sh/beatmapsets/) on the website. Downloading maps from the offical osu! website works as well.
 
