@@ -29,7 +29,7 @@ We also have a ["ppv1" recreation](https://osu.titanic.sh/rankings/osu/ppv1), wh
 
 ## How can I submit a beatmap?
 
-You have two options for this. Either submit one from the editor in-game, or request a map from osu.ppy.sh on the [map requests](https://osu.titanic.sh/forum/11) page on the fourms.
+There's two options for this. Either submit one from the editor in-game, or request a map from the official osu! [beatmap listing](https://osu.ppy.sh/beatmapsets) to the [Map Requests](https://osu.titanic.sh/forum/11) page on the forums.
 
 ## Where can I report bugs or suggest features?
 
