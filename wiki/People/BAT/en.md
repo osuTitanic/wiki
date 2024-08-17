@@ -29,7 +29,6 @@ User | Specialization | Additional Languages Spoken | Added Date
 [Digitalfear117](https://osu.titanic.sh/u/809)  | Beatmap File Expert |                                             | May 29th, 2024
 [Kurboh](https://osu.titanic.sh/u/810)          |                     | Croatian                                    | May 22nd, 2024[^3]
 [Nikku](https://osu.titanic.sh/u/811)           | Storyboarding       |                                             | May 19th, 2024[^1]
-[-Ady](https://osu.titanic.sh/u/821)            |                     |                                             | May 19th, 2024[^1]
 [Oposh](https://osu.titanic.sh/u/829)           |                     | Polish                                      | May 19th, 2024[^1]
 [Cartman](https://osu.titanic.sh/u/857)         |                     | Tagalog                                     | May 20th, 2024[^2]
 [iSlodinx](https://osu.titanic.sh/u/869)        |                     | Serbian, Croatian, Bosnian, some Macedonian | May 29th, 2024
@@ -66,7 +65,8 @@ User | Time in BAT
 [Levi](https://osu.titanic.sh/u/2)   | Beginning -> May 19th, 2024
 [Spare](https://osu.titanic.sh/u/92) | December 17th, 2023 -> May 15th, 2024
 [Champ](https://osu.titanic.sh/u/96) | December 17th, 2023 -> May 15th, 2024
-[Fluxie](https://osu.titanic.sh/u/517) | May 19th, 2024[^1] -> June  6th, 2024
+[fluxie31](https://osu.titanic.sh/u/517) | May 19th, 2024[^1] -> June 6th, 2024
+[-Ady](https://osu.titanic.sh/u/821) | May 19th, 2024[^1] - > August 13th, 2024
 
 
 ## History
