@@ -62,16 +62,18 @@ User | Specialization | Additional Languages Spoken | Added Date
 
 User | Time in BAT
 ---|:---:
-[Levi](https://osu.titanic.sh/u/2)   | Beginning -> May 19th, 2024
+[Levi](https://osu.titanic.sh/u/2)   | Since the beginning -> May 19th, 2024
 [Spare](https://osu.titanic.sh/u/92) | December 17th, 2023 -> May 15th, 2024
 [Champ](https://osu.titanic.sh/u/96) | December 17th, 2023 -> May 15th, 2024
 [fluxie31](https://osu.titanic.sh/u/517) | May 19th, 2024[^1] -> June 6th, 2024
 [-Ady](https://osu.titanic.sh/u/821) | May 19th, 2024[^1] - > August 13th, 2024
+[Adachi](https://osu.titanic.sh/u/39) | Since the beginning -> September 7th, 2024
 
 
 ## History
 
 [Levi](https://osu.titanic.sh/u/2) Removed himself from BAT as soon as new members showed up to focus more on developing Titanic.
+[Adachi](https://osu.titanic.sh/u/39) Removed himself from BAT due to inactivity for the past 6 months.
 
 
 ## Notes
