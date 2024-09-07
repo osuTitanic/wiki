@@ -9,10 +9,10 @@ The people who manage, moderate and improve Titanic every day.
 
 User | Role
 ---|:---:
-[Levi](https://osu.titanic.sh/u/2)             | Titanic lead developer and project manager
-[Adachi](https://osu.titanic.sh/u/39)          | Community manager and pp developer
-[BlueChinchompa](https://osu.titanic.sh/u/40)  | Media manager
-[Meru](https://osu.titanic.sh/u/41)            | Global moderator <!-- Should get moved to it's own if we ever get a decent quantity of GMTs until then it'll be in here -->
+[Levi](https://osu.titanic.sh/u/2)             | Titanic Lead Developer and Project Manager
+[Adachi](https://osu.titanic.sh/u/39)          | Community Manager and PP Developer
+[BlueChinchompa](https://osu.titanic.sh/u/40)  | Media Manager
+[Meru](https://osu.titanic.sh/u/41)            | Global Moderator <!-- Should get moved to it's own if we ever get a decent quantity of GMTs until then it'll be in here -->
 
 
 
