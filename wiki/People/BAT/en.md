@@ -73,6 +73,7 @@ User | Time in BAT
 ## History
 
 [Levi](https://osu.titanic.sh/u/2) Removed himself from BAT as soon as new members showed up to focus more on developing Titanic.
+
 [Adachi](https://osu.titanic.sh/u/39) Removed himself from BAT due to inactivity for the past 6 months.
 
 
