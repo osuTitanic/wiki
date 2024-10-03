@@ -37,7 +37,7 @@ This criteria may change in the future, due to increasing map requests and BAT m
 - **Do not change timing to adjust slider velocity.**
 - **Objects must be snapped to timeline ticks.**
 - **Only one object is allowed per tick,** excluding osu!mania maps.
-- **Manual lead in time must be added to ensure the first object starts after 2000ms**
+- **Manual lead in time must be added to ensure the first object starts after 1500ms**
 
 ## Metadata
 
