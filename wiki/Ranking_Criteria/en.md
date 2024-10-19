@@ -31,9 +31,7 @@ This criteria may change in the future, due to increasing map requests and BAT m
   - ![Example of Slider Curve Types](https://github.com/user-attachments/assets/ac50d9f8-ceb2-4fbe-9420-9cd1eba9de60)
   - These sliders get converted to the Catmull curve type on older clients. This causes slider shapes to differ greatly, creating gameplay differences on those clients. To avoid this issue we highly encourage mapper s to use any of the other curve types. In the image above you can see how identical slider skeleton lines create completely different slider paths on each curve type.
   - **Exception:** Perfect Curve sliders with extremely small amounts of curve will generally convert fine, but for safety we recommend not using them.
-  - In order to avoid using Perfect Curve sliders on b20121106 or later, you can make sliders that have more or less than 3 total control points. Alternatively, adding a red anchor to any slider will force it to switch to the Bezier curve type.
-  - If you would like to see what slider curve type your slider is, you can use [Digitalfear117's modded b20130303 client](https://osu.titanic.sh/forum/23/t/560/), or you can view the map in lazer. Both of these clients allow you to easily change the slider curve type on the fly.
-  - You can also map in an older client such as b20121003shine.test, but remember that clients before this one cannot upload maps to titanic just yet. This is why we generally recommend using [Digitalfear117's modded b20130303 client](https://osu.titanic.sh/forum/23/t/560/) for mapping, as it allows you to both preview what type of curve each slider is using, and change the curve type of a slider by pressing A, S, D, or F.
+  - For information on how to avoid using Perfect Curve, [check out this forum post](https://osu.titanic.sh/forum/13/t/731/)!
 
 ### Hitsounds
 
