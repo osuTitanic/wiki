@@ -29,7 +29,7 @@ This criteria may change in the future, due to increasing map requests and BAT m
 - **Using Perfect Curve sliders is highly discouraged.**
   - Perfect Curve sliders are the type of sliders creating when a slider has 3 control points in clients b20121106 or later
   - ![Example of Slider Curve Types](https://github.com/user-attachments/assets/ac50d9f8-ceb2-4fbe-9420-9cd1eba9de60)
-  - These sliders get converted to the Catmull curve type on older clients. This causes slider shapes to differ greatly, creating gameplay differences on those clients. To avoid this issue we highly encourage mapper s to use any of the other curve types. In the image above you can see how identical slider skeleton lines create completely different slider paths on each curve type.
+  - These sliders get converted to the Catmull curve type on older clients. This causes slider shapes to differ greatly, creating gameplay differences on those clients. To avoid this issue we highly encourage mappers to use any of the other curve types. In the image above you can see how identical slider skeleton lines create completely different slider paths on each curve type.
   - **Exception:** Perfect Curve sliders with extremely small amounts of curve will generally convert fine, but for safety we recommend not using them.
   - For information on how to avoid using Perfect Curve, [check out this forum post](https://osu.titanic.sh/forum/13/t/731/)!
 
