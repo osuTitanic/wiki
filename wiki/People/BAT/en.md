@@ -1,7 +1,6 @@
 # Beatmap Approval Team
 
-The Beatmap Approval Team (_BAT_) are a group of people who are in charge of ranking beatmaps that meet the standards of the [Ranking Criteria](https://github.com/osuTitanic/wiki/blob/main/wiki/Ranking_Criteria/en.md). <!-- change link when official, just dont know how it'll be formatted -->
-<!-- this feels very empty however after sitting on it for a few days I'm not sure what else to add -Nikku -->
+The Beatmap Approval Team (_BAT_) are a group of people who are in charge of ranking beatmaps that meet the standards of the [Ranking Criteria](https://github.com/osuTitanic/wiki/blob/main/wiki/Ranking_Criteria/en.md). 
 
 
 ## Becoming a BAT
@@ -34,7 +33,8 @@ User | Specialization | Additional Languages Spoken | Added Date
 [iSlodinx](https://osu.titanic.sh/u/869)        |                     | Serbian, Croatian, Bosnian, some Macedonian | May 29th, 2024
 [arutama](https://osu.titanic.sh/u/905)         |                     | Indonesian                                  | June 14th, 2024[^4] 
 [Ignacio](https://osu.titanic.sh/u/943)         |                     | Spanish                                     | July 15th, 2024[^5]
-
+[Cheri](https://osu.titanic.sh/u/1753)          |                     |                                             | October 20th, 2024
+[vyper](https://osu.titanic.sh/u/69)            |                     |                                             | October 20th, 2024
 
 ### Taiko Team Members
 
