@@ -5,7 +5,7 @@ Wiki maintainers are a group of users who are in charge of maintaining the wiki 
 
 User | Added Date 
 ---|---
-[BlueChinchompa](https://osu.titanic.sh/u/40) | Since The Beginning 
+[BlueChinchompa](https://osu.titanic.sh/u/40) | July 25th, 2024
 [iSlodinx](https://osu.titanic.sh/u/869) | October 19th, 2024
 [Meru](https://osu.titanic.sh/u/41) | October 19th, 2024
 
