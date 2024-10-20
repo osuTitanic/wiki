@@ -2,7 +2,7 @@
 Wiki maintainers are a group of users who are in charge of maintaining the wiki and merging changes into the official Titanic! wiki.
 
 ## Roles and responsibilities
-Wiki Maintainers are responsible for merging new pull requests and making sure there are no errors.
+Wiki maintainers are responsible for reviewing and merge pull requests to make sure there are no errors.
 
 ## Current Members
 
