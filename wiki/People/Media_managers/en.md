@@ -12,6 +12,7 @@ Currently this is only one Media manager.
 
 User | Added Date 
 ---|---
-[BlueChinchompa](https://osu.titanic.sh/u/40) | October 15th, 2023
+[BlueChinchompa](https://osu.titanic.sh/u/40) | November 12th, 2023
 
-<!-- The date I put is when the first video is uploaded (currently unlisted since it is a Natasha video who is a cheater)-->
+<!-- The date I put is when the first tweet was sent: https://x.com/osutitanic/status/1723848046629257608 -->
+
