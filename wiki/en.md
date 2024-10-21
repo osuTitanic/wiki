@@ -37,6 +37,7 @@ Feel free to look around and add some of your own changes!
 
 - [[Developers]]
 - [[Beatmap Approval Team]]
+- [[Titanic Modding Group]]
 - [[Wiki maintainers]]
 - [[Media managers]]
 - [[List of notable people]]
