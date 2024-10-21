@@ -13,4 +13,4 @@ We recommend reading the [osu! wiki's contribution guide](https://osu.ppy.sh/wik
 
 ## Merge 
 
-To get your changes merged you will need a [[wiki maintainer]] to approve the changes. If nothing happens after a few days you can ask in the comments of the pull request, or in the `#Wiki` channel in the [Titanic Discord server](https://discord.gg/vxWCkXcARq).
+To get your changes merged, a [[wiki maintainer]] will have to review the pull request, if the changes are meeting the requirements, a wiki maintainter will have to approve the changes and merge it. If nothing happens after a few days, you can ask in the comments of the pull request, or in the `#Wiki` channel in the [Titanic Discord server](https://discord.gg/vxWCkXcARq).
