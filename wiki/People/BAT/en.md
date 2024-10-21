@@ -22,7 +22,6 @@ Members of the Beatmap Approval Team are responsible primarily for managing the 
 
 User | Specialization | Additional Languages Spoken | Added Date 
 ---|:---:|:---:|---
-[Adachi](https://osu.titanic.sh/u/39)           |                     | Italian                                     | Since the beginning
 [BlueChinchompa](https://osu.titanic.sh/u/40)   |                     | Bosnian, Serbian, Croatian                  | Since the beginning
 [wrn81056](https://osu.titanic.sh/u/645)        |                     | French, Malaysian, Russian, German, Chinese | May 19th, 2024[^1] 
 [Digitalfear117](https://osu.titanic.sh/u/809)  | Beatmap File Expert |                                             | May 29th, 2024
