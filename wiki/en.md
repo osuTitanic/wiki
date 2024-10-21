@@ -20,6 +20,7 @@ Feel free to look around and add some of your own changes!
 ### World of Titanic and osu!
 
 - [[Beatmaps]]
+- [[Editor Differences]] 
 - [[Scores]]
 - [[Achievements]]
 - [[Performance Points]]
