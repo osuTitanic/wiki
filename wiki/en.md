@@ -37,7 +37,7 @@ Feel free to look around and add some of your own changes!
 
 - [[Developers]]
 - [[Beatmap Approval Team]]
-- [[Wiki Maintainers]]
-- [[Media Managers]]
+- [[Wiki maintainers]]
+- [[Media managers]]
 - [[List of notable people]]
   
