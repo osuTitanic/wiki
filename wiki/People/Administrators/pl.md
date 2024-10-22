@@ -10,7 +10,7 @@ Ludzie którzy zarządzają, moderują i ulepszają titanic'a każdego dnia.
 Użytkownik | Rola
 ---|:---:
 [Levi](https://osu.titanic.sh/u/2)             | Główny Deweloper i Menedżer projektu
-[Adachi](https://osu.titanic.sh/u/39)          | Menadżer Społecznościowy i Deweloper systemu PP
+[Adachi](https://osu.titanic.sh/u/39)          | Menadżer Społecznościowy i Deweloper systemu pp
 [BlueChinchompa](https://osu.titanic.sh/u/40)  | Menadżer Społecznościowy
 [Meru](https://osu.titanic.sh/u/41)            | Globalny Moderator <!-- Should get moved to it's own if we ever get a decent quantity of GMTs until then it'll be in here -->
 

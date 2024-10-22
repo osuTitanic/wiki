@@ -6,7 +6,7 @@ Aby zacząć gre na Titanic'u! przejdź na stronie [pobierania clientów](https:
 
 Po ukończeniu pobierania, jedyne co musisz zrobić to wypakować folder i otworzyć `osu!.exe`.
 
-Jest szansa na to że Windows Defender zablokuje plik z osu, ponieważ plik gry nie jest podpisany cyfrowo (Takie podpisanie by kosztowało nas 200$).
+Jest szansa na to że Windows Defender zablokuje plik z osu!, ponieważ plik gry nie jest podpisany cyfrowo (Takie podpisanie by kosztowało nas 200$).
 
 ## Rejestrowanie konta
 
