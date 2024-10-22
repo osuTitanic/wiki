@@ -83,6 +83,6 @@ User | Time in BAT
 [^3]: https://discord.com/channels/1152925764262580236/1152925765566988341/1242819755241635880
 [^4]: https://discord.com/channels/1152925764262580236/1152925765566988341/1251193374438854706
 [^5]: https://osu.titanic.sh/forum/20/t/472/
-[^6]: -Ady joined the BAT in May 19th 2024, resigned in August 13th 2024, joined BAT in October 22nd 2024.
+[^6]: -Ady joined the BAT in May 19th 2024, resigned in August 13th 2024, rejoined BAT on October 22nd 2024.
 
 <!-- I used https://web.archive.org/web/20120614084710/http://osu.ppy.sh/wiki/Beatmap_Appreciation_Team as a base -Nikku-->
