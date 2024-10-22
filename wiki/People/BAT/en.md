@@ -10,7 +10,7 @@ Becoming a member of the Beatmap Approval Team requires both a decent amount of 
 
 ## Roles and responsibilities
 
-Members of the Beatmap Approval Team are responsible primarily for managing the moderation of pending beatmaps into the ranking cycle. The BAT are the people to go to for any modding or advice requests about anything mapping or gameplay related.
+Members of the Beatmap Approval Team are responsible primarily for managing the moderation of pending beatmaps into the ranking cycle. The BAT are members to go for any modding or advice requests about mapping or gameplay related.
 
 
 ## Current members
