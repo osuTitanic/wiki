@@ -1,6 +1,6 @@
 # Levi
 
-Levi, also known as Lekuru, is the creator and primary developer of the Titanic! project. 
+Levi, also known as Lekuru, is the creator and primary developer of the Titanic! project.
 
 
 
