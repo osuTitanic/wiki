@@ -8,8 +8,6 @@ Media managers are responsible for uploading scores to the Titanic! [Youtube](ht
 
 ## Current members
 
-Currently this is only one Media manager.
-
 User | Added Date 
 ---|---
 [BlueChinchompa](https://osu.titanic.sh/u/40) | November 12th, 2023
