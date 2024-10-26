@@ -1,6 +1,6 @@
 ## Media managers
 
-Media managers are responsible for creating content and maintaing [[Titanic's social media accounts]].
+Media managers are responsible for creating content and maintaining [[Titanic's social media accounts]].
 
 ## Roles and responsibilities
 
