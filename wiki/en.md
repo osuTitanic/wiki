@@ -41,3 +41,4 @@ Feel free to look around and add some of your own changes!
 - [[Wiki maintainers]]
 - [[Media managers]]
 - [[List of notable people]]
+- [[Verified users]]
