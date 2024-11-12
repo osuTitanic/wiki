@@ -56,7 +56,7 @@ User | Specialization | Additional Languages Spoken | Added Date
 ### Mania team members
 User | Specialization | Additional Languages Spoken | Added Date
 ---|:---:|:---:|---
-[BlueChinchompa](https://osu.titanic.sh/u/40)  |   |   | Since the beginning
+[BlueChinchompa](https://osu.titanic.sh/u/40)  |   | Bosnian, Serbian, Croatian | Since the beginning
 
 
 ## Past members
