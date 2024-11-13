@@ -1,4 +1,4 @@
-# Verified Users
+# Verified users
 
 Verified Users are well-known/top players who have verified their identity.
 
