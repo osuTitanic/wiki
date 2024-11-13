@@ -3,7 +3,7 @@
 Verified Users are well-known/top players who have verified their identity.
 
 
-## Current Verified Users
+## Current Verified users
 
 User | Bancho Account
 ---|:---:
