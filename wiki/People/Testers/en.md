@@ -8,7 +8,7 @@ Testers are people who have helped test out clients and features on Titanic!
 User | Added Date
 ---|:---:
 [ais](https://osu.titanic.sh/u/3) | N/A
-[Natasha](https://osu.titanic.sh/u/5) | N/A 
+[Natasha](https://osu.titanic.sh/u/5) | N/A
 [CrazyCSIW6](https://osu.titanic.sh/u/7)| N/A
 [bazded](https://osu.titanic.sh/u/8) | N/A
 [Rory](https://osu.titanic.sh/u/9)| N/A
