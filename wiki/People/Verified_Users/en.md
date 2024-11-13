@@ -7,7 +7,7 @@ Verified Users are well-known/top players who have verified their identity.
 
 User | Bancho Account
 ---|:---:
-[TheShadowOfDark](https://osu.titanic.sh/u/64)  | [TheShadowOfDark](https://osu.ppy.sh/users/5795337)
+[TheShadowOfDark](https://osu.titanic.sh/u/64) | [TheShadowOfDark](https://osu.ppy.sh/users/5795337)
 [index](https://osu.titanic.sh/u/82)            | [Dawns](https://osu.ppy.sh/users/4639477)
 [Spare](https://osu.titanic.sh/u/92)            | [Spare](https://osu.ppy.sh/users/2204373)
 [Champ](https://osu.titanic.sh/u/96)            | [The Champion](https://osu.ppy.sh/users/1719471)
