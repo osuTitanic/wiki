@@ -5,7 +5,7 @@ Verified Users are well-known/top players who have verified their identity.
 
 ## Current Verified users
 
-User | Bancho Account
+User | Bancho account
 ---|:---:
 [TheShadowOfDark](https://osu.titanic.sh/u/64) | [TheShadowOfDark](https://osu.ppy.sh/users/5795337)
 [index](https://osu.titanic.sh/u/82)            | [Dawns](https://osu.ppy.sh/users/4639477)
