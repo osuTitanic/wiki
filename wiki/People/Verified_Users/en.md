@@ -1,6 +1,6 @@
 # Verified users
 
-Verified Users are well-known/top players who have verified their identity.
+Verified users are top players or content creators who have verified their identity.
 
 
 ## Current Verified users
