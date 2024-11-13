@@ -15,4 +15,4 @@ User | Bancho account
 [mrekk](https://osu.titanic.sh/u/208)           | [mrekk](https://osu.ppy.sh/users/7562902)
 [Bernkastel](https://osu.titanic.sh/u/267)      | [Allas](https://osu.ppy.sh/users/763872)
 [Shikkesora](https://osu.titanic.sh/u/546)      | [Shikkesora](https://osu.ppy.sh/users/5382216)
-[Umbre](https://osu.titanic.sh/u/1816)          | [Umbre](https://osu.ppy.sh/users/2766034)
+[Umbre](https://osu.titanic.sh/u/1816) | [Umbre](https://osu.ppy.sh/users/2766034)
