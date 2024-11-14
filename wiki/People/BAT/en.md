@@ -28,7 +28,7 @@ User | Specialization | Additional Languages Spoken | Added Date
 [Kurboh](https://osu.titanic.sh/u/810)          |                     | Croatian                                    | May 22nd, 2024[^3]
 [Nikku](https://osu.titanic.sh/u/811)           | Storyboarding       |                                             | May 19th, 2024[^1]
 [Oposh](https://osu.titanic.sh/u/829)           |                     | Polish                                      | May 19th, 2024[^1]
-[-Ady](https://osu.titanic.sh/u/821)            |                     | Hungarian                                   | May 19th, 2024[^1][^6]
+[Adri](https://osu.titanic.sh/u/821)            |                     | Hungarian                                   | May 19th, 2024[^1][^6]
 [Cartman](https://osu.titanic.sh/u/857)         |                     | Tagalog                                     | May 20th, 2024[^2]
 [iSlodinx](https://osu.titanic.sh/u/869)        |                     | Serbian, Croatian, Bosnian, some Macedonian | May 29th, 2024
 [arutama](https://osu.titanic.sh/u/905)         |                     | Indonesian                                  | June 14th, 2024[^4]
@@ -83,6 +83,6 @@ User | Time in BAT
 [^3]: https://discord.com/channels/1152925764262580236/1152925765566988341/1242819755241635880
 [^4]: https://discord.com/channels/1152925764262580236/1152925765566988341/1251193374438854706
 [^5]: https://osu.titanic.sh/forum/20/t/472/
-[^6]: -Ady joined the BAT in May 19th 2024, resigned in August 13th 2024, rejoined BAT on October 22nd 2024.
+[^6]: Adri joined the BAT in May 19th 2024, resigned in August 13th 2024, rejoined BAT on October 22nd 2024.
 
 <!-- I used https://web.archive.org/web/20120614084710/http://osu.ppy.sh/wiki/Beatmap_Appreciation_Team as a base -Nikku-->
