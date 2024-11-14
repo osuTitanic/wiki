@@ -1,6 +1,6 @@
 # Testers
 
-Testers are people who have helped test out clients and features on Titanic!
+Testers are users who have helped test out clients and features on Titanic!
 
 
 ## Current testers
