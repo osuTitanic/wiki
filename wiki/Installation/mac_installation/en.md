@@ -21,7 +21,7 @@ You may be prompted to enter a password, such as a firmware password or the pass
 
 Launch Terminal from the Utilities menu. It should be in the menu bar at the top of your screen.
 
-Run the command csrutil disable.
+Run the command `csrutil disable`.
 
 Restart your computer. You can do so from the top menu bar (just like you would normally.)
 
