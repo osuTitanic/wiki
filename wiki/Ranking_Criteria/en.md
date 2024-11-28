@@ -17,7 +17,7 @@ This criteria may change in the future, due to increasing map requests and BAT m
 
 ### Spread
 
-- **Mapsets should have a total drain time over 80 seconds (1 minute 20 seconds).**
+- **Mapsets should have a total drain time over 90 seconds (1 minute and 30 seconds).**
 - **Difficulty names must have progression.**
   - Easy -> Normal -> Hard -> Insane -> Expert is default.
   - Logical naming schemes like Seed -> Sprout -> Tree are okay too.
