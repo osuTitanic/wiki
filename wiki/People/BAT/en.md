@@ -23,7 +23,6 @@ Members of the Beatmap Approval Team are responsible primarily for managing the 
 User | Specialization | Additional Languages Spoken | Added Date
 ---|:---:|:---:|---
 [BlueChinchompa](https://osu.titanic.sh/u/40)   |                     | Bosnian, Serbian, Croatian                  | Since the beginning
-[wrn81056](https://osu.titanic.sh/u/645)        |                     | French, Malaysian, Russian, German, Chinese | May 19th, 2024[^1]
 [Digitalfear117](https://osu.titanic.sh/u/809)  | Beatmap File Expert |                                             | May 29th, 2024
 [Kurboh](https://osu.titanic.sh/u/810)          |                     | Croatian                                    | May 22nd, 2024[^3]
 [Nikku](https://osu.titanic.sh/u/811)           | Storyboarding       |                                             | May 19th, 2024[^1]
@@ -70,6 +69,7 @@ User | Time in BAT
 [Champ](https://osu.titanic.sh/u/96) | December 17th, 2023 -> May 15th, 2024
 [fluxie31](https://osu.titanic.sh/u/517) | May 19th, 2024[^1] -> June 6th, 2024
 [Adachi](https://osu.titanic.sh/u/39) | Since the beginning -> September 7th, 2024
+[wrn81056](https://osu.titanic.sh/u/645) | May 19th, 2024 -> November 29th, 2024
 
 
 ## History
