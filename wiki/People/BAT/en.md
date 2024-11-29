@@ -32,7 +32,8 @@ User | Specialization | Additional Languages Spoken | Added Date
 [Cartman](https://osu.titanic.sh/u/857)         |                     | Tagalog                                     | May 20th, 2024[^2]
 [iSlodinx](https://osu.titanic.sh/u/869)        |                     | Serbian, Croatian, Bosnian, some Macedonian | May 29th, 2024
 [arutama](https://osu.titanic.sh/u/905)         |                     | Indonesian                                  | June 14th, 2024[^4]
-[Ignacio](https://osu.titanic.sh/u/943)         |                     | Spanish                                     | July 15th, 2024[^5]
+[kanocchi](https://osu.titanic.sh/u/943)        |                     | Spanish                                     | July 15th, 2024[^5]
+[Syarika](https://osu.titanic.sh/u/1730)        |                     | Indonesian                                  | October 6th, 2024[^7]
 [Cheri](https://osu.titanic.sh/u/1753)          |                     |                                             | October 20th, 2024
 [vyper](https://osu.titanic.sh/u/69)            |                     |                                             | October 20th, 2024
 [broilertm](https://osu.titanic.sh/u/989)       |                     | Lithuanian                                  | November 28th, 2024
@@ -85,5 +86,6 @@ User | Time in BAT
 [^4]: https://discord.com/channels/1152925764262580236/1152925765566988341/1251193374438854706
 [^5]: https://osu.titanic.sh/forum/20/t/472/
 [^6]: -Ady joined the BAT in May 19th 2024, resigned in August 13th 2024, rejoined BAT on October 22nd 2024.
+[^7]: https://discord.com/channels/1152925764262580236/1187954638486515773/1292482236096057374
 
 <!-- I used https://web.archive.org/web/20120614084710/http://osu.ppy.sh/wiki/Beatmap_Appreciation_Team as a base -Nikku-->
