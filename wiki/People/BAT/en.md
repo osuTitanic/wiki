@@ -32,7 +32,6 @@ User | Specialization | Additional Languages Spoken | Added Date
 [iSlodinx](https://osu.titanic.sh/u/869)        |                     | Serbian, Croatian, Bosnian, some Macedonian | May 29th, 2024
 [arutama](https://osu.titanic.sh/u/905)         |                     | Indonesian                                  | June 14th, 2024[^4]
 [kanocchi](https://osu.titanic.sh/u/943)        |                     | Spanish                                     | July 15th, 2024[^5]
-[Syarika](https://osu.titanic.sh/u/1730)        |                     | Indonesian                                  | October 6th, 2024[^7]
 [Cheri](https://osu.titanic.sh/u/1753)          |                     |                                             | October 20th, 2024
 [vyper](https://osu.titanic.sh/u/69)            |                     |                                             | October 20th, 2024
 [broilertm](https://osu.titanic.sh/u/989)       |                     | Lithuanian                                  | November 28th, 2024
@@ -70,6 +69,7 @@ User | Time in BAT
 [fluxie31](https://osu.titanic.sh/u/517) | May 19th, 2024[^1] -> June 6th, 2024
 [Adachi](https://osu.titanic.sh/u/39) | Since the beginning -> September 7th, 2024
 [wrn81056](https://osu.titanic.sh/u/645) | May 19th, 2024 -> November 29th, 2024
+[Syarika](https://osu.titanic.sh/u/1730) | October 6th, 2024[^7] -> December 10th, 2024
 
 
 ## History
