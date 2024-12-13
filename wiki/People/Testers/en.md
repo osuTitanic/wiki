@@ -16,6 +16,6 @@ User | Added Date
 [daniel](https://osu.titanic.sh/u/11) | July 29th, 2023
 [Nevy](https://osu.titanic.sh/u/32) | August 11th, 2023
 [Danie](https://osu.titanic.sh/u/37) | August 21st, 2023
-[Meru](https://osu.titanic.sh/u/41) | September 17th 2023
+[Meru](https://osu.titanic.sh/u/41) | September 17th, 2023
 
 <!-- I just put Meru's join date as the tester date. -->
