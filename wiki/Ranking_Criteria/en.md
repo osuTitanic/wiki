@@ -11,7 +11,7 @@ This criteria may change in the future, due to increasing map requests and BAT m
 # Beatmap
 
 - **Make sure everything in the map is cleared in terms of [content usage permissions](https://osu.ppy.sh/wiki/Rules/Content_usage_permissions#artist-permissions).**
-- **Maps must be at least 30 seconds long.**
+- **Difficulties must be at least 30 seconds long.**
 - **Maps should use at least [80%](https://osu.ppy.sh/wiki/images/Ranking_criteria/Simplified_ranking_criteria/img/percent.png) of the audio file.** If you want to end the map earlier, try cutting the song.
 - **Maps must not use decimal settings.** (i.e AR9.3 -> 9)
 
@@ -34,6 +34,9 @@ This criteria may change in the future, due to increasing map requests and BAT m
   - **Exception:** Perfect Curve sliders with extremely small amounts of curve will generally convert fine, but for safety we recommend not using them.
   - For information on how to avoid using Perfect Curve, [check out this forum post](https://osu.titanic.sh/forum/13/t/731/)!
 
+### Visuals
+  - **Avoid using combo colours, slider borders or hitcircleoverlays with ~50 luminosity or lower.** Dark colours like these impact readability of approach circles with high background dim and the other elements partially give up their functions as borders.
+  - **Avoid using combo colours and custom slider track colours with ~220 luminosity or higher during kiai times.** They create bright pulses which can be unpleasant to the eyes.
 ### Hitsounds
 
 - **Maps must be [hitsounded](https://osu.ppy.sh/wiki/Beatmapping/Hitsound),** excluding osu!mania maps.
