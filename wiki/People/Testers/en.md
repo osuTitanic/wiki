@@ -1,6 +1,6 @@
 # Early passengers
 
-Early passengers (also known as Testers) are users who registered in early stages and have helped test out clients and features on Titanic!
+Early passengers (also known as Testers) are users who registered in early stages and have helped testing out clients and features on Titanic!
 
 
 ## Current early passengers
