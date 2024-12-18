@@ -35,8 +35,10 @@ This criteria may change in the future, due to increasing map requests and BAT m
   - For information on how to avoid using Perfect Curve, [check out this forum post](https://osu.titanic.sh/forum/13/t/731/)!
 
 ### Visuals
+
   - **Avoid using combo colours, slider borders or hitcircleoverlays with ~50 luminosity or lower.** Dark colours like these impact readability of approach circles with high background dim and the other elements partially give up their functions as borders.
   - **Avoid using combo colours and custom slider track colours with ~220 luminosity or higher during kiai times.** They create bright pulses which can be unpleasant to the eyes.
+
 ### Hitsounds
 
 - **Maps must be [hitsounded](https://osu.ppy.sh/wiki/Beatmapping/Hitsound),** excluding osu!mania maps.
