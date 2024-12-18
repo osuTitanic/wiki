@@ -1,9 +1,9 @@
-# Testers
+# Early passengers
 
-Testers are users who have helped test out clients and features on Titanic!
+Early passengers (also known as Testers) are users who registered in early stages and have helped testing out clients and features on Titanic!
 
 
-## Current testers
+## Current early passengers
 
 User | Added Date
 ---|:---:
@@ -17,5 +17,3 @@ User | Added Date
 [Nevy](https://osu.titanic.sh/u/32) | August 11th, 2023
 [Danie](https://osu.titanic.sh/u/37) | August 21st, 2023
 [Meru](https://osu.titanic.sh/u/41) | September 17th, 2023
-
-<!-- I just put Meru's join date as the tester date. -->
