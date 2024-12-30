@@ -24,7 +24,7 @@ Yes, we do support Relax and Autopilot submission, with one noticeable differenc
 
 ## What PP system is this?
 
-We use a customized pp system, mostly developed by [Adachi](https://osu.titanic.sh/u/39), which changes the behavior of relax & autopilot PP and also has some changes regarding combo scaling, which makes a few misses not kill your pp. 
+We use a customized pp system, mostly developed by [Adachi](https://osu.titanic.sh/u/39), which changes the behavior of relax & autopilot PP and also has some changes regarding combo scaling, which makes a few misses not kill your pp.
 We also have a ["ppv1" recreation](https://osu.titanic.sh/rankings/osu/ppv1), which was meant to be a joke, but seems to be a real thing now. Please keep in mind that this is nowhere near the original ppv1 system!
 
 ## How can I submit a beatmap?

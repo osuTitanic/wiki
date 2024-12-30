@@ -15,11 +15,12 @@ Feel free to look around and add some of your own changes!
 - [[Rules]]
 - [[Frequently Asked Questions]]
 - [[Game Interface]]
-- [[How to Contribute to the Titanic Wiki]]  
+- [[How to Contribute to the Titanic Wiki]]
 
 ### World of Titanic and osu!
 
 - [[Beatmaps]]
+- [[Editor Differences]]
 - [[Scores]]
 - [[Achievements]]
 - [[Performance Points]]
@@ -36,5 +37,8 @@ Feel free to look around and add some of your own changes!
 
 - [[Developers]]
 - [[Beatmap Approval Team]]
+- [[Titanic Modding Group]]
+- [[Wiki maintainers]]
+- [[Media managers]]
 - [[List of notable people]]
-  
+- [[Verified users]]
