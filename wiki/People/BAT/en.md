@@ -28,7 +28,6 @@ User | Specialization | Additional Languages Spoken | Added Date
 [Nikku](https://osu.titanic.sh/u/811)           | Storyboarding       |                                             | May 19th, 2024[^1]
 [Oposh](https://osu.titanic.sh/u/829)           |                     | Polish                                      | May 19th, 2024[^1]
 [-Ady](https://osu.titanic.sh/u/821)            |                     | Hungarian                                   | May 19th, 2024[^1][^6]
-[Cartman](https://osu.titanic.sh/u/857)         |                     | Tagalog                                     | May 20th, 2024[^2]
 [iSlodinx](https://osu.titanic.sh/u/869)        |                     | Serbian, Croatian, Bosnian, some Macedonian | May 29th, 2024
 [arutama](https://osu.titanic.sh/u/905)         |                     | Indonesian                                  | June 14th, 2024[^4]
 [kanocchi](https://osu.titanic.sh/u/943)        |                     | Spanish                                     | July 15th, 2024[^5]
@@ -70,6 +69,7 @@ User | Time in BAT
 [Adachi](https://osu.titanic.sh/u/39) | Since the beginning -> September 7th, 2024
 [wrn81056](https://osu.titanic.sh/u/645) | May 19th, 2024 -> November 29th, 2024
 [Syarika](https://osu.titanic.sh/u/1730) | October 6th, 2024[^7] -> December 10th, 2024
+[Cartman](https://osu.titanic.sh/u/857) | May 20th, 2024[^2] -> January 3rd, 2025
 
 
 ## History
