@@ -6,10 +6,10 @@ The Alumni are a group of members who contributed in some projects in some way, 
 
 User | Past roles
 ---|---
-[Rory](https://osu.titanic.sh/u/9) | ???
+[Rory](https://osu.titanic.sh/u/9) | Initial server loadtesting
 [db2k](https://osu.titanic.sh/u/10) | ???
 [tsunyoku](https://osu.titanic.sh/u/136) | ???
-[ZRD](https://osu.titanic.sh/u/277) | ???
+[ZRD](https://osu.titanic.sh/u/277) | Client patching
 [wrn81056](https://osu.titanic.sh/u/645) | BAT
 [Adri](https://osu.titanic.sh/u/821) | BAT
 [Cartman](https://osu.titanic.sh/u/857) | BAT
