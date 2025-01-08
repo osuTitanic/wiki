@@ -1,6 +1,6 @@
 # Alumni
 
-The Alumni are a group of members who contributed in some projects in some way, either contributing on development or community.
+The Alumni are a group of members who contributed to Titanic in some way, either on the development or community.
 
 ## Alumni members
 
