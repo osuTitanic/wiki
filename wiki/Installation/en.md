@@ -1,5 +1,7 @@
 # Installation
 
+[TOC]
+
 To begin playing on Titanic! you can head over to the [downloads page](https://osu.titanic.sh/download/) and pick any client from as old as 2007 up to 2014.
 
 ![BuildDownload](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Installation/img/BuildDownload.png)
