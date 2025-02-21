@@ -3,9 +3,9 @@
 This set of ranking criteria lays out rules and guidelines that beatmaps must follow in order to progress through the beatmap ranking procedure.
 The ranking criteria mostly follows the [original one](https://osu.ppy.sh/wiki/en/Ranking_criteria) with some minor changes.
 
-[TOC]
-
 The rules also have been simplified, to give mappers a clearer perspective on what's required to create a rankable map. Sections that are not covered in this document should be referenced from [here](https://osu.ppy.sh/wiki/en/Ranking_criteria).
+
+[TOC]
 
 For a map to be ranked, it has to follow this ranking criteria, as well be reviewed by at least **2 independent [BAT members](https://osu.lekuru.xyz/g/3)**, plus one for each mode. This means, that a BAT can't approve their own beatmap and beatmaps with multiple game modes also require approval from more BAT members of that game mode.
 This criteria may change in the future, due to increasing map requests and BAT members.
