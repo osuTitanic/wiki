@@ -1,6 +1,6 @@
 # FAQ
 
-This is a list of common questions that get asked.
+[TOC]
 
 ## What is this?
 
