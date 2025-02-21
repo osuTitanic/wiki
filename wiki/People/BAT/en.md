@@ -2,6 +2,7 @@
 
 The Beatmap Approval Team (_BAT_) are a group of members who are in charge of ranking beatmaps that meet the standards of the [Ranking Criteria](https://github.com/osuTitanic/wiki/blob/main/wiki/Ranking_Criteria/en.md).
 
+[TOC]
 
 ## Becoming a BAT
 
