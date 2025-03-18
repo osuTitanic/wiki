@@ -52,6 +52,7 @@ User | Specialization | Additional Languages Spoken | Added Date
 [Digitalfear117](https://osu.titanic.sh/u/809)  | .osu mapping  |        | May 29th, 2024
 [Nikku](https://osu.titanic.sh/u/811)           | Storyboarding |        | May 19th, 2024[^1]
 [Oposh](https://osu.titanic.sh/u/829)           |               | Polish | May 19th, 2024[^1]
+[Dark](https://osu.titanic.sh/u/812)            |               |        | March 18th, 2025
 
 
 ### Mania team members
@@ -72,6 +73,7 @@ User | Time in BAT
 [wrn81056](https://osu.titanic.sh/u/645) | May 19th, 2024 -> November 29th, 2024
 [Syarika](https://osu.titanic.sh/u/1730) | October 6th, 2024[^7] -> December 10th, 2024
 [Cartman](https://osu.titanic.sh/u/857) | May 20th, 2024[^2] -> January 3rd, 2025
+[seksman sigma balls](https://osu.titanic.sh/u/2153) | March 8th, 2025 -> March 16th, 2025
 
 
 ## History
