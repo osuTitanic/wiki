@@ -38,7 +38,6 @@ User | Specialization | Additional Languages Spoken | Added Date
 [Übel](https://osu.titanic.sh/u/593)            |                     | Filipino                                    | February 23rd, 2025
 
 
-
 ### Taiko team members
 
 User | Specialization | Additional Languages Spoken | Added Date
