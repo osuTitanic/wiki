@@ -1,6 +1,6 @@
 # Titanic Wiki
 
-Useful resources for all things related to Titanic, which soon will *(hopefully)* be added to the main website.
+Useful resources for all things related to Titanic.
 
 ## Contributing
 

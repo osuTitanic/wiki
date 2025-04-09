@@ -1,5 +1,7 @@
 ﻿# Client Editor Differences
 
+[TOC]
+
 ### Written by Digitalfear117
 
 Hi, I'm Digitalfear117 and I like old editors. It is my hope that users of titanic will be able to map and rank songs using any of the available versions of osu! This guide goes over features in chronological order of being added. It also explains how the .osu file format works, and what the values do. Hopefully by the end of this page you can understand how to make modern maps work in older clients, and can choose the best client for making your maps! 

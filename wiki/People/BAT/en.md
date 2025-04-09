@@ -2,6 +2,7 @@
 
 The Beatmap Approval Team (_BAT_) are a group of members who are in charge of ranking beatmaps that meet the standards of the [Ranking Criteria](https://github.com/osuTitanic/wiki/blob/main/wiki/Ranking_Criteria/en.md).
 
+[TOC]
 
 ## Becoming a BAT
 
@@ -31,10 +32,11 @@ User | Specialization | Additional Languages Spoken | Added Date
 [iSlodinx](https://osu.titanic.sh/u/869)        |                     | Serbian, Croatian, Bosnian, some Macedonian | May 29th, 2024
 [arutama](https://osu.titanic.sh/u/905)         |                     | Indonesian                                  | June 14th, 2024[^4]
 [kanocchi](https://osu.titanic.sh/u/943)        |                     | Spanish                                     | July 15th, 2024[^5]
-[Cheri](https://osu.titanic.sh/u/1753)          |                     |                                             | October 20th, 2024
 [vyper](https://osu.titanic.sh/u/69)            |                     |                                             | October 20th, 2024
 [broilertm](https://osu.titanic.sh/u/989)       |                     | Lithuanian                                  | November 28th, 2024
 [Genorocks100](https://osu.titanic.sh/u/1853)   |                     |                                             | April 9th, 2025
+[Übel](https://osu.titanic.sh/u/593)            |                     | Filipino                                    | February 23rd, 2025
+
 
 
 ### Taiko team members
@@ -42,7 +44,6 @@ User | Specialization | Additional Languages Spoken | Added Date
 User | Specialization | Additional Languages Spoken | Added Date
 ---|:---:|:---:|---
 [StreeX](https://osu.titanic.sh/u/67)           |   |          | May 19th, 2024[^1]
-[Cartman](https://osu.titanic.sh/u/857)         |   | Tagalog  | May 20th, 2024[^2]
 [willow](https://osu.titanic.sh/u/1088)         |   |          | February 5th, 2025
 
 
@@ -52,6 +53,7 @@ User | Specialization | Additional Languages Spoken | Added Date
 [Digitalfear117](https://osu.titanic.sh/u/809)  | .osu mapping  |        | May 29th, 2024
 [Nikku](https://osu.titanic.sh/u/811)           | Storyboarding |        | May 19th, 2024[^1]
 [Oposh](https://osu.titanic.sh/u/829)           |               | Polish | May 19th, 2024[^1]
+[Dark](https://osu.titanic.sh/u/812)            |               |        | March 18th, 2025
 
 
 ### Mania team members
@@ -72,6 +74,8 @@ User | Time in BAT
 [wrn81056](https://osu.titanic.sh/u/645) | May 19th, 2024 -> November 29th, 2024
 [Syarika](https://osu.titanic.sh/u/1730) | October 6th, 2024[^7] -> December 10th, 2024
 [Cartman](https://osu.titanic.sh/u/857) | May 20th, 2024[^2] -> January 3rd, 2025
+[seksman sigma balls](https://osu.titanic.sh/u/2153) | March 8th, 2025 -> March 16th, 2025
+[Cheri](https://osu.titanic.sh/u/1753) | October 20th, 2024 -> March 6th, 2025
 
 
 ## History

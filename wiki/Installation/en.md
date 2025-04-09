@@ -1,8 +1,10 @@
 # Installation
 
+[TOC]
+
 To begin playing on Titanic! you can head over to the [downloads page](https://osu.titanic.sh/download/) and pick any client from as old as 2007 up to 2014.
 
-<img src="img/BuildDownload.png">
+![BuildDownload](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Installation/img/BuildDownload.png)
 
 After it finishes installing, all you have to do is extract the folder and double-click `osu!.exe`.
 
@@ -12,21 +14,21 @@ There is a chance that Windows Defender may block it, since the game is unsigned
 
 To register an account you can go to the [registration page](https://osu.titanic.sh/account/register) by clicking on "I'm New!" (**Remember you are only allowed to have *ONE* account EVER!**)
 
-<img src="img/NewUser.png">
+![NewUser](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Installation/img/NewUser.png)
 
 After you create your account you will be prompted to verify your email:
 
-<img src="img/Verification.png">
+![Verification](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Installation/img/Verification.png)
 
 ## Discord Bot
 
 If you want to use the bot on our [Discord](https://discord.gg/3VeNPgDUrK) all you have to do is type `!link <username>` and you will be sent a verification code in-game.
 
-<img src="img/Link-Start.png">
+![Link-Start](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Installation/img/Link-Start.png)
 
-<img src="img/Link-ingame.png">
+![Link-ingame](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Installation/img/Link-ingame.png)
 
-<img src="img/Link-Finished.png">
+![Link-Finished](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Installation/img/Link-Finished.png)
 
 ## Linux Installation
 
@@ -84,10 +86,8 @@ Then click the plus icon on top left. Then "Add locally installed game".
 Give it a proper name and such. Set the runner to Wine.
 
 ![Screenshot_20240725_133107](https://github.com/user-attachments/assets/376a2733-b53d-459d-975e-6a0191c13c9b)
-n
 
 ![Screenshot_20240725_133325](https://github.com/user-attachments/assets/204cec89-e219-4b7e-8df1-9c1b1b4fc362)
-
 
 
 In Game options
@@ -106,7 +106,6 @@ Set wine-osu as the Wine version
 
 Turn off DXVK and VKD3D
 ![image](https://github.com/user-attachments/assets/e6e2fb21-47a6-49f4-b038-5bf6a667696c)
-
 
 
 Make sure ESync and FSync are enabled 
