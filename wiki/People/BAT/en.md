@@ -34,6 +34,7 @@ User | Specialization | Additional Languages Spoken | Added Date
 [Cheri](https://osu.titanic.sh/u/1753)          |                     |                                             | October 20th, 2024
 [vyper](https://osu.titanic.sh/u/69)            |                     |                                             | October 20th, 2024
 [broilertm](https://osu.titanic.sh/u/989)       |                     | Lithuanian                                  | November 28th, 2024
+[Genorocks100](https://osu.titanic.sh/u/1853)   |                     |                                             | April 9th, 2025
 
 
 ### Taiko team members
