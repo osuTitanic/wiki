@@ -11,4 +11,4 @@ User | Past roles
 [wrn81056](https://osu.titanic.sh/u/645) | BAT
 [Cartman](https://osu.titanic.sh/u/857) | BAT
 [Syarika](https://osu.titanic.sh/u/1730) | BAT
-[Riley](https://osu.titanic.sh/u/2464) | ???
+[Riley](https://osu.titanic.sh/u/2464) | Security Research and Contributor
