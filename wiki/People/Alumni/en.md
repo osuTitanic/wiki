@@ -12,3 +12,4 @@ User | Past roles
 [Cartman](https://osu.titanic.sh/u/857) | BAT
 [Syarika](https://osu.titanic.sh/u/1730) | BAT
 [Riley](https://osu.titanic.sh/u/2464) | Security Research and Contributor
+[broilertm](https://osu.titanic.sh/u/989) | BAT
