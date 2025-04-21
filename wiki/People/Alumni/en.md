@@ -13,3 +13,5 @@ User | Past roles
 [Syarika](https://osu.titanic.sh/u/1730) | BAT
 [Riley](https://osu.titanic.sh/u/2464) | Security Research and Contributor
 [broilertm](https://osu.titanic.sh/u/989) | BAT
+[marshallracer](https://osu.titanic.sh/u/2371) | oldsu! staff and Contributor
+[jiniux](https://osu.titanic.sh/u/2398) | oldsu! staff and Contributor
