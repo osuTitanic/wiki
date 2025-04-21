@@ -33,7 +33,6 @@ User | Specialization | Additional Languages Spoken | Added Date
 [arutama](https://osu.titanic.sh/u/905)         |                     | Indonesian                                  | June 14th, 2024[^4]
 [kanocchi](https://osu.titanic.sh/u/943)        |                     | Spanish                                     | July 15th, 2024[^5]
 [vyper](https://osu.titanic.sh/u/69)            |                     |                                             | October 20th, 2024
-[broilertm](https://osu.titanic.sh/u/989)       |                     | Lithuanian                                  | November 28th, 2024
 [Genorocks100](https://osu.titanic.sh/u/1853)   |                     |                                             | April 9th, 2025
 [Übel](https://osu.titanic.sh/u/593)            |                     | Filipino                                    | February 23rd, 2025
 
@@ -75,6 +74,7 @@ User | Time in BAT
 [Cartman](https://osu.titanic.sh/u/857) | May 20th, 2024[^2] -> January 3rd, 2025
 [seksman sigma balls](https://osu.titanic.sh/u/2153) | March 8th, 2025 -> March 16th, 2025
 [Cheri](https://osu.titanic.sh/u/1753) | October 20th, 2024 -> March 6th, 2025
+[broilertm](https://osu.titanic.sh/u/989) | November 28th, 2024 -> April 21st, 2025
 
 
 ## History
