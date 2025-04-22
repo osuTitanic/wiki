@@ -30,7 +30,6 @@ User | Specialization | Additional Languages Spoken | Added Date
 [Oposh](https://osu.titanic.sh/u/829)           |                     | Polish                                      | May 19th, 2024[^1]
 [-Ady](https://osu.titanic.sh/u/821)            |                     | Hungarian                                   | May 19th, 2024[^1][^6]
 [iSlodinx](https://osu.titanic.sh/u/869)        |                     | Serbian, Croatian, Bosnian, some Macedonian | May 29th, 2024
-[arutama](https://osu.titanic.sh/u/905)         |                     | Indonesian                                  | June 14th, 2024[^4]
 [kanocchi](https://osu.titanic.sh/u/943)        |                     | Spanish                                     | July 15th, 2024[^5]
 [vyper](https://osu.titanic.sh/u/69)            |                     |                                             | October 20th, 2024
 [Genorocks100](https://osu.titanic.sh/u/1853)   |                     |                                             | April 9th, 2025
@@ -75,8 +74,7 @@ User | Time in BAT
 [seksman sigma balls](https://osu.titanic.sh/u/2153) | March 8th, 2025 -> March 16th, 2025
 [Cheri](https://osu.titanic.sh/u/1753) | October 20th, 2024 -> March 6th, 2025
 [broilertm](https://osu.titanic.sh/u/989) | November 28th, 2024 -> April 21st, 2025
-
-
+[arutama](https://osu.titanic.sh/u/905) | June 14th, 2024[^4] -> April 22nd, 2025
 ## History
 
 [Levi](https://osu.titanic.sh/u/2) Removed himself from BAT as soon as new members showed up to focus more on developing Titanic.
