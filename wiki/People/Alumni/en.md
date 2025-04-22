@@ -15,3 +15,4 @@ User | Past roles
 [broilertm](https://osu.titanic.sh/u/989) | BAT
 [marshallracer](https://osu.titanic.sh/u/2371) | oldsu! staff and Contributor
 [jiniux](https://osu.titanic.sh/u/2398) | oldsu! staff and Contributor
+[arutama](https://osu.titanic.sh/u/905) | BAT
