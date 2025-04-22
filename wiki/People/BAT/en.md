@@ -76,6 +76,7 @@ User | Time in BAT
 [broilertm](https://osu.titanic.sh/u/989) | November 28th, 2024 -> April 21st, 2025
 [arutama](https://osu.titanic.sh/u/905) | June 14th, 2024[^4] -> April 22nd, 2025
 
+
 ## History
 
 [Levi](https://osu.titanic.sh/u/2) Removed himself from BAT as soon as new members showed up to focus more on developing Titanic.
