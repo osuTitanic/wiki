@@ -28,7 +28,6 @@ User | Specialization | Additional Languages Spoken | Added Date
 [Kurboh](https://osu.titanic.sh/u/810)          |                     | Croatian                                    | May 22nd, 2024[^3]
 [Nikku](https://osu.titanic.sh/u/811)           | Storyboarding       |                                             | May 19th, 2024[^1]
 [Oposh](https://osu.titanic.sh/u/829)           |                     | Polish                                      | May 19th, 2024[^1]
-[-Ady](https://osu.titanic.sh/u/821)            |                     | Hungarian                                   | May 19th, 2024[^1][^6]
 [iSlodinx](https://osu.titanic.sh/u/869)        |                     | Serbian, Croatian, Bosnian, some Macedonian | May 29th, 2024
 [kanocchi](https://osu.titanic.sh/u/943)        |                     | Spanish                                     | July 15th, 2024[^5]
 [vyper](https://osu.titanic.sh/u/69)            |                     |                                             | October 20th, 2024
@@ -75,6 +74,7 @@ User | Time in BAT
 [Cheri](https://osu.titanic.sh/u/1753) | October 20th, 2024 -> March 6th, 2025
 [broilertm](https://osu.titanic.sh/u/989) | November 28th, 2024 -> April 21st, 2025
 [arutama](https://osu.titanic.sh/u/905) | June 14th, 2024[^4] -> April 22nd, 2025
+[Ady](https://osu.titanic.sh/u/821) | May 19th, 2024 -> April 29th, 2025[^1][^6]
 
 
 ## History
@@ -90,7 +90,7 @@ User | Time in BAT
 [^3]: https://discord.com/channels/1152925764262580236/1152925765566988341/1242819755241635880
 [^4]: https://discord.com/channels/1152925764262580236/1152925765566988341/1251193374438854706
 [^5]: https://osu.titanic.sh/forum/20/t/472/
-[^6]: -Ady joined the BAT in May 19th 2024, resigned in August 13th 2024, rejoined BAT on October 22nd 2024.
+[^6]: -Ady joined the BAT in May 19th 2024, resigned in August 13th 2024, rejoined BAT on October 22nd 2024, resigned in April 29th 2025.
 [^7]: https://discord.com/channels/1152925764262580236/1187954638486515773/1292482236096057374
 
 <!-- I used https://web.archive.org/web/20120614084710/http://osu.ppy.sh/wiki/Beatmap_Appreciation_Team as a base -Nikku-->
