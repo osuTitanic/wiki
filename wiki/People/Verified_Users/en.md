@@ -19,3 +19,4 @@ User | Bancho account
 [Chicony](https://osu.titanic.sh/u/1936) | [Chicony](https://osu.ppy.sh/users/5199332/osu)
 [broilertm](https://osu.titanic.sh/u/989) | [huu](https://osu.ppy.sh/users/6044237)
 [Genorocks100](https://osu.titanic.sh/u/1853) | [Ness_Okey](https://osu.ppy.sh/users/11311583)
+[flapczek](https://osu.titanic.sh/u/1011) | [flapczek](https://osu.ppy.sh/users/8210988)
