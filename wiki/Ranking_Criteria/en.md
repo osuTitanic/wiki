@@ -14,7 +14,7 @@ This criteria may change in the future, due to increasing map requests and BAT m
 
 - **Make sure everything in the map is cleared in terms of [content usage permissions](https://osu.ppy.sh/wiki/Rules/Content_usage_permissions#artist-permissions).**
 - **Difficulties must be at least 30 seconds long.**
-- **Maps should use at least [80%](https://osu.ppy.sh/wiki/images/Ranking_criteria/Simplified_ranking_criteria/img/percent.png) of the audio file.** If you want to end the map earlier, try cutting the song.
+- **Maps should use as much of the audio file as reasonably possible.** If you have large portions unmapped, consider cutting the song.
 - **Maps must not use decimal settings.** (i.e AR9.3 -> 9)
 
 ### Spread
