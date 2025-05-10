@@ -22,10 +22,10 @@ This criteria may change in the future, due to increasing map requests and BAT m
 - **Minimum difficulties by length:**
 
 | Drain time | Difficulties |
-|     ---|:---:         |
-|  0:30 to 1:00   | 3 difficulties |
-|  1:00 to 2:30   | 2 difficulties |
-|  2:30 and above | 1 difficulty   |
+| :--: | :--: |
+| 0:30 to 1:00 | 3 difficulties |
+| 1:00 to 2:30 | 2 difficulties |
+| 2:30 and above | 1 difficulty |
 
 - **Difficulty names must have progression.**
   - Easy -> Normal -> Hard -> Insane -> Expert is default.
