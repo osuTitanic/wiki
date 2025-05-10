@@ -18,8 +18,14 @@ This criteria may change in the future, due to increasing map requests and BAT m
 - **Maps must not use decimal settings.** (i.e AR9.3 -> 9)
 
 ### Spread
+- **Minimum difficulties by length:**
 
-- **Mapsets must have a total drain time of at least 90 seconds (1 minute and 30 seconds).**
+| Drain time | Difficulties |
+|     ---|:---:         |
+|  0:30 to 1:00   | 3 difficulties |
+|  1:00 to 2:30   | 2 difficulties |
+|  2:30 and above | 1 difficulty   |
+
 - **Difficulty names must have progression.**
   - Easy -> Normal -> Hard -> Insane -> Expert is default.
   - Logical naming schemes like Seed -> Sprout -> Tree are okay too.
