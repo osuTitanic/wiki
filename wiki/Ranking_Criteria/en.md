@@ -18,6 +18,7 @@ This criteria may change in the future, due to increasing map requests and BAT m
 - **Maps must not use decimal settings.** (i.e AR9.3 -> 9)
 
 ### Spread
+
 - **Minimum difficulties by length:**
 
 | Drain time | Difficulties |
