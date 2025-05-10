@@ -14,12 +14,19 @@ This criteria may change in the future, due to increasing map requests and BAT m
 
 - **Make sure everything in the map is cleared in terms of [content usage permissions](https://osu.ppy.sh/wiki/Rules/Content_usage_permissions#artist-permissions).**
 - **Difficulties must be at least 30 seconds long.**
-- **Maps should use at least [80%](https://osu.ppy.sh/wiki/images/Ranking_criteria/Simplified_ranking_criteria/img/percent.png) of the audio file.** If you want to end the map earlier, try cutting the song.
+- **Maps should use as much of the audio file as reasonably possible.** If you have large portions unmapped, consider cutting the song.
 - **Maps must not use decimal settings.** (i.e AR9.3 -> 9)
 
 ### Spread
 
-- **Mapsets must have a total drain time of at least 90 seconds (1 minute and 30 seconds).**
+- **Minimum difficulties by length:**
+
+| Drain time | Difficulties |
+| :--: | :--: |
+| 0:30 to 1:00 | 3 difficulties |
+| 1:00 to 2:30 | 2 difficulties |
+| 2:30 and above | 1 difficulty |
+
 - **Difficulty names must have progression.**
   - Easy -> Normal -> Hard -> Insane -> Expert is default.
   - Logical naming schemes like Seed -> Sprout -> Tree are okay too.
