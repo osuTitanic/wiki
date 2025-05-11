@@ -33,6 +33,7 @@ User | Specialization | Additional Languages Spoken | Added Date
 [vyper](https://osu.titanic.sh/u/69)            |                     |                                             | October 20th, 2024
 [Genorocks100](https://osu.titanic.sh/u/1853)   |                     |                                             | April 9th, 2025
 [Übel](https://osu.titanic.sh/u/593)            |                     | Filipino                                    | February 23rd, 2025
+[fluxie31](https://osu.titanic.sh/u/517)        |                     |                                             | May 11th, 2025[^1][^8]
 
 
 ### Taiko team members
@@ -65,7 +66,6 @@ User | Time in BAT
 [Levi](https://osu.titanic.sh/u/2)   | Since the beginning -> May 19th, 2024
 [Spare](https://osu.titanic.sh/u/92) | December 17th, 2023 -> May 15th, 2024
 [Champ](https://osu.titanic.sh/u/96) | December 17th, 2023 -> May 15th, 2024
-[fluxie31](https://osu.titanic.sh/u/517) | May 19th, 2024[^1] -> June 6th, 2024
 [Adachi](https://osu.titanic.sh/u/39) | Since the beginning -> September 7th, 2024
 [wrn81056](https://osu.titanic.sh/u/645) | May 19th, 2024 -> November 29th, 2024
 [Syarika](https://osu.titanic.sh/u/1730) | October 6th, 2024[^7] -> December 10th, 2024
@@ -90,7 +90,8 @@ User | Time in BAT
 [^3]: https://discord.com/channels/1152925764262580236/1152925765566988341/1242819755241635880
 [^4]: https://discord.com/channels/1152925764262580236/1152925765566988341/1251193374438854706
 [^5]: https://osu.titanic.sh/forum/20/t/472/
-[^6]: -Ady joined the BAT in May 19th 2024, resigned in August 13th 2024, rejoined BAT on October 22nd 2024, resigned in April 29th 2025.
+[^6]: -Ady joined the BAT in May 19th 2024, resigned in August 13th 2024, rejoined BAT in October 22nd 2024, resigned in April 29th 2025.
 [^7]: https://discord.com/channels/1152925764262580236/1187954638486515773/1292482236096057374
+[^8]: fluxie31 joined the BAT in May 19th 2024, resigned in June 6th 2024, rejoined BAT in May 11th 2025.
 
 <!-- I used https://web.archive.org/web/20120614084710/http://osu.ppy.sh/wiki/Beatmap_Appreciation_Team as a base -Nikku-->
