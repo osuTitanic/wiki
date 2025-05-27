@@ -42,6 +42,7 @@ User | Specialization | Additional Languages Spoken | Added Date
 ---|:---:|:---:|---
 [StreeX](https://osu.titanic.sh/u/67)           |   |          | May 19th, 2024[^1]
 [willow](https://osu.titanic.sh/u/1088)         |   |          | February 5th, 2025
+[Yurizono Seia](https://osu.titanic.sh/u/2168)  |   |          | May 26th, 2025
 
 
 ### Catch the Beat team members
