@@ -17,3 +17,4 @@ User | Past roles
 [jiniux](https://osu.titanic.sh/u/2398) | oldsu! staff and Contributor
 [arutama](https://osu.titanic.sh/u/905) | BAT
 [Ady](https://osu.titanic.sh/u/821) | BAT
+[StreeX](https://osu.titanic.sh/u/67) | BAT
