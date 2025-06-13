@@ -9,3 +9,4 @@ User | Added Date
 [iSlodinx](https://osu.titanic.sh/u/869) | October 19th, 2024
 [Meru](https://osu.titanic.sh/u/41) | October 19th, 2024
 [Digitalfear117](https://osu.titanic.sh/u/809) | November 28th, 2024
+[Nikku](https://osu.titanic.sh/u/811) | June 13th, 2025
