@@ -35,7 +35,8 @@ User | Specialization | Additional Languages Spoken | Added Date
 [Genorocks100](https://osu.titanic.sh/u/1853)   |                     |                                             | April 9th, 2025
 [Übel](https://osu.titanic.sh/u/593)            |                     | Filipino                                    | February 23rd, 2025
 [fluxie31](https://osu.titanic.sh/u/517)        |                     |                                             | May 11th, 2025[^1][^8]
-[Myst](https://osu.titanic.sh/u/857)         |                     | Filipino                                    | May 28th, 2025[^2][^9]
+[Myst](https://osu.titanic.sh/u/857)            |                     | Filipino                                    | May 28th, 2025[^2][^9]
+[pimpG](https://osu.titanic.sh/u/2719)          |                     | Portuguese                                  | June 16th, 2025
 
 
 ### Taiko team members
