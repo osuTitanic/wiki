@@ -23,13 +23,11 @@ Members of the Beatmap Approval Team are responsible primarily for managing the 
 
 User | Specialization | Additional Languages Spoken | Added Date
 ---|:---:|:---:|---
-[BlueChinchompa](https://osu.titanic.sh/u/40)   |                     | Bosnian, Serbian, Croatian                  | Since the beginning
 [Digitalfear117](https://osu.titanic.sh/u/809)  | Beatmap File Expert |                                             | May 29th, 2024
 [Satori](https://osu.titanic.sh/u/810)          |                     | Croatian                                    | May 22nd, 2024[^3]
 [Nikku](https://osu.titanic.sh/u/811)           | Storyboarding       |                                             | May 19th, 2024[^1]
 [Oposh](https://osu.titanic.sh/u/829)           |                     | Polish                                      | May 19th, 2024[^1]
 [iSlodinx](https://osu.titanic.sh/u/869)        |                     | Serbian, Croatian, Bosnian, some Macedonian | May 29th, 2024
-[kanocchi](https://osu.titanic.sh/u/943)        |                     | Spanish                                     | July 15th, 2024[^5]
 [[Kagamine Rin]](https://osu.titanic.sh/u/813)  |                     | Dutch                                       | August 19th, 2024
 [vyper](https://osu.titanic.sh/u/69)            |                     |                                             | October 20th, 2024
 [Genorocks100](https://osu.titanic.sh/u/1853)   |                     |                                             | April 9th, 2025
@@ -59,7 +57,6 @@ User | Specialization | Additional Languages Spoken | Added Date
 ### Mania team members
 User | Specialization | Additional Languages Spoken | Added Date
 ---|:---:|:---:|---
-[BlueChinchompa](https://osu.titanic.sh/u/40)  |   | Bosnian, Serbian, Croatian | Since the beginning
 [willow](https://osu.titanic.sh/u/1088)        |   |                            | March 4th, 2025
 
 
@@ -79,6 +76,8 @@ User | Time in BAT
 [arutama](https://osu.titanic.sh/u/905) | June 14th, 2024[^4] -> April 22nd, 2025
 [Ady](https://osu.titanic.sh/u/821) | May 19th, 2024 -> April 29th, 2025[^1][^6]
 [StreeX](https://osu.titanic.sh/u/67) | May 19th, 2024[^1] -> May 8th, 2025
+[kanocchi](https://osu.titanic.sh/u/943) | July 15th, 2024[^5] -> June 17th, 2025
+[BlueChinchompa](https://osu.titanic.sh/u/40) | Since the beginning -> June 17th, 2025
 
 
 ## History
