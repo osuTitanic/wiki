@@ -18,3 +18,4 @@ User | Past roles
 [Ady](https://osu.titanic.sh/u/821) | BAT
 [StreeX](https://osu.titanic.sh/u/67) | BAT
 [kanocchi](https://osu.titanic.sh/u/943) | BAT
+[fluxie31](https://osu.titanic.sh/u/517) | BAT
