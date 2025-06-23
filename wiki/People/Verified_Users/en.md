@@ -21,3 +21,4 @@ User | Bancho account
 [Genorocks100](https://osu.titanic.sh/u/1853) | [Ness_Okey](https://osu.ppy.sh/users/11311583)
 [flapczek](https://osu.titanic.sh/u/1011) | [flapczek](https://osu.ppy.sh/users/8210988)
 [EnzoSuperCraftZ](https://osu.titanic.sh/u/2588) | [EnzoSuperCraftZ](https://osu.ppy.sh/users/14421510)
+[559479](https://osu.titanic.sh/u/2769) | [milosz](https://osu.ppy.sh/users/13108233)
