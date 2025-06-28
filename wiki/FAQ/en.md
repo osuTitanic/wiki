@@ -4,7 +4,7 @@
 
 ## What is this?
 
-Titanic! is a private server for [osu!](https://osu.ppy.sh), that was designed to preserve the earlier days of the game, by letting players use clients from 2008 to 2014, as well as similar maps from that era. It's a community-driven project that is fully [open-source](https://github.com/osuTitanic), so feel free to look at the code and contribute to it.
+Titanic! is a private server for [osu!](https://osu.ppy.sh), that was designed to preserve the earlier days of the game, by letting players use clients from 2008 to 2015, as well as similar maps from that era. It's a community-driven project that is fully [open-source](https://github.com/osuTitanic), so feel free to look at the code and contribute to it.
 
 ## How can I play?
 
