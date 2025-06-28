@@ -1,19 +1,21 @@
-# Staff
+# Administrators
 
-The people who manage, moderate and improve Titanic every day.
+The users who manage, moderate and improve Titanic every day.
 
 <!-- This should probably have more to it however sending it as is for other people to give ideas towards  -->
 
-
 ## Current Members
 
-User | Role
----|:---:
-[Levi](https://osu.titanic.sh/u/2)             | Titanic Lead Developer and Project Manager
-[Adachi](https://osu.titanic.sh/u/39)          | Community Manager and PP Developer
-[BlueChinchompa](https://osu.titanic.sh/u/40)  | Media Manager
-[Meru](https://osu.titanic.sh/u/41)            | Global Moderator <!-- Should get moved to it's own if we ever get a decent quantity of GMTs until then it'll be in here -->
-
+User | Role | Added Date
+---|:---:|---
+[Levi](https://osu.titanic.sh/u/2)               | Titanic Lead Developer and Project Manager | Since the beginning
+[Adachi](https://osu.titanic.sh/u/39)            | Community Manager and PP Developer | Since the beginning
+[BlueChinchompa](https://osu.titanic.sh/u/40)    | Media Manager | Since the beginning
+[Meru](https://osu.titanic.sh/u/41)              | Admin and Wiki Maintainer | June 28th, 2025 (as GMT since the beginning)
+[Hatate Himekaidou](https://osu.titanic.sh/u/85) | Global Moderator | June 28th, 2025
+[vg185](https://osu.titanic.sh/u/568)            | Global Moderator | June 28th, 2025
+[Digitalfear117](https://osu.titanic.sh/u/809)   | Global Moderator | June 28th, 2025
+[iSlodinx](https://osu.titanic.sh/u/869)         | Global Moderator and Wiki Maintainer | June 28th, 2025
 
 
 <!-- ## Past Members
