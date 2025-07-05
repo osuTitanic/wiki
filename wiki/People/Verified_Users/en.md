@@ -8,7 +8,7 @@ Verified users are top players or content creators who have verified their ident
 User | Bancho account
 ---|:---:
 [TheShadowOfDark](https://osu.titanic.sh/u/64) | [TheShadowOfDark](https://osu.ppy.sh/users/5795337)
-[index](https://osu.titanic.sh/u/82) | [Dawns](https://osu.ppy.sh/users/4639477)
+[index](https://osu.titanic.sh/u/82) | [Wiwi_](https://osu.ppy.sh/users/4639477)
 [Spare](https://osu.titanic.sh/u/92) | [Spare](https://osu.ppy.sh/users/2204373)
 [Champ](https://osu.titanic.sh/u/96) | [EZChamp](https://osu.ppy.sh/users/1719471)
 [Plasma](https://osu.titanic.sh/u/191) | [Plasma](https://osu.ppy.sh/users/10077431)
@@ -22,3 +22,4 @@ User | Bancho account
 [flapczek](https://osu.titanic.sh/u/1011) | [flapczek](https://osu.ppy.sh/users/8210988)
 [EnzoSuperCraftZ](https://osu.titanic.sh/u/2588) | [EnzoSuperCraftZ](https://osu.ppy.sh/users/14421510)
 [559479](https://osu.titanic.sh/u/2769) | [milosz](https://osu.ppy.sh/users/13108233)
+[rat](https://osu.titanic.sh/u/160) | [Aireu](https://osu.ppy.sh/users/1650010)
