@@ -22,3 +22,4 @@ User | Bancho account
 [flapczek](https://osu.titanic.sh/u/1011) | [flapczek](https://osu.ppy.sh/users/8210988)
 [EnzoSuperCraftZ](https://osu.titanic.sh/u/2588) | [EnzoSuperCraftZ](https://osu.ppy.sh/users/14421510)
 [559479](https://osu.titanic.sh/u/2769) | [milosz](https://osu.ppy.sh/users/13108233)
+[rat](https://osu.titanic.sh/u/160) | [Aireu](https://osu.ppy.sh/users/1650010)
