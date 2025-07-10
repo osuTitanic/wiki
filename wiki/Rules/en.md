@@ -14,6 +14,7 @@ Welcome to Titanic, before you get started please read through these rules for a
 8. **Unsolicited advertisements** are prohibited on Titanic. Any promotional content must be pre‑approved by a staff member before posting. Ignoring this rule may lead to a punishment.
 9. **Leaked source code.** Any mention, display, or distribution of osu!’s leaked source code is strictly prohibited. It would only make unnecessary work for peppy.
 10. **Minimum age requirement.** All users must be at least 13 years old to join Titanic. Account owners found to be under this age will be suspended until proof of eligibility is provided.
+11. **Use common sense.** The staff team has explicit discretion to apply their judgment on this as they see fit.
 
 ## Reporting Procedures / Contacting Support
 
