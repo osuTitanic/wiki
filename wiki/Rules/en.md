@@ -1,6 +1,6 @@
 # Rules
 
-Welcome to Titanic, before you get started please read through these rules for a more safe and pleasent experience.
+Welcome to Titanic, before you get started please read through these rules for a more safe and pleasant experience.
 
 ## Community Rules
 
@@ -16,9 +16,25 @@ Welcome to Titanic, before you get started please read through these rules for a
 10. **Minimum age requirement.** All users must be at least 13 years old to join Titanic. Account owners found to be under this age will be suspended until proof of eligibility is provided.
 11. **Use common sense.** The staff team has explicit discretion to apply their judgment on this as they see fit.
 
+## In-game Chat Rules
+
+1. **Be respectful and mindful of other users in the channel.** Avoid flooding or spamming.
+Taking up half the screen by yourself is annoying, so please avoid doing it whenever possible.
+2. **If someone gets silenced or restricted, leave them be and don’t start talking about them.**
+If someone is silenced or restricted, their case is between them and the administrations.
+3. **Do not continue to message or harass users after being blocked.**
+If a user blocks you, it means they no longer wish to communicate. Attempting to bypass the block — especially to harass, disturb, troll, or provoke them — is a serious violation of in-game conduct. This behaviour will lead to silence or other punishments, if someone is harassing you or even worse, please open a support ticket in the [Titanic Discord](https://discord.gg/qryYG2C5nc) server or contact the [support email](mailto:support@titanic.sh).
+
+## Forum-wide Rules
+
+1. **Spamming multiple posts within a single thread is strictly prohibited.**
+Users must avoid posting repeatedly or flooding a thread with unnecessary or redundant messages. Use the edit button to add to your post when needed. Excessive posting disrupts discussions and may lead to post removal or getting punished.
+2. **Do not necro-post in threads that are older than 3 months.**
+This only applies on General Discussion and Off-Topic sub-forums, reviving old threads without contributing substantial new information disrupts forums may confuse ongoing discussions. If the topic is still relevant, consider starting a new thread instead. Repeated necro-posting may result in warning, if the user keeps necro-posting they'll get silenced.
+
 ## Reporting Procedures / Contacting Support
 
 There are 2 main ways of reporting infringing behavior to our staff team:
 
-- Opening a ticket in the [Titanic! Discord](https://discord.gg/qryYG2C5nc)
-- Writing an email to [support@titanic.sh](mailto:support@titanic.sh)
+- Opening a ticket in the [Titanic! Discord server](https://discord.gg/qryYG2C5nc).
+- Writing an email to [support@titanic.sh](mailto:support@titanic.sh).
