@@ -23,7 +23,7 @@ Taking up half the screen by yourself is annoying, so please avoid doing it when
 2. **If someone gets silenced or restricted, leave them be and don’t start talking about them.**
 If someone is silenced or restricted, their case is between them and the administrators.
 3. **Do not continue to message or harass users after being blocked.**
-If a user blocks you, it means they no longer wish to communicate. Attempting to bypass the block — especially to harass, disturb, troll, or provoke them — is a serious violation of in-game conduct. This behaviour will lead to silence or other punishments, if someone is harassing you or even worse, please open a support ticket in the [Titanic Discord](https://discord.gg/qryYG2C5nc) server or contact the [support email](mailto:support@titanic.sh).
+If a user blocks you, it means they no longer wish to communicate. Attempting to bypass the block — especially to harass, disturb, troll, or provoke them — is a serious violation of in-game conduct. This behaviour will lead to silence or other punishments, if someone is harassing you or threatening your safety, please open a support ticket in the [Titanic Discord](https://discord.gg/qryYG2C5nc) server or contact the [support email](mailto:support@titanic.sh).
 
 ## Forum-wide Rules
 
