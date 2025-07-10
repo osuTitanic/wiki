@@ -11,7 +11,7 @@ Welcome to Titanic, before you get started please read through these rules for a
 5. **Malicious impersonation** of another person is strictly prohibited. Any attempt to pose as someone else with the intent to deceive or harm will result in an immediate restriction. Yes, that means naming yourself "BTMC" and advertising your crypto scam is not allowed.
 6. **Modified osu! clients** are permitted on Titanic, but they must receive approval from a server administrator before use. Any attempt to circumvent this requirement will result in a restriction.
 7. **Intentional server abuse.** Deliberate attempts to overload, DDoS, or otherwise disrupt Titanic’s servers are strictly prohibited and will lead to an account restriction.
-8. **Unsolicited advertisements** are prohibited on Titanic. Any promotional content must be pre‑approved by a staff member before posting. Ignoring this rule may lead to a punishment.
+8. **Unsolicited advertisements** are prohibited on Titanic. Any promotional content must be pre‑approved by a staff member before posting. Breaking this rule may lead to your account being silenced.
 9. **Leaked source code.** Any mention, display, or distribution of osu!’s leaked source code is strictly prohibited. It would only make unnecessary work for peppy.
 10. **Minimum age requirement.** All users must be at least 13 years old to join Titanic. Account owners found to be under this age will be suspended until proof of eligibility is provided.
 11. **Use common sense.** The staff team has explicit discretion to apply their judgment on this as they see fit.
