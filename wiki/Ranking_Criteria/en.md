@@ -7,7 +7,7 @@ The rules also have been simplified, to give mappers a clearer perspective on wh
 
 [TOC]
 
-For a map to be ranked, it has to follow this ranking criteria, as well be reviewed by at least **2 independent [BAT members](https://osu.lekuru.xyz/g/3)**, plus one for each mode. This means, that a BAT can't approve their own beatmap and beatmaps with multiple game modes also require approval from more BAT members of that game mode.
+For a map to be ranked, it has to follow this ranking criteria, as well be reviewed by at least **2 independent [BAT members](https://osu.titanic.sh/g/3)**, plus one for each mode. This means, that a BAT can't approve their own beatmap and beatmaps with multiple game modes also require approval from more BAT members of that game mode.
 This criteria may change in the future, due to increasing map requests and BAT members.
 
 # Beatmap
@@ -166,7 +166,7 @@ This criteria may change in the future, due to increasing map requests and BAT m
 
 **Every element of a map should represent the song.**
 
-This principle sounds simple, but it might be the most controversial part of ranking a map! There's no *correct way* to interpret a song, so each individual's interpretation varies, and the [Beatmap Approval Team](https://osu.lekuru.xyz/g/3) determine if your interpretation is valid for Ranked status. Every BAT member may have a different opinion on this subject, but it's a good idea to follow older mapping styles.
+This principle sounds simple, but it might be the most controversial part of ranking a map! There's no *correct way* to interpret a song, so each individual's interpretation varies, and the [Beatmap Approval Team](https://osu.titanic.sh/g/3) determine if your interpretation is valid for Ranked status. Every BAT member may have a different opinion on this subject, but it's a good idea to follow older mapping styles.
 
 These pointers may also lead you in the right direction:
 
