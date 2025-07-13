@@ -267,7 +267,7 @@ You can tell if a timing point is inherited in the .osu based on if the last fla
 2555,600,4,2,0,65,1
 ```
 
-The last flag being 0 means non inherited, and 1 means inherited in this version, and for a decent amount of versions after this.
+The last flag being 0 means inherited, and 1 means non inherited in this version, and for a decent amount of versions after this.
 
 ## b452 clap hitsound
 
