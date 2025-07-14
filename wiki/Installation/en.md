@@ -2,7 +2,7 @@
 
 [TOC]
 
-To begin playing on Titanic! you can head over to the [downloads page](https://osu.titanic.sh/download/) and pick any client from as old as 2007 up to 2014.
+To begin playing on Titanic! you can head over to the [Download page](https://osu.titanic.sh/download/) and pick any client from as old as 2007 up to 2015.
 
 ![BuildDownload](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Installation/img/BuildDownload.png)
 
@@ -22,7 +22,7 @@ After you create your account you will be prompted to verify your email:
 
 ## Discord Bot
 
-If you want to use the bot on our [Discord](https://discord.gg/3VeNPgDUrK) all you have to do is type `!link <username>` and you will be sent a verification code in-game.
+If you want to use the bot on our [Discord server](https://discord.gg/3VeNPgDUrK), all you have to do is type `!link <username>` and you will be sent a verification code in-game.
 
 ![Link-Start](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Installation/img/Link-Start.png)
 
@@ -66,8 +66,7 @@ https://github.com/NelloKudo/osu-winello/wiki/Installing-PipeWire
 
 ### Step 3: Download the Titanic client
 
-You can download any version from here
-https://osu.titanic.sh/download/
+You can download any version from [here](https://osu.titanic.sh/download/)
 
 ![image](https://github.com/user-attachments/assets/1651b93b-14df-413a-84e8-5aea72453f69)
 
@@ -133,7 +132,7 @@ This is what it should look like.
 ![image](https://github.com/user-attachments/assets/f5da68e2-2395-44f0-ab23-474798cc8287)
 
 
-Now from here you can launch osu! and enjoy
+Now from here you can launch osu! and enjoy!
 
 **NOTE:** Be sure to set the offset to around `-40` to `-25 ms` offset. Then the audio will be like Windows!
 
@@ -142,4 +141,4 @@ Now from here you can launch osu! and enjoy
 You may have to apply the tweaks listed here
 https://github.com/NelloKudo/osu-winello/wiki/Wayland-support
 
-If you have any issues do not be afraid to ask in the [Titanic Discord](https://discord.gg/qupv72e7YH) or in the [support forum](https://osu.titanic.sh/forum/7).
+If you have any issues do not be afraid to ask in the [Titanic! Discord server](https://discord.gg/qupv72e7YH) or in the [support sub-forum](https://osu.titanic.sh/forum/7).
