@@ -30,7 +30,6 @@ User | Specialization | Additional Languages Spoken | Added Date
 [iSlodinx](https://osu.titanic.sh/u/869)        |                     | Serbian, Croatian, Bosnian, some Macedonian | May 29th, 2024
 [[Kagamine Rin]](https://osu.titanic.sh/u/813)  |                     | Dutch                                       | August 19th, 2024
 [vyper](https://osu.titanic.sh/u/69)            |                     |                                             | October 20th, 2024
-[Genorocks100](https://osu.titanic.sh/u/1853)   |                     |                                             | April 9th, 2025
 [Übel](https://osu.titanic.sh/u/593)            |                     | Filipino                                    | February 23rd, 2025
 [Cartman](https://osu.titanic.sh/u/857)         |                     | Filipino                                    | May 28th, 2025[^2][^9]
 [pimpG](https://osu.titanic.sh/u/2719)          |                     | Portuguese                                  | June 16th, 2025
@@ -65,7 +64,7 @@ User | Specialization | Additional Languages Spoken | Added Date
 
 User | Time in BAT
 ---|:---:
-[Levi](https://osu.titanic.sh/u/2)   | Since the beginning -> May 19th, 2024
+[Levi](https://osu.titanic.sh/u/2) | Since the beginning -> May 19th, 2024
 [Spare](https://osu.titanic.sh/u/92) | December 17th, 2023 -> May 15th, 2024
 [Champ](https://osu.titanic.sh/u/96) | December 17th, 2023 -> May 15th, 2024
 [Adachi](https://osu.titanic.sh/u/39) | Since the beginning -> September 7th, 2024
@@ -79,6 +78,7 @@ User | Time in BAT
 [kanocchi](https://osu.titanic.sh/u/943) | July 15th, 2024[^5] -> June 17th, 2025
 [BlueChinchompa](https://osu.titanic.sh/u/40) | Since the beginning -> June 17th, 2025
 [fluxie31](https://osu.titanic.sh/u/517) | May 19th, 2024[^1] -> June 22nd, 2025[^8]
+[Genorocks100](https://osu.titanic.sh/u/1853) | April 9th, 2025 -> July 18th, 2025
 
 
 ## History
