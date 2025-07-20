@@ -23,3 +23,4 @@ User | Bancho account
 [EnzoSuperCraftZ](https://osu.titanic.sh/u/2588) | [EnzoSuperCraftZ](https://osu.ppy.sh/users/14421510)
 [559479](https://osu.titanic.sh/u/2769) | [milosz](https://osu.ppy.sh/users/13108233)
 [rat](https://osu.titanic.sh/u/160) | [Aireu](https://osu.ppy.sh/users/1650010)
+[Cl8n](https://osu.titanic.sh/u/3004) | [clayton](https://osu.ppy.sh/users/3666350)
