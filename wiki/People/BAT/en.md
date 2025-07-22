@@ -40,10 +40,10 @@ User | Specialization | Additional Languages Spoken | Added Date
 
 User | Specialization | Additional Languages Spoken | Added Date
 ---|:---:|:---:|---
-[willow](https://osu.titanic.sh/u/1088)         |   |          | February 5th, 2025
-[Yurizono Seia](https://osu.titanic.sh/u/2168)  |   |          | May 26th, 2025
-[Donkey Kong](https://osu.titanic.sh/u/1091)    |   |          | June 21th, 2025
-[gsxr4o0](https://osu.titanic.sh/u/2883)        |   | Filipino | July 21th, 2025
+[willow](https://osu.titanic.sh/u/1088)         |                     |               | February 5th, 2025
+[Yurizono Seia](https://osu.titanic.sh/u/2168)  |                     |               | May 26th, 2025
+[Donkey Kong](https://osu.titanic.sh/u/1091)    |                     |               | June 21th, 2025
+[gsxr4o0](https://osu.titanic.sh/u/2883)        | Taikosu hitsounding | Some Japanese | July 21th, 2025
 
 
 ### Catch the Beat team members
