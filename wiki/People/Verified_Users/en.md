@@ -1,6 +1,6 @@
 # Verified users
 
-Verified users are top players or content creators who have verified their identity.
+Verified users are notable users from the osu! community, who have verified their identity.
 
 
 ## Current Verified users
