@@ -16,6 +16,7 @@ This criteria may change in the future, due to increasing map requests and BAT m
 - **Difficulties must be at least 30 seconds long.**
 - **Maps should use as much of the audio file as reasonably possible.** If you have large portions unmapped, consider cutting the song.
 - **Maps must not use decimal settings.** (i.e AR9.3 -> 9)
+- **Maps must not use any backgrounds, music, or objects made with the use of generative tooling.**
 
 ### Spread
 
