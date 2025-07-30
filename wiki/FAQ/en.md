@@ -21,5 +21,6 @@ Yes, we are supporting the Relax and Autopilot mods, with one noticeable differe
 ## How can I submit a beatmap?
 
 There are two options for this:
+
 - Submit your own beatmap from the editor in-game
 - Request a map from the official osu! [beatmap listing](https://osu.ppy.sh/beatmapsets) to the [Map Requests](https://osu.titanic.sh/forum/11) subforum.
