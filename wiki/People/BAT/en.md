@@ -34,6 +34,7 @@ User | Specialization | Additional Languages Spoken | Added Date
 [Cartman](https://osu.titanic.sh/u/857)         |                     | Filipino                                    | May 28th, 2025[^2][^9]
 [pimpG](https://osu.titanic.sh/u/2719)          |                     | Portuguese                                  | June 16th, 2025
 [arutama](https://osu.titanic.sh/u/905)         |                     | Indonesian                                  | July 7th, 2025[^4][^10]
+[Sonnyc](https://osu.titanic.sh/u/3041)         |                     | Korean                                      | August 3rd, 2025
 
 
 ### Taiko team members
