@@ -25,3 +25,4 @@ User | Bancho account
 [rat](https://osu.titanic.sh/u/160) | [Aireu](https://osu.ppy.sh/users/1650010)
 [Cl8n](https://osu.titanic.sh/u/3004) | [clayton](https://osu.ppy.sh/users/3666350)
 [Sonnyc](https://osu.titanic.sh/u/3041) | [Sonnyc](https://osu.ppy.sh/users/11771)
+[Alvarobot](https://osu.titanic.sh/u/3147) | [A L E P H](https://osu.ppy.sh/users/6735738)
