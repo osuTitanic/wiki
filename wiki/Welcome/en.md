@@ -34,7 +34,7 @@ Once your download has finished, you should simply be able to open the beatmap *
 
 ### Step 4 - Play for fun or compete with other players!
 
-Once opened, osu! should start-up (and probably update). To start browsing your beatmap library just click the massive osu! circle in the middle, click "Play", "Solo". Your new beatmap (along with the tutorial) should be listed there. Choose the difficulty you want to play and you're off to become an osu! player! You may also play "Multi" instead of "Solo" where players will compete in live games. You can also be part of the fun.
+Once opened, osu! should start-up. To start browsing your beatmap library just click the massive osu! circle in the middle, click "Play", "Solo". Your new beatmap (along with the tutorial) should be listed there. Choose the difficulty you want to play and you're off to become an osu! player! You may also play "Multi" instead of "Solo" where players will compete in live games. You can also be part of the fun.
 
 ![Playing in osu!](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Welcome/img/step_4.png)
 
