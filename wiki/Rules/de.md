@@ -14,7 +14,7 @@ damit alle eine sichere und angenehme Erfahrung haben.
 
 2. **Spiele fair.**  
    Die Nutzung von Drittanbieter-Tools, die dir einen unfairen Vorteil 
-   verschaffen, führt zu einer Einschränkung. Dazu gehören Programme wie 
+   verschaffen, führt zu einem Account Ban. Dazu gehören Programme wie 
    Macros, Cheat Engine, Aim-Assist, Timewarp usw. Auch das Ausnutzen von Bugs 
    oder unbeabsichtigtem Verhalten im Client ist streng verboten. Wenn dir 
    verdächtiges Verhalten auffällt, melde es bitte über ein Ticket im 
