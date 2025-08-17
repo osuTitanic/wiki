@@ -4,7 +4,7 @@ Witamy na Titanic! Zanim zaczniesz, prosimy o zapoznanie się z zasadami, aby Tw
 
 ## Zasady społeczności
 
-1. **Każdy użytkownik może mieć tylko *jedno* konto!** Jedyny wyjątek to konta botów lub inne projekty, ale musisz najpierw poinformować administrację, abyśmy mogli to zatwierdzić. Jeśli nie masz dostępu do swojego maila albo zapomniałeś hasła, otwórz zgłoszenie na serwerze [Discord](https://discord.gg/qryYG2C5nc) lub napisz na [e-mail wsparcia](mailto:support@titanic.sh).
+1. **Każdy użytkownik może mieć tylko *jedno* konto!** Jedyny wyjątek to konta botów lub inne projekty, ale musisz najpierw poinformować administrację, abyśmy mogli to zatwierdzić. Jeśli nie masz dostępu do swojego maila albo zapomniałeś hasła, otwórz zgłoszenie na serwerze [Discord](https://discord.gg/qryYG2C5nc) lub napisz e-mail do [wsparcia](mailto:support@titanic.sh).
 
 2. **Graj fair.** Używanie jakichkolwiek zewnętrznych narzędzi dających nieuczciwą przewagę skończy się blokadą konta. Dotyczy to m.in. makr, cheat engine, programów aim-assist, timewarp i podobnych. Wykorzystywanie bugów lub niezamierzonego działania klienta również jest zabronione. Jeśli zauważysz podejrzane zachowanie, zgłoś to na serwerze [Discord](https://discord.gg/qryYG2C5nc) lub przez [e-mail wsparcia](mailto:support@titanic.sh).
 
@@ -32,7 +32,7 @@ Witamy na Titanic! Zanim zaczniesz, prosimy o zapoznanie się z zasadami, aby Tw
 
 2. **Nie komentuj osób, które dostały wyciszenie lub blokadą konta.** To sprawa między nimi a administracją.
 
-3. **Nie nękaj użytkowników po zablokowaniu.** Jeśli ktoś Cię zablokował, to znaczy, że nie chce z Tobą rozmawiać. Próby obejścia blokady – zwłaszcza w celu trollowania, prowokowania czy nękania – są poważnym naruszeniem zasad i skończą się uciszone lub inną karą.   Jeśli ktoś Cię nęka albo grozi Twojemu bezpieczeństwu, otwórz zgłoszenie na [Titanic Discord](https://discord.gg/qryYG2C5nc) lub napisz na [support email](mailto:support@titanic.sh).
+3. **Nie nękaj użytkowników po zablokowaniu.** Jeśli ktoś Cię zablokował, to znaczy, że nie chce z Tobą rozmawiać. Próby obejścia blokady – zwłaszcza w celu trollowania, prowokowania czy nękania – są poważnym naruszeniem zasad i skończą się uciszeniem lub inną karą. Jeśli ktoś Cię nęka albo grozi Twojemu bezpieczeństwu, otwórz zgłoszenie na serwerze [Discord](https://discord.gg/qryYG2C5nc) lub napisz e-mail do [wsparcia](mailto:support@titanic.sh).
 
 ## Zasady forum
 
