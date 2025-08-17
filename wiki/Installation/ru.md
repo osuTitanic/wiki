@@ -34,13 +34,13 @@
 
 ### Шаг 1: Подготовка
 
-**Установка через git**
+**Установка git**
 
 Ubuntu/Debian: `sudo apt install -y git`                                                                                                                   
 Arch Linux: `sudo pacman -Sy --needed  --noconfirm git`                                                                                                    
 Fedora: `sudo dnf install -y git`
 
-**Установка через Lutris**
+**Установка Lutris**
 
 Ubuntu/Debian: https://github.com/lutris/lutris/releases (Get the .deb package from here)
 Arch Linux: `sudo pacman -S lutris`                                                                                                                        
