@@ -46,5 +46,5 @@ Witamy na Titanic! Zanim zaczniesz, prosimy o zapoznanie się z zasadami, aby Tw
 
 Istnieją 2 główne sposoby zgłaszania naruszeń do administracji:
 
-- Otworzenie zgłoszenia na [serwerze Discord Titanic!](https://discord.gg/qryYG2C5nc)  
+- Otworzenie zgłoszenia na serwerze [Discord](https://discord.gg/qryYG2C5nc)  
 - Napisanie maila na [support@titanic.sh](mailto:support@titanic.sh)
