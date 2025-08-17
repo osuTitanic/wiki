@@ -18,9 +18,7 @@ Witamy na Titanic! Zanim zaczniesz, prosimy o zapoznanie się z zasadami, aby Tw
 
 7. **Celowe nadużycia serwera.** Próby przeciążenia, DDoS czy inne ataki na serwery Titanic są zabronione i skończą się blokadą konta konta.
 
-8. **Niechciane reklamy** są zakazane.  
-   Każda treść promocyjna musi być wcześniej zatwierdzona przez członka administracji.
-   Złamanie tej zasady może skończyć się uciszone konta.
+8. **Niechciane reklamy** są zakazane. Każda treść promocyjna musi być wcześniej zatwierdzona przez członka administracji. Złamanie tej zasady może skończyć się uciszeniem konta.
 
 9. **Wycieki kodu źródłowego.** Wzmianki, udostępnianie czy pokazywanie wyciekniętego kodu źródłowego osu! są zabronione. To tylko niepotrzebna robota dla peppy’ego.
 
