@@ -36,7 +36,7 @@ damit alle eine sichere und angenehme Erfahrung haben.
    schaden, wird sofort gesperrt. Ja, das heißt auch: Sich "BTMC" nennen 
    und einen Krypto-Scam bewerben ist nicht erlaubt.
 
-6. **Modifizierte osu!-Clients** sind auf Titanic erlaubt, müssen aber vorher 
+6. **Modifizierte osu!-Clients** sind auf Titanic *erlaubt*, müssen aber vorher 
    von einem Server-Admin genehmigt werden. Wer versucht, dies zu umgehen, wird 
    gesperrt.
 
