@@ -30,7 +30,7 @@ damit alle eine sichere und angenehme Erfahrung haben.
    Inhalte mit Drogenkonsum oder sexuellen Themen sind hier nicht erwünscht. 
    Heb dir das bitte für dich auf.
 
-5. **Böswillige Imitation**
+5. **Böswillige Imitation**  
    Das ausgeben als andere Personen ist streng verboten.  
    Wer versucht, sich als jemand anderes auszugeben, um zu täuschen oder zu 
    schaden, wird sofort gesperrt. Ja, das heißt auch: Sich "BTMC" nennen 
