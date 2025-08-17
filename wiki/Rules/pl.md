@@ -38,7 +38,7 @@ Witamy na Titanic! Zanim zaczniesz, prosimy o zapoznanie się z zasadami, aby Tw
 
 1. **Spamowanie wieloma postami w jednym wątku jest zabronione.** Nie pisz kilku wiadomości pod rząd ani nie zalewaj wątku zbędnymi treściami. Jeśli chcesz coś dodać – użyj przycisku edycji. Nadmierne spamowanie psuje dyskusję i może skończyć się usunięciem postów lub karą.
 
-2. **Nie odkopuj starych wątków (starszych niż 3 miesiące).** Dotyczy to działów *General Discussion* i *Off-Topic*. Ożywianie starych tematów bez wniesienia czegoś nowego tylko miesza i utrudnia dyskusję. Jeśli temat jest nadal aktualny – załóż nowy wątek. Powtarzające się necro-posty skończą się ostrzeżeniem, a w przypadku dalszego łamania zasady – uciszone.
+2. **Nie odkopuj starych wątków (starszych niż 3 miesiące).** Dotyczy to działów *General Discussion* i *Off-Topic*. Ożywianie starych tematów bez wniesienia czegoś nowego tylko miesza i utrudnia dyskusję. Jeśli temat jest nadal aktualny – załóż nowy wątek. Powtarzające się necro-posty skończą się ostrzeżeniem użytkownika, a w przypadku dalszego łamania zasady – uciszeniem użytkownika.
 
 ## Zgłaszanie naruszeń / Kontakt z supportem
 
