@@ -42,7 +42,7 @@ damit alle eine sichere und angenehme Erfahrung haben.
 
 7. **Absichtlicher Servermissbrauch.**  
    Versuche, Titanic-Server zu überlasten, zu DDoS-en oder anderweitig zu 
-   stören, sind streng verboten und führen zu einer Einschränkung.
+   stören, sind streng verboten und führen zu einem Account Ban.
 
 8. **Unerwünschte Werbung** ist verboten.  
    Jeglicher Werbe- oder Promo-Content muss vorher von einem Teammitglied 
