@@ -12,7 +12,7 @@ Witamy na Titanic! Zanim zaczniesz, prosimy o zapoznanie się z zasadami, aby Tw
 
 4. **Zero treści NSFW/18+.** Treści związane z narkotykami czy tematyką seksualną nie są tu mile widziane.
 
-5. **Podszywanie się pod innych** jest surowo zabronione. Próby udawania kogoś w celu oszukania lub zaszkodzenia skończą się natychmiastową blokadą konta. Tak, to znaczy, że nazywanie się „BTMC” i reklamowanie swojego krypto-scamu też odpada.
+5. **Podszywanie się pod innych** jest surowo zabronione. Próby udawania kogoś w celu oszukania lub zaszkodzenia skończą się natychmiastową blokadą konta. Tak, to znaczy, że nazwanie się „BTMC” i reklamowanie swojego krypto-scamu też odpada.
 
 6. **Zmodyfikowane klienty osu!** są dozwolone na Titanic, ale muszą być wcześniej zatwierdzone przez administrację. Próba obejścia tego wymogu skończy się blokadą konta.
 
