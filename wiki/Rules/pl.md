@@ -32,7 +32,7 @@ Witamy na Titanic! Zanim zaczniesz, prosimy o zapoznanie się z zasadami, aby Tw
 
 2. **Nie wspominaj o osobach, które zostały uciszone lub otrzymały blokadę.** To sprawa między nimi a administracją.
 
-3. **Nie nękaj użytkowników po zablokowaniu.** Jeśli ktoś Cię zablokował, to znaczy, że nie chce z Tobą rozmawiać. Próby obejścia blokady – zwłaszcza w celu trollowania, prowokowania czy nękania – są poważnym naruszeniem zasad i skończą się uciszeniem lub inną karą. Jeśli ktoś Cię nęka albo grozi Twojemu bezpieczeństwu, otwórz zgłoszenie na serwerze [Discord](https://discord.gg/qryYG2C5nc) lub napisz e-mail do [wsparcia](mailto:support@titanic.sh).
+3. **Nie nękaj użytkowników po zablokowaniu.** Jeśli ktoś Cię zablokował, to znaczy, że nie chce z Tobą rozmawiać. Próby obejścia blokady – zwłaszcza w celu trollowania, prowokowania czy nękania – są poważnym naruszeniem zasad i skończą się uciszeniem lub inną karą. Jeśli ktoś Cię nęka albo zagraża Twojemu bezpieczeństwu, otwórz zgłoszenie na serwerze [Discord](https://discord.gg/qryYG2C5nc) lub napisz e-mail do [wsparcia](mailto:support@titanic.sh).
 
 ## Zasady forum
 
