@@ -8,7 +8,7 @@ Witamy na Titanic! Zanim zaczniesz, prosimy o zapoznanie się z zasadami, aby Tw
 
 2. **Graj fair.** Używanie jakichkolwiek zewnętrznych narzędzi dających nieuczciwą przewagę skończy się blokadą konta. Dotyczy to m.in. makr, cheat engine, programów aim-assist, timewarp i podobnych. Wykorzystywanie bugów lub niezamierzonego działania klienta również jest zabronione. Jeśli zauważysz podejrzane zachowanie, zgłoś to na serwerze [Discord](https://discord.gg/qryYG2C5nc) lub przez [e-mail wsparcia](mailto:support@titanic.sh).
 
-3. **Bądź miły dla innych.**  Hejt, rasizm czy prowokacje nie mają tu miejsca! Titanic to serwer o klikaniu kółek, łapaniu owoców, graniu na bębnach i udawaniu Cookieziego na starych mapach – a nie o byciu niemiłym dla innych.
+3. **Bądź miły dla innych.** Hejt, rasizm czy prowokacje nie mają tu miejsca! Titanic to serwer o klikaniu kółek – a nie o byciu niemiłym dla innych.
 
 4. **Zero treści NSFW/18+.** Treści związane z narkotykami czy tematyką seksualną nie są tu mile widziane.
 
