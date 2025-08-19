@@ -30,7 +30,7 @@ Witamy na Titanic! Zanim zaczniesz, prosimy o zapoznanie się z zasadami, aby Tw
 
 1. **Szanuj innych na kanale.** Unikaj floodowania i spamu. Zajmowanie połowy ekranu samemu jest irytujące, więc postaraj się tego nie robić.
 
-2. **Nie komentuj osób, które dostały wyciszenie lub blokadą konta.** To sprawa między nimi a administracją.
+2. **Nie komentuj osób, które zostały uciszone lub otrzymały blokadę.** To sprawa między nimi a administracją.
 
 3. **Nie nękaj użytkowników po zablokowaniu.** Jeśli ktoś Cię zablokował, to znaczy, że nie chce z Tobą rozmawiać. Próby obejścia blokady – zwłaszcza w celu trollowania, prowokowania czy nękania – są poważnym naruszeniem zasad i skończą się uciszeniem lub inną karą. Jeśli ktoś Cię nęka albo grozi Twojemu bezpieczeństwu, otwórz zgłoszenie na serwerze [Discord](https://discord.gg/qryYG2C5nc) lub napisz e-mail do [wsparcia](mailto:support@titanic.sh).
 
