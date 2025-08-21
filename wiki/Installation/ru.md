@@ -87,7 +87,7 @@ https://github.com/NelloKudo/osu-winello/wiki/Installing-PipeWire
 ![Screenshot_20240725_133325](https://github.com/user-attachments/assets/204cec89-e219-4b7e-8df1-9c1b1b4fc362)
 
 
-В настройках программы:
+**В настройках программы:**
 
 Укажите исполняемый файл osu.exe на тот, что находится в папке распакованного архива.
  
@@ -100,7 +100,7 @@ https://github.com/NelloKudo/osu-winello/wiki/Installing-PipeWire
 ![image](https://github.com/user-attachments/assets/cbd17b4e-d8f2-47fc-96f5-e27df50a9941)
 
 
-В настройках загрузчика:
+**В настройках загрузчика:**
  
 Укажите wine-osu как версию Wine:
 
@@ -115,7 +115,7 @@ https://github.com/NelloKudo/osu-winello/wiki/Installing-PipeWire
 
 ![image](https://github.com/user-attachments/assets/b3b4e8ff-7ef5-40a2-bb26-b1106159eaea)
 
-В системных настройках:
+**В системных настройках:**
  
 Активируйте расширенный режим и включите "Disable desktop effects":
 
@@ -125,7 +125,7 @@ https://github.com/NelloKudo/osu-winello/wiki/Installing-PipeWire
 
 ![image](https://github.com/user-attachments/assets/d88718f4-580a-41eb-88dd-dc7f74fdc9d4)
 
-пролистайте вниз до переменных среды.
+Пролистайте вниз до переменных среды.
 Нажмите кнопку "Add".
 Добавьте переменную "WINE_BLOCK_GET_VERSION" со значением 1.
 
