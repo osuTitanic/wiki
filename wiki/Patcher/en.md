@@ -10,12 +10,20 @@ Follow the steps below to get everything set up!
 The first step is to obtain the game itself.
 Most people use [Osekai Snapshots](https://osekai.net/snapshots/) for this purpose, as it provides a large collection of archived versions.
 
+![Osekai Snapshots Download](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Patcher/img/osekai.jpg)
+
+![Osekai Snapshots Download](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Patcher/img/osu-folder.jpg)
+
 ## Step 2: Download the latest version of Titanic! Patcher
 
 Titanic! Patcher is fully open-source and available for download on the GitHub [Release Page](https://github.com/osuTitanic/hook/releases).  
 Find the latest version and download the **Titanic.netxx.exe** file.
 
+![Patcher Download](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Patcher/img/titanic-patcher-download.jpg)
+
 Once downloaded, place the *.exe* file into your osu! installation folder and double-click it. That’s it - you’re ready to go!
+
+![Launch](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Patcher/img/titanic-patcher-launch.jpg)
 
 ### Choosing the right .NET Framework version
 
