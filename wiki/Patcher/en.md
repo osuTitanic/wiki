@@ -1,5 +1,7 @@
 # Titanic! Patcher
 
+[TOC]
+
 Introducing **Titanic! Patcher** - a new way of playing Titanic.  
 Instead of downloading a pre-patched version from Titanic's servers, you can now use the original, untouched game files.
 
