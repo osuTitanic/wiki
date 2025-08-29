@@ -8,8 +8,7 @@ To begin playing on Titanic! you can head over to the [Download page](https://os
 
 After it finishes installing, all you have to do is extract the folder and double-click `osu!.exe`.
 
-There is a chance that Windows Defender may block it, since the game is unsigned (a certificate for that would cost 200$).  
-An alternative would be to use the [[Patcher]], which is still experimental, but does not get blocked by Windows Defender from our testing.
+There is a chance that Windows Defender may block it, since the game is unsigned (a certificate for that would cost 200$). An alternative would be to use the [[Patcher]], which is still experimental, but does not get blocked by Windows Defender from our testing.
 
 ## Registering an account
 
