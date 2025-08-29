@@ -28,8 +28,8 @@ Once downloaded, place the *.exe* file into your osu! installation folder and do
 ### Choosing the right .NET Framework version
 
 osu! switched from .NET 2.0 to .NET 4.0 in 2015.  
-- Versions released before 2015 most likely require **.NET 2.0**.  
-- Versions released after 2015 most likely require **.NET 4.0**.
+- Versions released before 2015 most likely require **.NET 2.0**  
+- Versions released after 2015 most likely require **.NET 4.0**
 
 If you encounter a *.NET Framework runtime version mismatch!* error when launching the client, simply try the other version of the patcher.
 
