@@ -6,7 +6,7 @@ The Alumni are a group of members who contributed to Titanic in some way, either
 
 User | Past roles
 ---|---
-[Rory](https://osu.titanic.sh/u/9) | Initial server loadtesting
+[Rory](https://osu.titanic.sh/u/9) | Development guidance & Loadtesting
 [ZRD](https://osu.titanic.sh/u/277) | Client patching
 [wrn81056](https://osu.titanic.sh/u/645) | BAT
 [Syarika](https://osu.titanic.sh/u/1730) | BAT
@@ -19,3 +19,5 @@ User | Past roles
 [kanocchi](https://osu.titanic.sh/u/943) | BAT
 [fluxie31](https://osu.titanic.sh/u/517) | BAT
 [Genorocks100](https://osu.titanic.sh/u/1853) | BAT
+[Cartman](https://osu.titanic.sh/u/857) | BAT
+[Dark](https://osu.titanic.sh/u/812) | BAT
