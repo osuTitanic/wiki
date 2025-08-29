@@ -33,9 +33,11 @@ osu! switched from .NET 2.0 to .NET 4.0 in 2015.
 
 If you encounter a *.NET Framework runtime version mismatch!* error when launching the client, simply try the other version of the patcher.
 
-### Version for "testers only"
+### Versions for "testers only"
 
 ![Example](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Patcher/img/testers-only.jpg)
 
-You may encounter a message saying that "The version of osu! you are using is made for testers only.".  
-This simply means that the version you are trying to use has not been tested yet, or is too new.
+You may see a message saying:  
+**"The version of osu! you are using is made for testers only."**.
+
+This simply means that the version you're trying to run has not been tested with Titanic! yet, or it's simply too new to be supported.
