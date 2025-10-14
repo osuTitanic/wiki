@@ -14,4 +14,4 @@ User | Added Date
 
 User | Time Spent
 ---|---
-[iSlodinx](https://osu.titanic.sh/u/869) | October 19th, 2024 -> ???
+[iSlodinx](https://osu.titanic.sh/u/869) | October 19th, 2024 -> August 17th, 2025

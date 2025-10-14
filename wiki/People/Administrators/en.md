@@ -22,7 +22,7 @@ User | Role | Added Date
 
 User | Role | Time Spent
 ---|:---:|---
-[iSlodinx](https://osu.titanic.sh/u/869) | Global Moderator | June 28th, 2025 -> ???
+[iSlodinx](https://osu.titanic.sh/u/869) | Global Moderator | June 28th, 2025 -> August 17th, 2025
 
 <!--This will need further information if there are others 
 

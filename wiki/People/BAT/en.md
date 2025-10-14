@@ -82,7 +82,7 @@ User | Time in BAT
 [Genorocks100](https://osu.titanic.sh/u/1853) | April 9th, 2025 -> July 18th, 2025
 [Cartman](https://osu.titanic.sh/u/857) | May 28th, 2025([^2])([^9]) -> August 28th, 2025
 [Dark](https://osu.titanic.sh/u/812) | March 18th, 2025 -> August 28th, 2025
-[iSlodinx](https://osu.titanic.sh/u/869) | May 29th, 2024 -> ???
+[iSlodinx](https://osu.titanic.sh/u/869) | May 29th, 2024 -> August 17th, 2025
 
 
 ## History
