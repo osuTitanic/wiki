@@ -18,8 +18,13 @@ User | Role | Added Date
 [iSlodinx](https://osu.titanic.sh/u/869)         | Global Moderator and Wiki Maintainer | June 28th, 2025
 
 
-<!-- ## Past Members
-This will need further information if there are others 
+## Past Members
+
+User | Role | Time Spent
+---|:---:|---
+[iSlodinx](https://osu.titanic.sh/u/869) | Global Moderator | June 28th, 2025 -> ???
+
+<!--This will need further information if there are others 
 
 Also should the Alumni members be included in here or in it's own section? I feel it should be it's own section that's why I'm not putting them here
 -->
