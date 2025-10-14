@@ -24,7 +24,7 @@ Members of the Beatmap Approval Team are responsible primarily for managing the 
 User | Specialization | Additional Languages Spoken | Added Date
 ---|:---:|:---:|---
 [Digitalfear117](https://osu.titanic.sh/u/809)  | Beatmap File Expert |                                             | May 29th, 2024
-[Satori](https://osu.titanic.sh/u/810)          |                     | Croatian                                    | May 22nd, 2024([^3])
+[kingkurboh335](https://osu.titanic.sh/u/810)   |                     | Croatian                                    | May 22nd, 2024([^3])
 [Nikku](https://osu.titanic.sh/u/811)           | Storyboarding       |                                             | May 19th, 2024([^1])
 [Oposh](https://osu.titanic.sh/u/829)           |                     | Polish                                      | May 19th, 2024([^1])
 [[Kagamine Rin]](https://osu.titanic.sh/u/813)  |                     | Dutch                                       | August 19th, 2024
