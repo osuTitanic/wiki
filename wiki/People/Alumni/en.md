@@ -21,4 +21,4 @@ User | Past roles
 [Genorocks100](https://osu.titanic.sh/u/1853) | BAT
 [Cartman](https://osu.titanic.sh/u/857) | BAT
 [Dark](https://osu.titanic.sh/u/812) | BAT
-[iSlodinx](https://osu.titanic.sh/u/869) | BAT and GMT
+[iSlodinx](https://osu.titanic.sh/u/869) | BAT, GMT and Wiki Maintainer
