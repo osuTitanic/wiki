@@ -40,7 +40,6 @@ User | Specialization | Additional Languages Spoken | Added Date
 User | Specialization | Additional Languages Spoken | Added Date
 ---|:---:|:---:|---
 [willow](https://osu.titanic.sh/u/1088)         |                     |               | February 5th, 2025
-[Yurizono Seia](https://osu.titanic.sh/u/2168)  |                     |               | May 26th, 2025
 [Donkey Kong](https://osu.titanic.sh/u/1091)    |                     |               | June 21th, 2025
 [gsxr4o0](https://osu.titanic.sh/u/2883)        | Taikosu hitsounding | Some Japanese | July 21th, 2025
 
@@ -83,6 +82,7 @@ User | Time in BAT
 [Cartman](https://osu.titanic.sh/u/857) | May 28th, 2025([^2])([^9]) -> August 28th, 2025
 [Dark](https://osu.titanic.sh/u/812) | March 18th, 2025 -> August 28th, 2025
 [iSlodinx](https://osu.titanic.sh/u/869) | May 29th, 2024 -> August 17th, 2025
+[Yurizono Seia](https://osu.titanic.sh/u/2168)  May 26th, 2025 -> August 22nd, 2025
 
 
 ## History
