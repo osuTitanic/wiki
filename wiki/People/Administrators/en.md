@@ -15,7 +15,6 @@ User | Role | Added Date
 [Hatate Himekaidou](https://osu.titanic.sh/u/85) | Global Moderator | June 28th, 2025
 [vg185](https://osu.titanic.sh/u/568)            | Global Moderator | June 28th, 2025
 [Digitalfear117](https://osu.titanic.sh/u/809)   | Global Moderator and Wiki Maintainer | June 28th, 2025
-[iSlodinx](https://osu.titanic.sh/u/869)         | Global Moderator and Wiki Maintainer | June 28th, 2025
 
 
 ## Past Members
