@@ -31,7 +31,7 @@ Once downloaded, place the *.exe* file into your osu! installation folder and do
 
 It is recommended to use the .NET 4.0 version of the patcher, as it's compatible with every osu! version, saves some headaches, is compatible out of the box with osu-wine, and might provide better performance.
 
-However, there is additionally a .NET 2.0 version of the patcher that's compatible only with versions before the middle of 2015, which might fix some unexpected issues. It also works on very old operating systems (Windows 2000 and Windows XP before Service Pack 2).
+Additionally, there is a .NET 2.0 version of the patcher that's compatible only with versions before the middle of 2015, which might fix some unexpected issues. It also works on very old operating systems (Windows 2000 and Windows XP before Service Pack 2).
 
 ### Versions for "testers only"
 
