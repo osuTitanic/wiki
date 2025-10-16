@@ -49,12 +49,12 @@ Flatpak: `flatpak install flathub net.lutris.Lutris`
 
 **Install graphics drivers**
 
-If you haven't done so, you can refer to this guide:
+If you haven't done so, you can refer to this guide:  
 <https://github.com/lutris/docs/blob/master/InstallingDrivers.md>
 
 **Pipewire**
 
-Pipewire performs much better on osu! than Pulseaudio, you can install it by following this guide:
+Pipewire performs much better on osu! than Pulseaudio, you can install it by following this guide:  
 <https://github.com/NelloKudo/osu-winello/wiki/Installing-PipeWire>
 
 ### Step 2: Installation of osu-winello
@@ -133,7 +133,7 @@ Now from here you can launch osu! and enjoy!
 
 **Note for Wayland users**
 
-You may have to apply the tweaks listed here:
+You may have to apply the tweaks listed here:  
 <https://github.com/NelloKudo/osu-winello/wiki/Wayland-support>
 
 If you have any issues do not be afraid to ask in the [Titanic! Discord server](https://discord.gg/qupv72e7YH) or in the [support sub-forum](https://osu.titanic.sh/forum/7).
