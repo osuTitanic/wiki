@@ -47,9 +47,9 @@ Arch Linux: `sudo pacman -S lutris`
 Fedora: `sudo dnf install lutris`  
 Flatpak: `flatpak install flathub net.lutris.Lutris` 
 
-**Install needed drivers**
+**Install graphics drivers**
 
-You can refer to this guide:
+If you haven't done so, you can refer to this guide:
 <https://github.com/lutris/docs/blob/master/InstallingDrivers.md>
 
 **Pipewire**
