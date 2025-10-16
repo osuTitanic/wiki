@@ -35,3 +35,16 @@ To disable SIP, do the following:
 6. Run the command `csrutil disable`.
 7. Restart your computer. You can do so from the top menu bar (just like you would normally.)
 8. Once you have SIP disabled, let it boot up normally, login, and you can then begin to install osu!.
+
+### Troubleshooting with osu!macOS Agent
+
+If you encounter issues with the installation process, you might want to try the **osu!macOS Agent**, developed by [Technocoder](https://osu.ppy.sh/users/10338558). You can download it from the [macOS Installation Guide](https://osu.ppy.sh/community/forums/topics/1106057) forum post.
+
+1. Open osu!macOS Agent
+2. Select your osu! application package
+3. Click on the *Troubleshoot* tab
+4. Click the *Scan* button
+5. Click the *Repair* button
+6. Now restart osu! to see if your issue was fixed
+
+There's still a good chance that it will not work. If that is the case, don't be afraid to ask for support in the [Titanic! Discord server](https://discord.gg/qryYG2C5nc) or in the [support sub-forum](https://osu.titanic.sh/forum/7).
