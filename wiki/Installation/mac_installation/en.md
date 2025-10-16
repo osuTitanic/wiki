@@ -17,13 +17,9 @@ Make sure your Mac is running a operating system above *High Sierra*, as it is r
 
 ## Installation
 
-1. Grab the whole package by clicking on "Code" and then "Download as ZIP". This will make it all into one big file. It is a big one, so please be patient on the download time as it can vary depending on your internet.
-2. Go to the [Titanic downloads page](https://osu.titanic.sh/download/). Choose a client you'd like to use. Once you have chosen one, download it and wait for it to finish downloading.
-3. Move the two files to the desktop and then extract them. Once extracted, head into the package on the osu! application by right/left clicking and clicking on Show Package Contents. Do not touch or go inside any other folders. There should be a "Wineskin" application in there. Once found, click on it. There should be 3 options: "Install Software", which is what we want to do, "Set Screen Options", and "Advanced". Click on "Install Software" and click on the second option. Navigate to where the folder is and click on it.
-Head in to the osu! app again and locate a folder called "drive_c". Then navigate to the folder "Program Files" (not the x86 one) and then make a alias by right clicking on the client folder and then clicking on Make Alias. After it is made, drag it to the desktop and delete the alias in the folder. This will work, it is a link in a way to the folder.
-Go into Wineskin, then click on "Install Software". Click on the top option and then locate the alias. After clicking on the alias, find the `.exe` file and click on it.
-
-It will say that it is busy, but it will launch and it should ask you for your credentals. If you have them. Login or create your account on the website.
+1. Make sure you have downloaded a client from the [downloads page](https://osu.titanic.sh/download/) and the correct *wineskin*, as outlined in the beginning of this document.
+2. Move the two files to the desktop and then extract them. Once extracted, head into the package on the osu! application by right-clicking and selecting *Show Package Contents*.
+3. Now navigate to **drive_c -> osu!**. Here's the location where we're going to place the osu! client. Go back to your Downloads folder, where you extracted your desired client, copy every file thats inside, and paste it inside the **drive_c -> osu!** folder.
 
 ### Disabling System Integrity Protection (SIP)
 
