@@ -22,7 +22,7 @@ After you create your account you will be prompted to verify your email:
 
 ## Linux Installation
 
-### Step 1: Prerequisites
+### Prerequisites
 
 **Install git**
 
@@ -47,7 +47,7 @@ If you haven't done so, you can refer to this guide:
 Pipewire performs much better on osu! than Pulseaudio, you can install it by following this guide:  
 <https://github.com/NelloKudo/osu-winello/wiki/Installing-PipeWire>
 
-### Step 2: Installation of osu-winello
+### Installation of osu-winello
 
 ```
 git clone https://github.com/NelloKudo/osu-winello.git
@@ -56,13 +56,13 @@ chmod +x ./osu-winello.sh
 ./osu-winello.sh
 ```
 
-### Step 3: Download the Titanic client
+### Download the Titanic client
 
 You can download any version from [here](https://osu.titanic.sh/download/)
 
 ![BuildDownloadSmall](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Installation/img/BuildDownloadSmall.png)
 
-### Step 5: Install Titanic through Lutris
+### Install Titanic through Lutris
 
 Unzip the .zip file downloaded from the Titanic site, you will get your osu! installation.  
 Secondly open Lutris and let it load fully for first startup.  
