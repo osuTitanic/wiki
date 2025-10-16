@@ -14,7 +14,7 @@ If you are completely new to osu!, it is recommended that you play the tutorial 
 
 What is a beatmap you might ask? Just like any game, it will have levels, or sometimes maps. Well in osu!, we have "Beatmaps" which are exactly what you think they are, they are maps with beat (rhythm). Finding beatmaps for songs is easy! You can find every submitted beatmap [here](https://osu.titanic.sh/beatmapsets). You can type anything related to your search: song's name, artist's name, album's name, even the genre! For this example we'll try find "Coldplay - Don't Let It Break Your Heart"
 
-![Using beatmap search](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Welcome/img/step_1.png)
+![Using beatmap search](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Welcome/img/step_1.jpg)
 
 ### Step 2 - Download it!
 
@@ -22,7 +22,7 @@ If there is an approved beatmap version of the song you are looking for, you sho
 
 Once on the beatmap's page, there should be a giant "Download Beatmap" button (you have to be signed in first, otherwise, a yellow button will direct you to sign-in).
 
-![Downloading a beatmap](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Welcome/img/step_2.png)
+![Downloading a beatmap](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Welcome/img/step_2.jpg)
 
 **Note:** It doesn't matter where you save the file as long as you can find it once the download is finished. Also, you can choose to directly open it but will force your osu! to start-up if it's not activated. 
 
@@ -30,13 +30,13 @@ Once on the beatmap's page, there should be a giant "Download Beatmap" button (y
 
 Once your download has finished, you should simply be able to open the beatmap **.osz** file. If for some reason that doesn't suit you, you might want to hold & drag the file into the osu! window.
 
-![Opening the file](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Welcome/img/step_3.png)
+![Opening the file](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Welcome/img/step_3.jpg)
 
 ### Step 4 - Play for fun or compete with other players!
 
 Once opened, osu! should start-up. To start browsing your beatmap library just click the massive osu! circle in the middle, click "Play", "Solo". Your new beatmap (along with the tutorial) should be listed there. Choose the difficulty you want to play and you're off to become an osu! player! You may also play "Multi" instead of "Solo" where players will compete in live games. You can also be part of the fun.
 
-![Playing in osu!](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Welcome/img/step_4.png)
+![Playing in osu!](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Welcome/img/step_4.jpg)
 
 There we go! Now you're ready to play osu! and find your favorite songs. If you're having any issues, feel free to ask for help in the forums or in-game (press F8 to open chat window, under #osu).
 
@@ -78,7 +78,7 @@ Achievements are little badges on one's profile which indicate that someone has 
 
 Knowing the basics on how the Chat Console works is important to those who are interested into making new friends in our friendly environment. It's also important to understand how to use it in case someone messages you (unlikely to happen unless you are well-known), telling you tips or asking for help themselves. There is a button to open up the chat on the bottom right of the screen but it's way quicker to just press F8 on your keyboard. You will have a few tabs like "#osu!", "#announce", "#userlog" or if you're in a conversation with someone, you'll see their name as a separate tab. Navigating through the tabs is extremely easy, just press on the tab and type your message then press "ENTER" to send the message to the opened tab. Regardless, please do not spam (continuously sending short messages into the chat) as doing so will automatically mute your account for a few minutes and your "hard-work" removed from the chat. You can press "F9" to open the user list (called Extended Chat Console) connected to the server, and you can apply filter to narrow down your search. 
 
-![Extended Chat Console](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Welcome/img/chat.png)
+![Extended Chat Console](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Welcome/img/chat.jpg)
 
 Those are the basics, don't be shy to ask for help in-game or in forums, also the osu!wiki is here to help understand the game more.
 
