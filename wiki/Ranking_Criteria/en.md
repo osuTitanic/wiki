@@ -5,18 +5,22 @@ The ranking criteria mostly follows the [original one](https://osu.ppy.sh/wiki/e
 
 The rules also have been simplified, to give mappers a clearer perspective on what's required to create a rankable map. Sections that are not covered in this document should be referenced from [here](https://osu.ppy.sh/wiki/en/Ranking_criteria).
 
-For a map to be ranked, it has to follow this ranking criteria, as well be reviewed by at least **2 independent [BAT members](https://osu.lekuru.xyz/g/3)**, plus one for each mode. This means, that a BAT can't approve their own beatmap and beatmaps with multiple game modes also require approval from more BAT members of that game mode.
+[TOC]
+
+For a map to be ranked, it has to follow this ranking criteria, as well be reviewed by at least **2 independent [BAT members](https://osu.titanic.sh/g/3)**, plus one for each mode. This means, that a BAT can't approve their own beatmap and beatmaps with multiple game modes also require approval from more BAT members of that game mode.
 This criteria may change in the future, due to increasing map requests and BAT members.
 
 # Beatmap
 
 - **Make sure everything in the map is cleared in terms of [content usage permissions](https://osu.ppy.sh/wiki/Rules/Content_usage_permissions#artist-permissions).**
-- **Maps must be at least 30 seconds long.**
-- **Maps should use at least [80%](https://osu.ppy.sh/wiki/images/Ranking_criteria/Simplified_ranking_criteria/img/percent.png) of the audio file.** If you want to end the map earlier, try cutting the song.
+- **Difficulties must be at least 30 seconds long.**
+- **Maps should use as much of the audio file as reasonably possible.** If you have large portions unmapped, consider cutting the song.
 - **Maps must not use decimal settings.** (i.e AR9.3 -> 9)
+- **Maps must not use any backgrounds, music, or objects made with the use of generative tooling.**
 
 ### Spread
 
+- **Mapsets must have a total drain time of at least 90 seconds (1 minute and 30 seconds).**
 - **Difficulty names must have progression.**
   - Easy -> Normal -> Hard -> Insane -> Expert is default.
   - Logical naming schemes like Seed -> Sprout -> Tree are okay too.
@@ -32,6 +36,11 @@ This criteria may change in the future, due to increasing map requests and BAT m
   - These sliders get converted to the Catmull curve type on older clients. This causes slider shapes to differ greatly, creating gameplay differences on those clients. To avoid this issue we highly encourage mappers to use any of the other curve types. In the image above you can see how identical slider skeleton lines create completely different slider paths on each curve type.
   - **Exception:** Perfect Curve sliders with extremely small amounts of curve will generally convert fine, but for safety we recommend not using them.
   - For information on how to avoid using Perfect Curve, [check out this forum post](https://osu.titanic.sh/forum/13/t/731/)!
+
+### Visuals
+
+  - **Avoid using combo colours, slider borders or hitcircleoverlays with ~50 luminosity or lower.** Dark colours like these impact readability of approach circles with high background dim and the other elements partially give up their functions as borders.
+  - **Avoid using combo colours and custom slider track colours with ~220 luminosity or higher during kiai times.** They create bright pulses which can be unpleasant to the eyes.
 
 ### Hitsounds
 
@@ -158,7 +167,7 @@ This criteria may change in the future, due to increasing map requests and BAT m
 
 **Every element of a map should represent the song.**
 
-This principle sounds simple, but it might be the most controversial part of ranking a map! There's no *correct way* to interpret a song, so each individual's interpretation varies, and the [Beatmap Approval Team](https://osu.lekuru.xyz/g/3) determine if your interpretation is valid for Ranked status. Every BAT member may have a different opinion on this subject, but it's a good idea to follow older mapping styles.
+This principle sounds simple, but it might be the most controversial part of ranking a map! There's no *correct way* to interpret a song, so each individual's interpretation varies, and the [Beatmap Approval Team](https://osu.titanic.sh/g/3) determine if your interpretation is valid for Ranked status. Every BAT member may have a different opinion on this subject, but it's a good idea to follow older mapping styles.
 
 These pointers may also lead you in the right direction:
 
