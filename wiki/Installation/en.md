@@ -90,7 +90,7 @@ Set the wine prefix to `~/.local/share/wineprefixes/osu-wineprefix`.
 
 **In Runner options:**
  
-Set wine-osu as the Wine version:  
+Set `~/.local/share/osuconfig/yawl-winello` as the Wine version:  
 ![LutrisWineVersion](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Installation/img/LutrisWineVersion.png)
 
 Turn off DXVK and VKD3D:  
