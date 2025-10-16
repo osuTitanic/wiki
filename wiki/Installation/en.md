@@ -158,10 +158,10 @@ To disable SIP, do the following:
 1. Restart your computer in Recovery mode.
 2. Turn on your Mac and immediately press and hold these two keys: Command (⌘) and `R`.
 3. Release the keys when you see an Apple logo, spinning globe or other startup screen.
-4. You may be prompted to enter a password, such as a firmware password or the password of a user who is an administrator of this Mac. Enter the requested password to continue.
-5. Launch Terminal from the Utilities menu. It should be in the menu bar at the top of your screen.
+4. You may be prompted to enter a password, such as a firmware password or the password of a user who is an administrator of this Mac.
+5. Launch *Terminal* from the Utilities menu. It should be in the menu bar at the top of your screen.
 6. Run the command `csrutil disable`.
-7. Restart your computer. You can do so from the top menu bar (just like you would normally.)
+7. Restart your computer. You can do so from the top menu bar, just like you would normally.
 8. Once you have SIP disabled, let it boot up normally, login, and you can then begin to install osu!.
 
 ### Troubleshooting with osu!macOS Agent
