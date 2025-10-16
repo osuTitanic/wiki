@@ -153,7 +153,7 @@ Make sure your Mac is running an operating system above *High Sierra*, as it is 
 ### Disabling System Integrity Protection (SIP)
 
 **Important! If your Mac is running any Catalina version below `10.15.5`, you'll need to disable System Integrity Protection (SIP).**  
-To disable SIP, do the following:
+To disable SIP, follow these steps:
 
 1. Restart your computer in Recovery mode.
 2. Turn on your Mac and immediately press and hold these two keys: Command (⌘) and `R`.
