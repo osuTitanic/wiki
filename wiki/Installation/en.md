@@ -59,10 +59,12 @@ Pipewire performs much better on osu! than Pulseaudio, you can install it by fol
 
 ### Step 2: Installation of osu-winello
 
-`git clone https://github.com/NelloKudo/osu-winello.git`  
-`cd osu-winello`  
-`chmod +x ./osu-winello.sh`  
-`./osu-winello.sh`
+```
+git clone https://github.com/NelloKudo/osu-winello.git
+cd osu-winello
+chmod +x ./osu-winello.sh
+./osu-winello.sh
+```
 
 ### Step 3: Download the Titanic client
 
@@ -72,7 +74,7 @@ You can download any version from [here](https://osu.titanic.sh/download/)
 
 ### Step 4: Installing the tweaks into Lutris
 
-`osu-wine --lutris` command will copy the necessary files and tweaks for Lutris.  
+The `osu-wine --lutris` command will copy the necessary files and tweaks for Lutris.  
 Type `y` then hit enter. It will give instructions to add osu!stable to Lutris. Since we are not installing osu!stable, the below is how to install Titanic in Lutris.
 
 ### Step 5: Install Titanic through Lutris
