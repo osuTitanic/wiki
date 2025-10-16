@@ -61,16 +61,16 @@ chmod +x ./osu-winello.sh
 
 ### Download the Titanic client
 
-You can download any version from [here](https://osu.titanic.sh/download/)
+You can download any patched osu! version from the [downloads page](https://osu.titanic.sh/download/).
 
 ![BuildDownloadSmall](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Installation/img/BuildDownloadSmall.png)
 
 ### Install Titanic through Lutris
 
-Unzip the .zip file downloaded from the Titanic site, you will get your osu! installation.  
-Secondly open Lutris and let it load fully for first startup.  
-Then click the plus icon on top left. Then "Add locally installed game".
-Give it a proper name and such. Set the runner to Wine.
+Unzip the `.zip` file downloaded from Titanic, to get your osu! installation folder.  
+Open Lutris and let it load fully for first startup.  
+Then click the plus icon on top left. Then "*Add locally installed game*".
+Give it a proper name and such, and set the runner to *Wine*.
 
 ![LutrisAddLocalGame](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Installation/img/LutrisAddLocalGame.png)
 
