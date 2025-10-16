@@ -8,6 +8,8 @@ The Beatmap Approval Team (_BAT_) are a group of members who are in charge of ra
 
 Becoming a member of the Beatmap Approval Team requires both a decent amount of knowledge in mapping and understanding of the Ranking Criteria. Potential members must apply while applications are open and are discussed internally for the role. If the majority of the active members agrees that a member has potential, or don't have any issues with their ability, they are added to the team.
 
+If you're interested in applying, view [this forum post](https://osu.titanic.sh/forum/13/t/2/).
+
 
 ## Roles and responsibilities
 
