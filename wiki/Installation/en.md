@@ -20,16 +20,6 @@ After you create your account you will be prompted to verify your email:
 
 ![Verification](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Installation/img/Verification.png)
 
-## Discord Bot
-
-If you want to use the bot on our [Discord server](https://discord.gg/3VeNPgDUrK), all you have to do is type `/link <username>` and you will be sent a verification code in-game.
-
-![Link-Start](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Installation/img/Link-Start.png)
-
-![Link-ingame](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Installation/img/Link-ingame.png)
-
-![Link-Finished](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Installation/img/Link-Finished.png)
-
 ## Linux Installation
 
 ### Step 1: Prerequisites
