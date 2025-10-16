@@ -67,7 +67,7 @@ You can download any patched osu! version from the [downloads page](https://osu.
 
 ### Install Titanic through Lutris
 
-Unzip the `.zip` file downloaded from Titanic, to get your osu! installation folder.  
+Unzip the `.zip` file downloaded from Titanic to get your osu! installation folder.  
 Open Lutris and let it load fully for first startup.  
 Then click the plus icon on top left. Then "*Add locally installed game*".
 Give it a proper name and such, and set the runner to *Wine*.
