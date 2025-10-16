@@ -148,7 +148,7 @@ This is the earliest version of osu! that supports the storyboarding scripting l
 
 This update let's you customize the hitsound volume of any given timing point. That means that the hitsound volume tag in Timing Points can be between 0 and 100. The modern game only let's you go down to 5%, and will force any values lower back to 5% when played.
 
-![Audio section of the Timing Setup panel in b222](https://i.imgur.com/JpWPlyo.png)
+![Audio section of the Timing Setup panel in b222](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Editor_Differences/img/b222_timing_setup_audio.png)
 
 .osu example for hitsound volume:
 
@@ -181,7 +181,7 @@ Up until this point, the first point of all slider bodies copied the coordinate 
 
 Starting with this version you can now create red anchors on all 3 available slider types! 
 
-![Red anchor examples on all 3 slider curve types](https://i.imgur.com/wgxg5w7.png)
+![Red anchor examples on all 3 slider curve types](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Editor_Differences/img/b337_red_anchors.png)
 
 Adding a red anchor to a Bezier allows you to have sharp straight turns, this could be useful in situations where you want one part of the slider to have a straight turn, but you want another part to have a curved turn. Catmull sliders produce a loop bulb effect on red anchors, where the player is forced to hold on the red anchor. This could be useful on some more gimmicky maps, or to really emphasize a sound on a slider. As a consequence of the bulb though, the slider will end up appearing shorter than the other curve types when the slider anchors are identical. Adding a red anchor to a Linear slider does not do anything noticeable to it. 
 
@@ -206,7 +206,7 @@ In this build you can easily try out the different slider curve types by pressin
 |S  |Catmull|
 |D  |Bezier |
 
-![Example of the on screen popup for swapping between slider curve types](https://i.imgur.com/5QB6ucb.gif)
+![Example of the on screen popup for swapping between slider curve types](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Editor_Differences/img/b370_slider_curve_popup.gif)
 
 This allows you to experiment more easily with different slider curves on a single object if you want to try some other way to emphasize a sound without having to go up to *Options > Slider Curve Type* every time you want to change types.
 
@@ -229,10 +229,10 @@ Mode: 0
 
 An absolute must have feature for those who mod over IRC
 
-![An example of clickable editor selection links over in-game chat](https://i.imgur.com/zto4ZS9.png)
+![An example of clickable editor selection links over in-game chat](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Editor_Differences/img/b370_editor_selection_links.png)
 ## b370 seek via time display
 
-![GoTo Time popup for jumping to a specific time stamp](https://i.imgur.com/ksnash7.png)
+![GoTo Time popup for jumping to a specific time stamp](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Editor_Differences/img/b370_goto_time_popup.png)
 
 Clicking on the time stamp at the bottom left allows you to go to any time in the map easily.
 
@@ -249,7 +249,7 @@ Tags:Digitalfear117
 
 With this version you can easily see red lines and breaks on the scroll bar. These did show up on the timeline at the top where the notes are, but not on the scrollbar till this version
 
-![Example of a red line and break on the timeline](https://i.imgur.com/h23JnKZ.png%5B)
+![Example of a red line and break on the timeline](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Editor_Differences/img/b394a_red_lines_breaks.png)
 
 This makes seeing aspects of the map a bit easier, as you can see all the maps sections more easily at the bottom
 
@@ -257,7 +257,7 @@ This makes seeing aspects of the map a bit easier, as you can see all the maps s
 
 Starting with this version new timing points can inherit the bpm of the previous one. This is what will eventually turn into green lines, but for now they are still red.
 
-![b420 Timing Setup popup, showing off an interited timing point](https://i.imgur.com/tIfXTdJ.png)
+![b420 Timing Setup popup, showing off an interited timing point](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Editor_Differences/img/b420_timing_setup.png)
 
 You can tell if a timing point is inherited in the .osu based on if the last flag in the timing point is a 1 or a 0.
 
@@ -273,7 +273,7 @@ The last flag being 0 means inherited, and 1 means non inherited in this version
 
 This is the very first version that you can use the clap hitsound! This version has a clap for both available samplesets (Normal and Soft).
 
-![A screenshot of the clap hitsound button from b452](https://i.imgur.com/vEJpCYx.png)
+![A screenshot of the clap hitsound button from b452](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Editor_Differences/img/b452_clap_hitsound_button.png)
 
 You can see what hitsound a circle has applied to it by looking at the last flag in the .osu:
 
@@ -300,7 +300,7 @@ This is also true of the sliders, if the entire sliderbody has a hitsound applie
 
 This version brings another major milestone for hitsounding, you can now hitsound the head, tail, and reverse arrow of a slider individually. Prior to this build you could only hitsound the entire slider body. You can do this by clicking on the body part in the timeline at the top, or the object on the play field until the segment gets highlighted in black.
 
-![An example of me selecting a reverse slider for hitsounding](https://i.imgur.com/JCtv4lf.png)
+![An example of me selecting a reverse slider for hitsounding](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Editor_Differences/img/b452_reverse_slider_selection.png)
 
 Here is a .osu example of a slider with a reverse arrow, where the entire slider body has hitsounds, and each part of the slider has individual hitsounds:
 
@@ -320,7 +320,7 @@ Here are some important rules to know about manual storyboarding in this format:
 - Scale commands must have a start and end command. `S,0,11892,15594,0.4` is valid in modern stable, but it must be adapted to have an end scaling transformation, even if it's just the same value. `S,0,11892,15594,0.4,0.4` is valid in this format
 - Modern stable uses the easy to read Name format for all objects such as `Sprite,Foreground,Centre,` for the start of any object in the storyboard. This version expects you to use numerical values to represent these things. So for my example Sprite is considered type `4`, Foreground is considered type `3`, Centre is considered value `1`. `4,3,1,"Storyboard\Lyrics\A1.png",320,200` would be the valid format for this version.
 
-![Any example of a storyboard loaded in b497](https://i.imgur.com/OUMv1dS.png)
+![Any example of a storyboard loaded in b497](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Editor_Differences/img/b497_storyboard.png)
 Here is a valid storyboard tag example for within a .osb:
 
 ```
@@ -344,7 +344,7 @@ For some reason the start time for the size transition must be there twice.
 
 ## b595b design tab (in game storyboard editor)
 
-![A screenshot of the in game storyboard design tab](https://i.imgur.com/SH47KiN.png)
+![A screenshot of the in game storyboard design tab](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Editor_Differences/img/b595b_design_tab.png)
 You can now make storyboards within the game itself!
 
 ## b595b green lines
@@ -355,13 +355,13 @@ If you try to import a modern map with slider velocities in it, the game will re
 
 ## b595b BPM adjustment
 
-![A screenshot of the Timing section within Timing and Control Points popup menu](https://i.imgur.com/F76WPSr.png)
+![A screenshot of the Timing section within Timing and Control Points popup menu](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Editor_Differences/img/b595b_bpm_adjustment.png)
 
 BPM Adjustment options are now available in the Timing and Control Points popup! This allows you to change the BPM by 0.5x or 2.0 in order to better emphasize more intense or less intense parts of the song! Everything about the editor relates to BPM though, for example, doubling the BPM means your slider velocity is now doubled, your distance snap is now doubled. Even if the value the game displays is the same, this is the actual result. This is the same in the modern game as well.
 
 ## b595b additional sample set custom override
 
-![A screenshot of the Audio section within Timing and Control Points popup menu](https://i.imgur.com/AYawU5v.png)
+![A screenshot of the Audio section within Timing and Control Points popup menu](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Editor_Differences/img/b595b_audio_section.png)
 
 You can now use up to two custom sampleset overrides! Think about the possibilities! 
 
@@ -382,7 +382,7 @@ Kiai time can now be added! This adds some visual flare to the game during the t
 
 ## b699 rotate by...
 
-![Rotate by... popup as seen in b699](https://i.imgur.com/4hWEfOB.png)
+![Rotate by... popup as seen in b699](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Editor_Differences/img/b699_rotate_by.png)
 
 You can finally rotate objects by arbitrary amounts, rejoice! Annoyingly you have to type an amount in this version, so it's not all sunshine and rainbows, and no preview, type a number, hit OK and see what horrors you have unleashed I guess lol.
 
@@ -429,19 +429,19 @@ This is a change that peppy has flip flopped on many times. In modern stable thi
 Compared to previous .osu firmat updates, this brings many new features to the format!
 
 ## b20121003shine.test mania editor
-![b20121003shine.test mania editor](https://github.com/user-attachments/assets/2cc8b95a-ae3b-4693-948d-eda2a979bf9f)
+![b20121003shine.test mania editor](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Editor_Differences/img/b20121003_mania_editor.png)
 
 This is the very first version that supports mania! It has some differences compared to modern. This veraion of the game uses a very basic column grid with normal hitobjects. This gives a great view of how mania maps are acrually stored in the .osu file. The playfield is divided into how many columns the map has (based on circle size). Sliders are used for LN's, the modern "Hold Note" button does not exist yet.
 
 Mania was so experimental during the time of this format, that maps were not allowed to be ranked during this .osu version on Bancho. All Mania maps that weremade during this time were updated alongside the editor improving.
 
 ## b20121003shine.test sampleset additions
-![b20121003shine.test SamepleSet Additions](https://github.com/user-attachments/assets/d831e732-de2c-4218-afbc-e347e072b28a)
+![b20121003shine.test SamepleSet Additions](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Editor_Differences/img/b20121003_sampleset_additions.png)
 
 This greatly expands hitsounding, you can add the soft, normal, drum versions of any hitsound on top of the original sampleset's hitsound, creating much more depth. 
 
 ## b20121003shine.test romanized artist and song fields 
-![b20121003shine.test Song Setup](https://github.com/user-attachments/assets/5e29401b-6933-4cfa-afe0-4f92edbaa12a)
+![b20121003shine.test Song Setup](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Editor_Differences/img/b20121003_song_setup.png)
 
 Finally you use the original language for the artist and song name and English as well. This is an important feature on Bancho, if the artist's name is written in another language on Bancho, you must use both fields as per the ranking criteria. Take the Japanese artist monet, her name is always written in English, so only the normal field is needed. This is not an enforced rule of titanic though.
 
