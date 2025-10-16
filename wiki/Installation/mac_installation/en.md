@@ -18,8 +18,8 @@ Make sure your Mac is running a operating system above *High Sierra*, as it is r
 ## Installation
 
 1. Make sure you have downloaded a client from the [downloads page](https://osu.titanic.sh/download/) and the correct *wineskin*, as outlined in the beginning of this document.
-2. Move the two files to the desktop and then extract them. Once extracted, head into the package on the osu! application by right-clicking and selecting *Show Package Contents*.
-3. Now navigate to **drive_c -> osu!**. Here's the location where we're going to place the osu! client. Go back to your Downloads folder, where you extracted your desired client, copy every file thats inside, and paste it inside the **drive_c -> osu!** folder.
+2. Once you have extracted both of them, head into the *osu!* application package by right-clicking and selecting *Show Package Contents*.
+3. Now navigate to **drive_c -> osu!**. Here's the location where we're going to place the osu! client. Go back to your folder, where you extracted your desired client, copy every file thats inside, and paste it inside the **drive_c -> osu!** folder.
 
 ### Disabling System Integrity Protection (SIP)
 
