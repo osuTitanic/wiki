@@ -49,6 +49,9 @@ Pipewire performs much better on osu! than Pulseaudio, you can install it by fol
 
 ### Installation of osu-winello
 
+[osu-winello](https://github.com/NelloKudo/osu-winello), developed by [NelloKudo](https://github.com/NelloKudo), is currently the best way to get osu! stable running on Linux. We will use it to launch our Titanic installations later on.  
+Follow these commands to get it setup:
+
 ```
 git clone https://github.com/NelloKudo/osu-winello.git
 cd osu-winello
