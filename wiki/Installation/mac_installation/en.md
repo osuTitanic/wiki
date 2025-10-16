@@ -4,7 +4,7 @@ This page is designed to help you run Titanic, if you are using a Macintosh comp
 
 ## Prerequisites
 
-For this guide you'll need the following files:
+For this guide you'll need the following things:
 
 - A supported macintosh
 - A client from the site
