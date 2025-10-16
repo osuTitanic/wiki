@@ -10,7 +10,7 @@ I have omitted some versions from this list if I could not find any significant 
 
 ### Uploading maps on titanic
 
-As of the time of me writing this, BSS has just been released on titanic! However, during the development of osu!, uploading maps changed drastically. Right now titanic only supports clients that can upload osz2 formatted maps. That means you can use b20121003shine.test and later for uploading maps! If you want to upload maps from an older client, I recommend you use my b20130303 modded client, as you have the option to bypass updating the map before upload. If you use any other client to upload your map made on an older client, it will update things and break compatibility with the old client you originally mapped it on!
+During the development of osu!, uploading maps through the "Beatmap Submission System" (BSS) changed drastically. Titanic's implementation of BSS now supports all clients, though it may be a little unstable on older version of osu!. If you encounter any issues, I recommend using my b20130303 modded client, as it allows you to bypass updating the map before upload. This is particularly useful if you want to preserve compatibility with the original client you used for mapping!
 
 # Pre-release osu! versions (v1)
 
