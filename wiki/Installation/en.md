@@ -123,7 +123,7 @@ Now from here you can launch osu! and enjoy!
 
 **Note for Wayland users**
 
-You may have to apply the tweaks listed here:  
+If you're running on wayland, you may have to apply the tweaks listed here:  
 <https://github.com/NelloKudo/osu-winello/wiki/Wayland-support>
 
 If you have any issues do not be afraid to ask in the [Titanic! Discord server](https://discord.gg/qupv72e7YH) or in the [support sub-forum](https://osu.titanic.sh/forum/7).
@@ -134,8 +134,8 @@ If you have any issues do not be afraid to ask in the [Titanic! Discord server](
 
 To run Titanic! on a Macintosh computer, you'll need the following things:
 
-- A supported macintosh
-- A client from the site
+- A supported macintosh (2011 or later)
+- A client from the [downloads page](https://osu.titanic.sh/download/)
 - The correct wineskin
     - [Fallback](https://cdn.titanic.sh/public/osx/osx-fallback.base.zip) - Used with clients from mid-2015 or earlier, or those marked as "fallback"
     - [Latest](https://cdn.titanic.sh/public/osx/osx-latest.base.zip) - Used with all clients after around mid-2015
@@ -166,7 +166,7 @@ To disable SIP, follow these steps:
 
 ### Troubleshooting with osu!macOS Agent
 
-If you encounter issues with the installation process, you might want to try the **osu!macOS Agent**, developed by [Technocoder](https://osu.ppy.sh/users/10338558). You can download it from the [macOS Installation Guide](https://osu.ppy.sh/community/forums/topics/1106057) forum post.
+If you encounter issues with the installation process, you might want to try the **osu!macOS Agent**, developed by [Technocoder](https://osu.ppy.sh/users/10338558). You can download it from the "[macOS Installation Guide](https://osu.ppy.sh/community/forums/topics/1106057)" forum post.
 
 1. Open osu!macOS Agent
 2. Select your osu! application package
@@ -176,4 +176,3 @@ If you encounter issues with the installation process, you might want to try the
 6. Now restart osu! to see if your issue was fixed
 
 There's still a good chance that it will not work. If that is the case, don't be afraid to ask for support in the [Titanic! Discord server](https://discord.gg/qryYG2C5nc) or in the [support sub-forum](https://osu.titanic.sh/forum/7).
-
