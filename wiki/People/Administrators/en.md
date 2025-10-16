@@ -9,8 +9,8 @@ The users who manage, moderate and improve Titanic every day.
 User                                             |                    Role                    | Added Date
 -------------------------------------------------|:------------------------------------------:|---------------------------------------------
 [Levi](https://osu.titanic.sh/u/2)               | Titanic Lead Developer and Project Manager | Since the beginning
-[Adachi](https://osu.titanic.sh/u/39)            |     Community Manager and PP Developer     | Since the beginning
-[BlueChinchompa](https://osu.titanic.sh/u/40)    |               Media Manager                | Since the beginning
+[Adachi](https://osu.titanic.sh/u/39)            |             Community Manager              | Since the beginning
+[BlueChinchompa](https://osu.titanic.sh/u/40)    |       Content and Community Manager        | Since the beginning
 [Meru](https://osu.titanic.sh/u/41)              |         Admin and Wiki Maintainer          | June 28th, 2025 (as GMT since the beginning)
 [Hatate Himekaidou](https://osu.titanic.sh/u/85) |              Global Moderator              | June 28th, 2025
 [vg185](https://osu.titanic.sh/u/568)            |              Global Moderator              | June 28th, 2025
