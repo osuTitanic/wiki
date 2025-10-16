@@ -72,11 +72,6 @@ You can download any version from [here](https://osu.titanic.sh/download/)
 
 ![image](https://github.com/user-attachments/assets/1651b93b-14df-413a-84e8-5aea72453f69)
 
-### Step 4: Installing the tweaks into Lutris
-
-The `osu-wine --lutris` command will copy the necessary files and tweaks for Lutris.  
-Type `y` then hit enter. It will give instructions to add osu!stable to Lutris. Since we are not installing osu!stable, the below is how to install Titanic in Lutris.
-
 ### Step 5: Install Titanic through Lutris
 
 Unzip the .zip file downloaded from the Titanic site, you will get your osu! installation.  
