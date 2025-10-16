@@ -22,7 +22,7 @@ After you create your account you will be prompted to verify your email:
 
 ## Discord Bot
 
-If you want to use the bot on our [Discord server](https://discord.gg/3VeNPgDUrK), all you have to do is type `!link <username>` and you will be sent a verification code in-game.
+If you want to use the bot on our [Discord server](https://discord.gg/3VeNPgDUrK), all you have to do is type `/link <username>` and you will be sent a verification code in-game.
 
 ![Link-Start](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Installation/img/Link-Start.png)
 
