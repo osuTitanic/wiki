@@ -88,7 +88,7 @@ Give it a proper name and such. Set the runner to Wine.
 
 Set the executable to the osu.exe inside of the zip you extracted.  
 Set working directory to the osu! folder of the zip you extracted.  
-Set the wine prefix to `/$HOME/.local/share/wineprefixes/osu-wineprefix`.
+Set the wine prefix to `~/.local/share/wineprefixes/osu-wineprefix`.
 
 ![image](https://github.com/user-attachments/assets/2cb08e7b-e99a-4557-8e1f-0a4df245e6c7)
 
@@ -105,9 +105,7 @@ Turn off DXVK and VKD3D:
 
 
 Make sure ESync and FSync are enabled.
-Disable AMD FSR.
-Disable BattlEye Anticheat.
-Disable Easy Anticheat.  
+Additionally, disable AMD FSR, BattlEye Anti-Cheat and Easy Anti-Cheat.  
 ![image](https://github.com/user-attachments/assets/b3b4e8ff-7ef5-40a2-bb26-b1106159eaea)
 
 
@@ -131,7 +129,7 @@ This is what it should look like:
 
 Now from here you can launch osu! and enjoy!
 
-**NOTE:** Be sure to set the offset to around `-40` to `-25 ms` offset. Then the audio will be like Windows!
+**NOTE:** Be sure to set the offset to around `-30` to `-20 ms` offset. Then the audio will be like Windows!
 
 **Note for Wayland users**
 
