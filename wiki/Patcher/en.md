@@ -29,11 +29,9 @@ Once downloaded, place the *.exe* file into your osu! installation folder and do
 
 ### Choosing the right .NET Framework version
 
-osu! switched from .NET 2.0 to .NET 4.0 in 2015.  
-- Versions released before 2015 most likely require **.NET 2.0**  
-- Versions released after 2015 most likely require **.NET 4.0**
+It is recommended to use the .NET 4.0 version of the patcher, as it's compatible with every osu! version, saves some headaches, is compatible out of the box with osu-wine, and might provide better performance.
 
-If you encounter a *.NET Framework runtime version mismatch!* error when launching the client, simply try the other version of the patcher.
+However, there is additionally a .NET 2.0 version of the patcher that's compatible only with versions before the middle of 2015, which might fix some unexpected issues. It also works on very old operating systems (Windows 2000 and Windows XP before Service Pack 2).
 
 ### Versions for "testers only"
 
