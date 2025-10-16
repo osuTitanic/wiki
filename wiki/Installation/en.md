@@ -140,7 +140,7 @@ To run Titanic! on a Macintosh computer, you'll need the following things:
     - [Fallback](https://cdn.titanic.sh/public/osx/osx-fallback.base.zip) - Used with clients from mid-2015 or earlier, or those marked as "fallback"
     - [Latest](https://cdn.titanic.sh/public/osx/osx-latest.base.zip) - Used with all clients after around mid-2015
 
-Make sure your Mac is running a operating system above *High Sierra*, as it is required for the best performance and this guide. Although it might run on High Sierra, most browsers don't support GitHub.  
+Make sure your Mac is running an operating system above *High Sierra*, as it is required for the best performance and this guide. Although it might run on High Sierra, most browsers don't support GitHub.  
 **For the best performance, please make sure your Mac is a 2011 or higher.** A 2008 or higher will run it, but 2011 or higher is recommended. It also has to support 32/64 bit capabillites.
 
 ### Installation
