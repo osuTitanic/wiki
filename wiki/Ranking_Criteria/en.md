@@ -138,14 +138,14 @@ This criteria may change in the future, due to increasing map requests and BAT m
 - **On rhythms that are 1/4 or faster, use big notes only at the end of patterns.**
 - **Avoid slider velocity changes on lower difficulties.**
 - **Each difficulty should follow its respective break length guidelines:**
-
+- 
 | Difficulty | Break | Chain length |
 | --: | :-: | :-: |
-| **Kantan** | ![3/1](https://i.ibb.co/ksp1ZvyV/image.png "3/1") | Break needed every 32–36 beats |
-| **Futsuu** | ![2/1](https://i.ibb.co/Fb0KfYxL/image.png "2/1") | Break needed every 32–36 beats |
-| **Muzukashii** (option 1) | ![3/2](https://i.ibb.co/hxWm6G4H/image.png "3/2") | Break needed every 16–20 beats |
-| **Muzukashii** (option 2) | ![3 consecutive 1/1](https://i.ibb.co/jPCgW8YL/image.png "3 consecutive 1/1") | Break needed every 16–20 beats |
-| **Oni** | ![1/1](https://i.ibb.co/rGWVw6WP/image.png "1/1") | Break needed every 16–20 beats |
+| **Kantan** | ![3/1](https://github.com/user-attachments/assets/766bc843-0271-457c-bd0f-3021e93a19cb "3/1") | Break needed every 32–36 beats |
+| **Futsuu** | ![2/1](https://github.com/user-attachments/assets/cf53d7d8-19d4-4a0a-bda8-b2472bb12e43 "2/1") | Break needed every 32–36 beats |
+| **Muzukashii** (option 1) | ![3/2](https://github.com/user-attachments/assets/179d4361-1bf5-43d4-9f00-d5ff3add03f4 "3/2") | Break needed every 16–20 beats |
+| **Muzukashii** (option 2) | ![3 consecutive 1/1](https://github.com/user-attachments/assets/8638310b-ea31-4078-a690-a7c35ff94c74 "3 consecutive 1/1") | Break needed every 16–20 beats |
+| **Oni** | ![1/1](https://github.com/user-attachments/assets/24ac2c8d-c3c3-4317-83ec-771d3fb8cf5d "1/1") | Break needed every 16–20 beats |
 
 ### osu!catch
 
