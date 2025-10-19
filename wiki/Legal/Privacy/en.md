@@ -28,7 +28,7 @@ When you register for an account, we collect the following information:
 - **Username** - Your chosen username for identification on the Service
 - **Email address** - Used for account verification, communication, and security notifications
 - **IP address** - Collected automatically upon registration and during use of the Service for security purposes
-- **password (bcrypt+salt)** - Stored securely using bcrypt hashing with salt for account security
+- **Password (bcrypt+salt)** - Stored securely using bcrypt hashing with salt for account security
 
 ### Optional Data
 
