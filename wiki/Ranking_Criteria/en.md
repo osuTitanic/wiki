@@ -140,12 +140,12 @@ This criteria may change in the future, due to increasing map requests and BAT m
 - **Each difficulty should follow its respective break length guidelines:**
 
 | Difficulty | Break | Chain length |
-| --: | :-: | :-: |
-| **Kantan** | ![3/1](https://github.com/user-attachments/assets/b633a6dc-7d0a-4dac-897e-3887173f57c9 "3/1") | Break needed every 32–36 beats |
-| **Futsuu** | ![2/1](https://github.com/user-attachments/assets/b02607bf-1622-414d-83ca-e41d1a4908f1 "2/1") | Break needed every 32–36 beats |
-| **Muzukashii** (option 1) | ![3/2](https://github.com/user-attachments/assets/6034bbc5-8e7b-41e0-9e3e-16dd0f4342a2 "3/2") | Break needed every 16–20 beats |
-| **Muzukashii** (option 2) | ![3 consecutive 1/1](https://github.com/user-attachments/assets/31feb664-4523-4178-960f-41ea9589115d "3 consecutive 1/1") | Break needed every 16–20 beats |
-| **Oni** | ![1/1](https://github.com/user-attachments/assets/6952d896-26ac-4d17-9cdf-c1978ff2ecf8 "1/1") | Break needed every 16–20 beats |
+| ---------: | :---: | :----------: |
+| **Kantan** | ![3/1](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Ranking_Criteria/img/kantan.png "3/1") | Break needed every 32–36 beats |
+| **Futsuu** | ![2/1](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Ranking_Criteria/img/futsuu.png "2/1") | Break needed every 32–36 beats |
+| **Muzukashii** (option 1) | ![3/2](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Ranking_Criteria/img/muzu1.png "3/2") | Break needed every 16–20 beats |
+| **Muzukashii** (option 2) | ![3 consecutive 1/1](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Ranking_Criteria/img/muzu2.png "3 consecutive 1/1") | Break needed every 16–20 beats |
+| **Oni** | ![1/1](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Ranking_Criteria/img/oni.png "1/1") | Break needed every 16–20 beats |
 
 ### osu!catch
 
