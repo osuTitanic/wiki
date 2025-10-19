@@ -141,11 +141,11 @@ This criteria may change in the future, due to increasing map requests and BAT m
 
 | Difficulty | Break | Chain length |
 | --: | :-: | :-: |
-| **Kantan** | ![3/1](https://osu.ppy.sh/wiki/images/Ranking_criteria/Simplified_ranking_criteria/img/taiko/kantan.png "3/1") | Break needed every 32–36 beats |
-| **Futsuu** | ![2/1](https://osu.ppy.sh/wiki/images/Ranking_criteria/Simplified_ranking_criteria/img/taiko/futsuu.png "2/1") | Break needed every 32–36 beats |
-| **Muzukashii** (option 1) | ![3/2](https://osu.ppy.sh/wiki/images/Ranking_criteria/Simplified_ranking_criteria/img/taiko/muzu1.png "3/2") | Break needed every 16–20 beats |
-| **Muzukashii** (option 2) | ![3 consecutive 1/1](https://osu.ppy.sh/wiki/images/Ranking_criteria/Simplified_ranking_criteria/img/taiko/muzu2.png?1 "3 consecutive 1/1") | Break needed every 16–20 beats |
-| **Oni** | ![1/1](https://osu.ppy.sh/wiki/images/Ranking_criteria/Simplified_ranking_criteria/img/taiko/oni.png "1/1") | Break needed every 16–20 beats |
+| **Kantan** | ![3/1](https://i.ibb.co/ksp1ZvyV/image.png "3/1") | Break needed every 32–36 beats |
+| **Futsuu** | ![2/1](https://i.ibb.co/Fb0KfYxL/image.png "2/1") | Break needed every 32–36 beats |
+| **Muzukashii** (option 1) | ![3/2](https://i.ibb.co/hxWm6G4H/image.png "3/2") | Break needed every 16–20 beats |
+| **Muzukashii** (option 2) | ![3 consecutive 1/1](https://i.ibb.co/jPCgW8YL/image.png "3 consecutive 1/1") | Break needed every 16–20 beats |
+| **Oni** | ![1/1](https://i.ibb.co/rGWVw6WP/image.png "1/1") | Break needed every 16–20 beats |
 
 ### osu!catch
 
