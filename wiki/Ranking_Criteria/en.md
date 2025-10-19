@@ -140,12 +140,12 @@ This criteria may change in the future, due to increasing map requests and BAT m
 - **Each difficulty should follow its respective break length guidelines:**
 
 | Difficulty | Break | Chain length |
-| --: | :-: | :-: |
-| **Kantan** | ![3/1](https://osu.ppy.sh/wiki/images/Ranking_criteria/Simplified_ranking_criteria/img/taiko/kantan.png "3/1") | Break needed every 32–36 beats |
-| **Futsuu** | ![2/1](https://osu.ppy.sh/wiki/images/Ranking_criteria/Simplified_ranking_criteria/img/taiko/futsuu.png "2/1") | Break needed every 32–36 beats |
-| **Muzukashii** (option 1) | ![3/2](https://osu.ppy.sh/wiki/images/Ranking_criteria/Simplified_ranking_criteria/img/taiko/muzu1.png "3/2") | Break needed every 16–20 beats |
-| **Muzukashii** (option 2) | ![3 consecutive 1/1](https://osu.ppy.sh/wiki/images/Ranking_criteria/Simplified_ranking_criteria/img/taiko/muzu2.png?1 "3 consecutive 1/1") | Break needed every 16–20 beats |
-| **Oni** | ![1/1](https://osu.ppy.sh/wiki/images/Ranking_criteria/Simplified_ranking_criteria/img/taiko/oni.png "1/1") | Break needed every 16–20 beats |
+| ---------: | :---: | :----------: |
+| **Kantan** | ![3/1](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Ranking_Criteria/img/kantan.png "3/1") | Break needed every 32–36 beats |
+| **Futsuu** | ![2/1](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Ranking_Criteria/img/futsuu.png "2/1") | Break needed every 32–36 beats |
+| **Muzukashii** (option 1) | ![3/2](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Ranking_Criteria/img/muzu1.png "3/2") | Break needed every 16–20 beats |
+| **Muzukashii** (option 2) | ![3 consecutive 1/1](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Ranking_Criteria/img/muzu2.png "3 consecutive 1/1") | Break needed every 16–20 beats |
+| **Oni** | ![1/1](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Ranking_Criteria/img/oni.png "1/1") | Break needed every 16–20 beats |
 
 ### osu!catch
 
