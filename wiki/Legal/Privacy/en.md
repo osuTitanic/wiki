@@ -29,6 +29,7 @@ When you register for an account, we collect the following information:
 - **Email address** - Used for account verification, communication, and security notifications
 - **IP address** - Collected automatically upon registration and during use of the Service for security purposes
 - **Password (bcrypt+salt)** - Stored securely using bcrypt hashing with salt for account security
+- **Country** - Used to publicly display a country flag on your profile; can be changed upon request by contacting support
 
 ### Optional Data
 
