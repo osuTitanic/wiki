@@ -138,10 +138,10 @@ This criteria may change in the future, due to increasing map requests and BAT m
 - **On rhythms that are 1/4 or faster, use big notes only at the end of patterns.**
 - **Avoid slider velocity changes on lower difficulties.**
 - **Each difficulty should follow its respective break length guidelines:**
-- 
+
 | Difficulty | Break | Chain length |
 | --: | :-: | :-: |
-| **Kantan** | ![3/1](https://github.com/user-attachments/assets/449edc2f-80c2-44c2-af87-b6e654c9c009 "3/1") | Break needed every 32–36 beats |
+| **Kantan** | ![3/1](https://github.com/user-attachments/assets/b633a6dc-7d0a-4dac-897e-3887173f57c9 "3/1") | Break needed every 32–36 beats |
 | **Futsuu** | ![2/1](https://github.com/user-attachments/assets/b02607bf-1622-414d-83ca-e41d1a4908f1 "2/1") | Break needed every 32–36 beats |
 | **Muzukashii** (option 1) | ![3/2](https://github.com/user-attachments/assets/6034bbc5-8e7b-41e0-9e3e-16dd0f4342a2 "3/2") | Break needed every 16–20 beats |
 | **Muzukashii** (option 2) | ![3 consecutive 1/1](https://github.com/user-attachments/assets/31feb664-4523-4178-960f-41ea9589115d "3 consecutive 1/1") | Break needed every 16–20 beats |
