@@ -141,11 +141,11 @@ This criteria may change in the future, due to increasing map requests and BAT m
 - 
 | Difficulty | Break | Chain length |
 | --: | :-: | :-: |
-| **Kantan** | ![3/1](https://github.com/user-attachments/assets/766bc843-0271-457c-bd0f-3021e93a19cb "3/1") | Break needed every 32–36 beats |
-| **Futsuu** | ![2/1](https://github.com/user-attachments/assets/cf53d7d8-19d4-4a0a-bda8-b2472bb12e43 "2/1") | Break needed every 32–36 beats |
-| **Muzukashii** (option 1) | ![3/2](https://github.com/user-attachments/assets/179d4361-1bf5-43d4-9f00-d5ff3add03f4 "3/2") | Break needed every 16–20 beats |
-| **Muzukashii** (option 2) | ![3 consecutive 1/1](https://github.com/user-attachments/assets/8638310b-ea31-4078-a690-a7c35ff94c74 "3 consecutive 1/1") | Break needed every 16–20 beats |
-| **Oni** | ![1/1](https://github.com/user-attachments/assets/24ac2c8d-c3c3-4317-83ec-771d3fb8cf5d "1/1") | Break needed every 16–20 beats |
+| **Kantan** | ![3/1](https://github.com/user-attachments/assets/449edc2f-80c2-44c2-af87-b6e654c9c009 "3/1") | Break needed every 32–36 beats |
+| **Futsuu** | ![2/1](https://github.com/user-attachments/assets/b02607bf-1622-414d-83ca-e41d1a4908f1 "2/1") | Break needed every 32–36 beats |
+| **Muzukashii** (option 1) | ![3/2](https://github.com/user-attachments/assets/6034bbc5-8e7b-41e0-9e3e-16dd0f4342a2 "3/2") | Break needed every 16–20 beats |
+| **Muzukashii** (option 2) | ![3 consecutive 1/1](https://github.com/user-attachments/assets/31feb664-4523-4178-960f-41ea9589115d "3 consecutive 1/1") | Break needed every 16–20 beats |
+| **Oni** | ![1/1](https://github.com/user-attachments/assets/6952d896-26ac-4d17-9cdf-c1978ff2ecf8 "1/1") | Break needed every 16–20 beats |
 
 ### osu!catch
 
