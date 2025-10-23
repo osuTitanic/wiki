@@ -31,7 +31,7 @@ User                                           |   Specialization    | Additiona
 [Oposh](https://osu.titanic.sh/u/829)          |                     |           Polish            | May 19th, 2024([^1])
 [[Kagamine Rin]](https://osu.titanic.sh/u/813) |                     |            Dutch            | August 19th, 2024
 [vyper](https://osu.titanic.sh/u/69)           |                     |                             | October 20th, 2024
-[Übel](https://osu.titanic.sh/u/593)           |                     |          Filipino           | February 23rd, 2025
+[Avril](https://osu.titanic.sh/u/593)          |                     |          Filipino           | February 23rd, 2025
 [pimpG](https://osu.titanic.sh/u/2719)         |                     |         Portuguese          | June 16th, 2025
 [arutama](https://osu.titanic.sh/u/905)        |                     |         Indonesian          | July 7th, 2025([^4])([^10])
 [Sonnyc](https://osu.titanic.sh/u/3041)        |                     |           Korean            | August 3rd, 2025
