@@ -68,6 +68,7 @@ This criteria may change in the future, due to increasing map requests and BAT m
 - **Add usernames of anyone who contributes to the map.** This doesn't include modders.
 - **Add the song's [genre and language](https://osu.ppy.sh/wiki/Beatmap/Genre_and_language).**
 - **Add `featured artist` if the song is in the [Featured Artist catalogue](https://osu.ppy.sh/beatmaps/artists).**
+- **Add `titanic` for sets originally created for Titanic.** Mapsets originally created outside of the Titanic community (i.e. ported from Bancho, oldsu!) do not receive this tag.
 - **Other tags must be relevant to the song/map.**
 
 ### Title
