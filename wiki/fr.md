@@ -2,8 +2,9 @@
 
 # _Bienvenue sur le wiki de Titanic!, un recueil collaboratif de toute choses en rapport avec Titanic!._
 
-Nous avons actuellement 14 articles à ce jour!							Aujourd'hui est (date)
+Nous avons actuellement 14 articles à ce jour!                   Aujourd'hui est (date)
 
+---
 
 __Description General__
 
@@ -15,10 +16,13 @@ __Autres Langues__
 [Englis](https://osu.titanic.sh/wiki/en/) • [Русский](https://osu.titanic.sh/wiki/ru/) • [Deutsch](https://osu.titanic.sh/wiki/de/) • [Polski](https://osu.titanic.sh/wiki/pl/) • [Suomi](https://osu.titanic.sh/wiki/fi/) • [Eesti](https://osu.titanic.sh/wiki/et/)
 
 
-__Pour Commencer__	__Mapping__
+__Pour Commencer__
 
-[Bienvenue](link) • [Règles](link) • [Patcher](link) • [Installation](link)	[Différence d'editeur](link) • [Critère de Ranking](link)
+[Bienvenue](link) • [Règles](link) • [Patcher](link) • [Installation](link)
 
+__Mapping__
+
+[Différence d'editeur](link) • [Critère de Ranking](link)
 
 __Personnes__
 
