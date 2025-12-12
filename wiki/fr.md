@@ -13,7 +13,7 @@ Le wiki de Titanic! est un projet communautaire fait par des contributeurs de Ti
 
 __Autres Langues__
 
-[Englis](https://osu.titanic.sh/wiki/en/) • [Русский](https://osu.titanic.sh/wiki/ru/) • [Deutsch](https://osu.titanic.sh/wiki/de/) • [Polski](https://osu.titanic.sh/wiki/pl/) • [Suomi](https://osu.titanic.sh/wiki/fi/) • [Eesti](https://osu.titanic.sh/wiki/et/)
+[English](https://osu.titanic.sh/wiki/en/) • [Русский](https://osu.titanic.sh/wiki/ru/) • [Deutsch](https://osu.titanic.sh/wiki/de/) • [Polski](https://osu.titanic.sh/wiki/pl/) • [Suomi](https://osu.titanic.sh/wiki/fi/) • [Eesti](https://osu.titanic.sh/wiki/et/)
 
 
 __Pour Commencer__
