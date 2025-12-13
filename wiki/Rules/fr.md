@@ -1,4 +1,4 @@
-# Règles
+ # Règles
 
 Bienvenue sur Titanic, avant de commencer, s'il vous-plaît lisez entièrement ces règles pour une expérience plus sur et plaisante.
 
@@ -50,12 +50,11 @@ Bienvenue sur Titanic, avant de commencer, s'il vous-plaît lisez entièrement c
 ## Règles Générales des Forums
 
 1. **Spammer plusieurs posts dans un seul fil de discussion est strictement interdit.**  
-    Users must avoid posting repeatedly or flooding a thread with unnecessary or redundant messages. Use the edit button to add to your post when needed. Excessive posting disrupts discussions and may lead to post removal or getting punished.
-	Les utilisateurs doivent évité de posté répétitivement ou d'innonder un fil de discussion avec des messages non néccéssaire ou redondant. Utilisez directement le bouton 'edit' pour rajouter à votre post si besoin. Des postes excessifs dérange les discussions et peut engendrer une suppression d'un post ou une punition. (unsure about that one too)
+	Les utilisateurs doivent évité de posté de manière répititve ou d'innonder un fil de discussion avec des messages non néccéssaire ou redondant. Utilisez directement le bouton 'edit' pour ajouter à votre post si besoin. Les publications excessives dérangent les discussions et peuvent engendrer une suppression d'un post ou une punition.
 
-2. **Ne 'necropostez' pas dans des fils de discussions vieux de 3 mois ou plus..**  
+2. **Pas de 'necroposting' dans les fils de discussion vieux de 3 mois ou plus.**  
     This only applies on General Discussion and Off-Topic sub-forums, reviving old threads without contributing substantial new information disrupts forums may confuse ongoing discussions. If the topic is still relevant, consider starting a new thread instead. Repeated necro-posting may result in warning, if the user keeps necro-posting they'll get silenced.
-	Cela s'applique sur les sous fils des topics 'General Discussion' et 'Off-Topic', relancer des vieux fils sans dire des informations en relations avec le fil dérange les forums et peut rendre les discussions actives plus confuses. Si le sujets est toujours d'actualité, considérez de créer un nouveau fil de discussion à la place. Des répitions de 'necropostage' peut résulté en un advertissement, sinl'utilisateurs continue de 'necropostez', il sera silencié. (le 'necropostage' est l'action de relancer un vieux sujet inactif depuis un long moment, dans ce cas si présent, 3 mois). (unsure about this one too)
+	Cela s'applique uniquement aux sous fils des sujets de 'General Discussion' et 'Off-Topic', relancer des anciens sujets sans amener de nouvelles informations en relation avec le fil dérange les forums et peut embrouiller les discussions actives. Si le sujet est toujours d'actualité, il est préferable de créer un nouveau fil de discussion. Des répitions de 'necropostage' peuvent résulter en un avertissement, si l'utilisateur continue de faire du 'necroposting', il sera féduit au silence. (Le 'necropostage' est l'action de relancer un vieux sujet inactif depuis un long moment, dans le cas présent, 3 mois). (unsure about this one too)
 	
 
 ## Les Procédure pour Signaler / Contacter le Support 
