@@ -11,7 +11,7 @@ Bienvenue sur Titanic, avant de commencer, s'il vous-plaît lisez entièrement c
 	L'utilisation de n'importe quelle outils tierce qui vous donne un avantage déloyale sur les autres amènera à une restriction. Cela inclut des programmes comme les macros, cheat engine, des programme d'aide à la visée, manipulation du temps, etc. Additionnellement, exploiter des bugs ou des réactions non voulues d'un client est strictement interdit. Si vous voyez une activité suspicieuse de la part d'un utilisateur, s'il vous plaît ouvrez un ticket dans le [serveur Discord de Titanic](https://discord.gg/qryYG2C5nc) ou contactez l'[e-mail de support](mailto:support@titanic.sh).
 
 3. **Soyez gentils envers les autres.**  
-	Tout harcèlement, racisme, ou antagonisme n'a aucune place ici sur Titanic! Ceci est un serveur on appuie sur des cercles, on attrape des fruits, on cogne des tambours, et on casse des claviers tout en pretendant être Cookiezi et en jouant des vielles maps, pas pour être mechant entre les uns les autres.
+	Tout harcèlement, racisme, ou antagonisme n'a aucune place ici sur Titanic! Ceci est un serveur ou on appuie sur des cercles, on attrape des fruits, on cogne des tambours, et on casse des claviers tout en prétendant être Cookiezi et en jouant des vielles maps, pas pour être mechant entre les uns les autres.
 
 4. **Aucun contenue NSFW/18+.**  
 	Tout contenue qui contient l'utilisation de drogues, ou contenue a nature sexuel ne sont pas le bienvenue ici. Vous pouvez gardez cela à vous-même.
@@ -29,19 +29,19 @@ Bienvenue sur Titanic, avant de commencer, s'il vous-plaît lisez entièrement c
 9. **Les codes de sources qui ont fuité.**  
 	Toute mention, affichage, ou distribution de fuite du code de source de osu! est strictement interdit. Cela créerai juste du travail non-néccessaire pour peppy.
 
-10. **L'age minimu. requis.**  
+10. **L'age minimum requis.**  
 	Toute utilisateurs doivent avoir au moins 13 ans pour rejoindre Titanic. Les propriétaires de compte qui auront été trouvé d'être en-dessous de cette age serons suspendus j'usqu'a ce que la preuve d'éligibilité est donné.
 
-11. **Faite preuve de bon sens.**  
+11. **Faites preuve de bon sens.**  
     The staff team has explicit discretion to apply their judgment on this as they see fit.
-	Le personel à le droit d'appliquer leurs jugements comme ils le sentent. (unsure about this so leaving english to verify with someone else)
+	Le personel a totalement le droit d'appliquer son jugement comme bon lui semble. (unsure about this so leaving english to verify with someone else)
 
 ## Règles de chat en jeu.
 
 1. **Soyez réspectueux et attentionée envers les autres dans le canal.**  
 	Évitez d'innonder ou de spammer. Prendre la moitié de l'écran a vous-même n'est pas est embettant, donc, s'il vous-plaît évitez de le faire quand c'est possible.
 
-2. **Si quelqu'un est silencié ou restricté, ignorez les et ne commencez pas à parler d'eux.**  
+2. **Si quelqu'un est silencié ou restreint, ignorez les et ne commencez pas à parler d'eux.**  
 	Si quelqu'un est silencié ou restricté, leurs cas est entre eux et les adminstrateurs.
 
 3. **Ne continuez pas d'envoyer des messages ou d'harcemer des utilisateurs après avoir été blocké.**  
@@ -49,9 +49,9 @@ Bienvenue sur Titanic, avant de commencer, s'il vous-plaît lisez entièrement c
 
 ## Règles Générales des Forums
 
-1. **Spammer multiple posts dans un seul fil de discussion est strictement interdit.**  
+1. **Spammer plusieurs posts dans un seul fil de discussion est strictement interdit.**  
     Users must avoid posting repeatedly or flooding a thread with unnecessary or redundant messages. Use the edit button to add to your post when needed. Excessive posting disrupts discussions and may lead to post removal or getting punished.
-	Les utilisateurs doivent évité de posté répétitivement ou d'innonder un fil de discussion avec des messages non néccéssaire ou redondant. Utilisz-ez directement le bouton 'edit' pour rajouter votre post si besoin. Poster excéssivement dérange les discussions et peut engendrer une suppression d'un post ou une punition. (unsure about that one too)
+	Les utilisateurs doivent évité de posté répétitivement ou d'innonder un fil de discussion avec des messages non néccéssaire ou redondant. Utilisez directement le bouton 'edit' pour rajouter à votre post si besoin. Des postes excessifs dérange les discussions et peut engendrer une suppression d'un post ou une punition. (unsure about that one too)
 
 2. **Ne 'necropostez' pas dans des fils de discussions vieux de 3 mois ou plus..**  
     This only applies on General Discussion and Off-Topic sub-forums, reviving old threads without contributing substantial new information disrupts forums may confuse ongoing discussions. If the topic is still relevant, consider starting a new thread instead. Repeated necro-posting may result in warning, if the user keeps necro-posting they'll get silenced.
