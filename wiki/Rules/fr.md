@@ -34,7 +34,7 @@ Bienvenue sur Titanic, avant de commencer, s'il vous-plaît lisez entièrement c
 
 11. **Faites preuve de bon sens.**  
     The staff team has explicit discretion to apply their judgment on this as they see fit.
-	Le personel a totalement le droit d'appliquer son jugement comme bon lui semble. (unsure about this so leaving english to verify with someone else)
+	Le personel a totalement le droit d'appliquer son jugement comme bon lui semble.
 
 ## Règles de chat en jeu.
 
@@ -53,8 +53,7 @@ Bienvenue sur Titanic, avant de commencer, s'il vous-plaît lisez entièrement c
 	Les utilisateurs doivent évité de posté de manière répititve ou d'innonder un fil de discussion avec des messages non néccéssaire ou redondant. Utilisez directement le bouton 'edit' pour ajouter à votre post si besoin. Les publications excessives dérangent les discussions et peuvent engendrer une suppression d'un post ou une punition.
 
 2. **Pas de 'necroposting' dans les fils de discussion vieux de 3 mois ou plus.**  
-    This only applies on General Discussion and Off-Topic sub-forums, reviving old threads without contributing substantial new information disrupts forums may confuse ongoing discussions. If the topic is still relevant, consider starting a new thread instead. Repeated necro-posting may result in warning, if the user keeps necro-posting they'll get silenced.
-	Cela s'applique uniquement aux sous fils des sujets de 'General Discussion' et 'Off-Topic', relancer des anciens sujets sans amener de nouvelles informations en relation avec le fil dérange les forums et peut embrouiller les discussions actives. Si le sujet est toujours d'actualité, il est préferable de créer un nouveau fil de discussion. Des répitions de 'necropostage' peuvent résulter en un avertissement, si l'utilisateur continue de faire du 'necroposting', il sera féduit au silence. (Le 'necropostage' est l'action de relancer un vieux sujet inactif depuis un long moment, dans le cas présent, 3 mois). (unsure about this one too)
+	Cela s'applique uniquement aux sous fils des sujets de 'General Discussion' et 'Off-Topic', relancer des anciens sujets sans amener de nouvelles informations en relation avec le fil dérange les forums et peut embrouiller les discussions actives. Si le sujet est toujours d'actualité, il est préferable de créer un nouveau fil de discussion. Des répitions de 'necropostage' peuvent résulter en un avertissement, si l'utilisateur continue de faire du 'necroposting', il sera féduit au silence. (Le 'necropostage' est l'action de relancer un vieux sujet inactif depuis un long moment, dans le cas présent, 3 mois).
 	
 
 ## Les Procédure pour Signaler / Contacter le Support 
