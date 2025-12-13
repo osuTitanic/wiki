@@ -1,14 +1,14 @@
 # Règles
 
-Bienvenue sur Titanic, avant de commencer, s'il vous-plaît lisez entièrement ces règles pour une expérience plus sur et plaisainte.
+Bienvenue sur Titanic, avant de commencer, s'il vous-plaît lisez entièrement ces règles pour une expérience plus sur et plaisante.
 
 ## Règles de la Communauté
 
-1. **Chaque utilisateurs doit posséder *un* conte pour toujours!**  
-	La seul exception a cette règle est la création de conte 'bot' ou d'autre projets, mais vous devriez d'abords en informez le personnel pour qu'on puisse l'approuvé. Si vous ne pouvait pas accédez a votre e-mail ou que vous avait oublié votre mot de passe, s'il vous-plaît ouvrez un ticket dans le [serveur Discord de Titanic](https://discord.gg/qryYG2C5nc) ou contacté l'[e-mail de support](mailto:support@titanic.sh).
+1. **Chaque utilisateur doit posséder *un* conte pour toujours!**  
+	La seule exception à cette règle est la création de conte 'bot' ou d'autres projets, mais vous devez d'abord en informer le personnel pour qu'on puisse l'approuver. Si vous ne pouvez pas accéder à votre e-mail ou que vous avez oublié votre mot de passe, s'il vous-plaît ouvrez un ticket dans le [serveur Discord de Titanic](https://discord.gg/qryYG2C5nc) ou contactez l'[e-mail de support](mailto:support@titanic.sh).
 
-2. **Jouez fair-play.**  
-	L'utilisation de n'importe quelle outils tierce qui vous donne un avantage déloyale sur les autres résultera en une restriction. Cela inclue des programmes commes les macros, cheat engine, des programme d'assiste à la visée, manipulation du temps, et cetera. Additionnelement, exploiter des bugs ou des réactions non voulu d'un client est strictement interdi. Si vous voyez une activité suspicieuse de la part d'un utilisateurs, s'il vous plaît ouvrez un ticket dans le [serveur Discord de Titanic](https://discord.gg/qryYG2C5nc) ou contacté l'[e-mail de support](mailto:support@titanic.sh).
+2. **Jouez au jeu avec fair-play.**  
+	L'utilisation de n'importe quelle outils tierce qui vous donne un avantage déloyale sur les autres amènera à une restriction. Cela inclut des programmes comme les macros, cheat engine, des programme d'aide à la visée, manipulation du temps, etc. Additionnellement, exploiter des bugs ou des réactions non voulues d'un client est strictement interdit. Si vous voyez une activité suspicieuse de la part d'un utilisateur, s'il vous plaît ouvrez un ticket dans le [serveur Discord de Titanic](https://discord.gg/qryYG2C5nc) ou contactez l'[e-mail de support](mailto:support@titanic.sh).
 
 3. **Soyez gentils envers les autres.**  
 	Tout harcèlement, racisme, ou antagonisme n'a aucune place ici sur Titanic! Ceci est un serveur on appuie sur des cercles, on attrape des fruits, on cogne des tambours, et on casse des claviers tout en pretendant être Cookiezi et en jouant des vielles maps, pas pour être mechant entre les uns les autres.
