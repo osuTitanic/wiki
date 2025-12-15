@@ -12,11 +12,11 @@ Si vous êtes entièrement nouveau à osu!, il est recommandé que vous jouez le
 
 ### Étape 1 - Trouvé la musique!
 
-What is a beatmap you might ask? Just like any game, it will have levels, or sometimes maps. Well in osu!, we have "Beatmaps" which are exactly what you think they are, they are maps with beat (rhythm). Finding beatmaps for songs is easy! You can find every submitted beatmap [here](https://osu.titanic.sh/beatmapsets). You can type anything related to your search: song's name, artist's name, album's name, even the genre! For this example we'll try find "Coldplay - Don't Let It Break Your Heart"
+Qu'est-ce uen 'beatmap' vous demandez? Comme n'importe quelle autre jeux, il y a des niveaux, ou quelque fois, des maps. Justement, dans osu!, nous avons des ”Beatmaps” qui sont exactement ce a quoi vous pensez, ce sont des cartes (maps) avec du rythme (Beat). Trouvez des 'beatmaps' pour des musiques est simple! Vous pouvez facilement trouvé toute les 'beatmaps soumises [ici](https://osu.titanic.sh/beatmapsets). Vous pouvez trouvez toute les choses en rapport avec votre recherche: nom de la musique, nom de l'arriste, nom de l'album, et même le genre! Pour cette example, nous allons essayer de trouvé ”Coldplay - Don't Let It Break Your Heart”
 
 ![Using beatmap search](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Welcome/img/step_1.jpg)
 
-### Step 2 - Download it!
+### Étape 2 - Téléchargez la!
 
 If there is an approved beatmap version of the song you are looking for, you should find it in the result pages. However don't be upset if your song isn't there! There are hundreds of beatmaps being submitted and reviewed so your song might be on its' way! Please do not post requests for beatmaps you'd want, most mappers will map the songs **they** love, not what you love, but that might be a hint for you to start your own mapping career!
 
