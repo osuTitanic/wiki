@@ -57,7 +57,7 @@ Bienvenue sur Titanic, avant de commencer, s'il vous-plaît lisez entièrement c
 
 ## Les Procédure pour Signaler / Contacter le Support 
 
-Il y a 2 moyens principal de signaler une attitude transgressante au personel:
+Il y a 2 moyens principal de signaler une attitude transgressante au personnel:
 
 - Ouvrir un ticket dans le [serveur Discord de Titanic!](https://discord.gg/qryYG2C5nc) 
 - Écrire un email à l'[email de support](mailto:support@titanic.sh).
