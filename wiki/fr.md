@@ -8,7 +8,7 @@ Nous avons actuellement 14 articles à ce jour!                   Aujourd'hui es
 
 __Description General__
 
-Le wiki de Titanic! est un projet communautaire fait par des contributeurs de Titanic! dévoué. Notre but est de crée la resource ultime pour tout ce qui est en rapport avec Titanic!. Mais, nous ne pouvons pas le faire tout seul - __nous avons besoin de votre aide!__ Si vous êtes passionés par le projet, utilsez vos connaisasances pour commencer a contribuer a partir d'aujourd'hui!
+Le wiki de Titanic! est un projet communautaire fait par des contributeurs de Titanic! dévoué. Notre but est de créer la ressource ultime pour tout ce qui est en rapport avec Titanic!. Mais, nous ne pouvons pas le faire tout seul - __nous avons besoin de votre aide!__ Si vous êtes passioné par le projet, utilisez vos connaissances pour commencer à contribuer à partir d'aujourd'hui!
 
 
 __Autres Langues__
@@ -22,7 +22,7 @@ __Pour Commencer__
 
 __Mapping__
 
-[Différence d'editeur](link) • [Critère de Ranking](link)
+[Différence d'éditeur](link) • [Critère de Ranking](link)
 
 __Personnes__
 
