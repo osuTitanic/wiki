@@ -4,13 +4,13 @@ Tout d'abord, nous aimerions vous donner un accueil chaleureux et un câlin pour
 
 [TOC]
 
-## The Tutorial
+## Le tutoriel
 
-If you are completely new to osu!, it is recommended that you play the tutorial first ([Peter Lambert - osu! tutorial](https://osu.titanic.sh/s/3756)). After [[Installation|downloading and installing]] osu!, there will be a massive osu! button in the middle. Just click on it twice and choose "Solo" mode. You can easily search for a beatmap in the library just by typing it out, but what you're looking for right now is the "Tutorial". Since this is your first-time, the only beatmap inside is "[Peter Lambert - osu! tutorial](https://osu.titanic.sh/s/3756)". The beatmap will teach you about the fundamental of osu! Standard play such as Hit-circles, Sliders and Spinners. For playing techniques, you have to learn as you go, as they can't be taught verbally.
+Si vous êtes entièrement nouveau à osu!, il est recommandé que vous jouez le tutoriel d'abord: ([Peter Lambert - osu! tutorial](https://osu.titanic.sh/s/3756)). Après l'[[Installation|downloading and installing]] de osu!, il y aura un gros bouton osu! au milieu. Appuyez juste sur celui-ci 2 fois et choisissez le mode ”Solo”. Vous pouvez facilement chercher pour une 'beatmap' dans la librairie juste en écrivant son nom, mais pour l'instant ce que vous recherchez est le tutoriel (écrit ”Tutorial” en anglais). Vu que c'est votre première fois, la seul 'beatmap' dans le jeu est "[Peter Lambert - osu! tutorial](https://osu.titanic.sh/s/3756)". Cette beatmap vous apprendra les fondamentaux de osu! Standard, avec les Cercles, les 'Sliders' et 'Spinners' (oui, la plupart des termes osu! en français, sont en anglais). Pour jouer des choses plus techniques, vous devez apprendre pendant que vous jouez, comme elles ne peuvent pas être apprises verbalement.
 
-## How to start playing your favourite songs!
+## Comment commencer à jouer vos musiques préférées!
 
-### Step 1 - Find the song!
+### Étape 1 - Trouvé la musique!
 
 What is a beatmap you might ask? Just like any game, it will have levels, or sometimes maps. Well in osu!, we have "Beatmaps" which are exactly what you think they are, they are maps with beat (rhythm). Finding beatmaps for songs is easy! You can find every submitted beatmap [here](https://osu.titanic.sh/beatmapsets). You can type anything related to your search: song's name, artist's name, album's name, even the genre! For this example we'll try find "Coldplay - Don't Let It Break Your Heart"
 
