@@ -19,12 +19,15 @@ Qu'est-ce uen 'beatmap' vous demandez? Comme n'importe quelle autre jeux, il y a
 ### Étape 2 - Téléchargez la!
 
 If there is an approved beatmap version of the song you are looking for, you should find it in the result pages. However don't be upset if your song isn't there! There are hundreds of beatmaps being submitted and reviewed so your song might be on its' way! Please do not post requests for beatmaps you'd want, most mappers will map the songs **they** love, not what you love, but that might be a hint for you to start your own mapping career!
+Si il y a une version 'beatmap' approuvé de la musique que vous cherchez, vous devriez la trouver dans la page des résultats. Mais, ne soyez pas énervé si votre musique n'est pas là! Il y a des centaines de 'beatmaps' qui sont soumises et revue, votre musique en fait peut-être partie! S'il vous-plaît ne publier pas des requetes pour des 'beatmaps que vous voudriez, la plupart des mappeurs 'map' les musiques qu**'ils** aimes, pas ce que vous aimez, mais, cela pourrait être un indice pour commencer votre propre carrière dans le 'mapping'! (unsure about this one)
 
 Once on the beatmap's page, there should be a giant "Download Beatmap" button (you have to be signed in first, otherwise, a yellow button will direct you to sign-in).
+Dès que vous êtes sur la page de la 'beatmap', vous devriez voir un bouton "Download Beatmap" géant (vous devez être connecter d'abord, sinon, un bouton jaune vous dirigera vers la page de connection/création de conte) (unsure about this too)
 
 ![Downloading a beatmap](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Welcome/img/step_2.jpg)
 
 **Note:** It doesn't matter where you save the file as long as you can find it once the download is finished. Also, you can choose to directly open it but will force your osu! to start-up if it's not activated. 
+**Note:** Il n'importe pas là ou vous auvegardez le fichier, tant que vous pouvez le retrouver après avoir fini de le télécharger. Aussi, vous pouvez choisir de l'ouvrir directement, mais cela forcera votre client osu! a s'allumer, si il ne l'est pas déja. (unsure)
 
 ### Step 3 - Load it up with osu!
 
