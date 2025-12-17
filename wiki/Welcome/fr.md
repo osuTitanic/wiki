@@ -29,23 +29,24 @@ Dès que vous êtes sur la page de la 'beatmap', vous devriez voir un bouton "Do
 **Note:** It doesn't matter where you save the file as long as you can find it once the download is finished. Also, you can choose to directly open it but will force your osu! to start-up if it's not activated. 
 **Note:** Il n'importe pas là ou vous auvegardez le fichier, tant que vous pouvez le retrouver après avoir fini de le télécharger. Aussi, vous pouvez choisir de l'ouvrir directement, mais cela forcera votre client osu! a s'allumer, si il ne l'est pas déja. (unsure)
 
-### Step 3 - Load it up with osu!
+### Étape 3 - Chargez la dans osu!
 
-Once your download has finished, you should simply be able to open the beatmap **.osz** file. If for some reason that doesn't suit you, you might want to hold & drag the file into the osu! window.
+Dès que votre téléchargement est terminé, vous pourrez simplement ouvrir la 'beatmap' en fichier **.osz**. Si pour certaine raisons cela ne vous convient pas, vous pouvez prendre et amener le fichier dans la fenêtre osu!
 
 ![Opening the file](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Welcome/img/step_3.jpg)
 
-### Step 4 - Play for fun or compete with other players!
+### Étape 4 - Jouez pour vous amusez ou rivalisez avec les autres joueurs!
 
 Once opened, osu! should start-up. To start browsing your beatmap library just click the massive osu! circle in the middle, click "Play", "Solo". Your new beatmap (along with the tutorial) should be listed there. Choose the difficulty you want to play and you're off to become an osu! player! You may also play "Multi" instead of "Solo" where players will compete in live games. You can also be part of the fun.
+Dès que le fichier est ouvert, osu! devrait s'ouvrir. Pour commencer a rechercher vos 'beatmaps' dans votre librairie, clické juste sur le géant logo osu! au milieu, appuyé sur ”Jouer”, ”Solo”. Votre nouvelle 'beatmap' (ainsi que le tutoriel) devrait être listé ici. Choisissez la difficulté que vous voulez jouer et vous êtes partis pour devenir un joueur de osu!! Vous pouvez aussi jouer en ”Multi” aulieu de ”Solo” ou d'autre joueurs serons entrain de participer dans des matchs en directe. Vous pouvez aussi faire partie du plaisir. (unsure)
 
 ![Playing in osu!](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Welcome/img/step_4.jpg)
 
-There we go! Now you're ready to play osu! and find your favorite songs. If you're having any issues, feel free to ask for help in the forums or in-game (press F8 to open chat window, under #osu).
+Et voilà! Mainteneant vous êtes prêt pour jouer à osu! et trouver vos musiques favorites. Mais si vous aves des problèmes, vous pouvez demander de l'aide dans les forums ou en jeu (appuyez sur F8 pour ouvrir la fenêtre de chat, sous #osu).
 
-**GOOD LUCK AND HAVE FUN! :3**
+**BONNE CHANCE ET AMUSEZ VOUS! :3**
 
-## Game Modes
+## Modes de Jeu
 
 ### Solo
 
