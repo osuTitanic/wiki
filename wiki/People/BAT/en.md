@@ -23,19 +23,19 @@ Members of the Beatmap Approval Team are responsible primarily for managing the 
 
 ### Standard team members
 
-User                                           |   Specialization    | Additional Languages Spoken | Added Date
------------------------------------------------|:-------------------:|:---------------------------:|----------------------------
-[Digitalfear117](https://osu.titanic.sh/u/809) | Beatmap File Expert |                             | May 29th, 2024
-[kingkurboh335](https://osu.titanic.sh/u/810)  |                     |          Croatian           | May 22nd, 2024([^3])
-[Nikku](https://osu.titanic.sh/u/811)          |    Storyboarding    |                             | May 19th, 2024([^1])
-[[Kagamine Rin]](https://osu.titanic.sh/u/813) |                     |            Dutch            | August 19th, 2024
-[vyper](https://osu.titanic.sh/u/69)           |                     |                             | October 20th, 2024
-[Avril](https://osu.titanic.sh/u/593)          |                     |          Filipino           | February 23rd, 2025
-[pimpG](https://osu.titanic.sh/u/2719)         |                     |         Portuguese          | June 16th, 2025
-[arutama](https://osu.titanic.sh/u/905)        |                     |         Indonesian          | July 7th, 2025([^4])([^10])
-[Sonnyc](https://osu.titanic.sh/u/3041)        |                     |           Korean            | August 3rd, 2025
-[Ady](https://osu.titanic.sh/u/821)            |                     |                             | December 8th, 2025([^6])
-[SCAG](https://osu.titanic.sh/u/2631)          |                     |                             | November 11th, 2025
+User                                           |         Specialization         | Additional Languages Spoken | Added Date
+-----------------------------------------------|:------------------------------:|:---------------------------:|----------------------------
+[Digitalfear117](https://osu.titanic.sh/u/809) | BAT Management / Beatmap Files |                             | May 29th, 2024
+[kingkurboh335](https://osu.titanic.sh/u/810)  |         BAT Management         |          Croatian           | May 22nd, 2024([^3])
+[Nikku](https://osu.titanic.sh/u/811)          |         Storyboarding          |                             | May 19th, 2024([^1])
+[[Kagamine Rin]](https://osu.titanic.sh/u/813) |                                |            Dutch            | August 19th, 2024
+[vyper](https://osu.titanic.sh/u/69)           |                                |                             | October 20th, 2024
+[Avril](https://osu.titanic.sh/u/593)          |                                |          Filipino           | February 23rd, 2025
+[pimpG](https://osu.titanic.sh/u/2719)         |                                |         Portuguese          | June 16th, 2025
+[arutama](https://osu.titanic.sh/u/905)        |                                |         Indonesian          | July 7th, 2025([^4])([^10])
+[Sonnyc](https://osu.titanic.sh/u/3041)        |                                |           Korean            | August 3rd, 2025
+[Ady](https://osu.titanic.sh/u/821)            |                                |                             | December 8th, 2025([^6])
+[SCAG](https://osu.titanic.sh/u/2631)          |                                |                             | November 11th, 2025
 
 
 ### Taiko team members
