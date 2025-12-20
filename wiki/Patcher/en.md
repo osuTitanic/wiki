@@ -19,7 +19,7 @@ Most people use [Osekai Snapshots](https://osekai.net/snapshots/) for this purpo
 ## Step 2: Download the latest version of Titanic! Patcher
 
 Titanic! Patcher is fully open-source and available for download on the GitHub [Release Page](https://github.com/osuTitanic/hook/releases).  
-Find the latest version and download the **Titanic.netxx.exe** file.
+Find the latest version and download the **Titanic.exe** file.
 
 ![Patcher Download](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Patcher/img/titanic-patcher-download.jpg)
 
@@ -29,9 +29,7 @@ Once downloaded, place the *.exe* file into your osu! installation folder and do
 
 ### Choosing the right .NET Framework version
 
-It is recommended to use the .NET 4.0 version of the patcher, as it's compatible with every osu! version, saves some headaches, is compatible out of the box with osu-wine, and might provide better performance.
-
-Additionally, there is a .NET 2.0 version of the patcher that's compatible only with versions before the middle of 2015, which might fix some unexpected issues. It also works on very old operating systems (Windows 2000 and Windows XP before Service Pack 2).
+Generally, it is recommended to download the regular "Titanic.exe" file, as it has the widest range of compatibility. However, there is an additional "fallback" version of the patcher, using .NET 2.0, which is compatible with versions before the middle of 2015 *only*. It might fix some unexpected issues, and it also works on very old operating systems (Windows 2000 and Windows XP before Service Pack 2).
 
 ### Versions for "testers only"
 
