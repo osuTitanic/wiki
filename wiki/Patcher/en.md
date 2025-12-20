@@ -21,7 +21,7 @@ Most people use [Osekai Snapshots](https://osekai.net/snapshots/) for this purpo
 Titanic! Patcher is fully open-source and available for download on the GitHub [Release Page](https://github.com/osuTitanic/hook/releases).  
 Find the latest version and download the **Titanic.exe** file.
 
-![Patcher Download](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Patcher/img/titanic-patcher-download.jpg)
+![Patcher Download](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Patcher/img/titanic-patcher-download.png)
 
 Once downloaded, place the *.exe* file into your osu! installation folder and double-click it. That’s it - you’re ready to go!
 
