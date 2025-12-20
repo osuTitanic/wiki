@@ -28,13 +28,14 @@ User                                           |   Specialization    | Additiona
 [Digitalfear117](https://osu.titanic.sh/u/809) | Beatmap File Expert |                             | May 29th, 2024
 [kingkurboh335](https://osu.titanic.sh/u/810)  |                     |          Croatian           | May 22nd, 2024([^3])
 [Nikku](https://osu.titanic.sh/u/811)          |    Storyboarding    |                             | May 19th, 2024([^1])
-[Oposh](https://osu.titanic.sh/u/829)          |                     |           Polish            | May 19th, 2024([^1])
 [[Kagamine Rin]](https://osu.titanic.sh/u/813) |                     |            Dutch            | August 19th, 2024
 [vyper](https://osu.titanic.sh/u/69)           |                     |                             | October 20th, 2024
 [Avril](https://osu.titanic.sh/u/593)          |                     |          Filipino           | February 23rd, 2025
 [pimpG](https://osu.titanic.sh/u/2719)         |                     |         Portuguese          | June 16th, 2025
 [arutama](https://osu.titanic.sh/u/905)        |                     |         Indonesian          | July 7th, 2025([^4])([^10])
 [Sonnyc](https://osu.titanic.sh/u/3041)        |                     |           Korean            | August 3rd, 2025
+[Ady](https://osu.titanic.sh/u/821)            |                     |                             | December 8th, 2025([^6])
+[SCAG](https://osu.titanic.sh/u/2631)          |                     |                             | November 11th, 2025
 
 
 ### Taiko team members
@@ -85,6 +86,7 @@ User                                                 |                   Time in
 [Dark](https://osu.titanic.sh/u/812)                 |      March 18th, 2025 -> August 28th, 2025
 [iSlodinx](https://osu.titanic.sh/u/869)             |       May 29th, 2024 -> August 17th, 2025
 [Yurizono Seia](https://osu.titanic.sh/u/2168)       |       May 26th, 2025 -> August 22nd, 2025
+[Oposh](https://osu.titanic.sh/u/829)                |   May 19th, 2024([^1]) -> November 22nd, 2025
 
 
 ## History
@@ -100,7 +102,7 @@ User                                                 |                   Time in
 [^3]: https://discord.com/channels/1152925764262580236/1152925765566988341/1242819755241635880
 [^4]: https://discord.com/channels/1152925764262580236/1152925765566988341/1251193374438854706
 [^5]: https://osu.titanic.sh/forum/20/t/472/
-[^6]: -Ady joined the BAT in May 19th 2024, resigned in August 13th 2024, rejoined BAT in October 22nd 2024, resigned in April 29th 2025.
+[^6]: Ady joined the BAT in May 19th 2024, resigned in August 13th 2024, rejoined BAT in October 22nd 2024, resigned in April 29th 2025 and rejoined BAT in December 8th 2025
 [^7]: https://discord.com/channels/1152925764262580236/1187954638486515773/1292482236096057374
 [^8]: fluxie31 joined the BAT in May 19th 2024, resigned in June 6th 2024, rejoined BAT in May 11th 2025, resigned in June 22nd 2025.
 [^9]: Cartman joined the BAT in May 20th 2024, resigned in January 3rd 2025, rejoined BAT in May 28th 2025, resigned again in August 28th 2025.
