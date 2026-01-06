@@ -163,20 +163,19 @@ Pour désactivez l'SIP, suivez ces instructions:
 2. Allumez votre Mac et appuyez immédiatemment et restez appuyez sur ces deux touches: Command (⌘) et `R`.
 3. Relachez les 2 touches quand vous voyez le logo Apple, un globe qui tourne, ou n'importe quelle autres écran de démmarage.
 4. Vous serrez peut être demander d'entrer un mot de passe, telle qu'un mot de passe de micrologiciel ou le mot de passe d'un utilisateur qui est administrateur de ce Mac
-5. Launch *Terminal* from the Utilities menu. It should be in the menu bar at the top of your screen.
-6. Run the command `csrutil disable`.
-7. Restart your computer. You can do so from the top menu bar, just like you would normally.
-8. Once you have SIP disabled, let it boot up normally, login, and you can then begin to install osu!.
+5. Lancez le *Terminal* depuis le menu utilitaire. Cela devrait être dans la bar de menu tout en haut de votre écran.
+6. Éxecutez la commande `csrutil disable`.
+7. Redémarrez votre ordinateur. Vous pouvez faire cela depuis la bar du haut du menu, comme vous le feriez normalement.
+8. Dès que la SIP est désactivé, laissez le s'allumer normalement, connectez vous, et vous pouvez maintenant installer osu!.
 
-### Troubleshooting with osu!macOS Agent
+### Dépannage avec l'Agent osu!macOS
 
-If you encounter issues with the installation process, you might want to try the **osu!macOS Agent**, developed by [Technocoder](https://osu.ppy.sh/users/10338558). You can download it from the "[macOS Installation Guide](https://osu.ppy.sh/community/forums/topics/1106057)" forum post.
+Si vous recontrez des problèmes pendant l'installation, vous pouvez essayez l'**Agent osu!macOS**, développer par [Technocoder](https://osu.ppy.sh/users/10338558). Vous pouvez aussi le télecharger depuis le fil de discussion "[Guide d'Installation macOS](https://osu.ppy.sh/community/forums/topics/1106057)" (ceci est en Anglais).
 
-1. Open osu!macOS Agent
-2. Select your osu! application package
-3. Click on the *Troubleshoot* tab
-4. Click the *Scan* button
-5. Click the *Repair* button
-6. Now restart osu! to see if your issue was fixed
+1. Ouvrez l'Agent osu!macOS
+2. Selectionnez votre package de l'application osu!
+3. Appuyez sur l'onglet *Troubleshoot*
+5. Appuyez sur le bouton *Scan*
+6. Maintenant redémarrez osu! pour voir si votre problème a été réparer.
 
-There's still a good chance that it will not work. If that is the case, don't be afraid to ask for support in the [Titanic! Discord server](https://discord.gg/qryYG2C5nc) or in the [support sub-forum](https://osu.titanic.sh/forum/7).
+Il y a quand même un grande chance que cela ne fonctionne pas. Si c'en est le cas, n'ayea pas peur de demandez de l'aide dans le [serveur Discord de Titanic!](https://discord.gg/qryYG2C5nc) ou dans le [sous fil de support](https://osu.titanic.sh/forum/7).
