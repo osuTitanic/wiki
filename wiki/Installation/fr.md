@@ -6,51 +6,51 @@ Pour commencer ge jouer à Titanic!, vous pouvez aller sur la [page de télécha
 
 ![BuildDownload](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Installation/img/BuildDownload.png)
 
-After it finishes installing, all you have to do is extract the folder and double-click `osu!.exe`.
-
+Après que cela ai fini de télecharger, tout ce que vous devez faire est éxtraire le fichier et double clicker sur `osu.exe`.
 There is a chance that Windows Defender may block it, since the game is unsigned (a certificate for that would cost 200$). An alternative would be to use the [[Patcher]], which is still experimental, but does not get blocked by Windows Defender from our testing.
+Il y a une chance que Windows Defender le bloque, vue que le jeu est non signé (un certificat couterait $200). Une alternative serait d'utiliser le [[Patcher]], qui est toujours experimental, mais ne se fait pas bloquer par Windows Defender selon nos testes. (unsure)
 
-## Registering an account
+## Créer un compte
 
-To register an account you can go to the [registration page](https://osu.titanic.sh/account/register) by clicking on "I'm New!" (**Remember you are only allowed to have *ONE* account EVER!**)
+Pour créer un compte vous pouvez aller sur la [page de création de compte](https://osu.titanic.sh/account/register) en clickant sur ”I'm New!” (**Rapellez vous, vous êtes autorisez à avoir *UN* seul compte pour TOUJOURS!**)
 
 ![NewUser](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Installation/img/NewUser.png)
 
-After you create your account you will be prompted to verify your email:
+Après avoir créer votre compte, vous recevrez une demande de vérification d'email:
 
 ![Verification](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Installation/img/Verification.png)
 
-## Linux Installation
+## Installation sur Linux
 
-### Prerequisites
+### Prérequis
 
-**Install git**
+**Installer git**
 
 Ubuntu/Debian: `sudo apt install -y git`                                                                                                                   
 Arch Linux: `sudo pacman -Sy --needed  --noconfirm git`                                                                                                    
 Fedora: `sudo dnf install -y git`
 
-**Install Lutris**
+**Installer Lutris**
 
-Ubuntu/Debian: <https://github.com/lutris/lutris/releases> (Get the .deb package from here)  
-Arch Linux: `sudo pacman -S lutris`  
+Ubuntu/Debian: <https://github.com/lutris/lutris/releases> (Prenez le package .deb depuis ici)  
+.Arch Linux: `sudo pacman -S lutris`  
 Fedora: `sudo dnf install lutris`  
 Flatpak: `flatpak install flathub net.lutris.Lutris` 
 
-**Install graphics drivers**
+**Installer les graphics drivers**
 
-If you haven't done so, you can refer to this guide:  
+Si vous ne l'avez pas fait, vous pouvez vous referrez à ce guide:  
 <https://github.com/lutris/docs/blob/master/InstallingDrivers.md>
 
 **Pipewire**
 
-Pipewire performs much better on osu! than Pulseaudio, you can install it by following this guide:  
+Pipewire performe bien mieux sur osu! que Pulseaudio, vous pouvez l'installer en suivant ce guide:  
 <https://github.com/NelloKudo/osu-winello/wiki/Installing-PipeWire>
 
-### Installation of osu-winello
+### Installation de osu-winello
 
-[osu-winello](https://github.com/NelloKudo/osu-winello), developed by [NelloKudo](https://github.com/NelloKudo), is currently the best way to get osu! stable running on Linux. We will use it to launch our Titanic installations later on.  
-Follow these commands to get it setup:
+[osu-winello](https://github.com/NelloKudo/osu-winello), devolopper par [NelloKudo](https://github.com/NelloKudo), est actuellemnt le meilleur moyen de faire tourner osu!stable sur Linux. Nous l'utiliserons pour lancer nos installations de Titanic plus tard.  
+Suivez ces commandes pour le configurer:
 
 ```
 git clone https://github.com/NelloKudo/osu-winello.git
@@ -59,109 +59,110 @@ chmod +x ./osu-winello.sh
 ./osu-winello.sh
 ```
 
-### Download the Titanic client
+### Télechargez le client Titanic.
 
-You can download any patched osu! version from the [downloads page](https://osu.titanic.sh/download/).
+Vous pouvez télecharger n'importe quelle versions patchée de osu! depuis la [page de télechargement](https://osu.titanic.sh/download/).
 
 ![BuildDownloadSmall](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Installation/img/BuildDownloadSmall.png)
 
-### Install Titanic through Lutris
+### Installer Titanic avec Lutris
 
-Unzip the `.zip` file downloaded from Titanic to get your osu! installation folder.  
-Open Lutris and let it load fully for first startup.  
-Then click the plus icon on top left -> select "*Add locally installed game*".
-Give it a proper name and such, and set the runner to *Wine*.
+Décompresser le fichier `.zip`télecahrger depuis Titanic pour avoir votre fichier d'installation
+Ouvrez Lutris et laissez le charger complètement pour le premier lancement.
+Puis appuyez sur l'icone plus en haut a gauche -> sélectionnez ”*Add locally installed game*”
+Donnez lui un nom cohérent, et mettez le 'runner' sur *Wine*
 
 ![LutrisAddLocalGame](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Installation/img/LutrisAddLocalGame.png)
 
 ![LutrisGameInfo](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Installation/img/LutrisGameInfo.png)
 
 
-**In Game options:**
+**Options dans le jeu:**
 
-Set the executable to the osu.exe inside of the zip you extracted.  
-Set working directory to the osu! folder of the zip you extracted.  
-Set the wine prefix to `~/.local/share/wineprefixes/osu-wineprefix`.
+Mettez l'executable du osu.exe dans le fichier zip que vous avez extrait.
+Mettez le répertoir de travail dans le fichier zip du osu! que avez extrait.
+Mettez le préfixe wine sur `~/.local/share/wineprefixes/osu-wineprefix`.
 
 ![LutrisWineprefix](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Installation/img/LutrisWineprefix.png)
 
 ![LutrisGameOptions](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Installation/img/LutrisGameOptions.png)
 
 
-**In Runner options:**
+**Dans l'option 'Runner':**
  
-Set `~/.local/share/osuconfig/yawl-winello` as the Wine version:  
+Mettez `~/.local/share/osuconfig/yawl-winello` en tant que version Wine:  
 ![LutrisWineVersion](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Installation/img/LutrisWineVersion.png)
 
-Turn off DXVK and VKD3D:  
+Désactivez DXVK et VKD3D:  
 ![LutrisGraphicsSection](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Installation/img/LutrisGraphicsSection.png)
 
 
-Make sure ESync and FSync are enabled.
-Additionally, disable AMD FSR, BattlEye Anti-Cheat and Easy Anti-Cheat.  
+Soyez sure que ESync et FSync sont activés.
+Additionellement, désactivez AMD FSR, BattleEye Anti-Cheat et Easy Anti-Cheat.
 ![LutrisEsyncFsync](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Installation/img/LutrisEsyncFsync.png)
 
 
-**In System options:**
+**Dans les options du Systeme:**
 
-Turn on "Advanced" mode then switch "Disable desktop effects" on:  
+Activez le mode ”Advanced” et puis activez aussi ”Disable desktop effects”:  
 ![LutrisDisableDesktopEffects](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Installation/img/LutrisDisableDesktopEffects.png)
 
-Enable Feral Gamemode:  
+Activez le 'Gamemode Feral':  
 ![LutrisFeralGamemode](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Installation/img/LutrisFeralGamemode.png)
 
 
-Scroll down until you see Environment Variables.  
-Click add.  
-On the left side put WINE_BLOCK_GET_VERSION.
-On the right side put 1.
+Descendez jusqu'à ce que vous voyez 'Environment Variables'.
+Appuyez sur 'add'
+Sur la gauche, mettez WINE_BLOCK_GET_VERSION.
+Sur la droite, mettez 1.
 
-This is what it should look like:  
+Ceci est ce à quoi cela devrait ressembler:  
 ![LutrisEnvironment](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Installation/img/LutrisEnvironment.png)
 
 
-Now from here you can launch osu! and enjoy!
+Maintenant, vous pouvez lancer osu! et vous amusez!
 
-**NOTE:** Be sure to set the offset to around `-30` to `-20 ms` offset. Then the audio will be like Windows!
+**NOTE:** Soyez sure de mettre l'offset au alentours de `-30`à `-20ms`. Comme cela l'audio sera comme sur Windows!
 
-**Note for Wayland users**
+**Note pour les utilisateurs de Wayland**
 
-If you're running on wayland, you may have to apply the tweaks listed here:  
+Si vous tournez sur wayland, vous devrez peut-être rajouter quelque ajutstement listé ici:  
 <https://github.com/NelloKudo/osu-winello/wiki/Wayland-support>
 
 If you have any issues do not be afraid to ask in the [Titanic! Discord server](https://discord.gg/qupv72e7YH) or in the [support sub-forum](https://osu.titanic.sh/forum/7).
+Si vous avez n'importe quel probleme, n'ayez pas peur de demander dans le [Serveur Discord de Titanic!](https://discord.gg/qupv72e7YH) ou dans le [sous-fil de support](https://osu.titanic.sh/forum/7).
 
-## macOS Installation
+## Installation sur macOS
 
-### Prerequisites
+### Prérequis
 
-To run Titanic! on a Macintosh computer, you'll need the following things:
+Pour faire tournez Titanic! sur un ordinateur Macintosh, vous auriez besoin des choses suivante:
 
-- A supported macintosh (2011 or later)
-- A client from the [downloads page](https://osu.titanic.sh/download/)
-- The correct wineskin
-    - [Fallback](https://cdn.titanic.sh/public/osx/osx-fallback.base.zip) - Used with clients from mid-2015 or earlier, or those marked as "fallback"
-    - [Latest](https://cdn.titanic.sh/public/osx/osx-latest.base.zip) - Used with all clients after around mid-2015
+- Un macintosh supporté (2011 et après)
+- Un client depuis la [page de télechargement](https://osu.titanic.sh/download/)
+- Le bon wineskin
+    - [Fallback](https://cdn.titanic.sh/public/osx/osx-fallback.base.zip) - Utilisé avec les clients de mi-2015 ou avant, ou ceux marqué en tant que ”fallback”
+    - [Latest](https://cdn.titanic.sh/public/osx/osx-latest.base.zip) - Utilisé avec tout les clients après mi-2015
 
-Make sure your Mac is running an operating system above *High Sierra*, as it is required for the best performance and this guide. Although it might run on High Sierra, most browsers don't support GitHub.  
-**For the best performance, please make sure your Mac is from 2011 or later.** A 2008 one may run it, but 2011 or later is recommended. It also has to support 32/64 bit capabillites.
+Soyez sure que votre Mac tourne sur un système d'opération supérieur à *High Sierra*, car cela est requis pour la meilleur performance et ce guide. Même si cela peut tournez sur High Sierra, la pluparts des navigateurs ne supporte pas GitHub.
+**Pour la meilleur performance, s'il vous plaît soyez sure que le Mac est de 2011 ou après.** Un de 2008 pourrait le faire tourner, mais 2011 ou après est recommander. Ceux la ont aussi la capabilité de supporté 32/64 bit.
 
 ### Installation
+	
+1. Soyez sure que vous avez télecharger un client depuis la [page de télechargement](https://osu.titanic.sh/download/) et le bon *wineskin*, comme éxpliquer au début de ce document.
+2. Dès que vous avez extrait les 2 fichiers, allez dans le package d'application *osu!* en faisaint un click droit et en choisissant *Afficer le contenue des Packages*.
+3. Maintenant, allez sur **drive_c -> osu!**. Ici, vous trouverez la location où nous placerons le client osu!. Revenez sur votre fichier, ou vous allez extraire votre client désirer, copier tout les fichier qui sont à l'intérieur, et les coller dans le fichier **drive_c -> osu!**.
+4. Double clickez sur l'application osu! qui est maintenant à jour, et commencez à appuyez sur des cercles!
 
-1. Make sure you have downloaded a client from the [downloads page](https://osu.titanic.sh/download/) and the correct *wineskin*, as outlined in the beginning of this document.
-2. Once you have extracted both of them, head into the *osu!* application package by right-clicking and selecting *Show Package Contents*.
-3. Now navigate to **drive_c -> osu!**. Here's the location where we're going to place the osu! client. Go back to your folder, where you extracted your desired client, copy every file thats inside, and paste it inside the **drive_c -> osu!** folder.
-4. Double-click the now updated osu! application, and start clicking circles!
+### Désactivitez la Protéction de l'Intégrité du Système (SIP)
 
-### Disabling System Integrity Protection (SIP)
+**Important! Si votre Mac tourne sur n'importe quelel version de Catalina en dessous de `10.15.5`, vous devriez désactivez la Protéction de l'Intégrité du Système (SIP)**
+Pour désactivez l'SIP, suivez ces instructions:
 
-**Important! If your Mac is running any Catalina version below `10.15.5`, you'll need to disable System Integrity Protection (SIP).**  
-To disable SIP, follow these steps:
-
-1. Restart your computer in Recovery mode.
-2. Turn on your Mac and immediately press and hold these two keys: Command (⌘) and `R`.
-3. Release the keys when you see an Apple logo, spinning globe or other startup screen.
-4. You may be prompted to enter a password, such as a firmware password or the password of a user who is an administrator of this Mac.
+1. Rédemarrez votre ordinateur en mode de Récupération.
+2. Allumez votre Mac et appuyez immédiatemment et restez appuyez sur ces deux touches: Command (⌘) et `R`.
+3. Relachez les 2 touches quand vous voyez le logo Apple, un globe qui tourne, ou n'importe quelle autres écran de démmarage.
+4. Vous serrez peut être demander d'entrer un mot de passe, telle qu'un mot de passe de micrologiciel ou le mot de passe d'un utilisateur qui est administrateur de ce Mac
 5. Launch *Terminal* from the Utilities menu. It should be in the menu bar at the top of your screen.
 6. Run the command `csrutil disable`.
 7. Restart your computer. You can do so from the top menu bar, just like you would normally.
