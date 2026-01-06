@@ -7,8 +7,7 @@ Pour commencer ge jouer à Titanic!, vous pouvez aller sur la [page de télécha
 ![BuildDownload](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Installation/img/BuildDownload.png)
 
 Après que cela ai fini de télecharger, tout ce que vous devez faire est éxtraire le fichier et double clicker sur `osu.exe`.
-There is a chance that Windows Defender may block it, since the game is unsigned (a certificate for that would cost 200$). An alternative would be to use the [[Patcher]], which is still experimental, but does not get blocked by Windows Defender from our testing.
-Il y a une chance que Windows Defender le bloque, vue que le jeu est non signé (un certificat couterait $200). Une alternative serait d'utiliser le [[Patcher]], qui est toujours experimental, mais ne se fait pas bloquer par Windows Defender selon nos testes. (unsure)
+Il y a une chance que Windows Defender le bloque, vue que le jeu n'es pas signé (un certificat couterait $200). Une alternative serait d'utiliser le [[Patcher]], qui est toujours experimental, mais ne se fait pas bloquer par Windows Defender selon nos testes. (unsure)
 
 ## Créer un compte
 
