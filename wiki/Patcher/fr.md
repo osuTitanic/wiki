@@ -7,31 +7,31 @@ Au lieu de télecharger une version pré-patchée depuis les serveurs de Titanic
 
 Suivez les étapes ci-dessous pour tout configurer!
 
-## Step 1: Download osu! from Osekai Snapshots
+## Étape 1: Télecharger osu! depuis Osekai Snapshots
 
-The first step is to obtain the game itself.
-Most people use [Osekai Snapshots](https://osekai.net/snapshots/) for this purpose, as it provides a large collection of archived versions.
+La première étape est d'installer le jeu lui-même.
+La plupart des gens utilisent [Osekai Snapshots](https://osekai.net/snapshots/) pour cela, car il donne accès a une large collection de versions archivés.
 
 ![Osekai Snapshots Download](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Patcher/img/osekai.jpg)
 
 ![Osekai Snapshots Download](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Patcher/img/osu-folder.jpg)
 
-## Step 2: Download the latest version of Titanic! Patcher
+## Étape 2: Télecharger la dernière version du patcheur de Titanic!
 
-Titanic! Patcher is fully open-source and available for download on the GitHub [Release Page](https://github.com/osuTitanic/hook/releases).  
-Find the latest version and download the **Titanic.netxx.exe** file.
+Le patcheur de Titanic! est entièrement 'open-source' et disponible au télechargement sur le GitHub de la [Page de publication](https://github.com/osuTitanic/hook/releases). 
+Trouver la dernière version et installer le fichier **Titanic.netxx.exe**.
 
 ![Patcher Download](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Patcher/img/titanic-patcher-download.jpg)
 
-Once downloaded, place the *.exe* file into your osu! installation folder and double-click it. That’s it - you’re ready to go!
+Dès que c'est télecharger, placez le fichier .exe dans votre fichier d'installation de osu! double clickez dessus. C'est tout - vous êtes prêts!
 
 ![Launch](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Patcher/img/titanic-patcher-launch.jpg)
 
-### Choosing the right .NET Framework version
+### Choisir la bonne version de '.NET Framework'
 
-It is recommended to use the .NET 4.0 version of the patcher, as it's compatible with every osu! version, saves some headaches, is compatible out of the box with osu-wine, and might provide better performance.
+il est recommendé d'utilisé la version .NET 4.0 du patcheur car, il est compatible avec toute les versions de osu!, vous épargne un casse-tête, est directement compatible avec osu-wine, et peux vous donner de meilleur performance.
 
-Additionally, there is a .NET 2.0 version of the patcher that's compatible only with versions before the middle of 2015, which might fix some unexpected issues. It also works on very old operating systems (Windows 2000 and Windows XP before Service Pack 2).
+De plus, il y a une version du patcheur avec .NET 2.0 qui est compatible avec seulement les versions avant mi-2015, qui pourrait réparer des problèmes inatendues. Cela marche aussi avec des vieux systèmes d'exploitation (Windows 2000 et Windows XP avant le pPack de Service 2).
 
 ### Versions for "testers only"
 
