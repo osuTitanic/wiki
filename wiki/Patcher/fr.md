@@ -38,6 +38,6 @@ De plus, il y a une version du patcheur avec .NET 2.0 qui est compatible avec se
 ![Example](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Patcher/img/testers-only.jpg)
 
 Vous pourrez voir un message disant:  
-**”La version de osu! que vous utilisez est faite seulement pour les testeurs.”**.
+**"The version of osu! you are using is made for testers only."**.
 
 Cela veut simplement dire que la version que vous essayez de faire tourner n'a pas encore été tester avec Titanic!, ou, est simplement trop nouvelle pour être supporté.
