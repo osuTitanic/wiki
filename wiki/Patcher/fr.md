@@ -33,11 +33,11 @@ il est recommendé d'utilisé la version .NET 4.0 du patcheur car, il est compat
 
 De plus, il y a une version du patcheur avec .NET 2.0 qui est compatible avec seulement les versions avant mi-2015, qui pourrait réparer des problèmes inatendues. Cela marche aussi avec des vieux systèmes d'exploitation (Windows 2000 et Windows XP avant le pPack de Service 2).
 
-### Versions for "testers only"
+### Versions pour les ”testeurs seulement”
 
 ![Example](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Patcher/img/testers-only.jpg)
 
-You may see a message saying:  
-**"The version of osu! you are using is made for testers only."**.
+Vous pourrez voir un message disant:  
+**”La version de osu! que vous utilisez est faite seulement pour les testeurs.”**.
 
-This simply means that the version you're trying to run has not been tested with Titanic! yet, or it's simply too new to be supported.
+Cela veut simplement dire que la version que vous essayez de faire tourner n'a pas encore été tester avec Titanic!, ou, est simplement trop nouvelle pour être supporté.
