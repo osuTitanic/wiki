@@ -52,7 +52,6 @@ User                                           | Specialization | Additional Lan
 -----------------------------------------------|:--------------:|:---------------------------:|---------------------
 [Digitalfear117](https://osu.titanic.sh/u/809) |  .osu mapping  |                             | May 29th, 2024
 [Nikku](https://osu.titanic.sh/u/811)          | Storyboarding  |                             | May 19th, 2024([^1])
-[Oposh](https://osu.titanic.sh/u/829)          |                |           Polish            | May 19th, 2024([^1])
 
 
 ### Mania team members
