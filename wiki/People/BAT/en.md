@@ -30,7 +30,6 @@ User                                           |         Specialization         
 [Nikku](https://osu.titanic.sh/u/811)          |         Storyboarding          |                             | May 19th, 2024([^1])
 [[Kagamine Rin]](https://osu.titanic.sh/u/813) |                                |            Dutch            | August 19th, 2024
 [vyper](https://osu.titanic.sh/u/69)           |                                |                             | October 20th, 2024
-[Avril](https://osu.titanic.sh/u/593)          |                                |          Filipino           | February 23rd, 2025
 [pimpG](https://osu.titanic.sh/u/2719)         |                                |         Portuguese          | June 16th, 2025
 [arutama](https://osu.titanic.sh/u/905)        |                                |         Indonesian          | July 7th, 2025([^4])([^10])
 [Sonnyc](https://osu.titanic.sh/u/3041)        |                                |           Korean            | August 3rd, 2025
@@ -87,6 +86,7 @@ User                                                 |                   Time in
 [iSlodinx](https://osu.titanic.sh/u/869)             |       May 29th, 2024 -> August 17th, 2025
 [Yurizono Seia](https://osu.titanic.sh/u/2168)       |       May 26th, 2025 -> August 22nd, 2025
 [Oposh](https://osu.titanic.sh/u/829)                |   May 19th, 2024([^1]) -> November 22nd, 2025
+[Avril](https://osu.titanic.sh/u/593)                | February 23rd, 2025 -> January 6th, 2026
 
 
 ## History
