@@ -1,6 +1,6 @@
 # Bienvenue
 
-Tout d'abord, nous aimerions vous donner un accueil chaleureux et un câlin pour avoir rejoint notre communauté. Laissez-nous expliqué quelques choses avant que vous ne commencez votre journée.
+Tout d'abord, nous aimerions vous donner un accueil chaleureux et un câlin pour avoir rejoint notre communauté. Laissez-nous expliquer quelques choses avant que vous ne commencez votre journée.
 
 [TOC]
 
@@ -24,7 +24,7 @@ Dès que vous êtes sur la page de la 'beatmap', vous devriez voir un bouton "Do
 
 ![Downloading a beatmap](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Welcome/img/step_2.jpg)
 
-**Note:** Il importe peu là ou vous sauvegardez le fichier, tant que vous pouvez le retrouver après avoir fini de le télécharger. Aussi, vous pouvez choisir de l'ouvrir directement, mais cela forcera votre client osu! a s'allumer, si il ne l'est pas déjà.
+**Note:** Il importe peu là où vous sauvegardez le fichier, tant que vous pouvez le retrouver après avoir fini de le télécharger. Aussi, vous pouvez choisir de l'ouvrir directement, mais cela forcera votre client osu! a s'allumer, si il ne l'est pas déjà.
 
 ### Étape 3 - Chargez la dans osu!
 
@@ -62,7 +62,7 @@ Le niveau des joueurs représente seulement le nombre de score (ranked ou non) q
 
 ### Points de Performance
 
-Basiquement, les Points de Performance sont utilisés pour mesurer la compétitivité d'un joueur. Le plus de point que vous avez, le mieux ranked que vous allez être pour vous comparez relativement parmis les autres joueurs en ligne. Il y a pleins de façons différentes de calculer qui sont utilisées pour conter les points de tout le monde, mais gardez une seule chose en tête; vous obtenez des pp quand vous vous placez haut sur n'importe quelle 'beatmap' ranked. Dans la plupart des cas, pour arriver à un rang assez haut placé, vous allez devoir 'full-combo' une musique (ne louper pas une seule note) pour avoir le plus haut score (du multiplicateur de combo). Un joueur qui a 99% de précision et qui a loupé **une** note quelque part dans le milieu de la musique peut être battu par un joueur avec 80% de précision qui n'a pas loupé une seule note. La déviation de score (ex: 2.8mil vs 5.0mil) sera normale quand la musique est longue (2-5 minutes). Mais, vous pouvez ajouter des modificateurs de mode difficiles (comme HR, HD) pour obtenir un score encore plus haut!
+Basiquement, les Points de Performance sont utilisés pour mesurer la compétitivité d'un joueur. Le plus de point que vous avez, le mieux ranked que vous allez être pour vous comparez relativement parmis les autres joueurs en ligne. Il y a pleins de façons différentes de calculer qui sont utilisées pour compter les points de tout le monde, mais gardez une seule chose en tête; vous obtenez des pp quand vous vous placez haut sur n'importe quelle 'beatmap' ranked. Dans la plupart des cas, pour arriver à un rang assez haut placé, vous allez devoir 'full-combo' une musique (ne louper pas une seule note) pour avoir le plus haut score (du multiplicateur de combo). Un joueur qui a 99% de précision et qui a loupé **une** note quelque part dans le milieu de la musique peut être battu par un joueur avec 80% de précision qui n'a pas loupé une seule note. La déviation de score (ex: 2.8mil vs 5.0mil) sera normale quand la musique est longue (2-5 minutes). Mais, vous pouvez ajouter des modificateurs de mode difficiles (comme HR, HD) pour obtenir un score encore plus haut!
 
 ### Précision
 
