@@ -4,8 +4,8 @@ Bienvenue sur Titanic, avant de commencer, s'il vous-plaît lisez entièrement c
 
 ## Règles de la Communauté
 
-1. **Chaque utilisateur doit posséder *un* conte pour toujours!**  
-	La seule exception à cette règle est la création de conte 'bot' ou d'autres projets, mais vous devez d'abord en informer le personnel pour qu'on puisse l'approuver. Si vous ne pouvez pas accéder à votre e-mail ou que vous avez oublié votre mot de passe, s'il-vous-plaît ouvrez un ticket dans le [serveur Discord de Titanic](https://discord.gg/qryYG2C5nc) ou contactez l'[email de support](mailto:support@titanic.sh).
+1. **Chaque utilisateur doit posséder *un* compte pour toujours!**  
+	La seule exception à cette règle est la création de compte 'bot' ou d'autres projets, mais vous devez d'abord en informer le personnel pour qu'on puisse l'approuver. Si vous ne pouvez pas accéder à votre e-mail ou que vous avez oublié votre mot de passe, s'il-vous-plaît ouvrez un ticket dans le [serveur Discord de Titanic](https://discord.gg/qryYG2C5nc) ou contactez l'[email de support](mailto:support@titanic.sh).
 
 2. **Jouez au jeu avec fair-play.**  
 	L'utilisation de n'importe quelle outils tierce qui vous donne un avantage déloyale sur les autres amènera à une restriction. Cela inclut des programmes comme les macros, cheat engine, des programmes d'aide à la visée, manipulation du temps, etc. Additionnellement, exploiter des bugs ou des réactions non voulues d'un client est strictement interdit. Si vous voyez une activité suspicieuse de la part d'un utilisateur, s'il-vous plaît ouvrez un ticket dans le [serveur Discord de Titanic](https://discord.gg/qryYG2C5nc) ou contactez l'[email de support](mailto:support@titanic.sh).
