@@ -18,7 +18,7 @@ __Autres Langues__
 
 __Pour Commencer__
 
-[Bienvenue](link) • [Règles](link) • [Patcher](link) • [Installation](link)
+[Bienvenue](link) • [Règles](link) • [Patcheur](link) • [Installation](link)
 
 __Mapping__
 
@@ -26,4 +26,4 @@ __Mapping__
 
 __Personnes__
 
-[BAT](link) • [Administrateurs](link) • [Mainteurs du Wiki](link) • [Alumni](link) • [Premiers Passagers](link) • [Équipe de Management de Tournoi](link)
+[BAT](link) • [Administrateurs](link) • [Mainteneurs du Wiki](link) • [Alumni](link) • [Premiers Passagers](link) • [Équipe de Management de Tournoi](link)
