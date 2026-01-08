@@ -20,7 +20,7 @@ Qu'est-ce qu'une 'beatmap' demandez-vous? Comme n'importe quelle autre jeux, il 
 
 Si il y a une version 'beatmap' approuvée de la musique que vous cherchez, vous devriez la trouver dans la page des résultats. Mais, ne soyez pas contrarié si votre musique n'est pas ici! Il y a des centaines de 'beatmaps' qui sont soumises et revues, votre musique en fait peut-être partie! S'il vous-plaît ne publiez pas des requêtes pour des 'beatmaps' que vous voudriez, la plupart des mappeurs 'map' les musiques qu**'ils** aiment, pas ce que vous aimez, mais, cela pourrait être un indice pour commencer votre propre carrière dans le 'mapping'!
 
-Dès que vous êtes sur la page de la 'beatmap', vous devriez voir un bouton "Download Beatmap" géant (vous devez être connecter d'abord, sinon, un bouton jaune vous dirigera vers la page de connection/création de conte)
+Dès que vous êtes sur la page de la 'beatmap', vous devriez voir un bouton "Download Beatmap" géant (vous devez être connecter d'abord, sinon, un bouton jaune vous dirigera vers la page de connection/création de compte)
 
 ![Downloading a beatmap](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Welcome/img/step_2.jpg)
 
@@ -70,7 +70,7 @@ Cette mesure est la moyenne de la précision sur tous les scores ranked que le j
 
 ### Médailles
 
-Les médailles sont des petits badges sur le profil de quelqu'un qui indique que cette personne a accompli un but exceptionnel. Les médailles peuvent être débloquées par plusieurs moyens, comme jouer beaucoup, ou arriver à un certain nombre de combos sur une 'beatmap'. Quand vous atteignez le critère, vous recevez un badge visible dans la fenêtre ”Online Results” et sur la page de votre conte sous la catégorie ”Achievement”. Mais, le cœur de tout cela sont les missions cachés, ”Hush-Hush”, où les critères ne sont pas connus et c'est à nous de trouver comment nous les obtenons. Elles sont assez dures à obtenir mais c'est comblant de réussir à l'obtenir par vous-même.
+Les médailles sont des petits badges sur le profil de quelqu'un qui indique que cette personne a accompli un but exceptionnel. Les médailles peuvent être débloquées par plusieurs moyens, comme jouer beaucoup, ou arriver à un certain nombre de combos sur une 'beatmap'. Quand vous atteignez le critère, vous recevez un badge visible dans la fenêtre ”Online Results” et sur la page de votre compte sous la catégorie ”Achievement”. Mais, le cœur de tout cela sont les missions cachés, ”Hush-Hush”, où les critères ne sont pas connus et c'est à nous de trouver comment nous les obtenons. Elles sont assez dures à obtenir mais c'est comblant de réussir à l'obtenir par vous-même.
 
 **Note:** Les médailles s'obtiennent seulement quand vous êtes en ligne et sur le compte d'où vous êtes connecté.
 
