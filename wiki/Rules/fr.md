@@ -30,7 +30,7 @@ Bienvenue sur Titanic, avant de commencer, s'il vous-plaît lisez entièrement c
 	Toute mention, affichage, ou distribution de fuite du code de source de osu! est strictement interdit. Cela créerait juste du travail non nécessaire pour peppy.
 
 10. **L'âge minimum requis.**  
-	Toute utilisateur doit avoir au moins 13 ans pour rejoindre Titanic. Les propriétaires de compte qui auront été trouvés d'être âgée en dessous de ce nombre seront suspendus jusqu'à ce que la preuve d'éligibilité soit donné.
+	Toute utilisateur doit avoir au moins 13 ans pour rejoindre Titanic. Les propriétaires de compte qui auront été trouvés d'être âgée en dessous de ce nombre seront suspendus jusqu'à ce que la preuve d'éligibilité soit donnée.
 
 11. **Faites preuve de bon sens.**  
 	Le personnel a totalement le droit d'appliquer son jugement comme bon lui semble.
@@ -49,10 +49,10 @@ Bienvenue sur Titanic, avant de commencer, s'il vous-plaît lisez entièrement c
 ## Règles Générales des Forums
 
 1. **Spammer plusieurs posts dans un seul fil de discussion est strictement interdit.**  
-	Les utilisateurs doivent éviter de poster de manière répétititve ou d'inonder un fil de discussion avec des messages non nécessaire ou redondants. Utilisez directement le bouton 'edit' pour ajouter à votre post si besoin. Les publications excessives dérangent les discussions et peuvent engendrer une suppression d'un post ou une punition.
+	Les utilisateurs doivent éviter de poster de manière répétitive ou d'inonder un fil de discussion avec des messages non nécessaires ou redondants. Utilisez directement le bouton 'edit' pour ajouter à votre post si besoin. Les publications excessives dérangent les discussions et peuvent engendrer une suppression d'un post ou une punition.
 
-2. **Pas de 'necroposting' dans les fils de discussion vieux de 3 mois ou plus.**  
-	Cela s'applique uniquement aux sous-fils des sujets de 'General Discussion' et 'Off-Topic', relancer des anciens sujets sans amener de nouvelles informations en relation avec le fil dérange les forums et peut embrouiller les discussions actives. Si le sujet est toujours d'actualité, il est préférable de créer un nouveau fil de discussion. Des répétitions de 'necropostage' peuvent résulter en un avertissement, si l'utilisateur continue de faire du 'necroposting', il sera réduit au silence. (Le 'necropostage' est l'action de relancer un vieux sujet inactif depuis un long moment, dans le cas présent, 3 mois).
+2. **Pas de 'necro posting' dans les fils de discussion vieux de 3 mois ou plus.**  
+	Cela s'applique uniquement aux sous-fils des sujets de 'General Discussion' et 'Off-Topic', relancer des anciens sujets sans amener de nouvelles informations en relation avec le fil dérange les forums et peut embrouiller les discussions actives. Si le sujet est toujours d'actualité, il est préférable de créer un nouveau fil de discussion. Des répétitions de 'necropostage' peuvent résulter en un avertissement, si l'utilisateur continue de faire du 'necro posting', il sera réduit au silence. (Le 'necropostage' est l'action de relancer un vieux sujet inactif depuis un long moment, dans le cas présent, 3 mois).
 	
 
 ## Les Procédure pour Signaler / Contacter le Support 
