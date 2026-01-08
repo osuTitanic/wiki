@@ -24,3 +24,4 @@ User                                           | Past roles
 [marshallracer](https://osu.titanic.sh/u/2371) | oldsu! staff & Contributor
 [jiniux](https://osu.titanic.sh/u/2398)        | oldsu! staff & Contributor
 [Riley](https://osu.titanic.sh/u/2464)         | Security Research & Contributor
+[Avril](https://osu.titanic.sh/u/593)          | BAT
