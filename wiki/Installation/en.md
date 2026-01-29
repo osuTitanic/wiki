@@ -26,30 +26,30 @@ After you create your account you will be prompted to verify your email:
 
 **Install git**
 
-Ubuntu/Debian: `sudo apt install -y git`\
-Arch Linux: `sudo pacman -Sy --needed  --noconfirm git`\
+Ubuntu/Debian: `sudo apt install -y git`  
+Arch Linux: `sudo pacman -Sy --needed  --noconfirm git`  
 Fedora: `sudo dnf install -y git`
 
 **Install Lutris**
 
-Ubuntu/Debian: <https://github.com/lutris/lutris/releases> (Get the .deb package from here)\
-Arch Linux: `sudo pacman -S lutris`\
-Fedora: `sudo dnf install lutris`\
+Ubuntu/Debian: <https://github.com/lutris/lutris/releases> (Get the .deb package from here)  
+Arch Linux: `sudo pacman -S lutris`  
+Fedora: `sudo dnf install lutris`  
 Flatpak: `flatpak install flathub net.lutris.Lutris`
 
 **Install graphics drivers**
 
-If you haven't done so, you can refer to this guide:\
+If you haven't done so, you can refer to this guide:  
 <https://github.com/lutris/docs/blob/master/InstallingDrivers.md>
 
 **Pipewire**
 
-Pipewire performs much better on osu! than Pulseaudio, you can install it by following this guide:\
+Pipewire performs much better on osu! than Pulseaudio, you can install it by following this guide:  
 <https://github.com/NelloKudo/osu-winello/wiki/Installing-PipeWire>
 
 ### Installation of osu-winello
 
-[osu-winello](https://github.com/NelloKudo/osu-winello), developed by [NelloKudo](https://github.com/NelloKudo), is currently the best way to get osu! stable running on Linux. We'll use it to launch our Titanic installations later on.\
+[osu-winello](https://github.com/NelloKudo/osu-winello), developed by [NelloKudo](https://github.com/NelloKudo), is currently the best way to get osu! stable running on Linux. We'll use it to launch our Titanic installations later on.  
 Follow these commands for setup:
 
 ```
@@ -67,9 +67,9 @@ You can download any patched osu! version from the [downloads page](https://osu.
 
 ### Install Titanic through Lutris
 
-Unzip the `.zip` file downloaded from Titanic to get your osu! installation folder.\
-Open Lutris and let it load fully for first startup.\
-Then click the plus icon on top left -> select "*Add locally installed game*".\
+Unzip the `.zip` file downloaded from Titanic to get your osu! installation folder.  
+Open Lutris and let it load fully for first startup.  
+Then click the plus icon on top left -> select "*Add locally installed game*".  
 Give it a proper name and such, and set the runner to *Wine*.
 
 ![LutrisAddLocalGame](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Installation/img/LutrisAddLocalGame.png)
@@ -79,8 +79,8 @@ Give it a proper name and such, and set the runner to *Wine*.
 
 **In Game options:**
 
-Set the executable to the osu.exe inside of the zip you extracted.\
-Set working directory to the osu! folder of the zip you extracted.\
+Set the executable to the osu.exe inside of the zip you extracted.  
+Set working directory to the osu! folder of the zip you extracted.  
 Set the wine prefix to `~/.local/share/wineprefixes/osu-wineprefix`.
 
 ![LutrisWineprefix](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Installation/img/LutrisWineprefix.png)
@@ -90,31 +90,31 @@ Set the wine prefix to `~/.local/share/wineprefixes/osu-wineprefix`.
 
 **In Runner options:**
 
-Set `~/.local/share/osuconfig/yawl-winello` as the Wine version:\
+Set `~/.local/share/osuconfig/yawl-winello` as the Wine version:  
 ![LutrisWineVersion](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Installation/img/LutrisWineVersion.png)
 
-Turn off DXVK and VKD3D:\
+Turn off DXVK and VKD3D:  
 ![LutrisGraphicsSection](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Installation/img/LutrisGraphicsSection.png)
 
-Make sure ESync and FSync are enabled.\
-Additionally, disable AMD FSR, BattlEye Anti-Cheat and Easy Anti-Cheat.\
+Make sure ESync and FSync are enabled.  
+Additionally, disable AMD FSR, BattlEye Anti-Cheat and Easy Anti-Cheat.  
 ![LutrisEsyncFsync](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Installation/img/LutrisEsyncFsync.png)
 
 **In System options:**
 
-Turn on "Advanced" mode then switch "Disable desktop effects" on:\
+Turn on "Advanced" mode then switch "Disable desktop effects" on:  
 ![LutrisDisableDesktopEffects](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Installation/img/LutrisDisableDesktopEffects.png)
 
-Enable Feral Gamemode:\
+Enable Feral Gamemode:  
 ![LutrisFeralGamemode](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Installation/img/LutrisFeralGamemode.png)
 
 
-Scroll down until you see Environment Variables.\
-Click add.\
-On the left side put WINE_BLOCK_GET_VERSION.\
+Scroll down until you see Environment Variables.  
+Click add.  
+On the left side put WINE_BLOCK_GET_VERSION.  
 On the right side put 1.
 
-This is what it should look like:\
+This is what it should look like:  
 ![LutrisEnvironment](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Installation/img/LutrisEnvironment.png)
 
 
@@ -124,7 +124,7 @@ Now from here you can launch osu! and enjoy!
 
 **Note for Wayland users**
 
-If you're running on wayland, you may have to apply the tweaks listed here:\
+If you're running on wayland, you may have to apply the tweaks listed here:  
 <https://github.com/NelloKudo/osu-winello/wiki/Wayland-support>
 
 If you have any issues do not be afraid to ask in the [Titanic! Discord server](https://discord.gg/qupv72e7YH) or in the [support sub-forum](https://osu.titanic.sh/forum/7).
@@ -141,7 +141,7 @@ To run Titanic! on a Macintosh computer, you'll need the following things:
     - [Fallback](https://cdn.titanic.sh/public/osx/osx-fallback.base.zip) - Used with clients from mid-2015 or earlier, or those marked as "fallback"
     - [Latest](https://cdn.titanic.sh/public/osx/osx-latest.base.zip) - Used with all clients after around mid-2015
 
-Make sure your Mac is running an operating system above *High Sierra*, as it is required for the best performance and this guide. Although it might run on High Sierra, most browsers don't support GitHub.\
+Make sure your Mac is running an operating system above *High Sierra*, as it is required for the best performance and this guide. Although it might run on High Sierra, most browsers don't support GitHub.  
 **For the best performance, please make sure your Mac is from 2011 or later.** A 2008 one may run it, but 2011 or later is recommended. It also has to support 32/64 bit capabillites.
 
 ### Installation
@@ -153,7 +153,7 @@ Make sure your Mac is running an operating system above *High Sierra*, as it is 
 
 ### Disabling System Integrity Protection (SIP)
 
-**Important! If your Mac is running any Catalina version below `10.15.5`, you'll need to disable System Integrity Protection (SIP).**\
+**Important! If your Mac is running any Catalina version below `10.15.5`, you'll need to disable System Integrity Protection (SIP).**  
 To disable SIP, follow these steps:
 
 1. Restart your computer in Recovery mode.
