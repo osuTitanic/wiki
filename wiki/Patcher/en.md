@@ -2,7 +2,7 @@
 
 [TOC]
 
-Introducing **Titanic! Patcher** - a new way of playing Titanic.  
+Introducing **Titanic! Patcher** - a new way of playing Titanic.\
 Instead of downloading a pre-patched version from Titanic's servers, you can now use the original, untouched game files.
 
 Follow the steps below to get everything set up!
@@ -35,7 +35,7 @@ Generally, it is recommended to download the regular "Titanic.exe" file, as it h
 
 ![Example](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Patcher/img/testers-only.jpg)
 
-You may see a message saying:  
+You may see a message saying:\
 **"The version of osu! you are using is made for testers only."**.
 
 This simply means that the version you're trying to run has not been tested with Titanic! yet, or it's simply too new to be supported.
