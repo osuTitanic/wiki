@@ -94,6 +94,8 @@ This criteria may change in the future, due to increasing map requests and BAT m
   - At most 192 kbps for `.mp3` files.
   - At most 208 kbps for `.ogg` files.
   - At least 128 kbps for any filetype.
+  - At most 48 kHz sampling rate.
+  - Not encoded upwards from a lower bitrate or sampling rate.
 - **One song file must be used for all difficulties.**
 - **Set a consistent preview point for all difficulties.**
 
