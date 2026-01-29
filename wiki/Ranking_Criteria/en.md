@@ -18,7 +18,7 @@ This criteria may change in the future due to increasing map requests and BAT me
 - **Maps must not use decimal settings.** (i.e AR9.3 -> 9)
 - **Maps must not use any backgrounds, music, or objects made with the use of generative tooling.**
 
-### Spread
+## Spread
 
 - **Mapsets must have a total drain time of at least 90 seconds (1 minute and 30 seconds).**
 - **Difficulty names must have progression.**
@@ -28,7 +28,7 @@ This criteria may change in the future due to increasing map requests and BAT me
 - **Don't skip difficulties.** For example, if you have Normal and Insane difficulties, you need a Hard too.
 - **A [guest mapper](https://osu.ppy.sh/wiki/Beatmap/Guest_difficulty) can't create more difficulties than the [host](https://osu.ppy.sh/wiki/Beatmap/Beatmap_host).**
 
-### Slider Usage
+## Slider Usage
 
 - **Using Perfect Curve sliders is highly discouraged.**
   - Perfect Curve sliders are the type of sliders creating when a slider has 3 control points in clients b20121106 or later
@@ -37,17 +37,17 @@ This criteria may change in the future due to increasing map requests and BAT me
   - **Exception:** Perfect Curve sliders with extremely small amounts of curve will generally convert fine, but for safety we recommend not using them.
   - For information on how to avoid using Perfect Curve, [check out this forum post](https://osu.titanic.sh/forum/13/t/731/)!
 
-### Visuals
+## Visuals
 
   - **Avoid using combo colours, slider borders or hitcircleoverlays with ~50 luminosity or lower.** Dark colours like these impact readability of approach circles with high background dim and the other elements partially give up their functions as borders.
   - **Avoid using combo colours and custom slider track colours with ~220 luminosity or higher during kiai times.** They create bright pulses which can be unpleasant to the eyes.
 
-### Hitsounds
+## Hitsounds
 
 - **Maps must be [hitsounded](https://osu.ppy.sh/wiki/Beatmapping/Hitsound),** excluding osu!mania maps.
 - **Every clickable object must have audible feedback.**
 
-### Timing
+## Timing
 
 - **Maps must be correctly timed.** This includes BPM and time signatures.
 - **All difficulties must use the same timing.**
