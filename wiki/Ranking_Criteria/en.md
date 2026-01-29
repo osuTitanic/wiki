@@ -3,12 +3,12 @@
 This set of ranking criteria lays out rules and guidelines that beatmaps must follow in order to progress through the beatmap ranking procedure.
 The ranking criteria mostly follows the [original one](https://osu.ppy.sh/wiki/en/Ranking_criteria) with some minor changes.
 
-The rules also have been simplified, to give mappers a clearer perspective on what's required to create a rankable map. Sections that are not covered in this document should be referenced from [here](https://osu.ppy.sh/wiki/en/Ranking_criteria).
+The rules also have been simplified to give mappers a clearer perspective on what's required to create a rankable map. Sections that are not covered in this document should be referenced from [here](https://osu.ppy.sh/wiki/en/Ranking_criteria).
 
 [TOC]
 
-For a map to be ranked, it has to follow this ranking criteria, as well be reviewed by at least **2 independent [BAT members](https://osu.titanic.sh/g/3)**, plus one for each mode. This means, that a BAT can't approve their own beatmap and beatmaps with multiple game modes also require approval from more BAT members of that game mode.
-This criteria may change in the future, due to increasing map requests and BAT members.
+For a map to be ranked, it has to follow this ranking criteria, as well be reviewed by at least **2 independent [BAT members](https://osu.titanic.sh/g/3)** plus one for each additional mode. This means a BAT can't approve their own beatmap, and beatmaps with multiple gamemodes also require approval from BAT members of that gamemode.
+This criteria may change in the future due to increasing map requests and BAT members.
 
 # Beatmap
 
@@ -123,12 +123,17 @@ This criteria may change in the future, due to increasing map requests and BAT m
 
 ## Mode-specific
 
-*Please refer to the osu! wiki for the full game-mode sepecific ranking criterias!*
+*Please refer to the osu! wiki for the full gamemode specific ranking criterias!*
+
+- [osu!](https://osu.ppy.sh/wiki/en/Ranking_criteria/osu%21)
+- [osu!taiko](https://osu.ppy.sh/wiki/en/Ranking_criteria/osu%21taiko)
+- [osu!catch](https://osu.ppy.sh/wiki/en/Ranking_criteria/osu%21catch)
+- [osu!mania](https://osu.ppy.sh/wiki/en/Ranking_criteria/osu%21mania)
 
 ### osu!
 
 - **No offscreen objects in 4:3 aspect ratios.**
-- **[The Auto mod](https://osu.ppy.sh/wiki/images/Ranking_criteria/Simplified_ranking_criteria/wiki/Gameplay/Game_modifier/Auto) must achieve bonus score on spinners.** They're too short otherwise.
+- **[The Auto mod](https://osu.ppy.sh/wiki/images/Ranking_criteria/Simplified_ranking_criteria/wiki/Gameplay/Game_modifier/Auto) must achieve bonus score on spinners.**
 - **Use at least two combo colors.**
 
 ### osu!taiko
