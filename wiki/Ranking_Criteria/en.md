@@ -7,7 +7,7 @@ The rules also have been simplified to give mappers a clearer perspective on wha
 
 [TOC]
 
-For a map to be ranked, it has to follow this ranking criteria, as well be reviewed by at least **2 independent [BAT members](https://osu.titanic.sh/g/3)** plus one for each additional mode. This means a BAT can't approve their own beatmap, and beatmaps with multiple gamemodes also require approval from BAT members of that gamemode.
+For a map to be ranked, it has to follow this ranking criteria, as well be reviewed by at least **2 independent [BAT members](https://osu.titanic.sh/g/3)** plus one for each additional mode. This means a BAT can't approve their own beatmap, and beatmaps with multiple game modes also require approval from BAT members of that game mode.
 This criteria may change in the future due to increasing map requests and BAT members.
 
 # Beatmap
@@ -123,7 +123,7 @@ This criteria may change in the future due to increasing map requests and BAT me
 
 ## Mode-specific
 
-*Please refer to the osu! wiki for the full gamemode specific ranking criterias!*
+*Please refer to the osu! wiki for the full game mode specific ranking criterias!*
 
 - [osu!](https://osu.ppy.sh/wiki/en/Ranking_criteria/osu%21)
 - [osu!taiko](https://osu.ppy.sh/wiki/en/Ranking_criteria/osu%21taiko)
