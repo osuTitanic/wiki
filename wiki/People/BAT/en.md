@@ -36,7 +36,7 @@ User                                           |         Specialization         
 [Ady](https://osu.titanic.sh/u/821)            |                                |                             | December 8th, 2025([^6])
 [SCAG](https://osu.titanic.sh/u/2631)          |                                |                             | November 11th, 2025
 [scug](https://osu.titanic.sh/u/636)           |                                |                             | January 10th, 2026
-[laurafied](https://osu.titanic.sh/u/3578)     |                                |                             | January 11th, 2026
+[laurafied](https://osu.titanic.sh/u/3578)     |                                |       Afrikaans, Zulu       | January 11th, 2026
 
 ### Taiko team members
 
