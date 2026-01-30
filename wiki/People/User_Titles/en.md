@@ -38,6 +38,7 @@ User                                             |                     Title    
 -------------------------------------------------|:--------------------------------------------:|
 [vyper](https://osu.titanic.sh/u/69)             | osu! BAT / osu!taiko BAT                     |
 [scug](https://osu.titanic.sh/u/636)             | osu! BAT                                     |
+[Nikku](https://osu.titanic.sh/u/811)            | osu! BAT / osu!catch BAT                     |
 [[Kagamine Rin]](https://osu.titanic.sh/u/813)   | osu! BAT / osu!taiko BAT                     |
 [Ady](https://osu.titanic.sh/u/821)              | osu! BAT                                     |
 [arutama](https://osu.titanic.sh/u/905)          | osu! BAT / Completionist                     |
