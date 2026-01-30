@@ -90,4 +90,5 @@ User                                             |                     Title    
 -------------------------------------------------|:--------------------------------------------:|
 [BanchoBot](https://osu.titanic.sh/u/1)          | w00t p00t                                    |
 [Natasha](https://osu.titanic.sh/u/5)            | #1 osu! hacker                               |
+[Digitalfeat117](https://osu.titanic.sh/u/809)   | BAT Manager / Global Moderator / Mr. Ladybug |
 
