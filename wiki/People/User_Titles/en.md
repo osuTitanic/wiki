@@ -1,4 +1,4 @@
-# User Titles
+# User titles
 A list containing all of the user titles players have in Titanic. 
 
 [TOC]
@@ -59,7 +59,7 @@ User                                             |                     Title    
 [Cl8n](https://osu.titanic.sh/u/3004)            | Contributor                                  |
 
 
-## Other Private Servers
+## Other private servers
 User                                             |                     Title                    |
 -------------------------------------------------|:--------------------------------------------:|
 [Furball](https://osu.titanic.sh/u/2283)         | oldsu! creator                               |
