@@ -1,5 +1,7 @@
 # Rank #1 History
 
+[TOC]
+
 ## osu! ppv2
 
 These players have reached rank #1 on the ppv2 leaderboard:
