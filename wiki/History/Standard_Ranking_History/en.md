@@ -10,14 +10,14 @@ These players have reached rank #1 on the ppv2 leaderboard:
 - [Champ]
 - [Cloudpaw]
 - [Levi]
-- [Natasha (profile wiped)]
+- [Natasha] (profile wiped)
 - [Spare]
 
 ### Timeline
 
-- 2023-07-16 - 2023-08-05: [Natasha (profile wiped)]
+- 2023-07-16 - 2023-08-05: [Natasha] (profile wiped)
 - 2023-08-05 - 2023-08-06: [Levi]
-- 2023-08-06 - 2023-12-05: [Natasha (profile wiped)]
+- 2023-08-06 - 2023-12-05: [Natasha] (profile wiped)
 - 2023-12-05 - 2023-12-15: [BlueChinchompa]
 - 2023-12-15 - 2023-12-15: [Champ], [Spare]
 - 2023-12-16 - 2025-04-02: [Spare]
@@ -33,16 +33,16 @@ These players have reached rank #1 on the ranked score leaderboard:
 - [Ada]
 - [Champ]
 - [Koishi]
-- [Natasha (profile wiped)]
+- [Natasha] (profile wiped)
 - [zverhome]
 
 ### Timeline
 
-- 2023-07-16 - 2023-10-20: [Natasha (profile wiped)]
+- 2023-07-16 - 2023-10-20: [Natasha] (profile wiped)
 - 2023-10-20 - 2023-10-21: [zverhome]
-- 2023-10-21 - 2023-10-21: [Natasha (profile wiped)]
+- 2023-10-21 - 2023-10-21: [Natasha] (profile wiped)
 - 2023-10-21 - 2023-11-02: [zverhome]
-- 2023-11-02 - 2023-11-03: [Natasha (profile wiped)]
+- 2023-11-02 - 2023-11-03: [Natasha] (profile wiped)
 - 2023-11-03 - 2023-12-05: [zverhome]
 - 2023-12-05 - 2023-12-05: [Ada], [zverhome]
 - 2023-12-05 - 2023-12-27: [zverhome]
@@ -72,16 +72,16 @@ These players have reached rank #1 on the ppv1 leaderboard:
 - [Curapika]
 - [haru urara]
 - [ibce]
-- [Natasha (profile wiped)]
+- [Natasha] (profile wiped)
 - [Sky]
 - [Spare]
 - [vyper]
 
 ### Timeline
 
-- 2023-07-16 - 2023-11-13: [Natasha (profile wiped)]
+- 2023-07-16 - 2023-11-13: [Natasha] (profile wiped)
 - 2023-11-13 - 2023-11-13: [Sky]
-- 2023-11-13 - 2023-12-05: [Natasha (profile wiped)]
+- 2023-11-13 - 2023-12-05: [Natasha] (profile wiped)
 - 2023-12-05 - 2023-12-06: [ibce]
 - 2023-12-06 - 2023-12-15: [BlueChinchompa]
 - 2023-12-15 - 2023-12-15: [Champ], [BlueChinchompa]
@@ -107,7 +107,7 @@ These players have reached rank #1 on the ppv1 leaderboard:
 - 2025-11-22 - 2025-11-28: [Champ]
 - 2025-11-28 - Today: [vyper]
 
-[Natasha (profile wiped)]: https://osu.titanic.sh/u/5
+[Natasha]: https://osu.titanic.sh/u/5
 [Levi]: https://osu.titanic.sh/u/2
 [BlueChinchompa]: https://osu.titanic.sh/u/40
 [Champ]: https://osu.titanic.sh/u/96
