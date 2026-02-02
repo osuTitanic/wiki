@@ -20,7 +20,7 @@
 
 
 <figure>
-    <img src="./img/sdg-winner@2x.png"
+    <img src="https://osu.titanic.sh/images/badges/tournaments/sd-gauntlet/sdg-winner@2x.png"
          alt="Sudden Death Gauntlet: First Place badge">
     <figcaption>Sudden Death Gauntlet: First Place badge</figcaption>
 </figure>
