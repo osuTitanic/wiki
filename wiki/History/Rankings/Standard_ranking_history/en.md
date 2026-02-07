@@ -73,6 +73,7 @@ These players have reached rank #1 on the ppv1 leaderboard:
 - [haru urara]
 - [ibce]
 - [Natasha] (profile wiped)
+- [puffle osu]
 - [Sky]
 - [Spare]
 - [vyper]
@@ -105,7 +106,8 @@ These players have reached rank #1 on the ppv1 leaderboard:
 - 2025-10-31 - 2025-11-21: [Champ]
 - 2025-11-21 - 2025-11-22: [vyper]
 - 2025-11-22 - 2025-11-28: [Champ]
-- 2025-11-28 - Today: [vyper]
+- 2025-11-28 - 2026-02-07: [vyper]
+- 2026-02-07 - Today: [puffle osu]
 
 [Natasha]: https://osu.titanic.sh/u/5
 [Levi]: https://osu.titanic.sh/u/2
@@ -121,3 +123,4 @@ These players have reached rank #1 on the ppv1 leaderboard:
 [ibce]: https://osu.titanic.sh/u/53
 [Curapika]: https://osu.titanic.sh/u/2304
 [haru urara]: https://osu.titanic.sh/u/3297
+[puffle osu]: https://osu.titanic.sh/u/3847
