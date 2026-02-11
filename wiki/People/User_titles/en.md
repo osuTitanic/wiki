@@ -74,7 +74,7 @@ User                                             |                     Title    
 ## Players
 User                                             |                     Title                    |
 -------------------------------------------------|:--------------------------------------------:|
-[arutama](https://osu.titanic.sh/u/905)          | Completionist                     |
+[arutama](https://osu.titanic.sh/u/905)          | Completionist                                |
 [Koishi](https://osu.titanic.sh/u/1022)          | Completionist                                | 
 [Patchouli](https://osu.titanic.sh/u/1885)       | Perfectionist                                | 
 
