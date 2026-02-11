@@ -23,70 +23,70 @@ Members of the Beatmap Approval Team are responsible primarily for managing the 
 
 ### Standard team members
 
-User                              |         Specialization         | Additional Languages Spoken | Added Date
-----------------------------------|:------------------------------:|:---------------------------:|----------------------------
-[Digitalfear117]                  | BAT Management / Beatmap Files |                             | May 29th, 2024
-[kingkurboh335]                   |         BAT Management         |          Croatian           | May 22nd, 2024([^3])
-[Nikku]                           |         Storyboarding          |                             | May 19th, 2024([^1])
-[\[Kagamine Rin\]]                |                                |            Dutch            | August 19th, 2024
-[vyper]                           |                                |                             | October 20th, 2024
-[pimpG]                           |                                |         Portuguese          | June 16th, 2025
-[Ady]                             |                                |                             | December 8th, 2025([^6])
-[SCAG]                            |                                |                             | November 11th, 2025
-[scug]                            |                                |                             | January 10th, 2026
-[laurafied]                       |                                |       Afrikaans, Zulu       | January 11th, 2026
+|User                              |         Specialization         | Additional Languages Spoken | Added Date                 |
+|----------------------------------|:------------------------------:|:---------------------------:|----------------------------|
+|[Digitalfear117]                  | BAT Management / Beatmap Files |                             | May 29th, 2024             |
+|[kingkurboh335]                   |         BAT Management         |          Croatian           | May 22nd, 2024([^3])       |
+|[Nikku]                           |         Storyboarding          |                             | May 19th, 2024([^1])       |
+|[\[Kagamine Rin\]]                |                                |            Dutch            | August 19th, 2024          |
+|[vyper]                           |                                |                             | October 20th, 2024         |
+|[pimpG]                           |                                |         Portuguese          | June 16th, 2025            |
+|[Ady]                             |                                |                             | December 8th, 2025([^6])   |
+|[SCAG]                            |                                |                             | November 11th, 2025        |
+|[scug]                            |                                |                             | January 10th, 2026         |
+|[laurafied]                       |                                |       Afrikaans, Zulu       | January 11th, 2026         |
 
 ### Taiko team members
 
-User                              |   Specialization    | Additional Languages Spoken | Added Date
-----------------------------------|:-------------------:|:---------------------------:|-------------------
-[willow]                          |                     |                             | February 5th, 2025
-[Donkey Kong]                     |                     |                             | June 21th, 2025
-[gsxr4o0]                         | Taikosu hitsounding |        Some Japanese        | July 21th, 2025
+|User                              |   Specialization    | Additional Languages Spoken | Added Date         |
+|----------------------------------|:-------------------:|:---------------------------:|--------------------|
+|[willow]                          |                     |                             | February 5th, 2025 |
+|[Donkey Kong]                     |                     |                             | June 21th, 2025    |
+|[gsxr4o0]                         | Taikosu hitsounding |        Some Japanese        | July 21th, 2025    |
 
 
 ### Catch the Beat team members
 
-User                              | Specialization | Additional Languages Spoken | Added Date
-----------------------------------|:--------------:|:---------------------------:|---------------------
-[Digitalfear117]                  |  .osu mapping  |                             | May 29th, 2024
-[Nikku]                           | Storyboarding  |                             | May 19th, 2024([^1])
+|User                              | Specialization | Additional Languages Spoken | Added Date           |
+|----------------------------------|:--------------:|:---------------------------:|----------------------|
+|[Digitalfear117]                  |  .osu mapping  |                             | May 29th, 2024       |
+|[Nikku]                           | Storyboarding  |                             | May 19th, 2024([^1]) |
 
 
 ### Mania team members
 
-User                              | Specialization | Additional Languages Spoken | Added Date
-----------------------------------|:--------------:|:---------------------------:|----------------
-[willow]                          |                |                             | March 4th, 2025
+|User                              | Specialization | Additional Languages Spoken | Added Date      |
+|----------------------------------|:--------------:|:---------------------------:|-----------------|
+|[willow]                          |                |                             | March 4th, 2025 |
 
 
 ## Past members
 
-User                              |                       Time in BAT
-----------------------------------|:----------------------------------------------------:
-[Levi]                            |          Since the beginning -> May 19th, 2024
-[Spare]                           |          December 17th, 2023 -> May 15th, 2024
-[Champ]                           |          December 17th, 2023 -> May 15th, 2024
-[Adachi]                          |       Since the beginning -> September 7th, 2024
-[wrn81056]                        |          May 19th, 2024 -> November 29th, 2024
-[Syarika]                         |     October 6th, 2024 -> December 10th, 2024
-[seksman sigma balls]             |           March 8th, 2025 -> March 16th, 2025
-[Cheri]                           |          October 20th, 2024 -> March 6th, 2025
-[broilertm]                       |         November 28th, 2024 -> April 21st, 2025
-[Ady]                             |     May 19th, 2024([^1]) -> April 29th, 2025([^6])
-[StreeX]                          |          May 19th, 2024([^1]) -> May 8th, 2025
-[kanocchi]                        |        July 15th, 2024([^5]) -> June 17th, 2025
-[BlueChinchompa]                  |         Since the beginning -> June 17th, 2025
-[fluxie31]                        |      May 19th, 2024([^1]) -> June 22nd, 2025([^7])
-[Genorocks100]                    |           April 9th, 2025 -> July 18th, 2025
-[Cartman]                         |     May 28th, 2025([^2])([^8]) -> August 28th, 2025
-[Dark]                            |          March 18th, 2025 -> August 28th, 2025
-[iSlodinx]                        |           May 29th, 2024 -> August 17th, 2025
-[Yurizono Seia]                   |           May 26th, 2025 -> August 22nd, 2025
-[Oposh]                           |       May 19th, 2024([^1]) -> November 22nd, 2025
-[Avril]                           |     February 23rd, 2025 -> January 6th, 2026
-[Sonnyc]                          |     August 3rd, 2025 -> February 7th, 2026
-[arutama]                         |     July 7th, 2025([^4])([^9]) -> February 8th, 2026
+|User                              |                       Time in BAT                    |
+|----------------------------------|:----------------------------------------------------:|
+|[Levi]                            |          Since the beginning -> May 19th, 2024       |
+|[Spare]                           |          December 17th, 2023 -> May 15th, 2024       |
+|[Champ]                           |          December 17th, 2023 -> May 15th, 2024       |
+|[Adachi]                          |       Since the beginning -> September 7th, 2024     |
+|[wrn81056]                        |          May 19th, 2024 -> November 29th, 2024       |
+|[Syarika]                         |     October 6th, 2024 -> December 10th, 2024         |
+|[seksman sigma balls]             |           March 8th, 2025 -> March 16th, 2025        |
+|[Cheri]                           |          October 20th, 2024 -> March 6th, 2025       |
+|[broilertm]                       |         November 28th, 2024 -> April 21st, 2025      |
+|[Ady]                             |     May 19th, 2024([^1]) -> April 29th, 2025([^6])   |
+|[StreeX]                          |          May 19th, 2024([^1]) -> May 8th, 2025       |
+|[kanocchi]                        |        July 15th, 2024([^5]) -> June 17th, 2025      |
+|[BlueChinchompa]                  |         Since the beginning -> June 17th, 2025       |
+|[fluxie31]                        |      May 19th, 2024([^1]) -> June 22nd, 2025([^7])   |
+|[Genorocks100]                    |           April 9th, 2025 -> July 18th, 2025         |
+|[Cartman]                         |     May 28th, 2025([^2])([^8]) -> August 28th, 2025  |
+|[Dark]                            |          March 18th, 2025 -> August 28th, 2025       |
+|[iSlodinx]                        |           May 29th, 2024 -> August 17th, 2025        |
+|[Yurizono Seia]                   |           May 26th, 2025 -> August 22nd, 2025        |
+|[Oposh]                           |       May 19th, 2024([^1]) -> November 22nd, 2025    |
+|[Avril]                           |     February 23rd, 2025 -> January 6th, 2026         |
+|[Sonnyc]                          |     August 3rd, 2025 -> February 7th, 2026           |
+|[arutama]                         |     July 7th, 2025([^4])([^9]) -> February 8th, 2026 |
 
 
 ## History
