@@ -31,8 +31,6 @@ User                                           |         Specialization         
 [[Kagamine Rin]](https://osu.titanic.sh/u/813) |                                |            Dutch            | August 19th, 2024
 [vyper](https://osu.titanic.sh/u/69)           |                                |                             | October 20th, 2024
 [pimpG](https://osu.titanic.sh/u/2719)         |                                |         Portuguese          | June 16th, 2025
-[arutama](https://osu.titanic.sh/u/905)        |                                |         Indonesian          | July 7th, 2025([^4])([^10])
-[Sonnyc](https://osu.titanic.sh/u/3041)        |                                |           Korean            | August 3rd, 2025
 [Ady](https://osu.titanic.sh/u/821)            |                                |                             | December 8th, 2025([^6])
 [SCAG](https://osu.titanic.sh/u/2631)          |                                |                             | November 11th, 2025
 [scug](https://osu.titanic.sh/u/636)           |                                |                             | January 10th, 2026
@@ -87,6 +85,8 @@ User                                                 |                   Time in
 [Yurizono Seia](https://osu.titanic.sh/u/2168)       |       May 26th, 2025 -> August 22nd, 2025
 [Oposh](https://osu.titanic.sh/u/829)                |   May 19th, 2024([^1]) -> November 22nd, 2025
 [Avril](https://osu.titanic.sh/u/593)                | February 23rd, 2025 -> January 6th, 2026
+[Sonnyc](https://osu.titanic.sh/u/3041)              | August 3rd, 2025 -> February 7th, 2026
+[arutama](https://osu.titanic.sh/u/905)              | July 7th, 2025([^4])([^10]) -> February 8th, 2026
 
 
 ## History

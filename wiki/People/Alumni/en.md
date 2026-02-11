@@ -25,3 +25,5 @@ User                                           | Past roles
 [jiniux](https://osu.titanic.sh/u/2398)        | oldsu! staff & Contributor
 [Riley](https://osu.titanic.sh/u/2464)         | Security Research & Contributor
 [Avril](https://osu.titanic.sh/u/593)          | BAT
+[Sonnyc](https://osu.titanic.sh/u/3041)        | BAT
+[arutama](https://osu.titanic.sh/u/905)        | BAT
