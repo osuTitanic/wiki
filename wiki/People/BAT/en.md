@@ -98,14 +98,14 @@ Members of the Beatmap Approval Team are responsible primarily for managing the 
 ## Notes
 
 [^1]: [First BAT wave]
-[^2]: [Cartman discord #announce ping]
-[^3]: [kingkurboh335 discord #announce ping]
-[^4]: [arutama discord #announce ping]
+[^2]: [Cartman Discord #announce ping]
+[^3]: [kingkurboh335 Discord #announce ping]
+[^4]: [arutama Discord #announce ping]
 [^5]: [kanocchi forum announcement]
 [^6]: Ady joined the BAT in May 19th 2024, resigned in August 13th 2024, rejoined BAT in October 22nd 2024, resigned in April 29th 2025 and rejoined BAT in December 8th 2025
 [^7]: fluxie31 joined the BAT in May 19th 2024, resigned in June 6th 2024, rejoined BAT in May 11th 2025, resigned in June 22nd 2025.
 [^8]: Cartman joined the BAT in May 20th 2024, resigned in January 3rd 2025, rejoined BAT in May 28th 2025, resigned again in August 28th 2025.
-[^9]: arutama joined the BAT in June 14th 2024, resigned in April 22nd 2025, rejoined BAT in July 7th 2025.
+[^9]: arutama joined the BAT in June 14th 2024, resigned in April 22nd 2025, rejoined BAT in July 7th 2025, resigned in February 8th 2026.
 
 
 [Levi]: https://osu.titanic.sh/u/2
@@ -145,7 +145,7 @@ Members of the Beatmap Approval Team are responsible primarily for managing the 
 [laurafied]: https://osu.titanic.sh/u/3578
 
 [First BAT wave]: https://discord.com/channels/1152925764262580236/1152925765566988341/1241727343983198270
-[Cartman discord #announce ping]: https://discord.com/channels/1152925764262580236/1152925765566988341/1242130083049766922
-[kingkurboh335 discord #announce ping]: https://discord.com/channels/1152925764262580236/1152925765566988341/1242819755241635880
-[arutama discord #announce ping]: https://discord.com/channels/1152925764262580236/1152925765566988341/1251193374438854706
+[Cartman Discord #announce ping]: https://discord.com/channels/1152925764262580236/1152925765566988341/1242130083049766922
+[kingkurboh335 Discord #announce ping]: https://discord.com/channels/1152925764262580236/1152925765566988341/1242819755241635880
+[arutama Discord #announce ping]: https://discord.com/channels/1152925764262580236/1152925765566988341/1251193374438854706
 [kanocchi forum announcement]: https://osu.titanic.sh/forum/20/t/472/
