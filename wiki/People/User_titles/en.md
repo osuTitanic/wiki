@@ -47,6 +47,7 @@ User                                             |                     Title    
 [pimpG](https://osu.titanic.sh/u/2719)           | osu! BAT                                     |
 [gsxr4o0](https://osu.titanic.sh/u/2883)         | osu!taiko BAT                                |
 [laurafied](https://osu.titanic.sh/u/3578)       | osu! BAT                                     |
+[Rei](https://osu.titanic.sh/u/4110)             | osu! BAT                                     |
 
 
 ## Contributors
