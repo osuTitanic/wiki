@@ -49,6 +49,7 @@ User                                             |                     Title    
 [laurafied](https://osu.titanic.sh/u/3578)       | osu! BAT                                     |
 [Azu](https://osu.titanic.sh/u/4109)             | osu! BAT                                     |
 [Rei](https://osu.titanic.sh/u/4110)             | osu! BAT                                     |
+[Konoe](https://osu.titanic.sh/u/4112)           | osu! BAT / osu!catch BAT                     |
 [SomalianPants](https://osu.titanic.sh/u/4119)   | osu! BAT                                     |
 
 
