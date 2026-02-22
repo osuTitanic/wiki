@@ -36,9 +36,9 @@ Members of the Beatmap Approval Team are responsible primarily for managing the 
 |[scug]                            |                                |                             | January 10th, 2026         |
 |[laurafied]                       |                                |       Afrikaans, Zulu       | January 11th, 2026         |
 |[Rei]                             |                                |           Japanese          | February 19th, 2026        |
-|[Azu]                             |                                |           Japanese          | February 22th, 2026        |
-|[SomalianPants]                   |                                |                             | February 22th, 2026        |
-
+|[Azu]                             |                                |           Japanese          | February 22nd, 2026        |
+|[SomalianPants]                   |                                |                             | February 22nd, 2026        |
+|[Konoe]                           |                                |           Japanese          | February 22nd, 2026        |  
 
 
 ### Taiko team members
@@ -56,6 +56,7 @@ Members of the Beatmap Approval Team are responsible primarily for managing the 
 |----------------------------------|:--------------:|:---------------------------:|----------------------|
 |[Digitalfear117]                  |  .osu mapping  |                             | May 29th, 2024       |
 |[Nikku]                           | Storyboarding  |                             | May 19th, 2024([^1]) |
+|[Konoe]                           |                |           Japanese          | February 22nd, 2026  |
 
 
 ### Mania team members
@@ -149,7 +150,9 @@ Members of the Beatmap Approval Team are responsible primarily for managing the 
 [laurafied]: https://osu.titanic.sh/u/3578
 [Azu]: https://osu.titanic.sh/u/4109
 [Rei]: https://osu.titanic.sh/u/4110
+[Konoe]: https://osu.titanic.sh/u/4112
 [SomalianPants]: https://osu.titanic.sh/u/4119
+
 
 
 [First BAT wave]: https://discord.com/channels/1152925764262580236/1152925765566988341/1241727343983198270
