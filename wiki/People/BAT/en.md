@@ -62,7 +62,6 @@ Members of the Beatmap Approval Team are responsible primarily for managing the 
 
 |User                              | Specialization | Additional Languages Spoken | Added Date      |
 |----------------------------------|:--------------:|:---------------------------:|-----------------|
-|[willow]                          |                |                             | March 4th, 2025 |
 
 
 ## Past members
