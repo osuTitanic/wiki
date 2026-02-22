@@ -41,7 +41,7 @@ User                                             |                     Title    
 [Nikku](https://osu.titanic.sh/u/811)            | osu! BAT / osu!catch BAT                     |
 [[Kagamine Rin]](https://osu.titanic.sh/u/813)   | osu! BAT / osu!taiko BAT                     |
 [Ady](https://osu.titanic.sh/u/821)              | osu! BAT                                     |
-[willow](https://osu.titanic.sh/u/1088)          | osu!taiko BAT / osu!mania BAT                |
+[willow](https://osu.titanic.sh/u/1088)          | osu!taiko BAT /                              |
 [Donkey Kong](https://osu.titanic.sh/u/1091)     | osu!taiko BAT                                |
 [SCAG](https://osu.titanic.sh/u/2631)            | osu! BAT                                     |
 [pimpG](https://osu.titanic.sh/u/2719)           | osu! BAT                                     |
