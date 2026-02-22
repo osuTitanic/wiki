@@ -154,7 +154,6 @@ Members of the Beatmap Approval Team are responsible primarily for managing the 
 [SomalianPants]: https://osu.titanic.sh/u/4119
 
 
-
 [First BAT wave]: https://discord.com/channels/1152925764262580236/1152925765566988341/1241727343983198270
 [Cartman Discord #announce ping]: https://discord.com/channels/1152925764262580236/1152925765566988341/1242130083049766922
 [kingkurboh335 Discord #announce ping]: https://discord.com/channels/1152925764262580236/1152925765566988341/1242819755241635880
