@@ -29,7 +29,7 @@ Members of the Beatmap Approval Team are responsible primarily for managing the 
 |[kingkurboh335]                   |         BAT Management         |           Croatian          | May 22nd, 2024([^3])       |
 |[Nikku]                           |         Storyboarding          |                             | May 19th, 2024([^1])       |
 |[\[Kagamine Rin\]]                |                                |            Dutch            | August 19th, 2024          |
-|[vyper]                           |                                |                             | October 20th, 2024         |
+|[Cuddles]                         |                                |                             | October 20th, 2024         |
 |[pimpG]                           |                                |          Portuguese         | June 16th, 2025            |
 |[Ady]                             |                                |                             | December 8th, 2025([^6])   |
 |[SCAG]                            |                                |                             | November 11th, 2025        |
