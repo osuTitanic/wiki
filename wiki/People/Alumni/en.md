@@ -27,3 +27,4 @@ User                                           | Past roles
 [Avril](https://osu.titanic.sh/u/593)          | BAT
 [Sonnyc](https://osu.titanic.sh/u/3041)        | BAT
 [arutama](https://osu.titanic.sh/u/905)        | BAT
+[dremu](https://osu.titanic.sh/u/659)          | TMT
