@@ -1,6 +1,6 @@
 # Sudden Death Gauntlet
 
-**Sudden Death Gauntlet** was an international 1v1 single-day double-elimination tournament hosted by [Cloudpaw].
+**Sudden Death Gauntlet** was an international 1v1 single-day double-elimination tournament hosted by [Cloudpaw], it was the first instalment of the Sudden Death Gauntlet.
 
 ## Schedule
 
@@ -79,7 +79,7 @@ Sudden Death Gauntlet was run by a few community members.
 
 ### Upper Stage
 
-[Download the mappack here](https://cdn.titanic.sh/tournaments/sd-gauntlet/Sudden%20Death%20Gauntlet%20-%20Upper%20Stage.zip)
+[Download the mappack here (52.8 MB)](https://cdn.titanic.sh/tournaments/sd-gauntlet/Sudden%20Death%20Gauntlet%20-%20Upper%20Stage.zip)
 
 Upper Stage is a BO7 pool for Top 6.
 
@@ -97,7 +97,7 @@ Upper Stage is a BO7 pool for Top 6.
 
 ### Lower Stage
 
-[Download the mappack here](https://cdn.titanic.sh/tournaments/sd-gauntlet/Sudden%20Death%20Gauntlet%20-%20Lower%20Stage.zip)
+[Download the mappack here (49.3 MB)](https://cdn.titanic.sh/tournaments/sd-gauntlet/Sudden%20Death%20Gauntlet%20-%20Lower%20Stage.zip)
 
 Lower Stage is a BO5 pool played before Top 6.
 
