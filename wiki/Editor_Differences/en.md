@@ -12,7 +12,7 @@ I have omitted some versions from this list if I could not find any significant 
 
 ### Uploading maps on titanic
 
-During the development of osu!, uploading maps through the "Beatmap Submission System" (BSS) has changed drastically. Titanic's implementation of the BSS does support all clients, though it may be a little unstable on older version of osu!. If you encounter any issues, I recommend using my b20130303 modded client, as it allows you to bypass updating the map before upload. This is particularly useful if you want to preserve compatibility with the original client you used for mapping!
+During the development of osu!, uploading maps through the "Beatmap Submission System" (BSS) has changed drastically. Titanic's implementation of the BSS supports all clients, but be aware that extremely old clients may have certain limitations because of their age (such as changing the difficulty name creating a new beatmap ID before b20121003shine.test). However, the older the client the map was made in, the more compatible it will be. On Titanic our goal is to ensure maps stay compatible with as many clients as reasonably possible. I recommend using my [b20130303 modded client](https://osu.titanic.sh/forum/23/t/560/), as it offers many features to help find you make your maps compatible on as many clients as possible.
 
 ## Pre-release osu! versions (v1)
 
@@ -483,7 +483,7 @@ This build adds the ability to add decimal difficulty values to maps! At the tim
 
 ## mid 2015 to now (v14)
 
-This versions adds per node sampleset changes to sliders (or juice streams) for Catch the Beat. I'm a CtB and I don't even know what this means, and I have no idea if anyone uses this to be honest.
+This versions adds per node sampleset changes to sliders (or juice streams) for Catch the Beat. I'm a CtB player and even I don't even know what this means, and I have no idea if anyone uses this to be honest.
 
 ## Late 2018 to now (v128)
 
@@ -491,28 +491,4 @@ This is the .osu version for all maps made on lazer. Inside lazer you can export
 
 ## b20130303 Digital Client++
 
-This a modded mapping client made by Digitalfear117, with help from Nikku, Tree, and Levi! This offers many legacy and stable features for mappers to use, and a few extra new ones as well.
-
-### slider curve type swapping
-
-Just like older clients, you can press A, S, or D to change slider curve types. Unlike old clients you can also press F to change to perfect curves too! This is the first client that you can easily choose any slider curve type.
-
-### expanded beat snap divisor and distance snap
-
-Using the Unhinged Slider Curve Type, and Unhinged Beat Snap Divisor options in the editor, you can use DS from 0.1x to 16x, and you can map from any beat snap 1/1 to 1/32. These features do also fully work when exported to stable or lazer, so get crazy with it!
-
-### fixed sv decimal rounding
-
-For some reason this version of osu! would round sv's like 0.95 to 1.00. This has been fixed in my client
-
-### decimal difficulty settings
-
-You cannot use AR's such as 9.5 when uploading maps to titanic. They must be whole numbers. However, if you wish to map for stable or lazer, you can enable this in Compose. Using decimal difficulty settings will save the map as a .osu v13 instead of a v12.
-
-### taiko and catch the beat editors
-
-Although modern stable doesn't seem to offer much for Taiko and CtB mapping, they do actually have a few more features. For CtB distance calculation only changes when you move something in the X coordinate, and for Taiko you can actually see the color of the don and kats based on NC's.
-
-### uploading older .osu formats
-
-All other osu clients force update your .osu file to the version they are built around, however my client is different. You can import your map from another client, and go directly to the upload button. It will ask you if you want to force save, and you can hit No. Doing this will skip the saving process, allowing you to upload any map from any client in a pure fashion! Try this for uploading .osu v9's and earlier, and .osu v128's!
+This a modded mapping client made by me and other community members on Titanic! This client offers many legacy, modern, and brand new features for mappers to use! For those serious about making maps on Titanic this is the go to client. [You can find it here](https://osu.titanic.sh/forum/23/t/560/)
