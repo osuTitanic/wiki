@@ -12,7 +12,7 @@ I have omitted some versions from this list if I could not find any significant 
 
 ### Uploading maps on titanic
 
-During the development of osu!, uploading maps through the "Beatmap Submission System" (BSS) has changed drastically. Titanic's implementation of the BSS supports all clients, but be aware that extremely old clients may have certain limitations because of their age (such as changing the difficulty name creating a new beatmap ID before b20121003shine.test). However, the older the client the map was made in, the more compatible it will be. On Titanic our goal is to ensure maps stay compatible with as many clients as reasonably possible. I recommend using my b20130303 modded client, as it offers many features to help find you make your maps compatible on as many clients as possible.
+During the development of osu!, uploading maps through the "Beatmap Submission System" (BSS) has changed drastically. Titanic's implementation of the BSS supports all clients, but be aware that extremely old clients may have certain limitations because of their age (such as changing the difficulty name creating a new beatmap ID before b20121003shine.test). However, the older the client the map was made in, the more compatible it will be. On Titanic our goal is to ensure maps stay compatible with as many clients as reasonably possible. I recommend using my [b20130303 modded client](https://osu.titanic.sh/forum/23/t/560/), as it offers many features to help find you make your maps compatible on as many clients as possible.
 
 ## Pre-release osu! versions (v1)
 
