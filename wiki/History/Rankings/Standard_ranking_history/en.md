@@ -67,15 +67,17 @@ These players have reached rank #1 on the ranked score leaderboard:
 
 These players have reached rank #1 on the ppv1 leaderboard:
 
+- [bingle]
 - [BlueChinchompa]
 - [Champ]
 - [Curapika]
 - [haru urara]
 - [ibce]
 - [Natasha] (profile wiped)
+- [puffle osu]
 - [Sky]
 - [Spare]
-- [vyper]
+- [Cuddles]
 
 ### Timeline
 
@@ -103,16 +105,19 @@ These players have reached rank #1 on the ppv1 leaderboard:
 - 2025-04-01 - 2025-08-30: [Champ]
 - 2025-08-30 - 2025-10-31: [haru urara]
 - 2025-10-31 - 2025-11-21: [Champ]
-- 2025-11-21 - 2025-11-22: [vyper]
+- 2025-11-21 - 2025-11-22: [Cuddles]
 - 2025-11-22 - 2025-11-28: [Champ]
-- 2025-11-28 - Today: [vyper]
+- 2025-11-28 - 2026-02-07: [Cuddles]
+- 2026-02-07 - 2026-02-08: [puffle osu]
+- 2026-02-08 - 2026-02-08: [Cuddles], [bingle], [puffle osu]
+- 2026-02-08 - Today: [puffle osu]
 
 [Natasha]: https://osu.titanic.sh/u/5
 [Levi]: https://osu.titanic.sh/u/2
 [BlueChinchompa]: https://osu.titanic.sh/u/40
 [Champ]: https://osu.titanic.sh/u/96
 [Spare]: https://osu.titanic.sh/u/92
-[vyper]: https://osu.titanic.sh/u/69
+[Cuddles]: https://osu.titanic.sh/u/69
 [Cloudpaw]: https://osu.titanic.sh/u/2302
 [zverhome]: https://osu.titanic.sh/u/47
 [Ada]: https://osu.titanic.sh/u/39
@@ -121,3 +126,5 @@ These players have reached rank #1 on the ppv1 leaderboard:
 [ibce]: https://osu.titanic.sh/u/53
 [Curapika]: https://osu.titanic.sh/u/2304
 [haru urara]: https://osu.titanic.sh/u/3297
+[puffle osu]: https://osu.titanic.sh/u/3847
+[bingle]: https://osu.titanic.sh/u/3627
