@@ -4,6 +4,8 @@ The *Beatmap Approval Team* (BAT) is responsible for ensuring the quality and in
 Beatmaps submitted for ranking, approval, or loved status on Titanic. This document outlines
 BAT responsibilities, nomination procedures, and general best practices.
 
+*Originally written by Digitalfear117, then adapted for the wiki.*
+
 ## Responsibilities of BAT Members
 
 ### General Tasks
