@@ -1,6 +1,6 @@
 # Sudden Death Gauntlet
 
-**Sudden Death Gauntlet** was an international 1v1 single-day double-elimination tournament hosted by [Cloudpaw], it was the first instalment of the Sudden Death Gauntlet.
+**Sudden Death Gauntlet** was an international 1v1 single-day double-elimination tournament hosted by [Cloudpaw].
 
 ## Schedule
 
