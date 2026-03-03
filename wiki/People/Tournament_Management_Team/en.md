@@ -13,6 +13,6 @@ User                                           | Added Date
 ## Past members
 
 User                                           | Time Spent
------------------------------------------------|----------------------------------------|
-[kingkurboh335](https://osu.titanic.sh/u/810)  | August 21st, 2025 -> ???               |
-[dremu](https://osu.titanic.sh/u/659)          | April 14th, 2025 -> February 5th, 2026 |
+-----------------------------------------------|------------------------------------------|
+[kingkurboh335](https://osu.titanic.sh/u/810)  | August 21st, 2025 -> February 14th, 2026 |
+[dremu](https://osu.titanic.sh/u/659)          | April 14th, 2025 -> February 5th, 2026   |
