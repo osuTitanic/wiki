@@ -35,10 +35,10 @@ Members of the Beatmap Approval Team are responsible primarily for managing the 
 |[SCAG]                            |                                |                             | November 11th, 2025        |
 |[scug]                            |                                |                             | January 10th, 2026         |
 |[laurafied]                       |                                |        Afrikaans, Zulu      | January 11th, 2026         |
-|[Rei]                             |                                |           Japanese          | February 19th, 2026        |
-|[Azu]                             |                                |           Japanese          | February 22nd, 2026        |
-|[SomalianPants]                   |                                |                             | February 22nd, 2026        |
-|[Konoe]                           |                                |           Japanese          | February 22nd, 2026        |  
+|[Rei]                             |                                |           Japanese          | February 19th, 2026([^11]) |
+|[Azu]                             |                                |           Japanese          | February 22nd, 2026([^11]) |
+|[SomalianPants]                   |                                |                             | February 22nd, 2026([^11]) |
+|[Konoe]                           |                                |           Japanese          | February 22nd, 2026([^11]) |  
 
 
 ### Taiko team members
@@ -52,11 +52,12 @@ Members of the Beatmap Approval Team are responsible primarily for managing the 
 
 ### Catch the Beat team members
 
-|User                              | Specialization | Additional Languages Spoken | Added Date           |
-|----------------------------------|:--------------:|:---------------------------:|----------------------|
-|[Digitalfear117]                  |  .osu mapping  |                             | May 29th, 2024       |
-|[Nikku]                           | Storyboarding  |                             | May 19th, 2024([^1]) |
-|[Konoe]                           |                |           Japanese          | February 22nd, 2026  |
+|User                              | Specialization | Additional Languages Spoken | Added Date                 |
+|----------------------------------|:--------------:|:---------------------------:|----------------------------|
+|[Digitalfear117]                  |  .osu mapping  |                             | May 29th, 2024             |
+|[Nikku]                           | Storyboarding  |                             | May 19th, 2024([^1])       |
+|[Konoe]                           |                |           Japanese          | February 22nd, 2026([^11]) |
+|[Eun]                             |                |                             | March 1st, 2026[^11]       |
 
 
 ### Mania team members
@@ -112,6 +113,7 @@ Members of the Beatmap Approval Team are responsible primarily for managing the 
 [^8]: Dandy joined the osu!BAT in May 20th 2024, resigned in January 3rd 2025, rejoined osu!BAT in May 28th 2025, resigned in August 28th 2025.
 [^9]: arutama joined the osu!BAT in June 14th 2024, resigned in April 22nd 2025, rejoined osu!BAT in July 7th 2025, resigned in February 8th 2026.
 [^10]: willow joined the osu!mania BAT in March 4th 2025, resigned in November 17th 2025.
+[^11]: [Second BAT wave]
 
 
 [Levi]: https://osu.titanic.sh/u/2
@@ -153,6 +155,7 @@ Members of the Beatmap Approval Team are responsible primarily for managing the 
 [Rei]: https://osu.titanic.sh/u/4110
 [Konoe]: https://osu.titanic.sh/u/4112
 [SomalianPants]: https://osu.titanic.sh/u/4119
+[Eun]: https://osu.titanic.sh/u/3006
 
 
 [First BAT wave]: https://discord.com/channels/1152925764262580236/1152925765566988341/1241727343983198270
@@ -160,3 +163,4 @@ Members of the Beatmap Approval Team are responsible primarily for managing the 
 [kingkurboh335 Discord #announce ping]: https://discord.com/channels/1152925764262580236/1152925765566988341/1242819755241635880
 [arutama Discord #announce ping]: https://discord.com/channels/1152925764262580236/1152925765566988341/1251193374438854706
 [kanocchi forum announcement]: https://osu.titanic.sh/forum/20/t/472/
+[Second BAT wave]: https://discord.com/channels/1152925764262580236/1152925765566988341/1479204223798477024

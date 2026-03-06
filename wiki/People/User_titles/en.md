@@ -29,14 +29,14 @@ User                                             |                     Title    
 [Meru](https://osu.titanic.sh/u/41)              | Community Manager                            |
 [Hatate Himekaidou](https://osu.titanic.sh/u/85) | Global Moderator                             |
 [vg185](https://osu.titanic.sh/u/568)            | Global Moderator                             |
-[Digitalfeat117](https://osu.titanic.sh/u/809)   | BAT Manager / Global Moderator / Mr. Ladybug |
-[Kurboh](https://osu.titanic.sh/u/810)           | BAT Manager                                  |
+[Digitalfear117](https://osu.titanic.sh/u/809)   | BAT Manager / Global Moderator / Mr. Ladybug |
+[kingkurboh335](https://osu.titanic.sh/u/810)    | BAT Manager                                  |
 
 
 ## Beatmap Approval Team 
 User                                             |                     Title                    |
 -------------------------------------------------|:--------------------------------------------:|
-[vyper](https://osu.titanic.sh/u/69)             | osu! BAT / osu!taiko BAT                     |
+[Cuddles](https://osu.titanic.sh/u/69)           | osu! BAT / osu!taiko BAT                     |
 [scug](https://osu.titanic.sh/u/636)             | osu! BAT                                     |
 [Nikku](https://osu.titanic.sh/u/811)            | osu! BAT / osu!catch BAT                     |
 [[Kagamine Rin]](https://osu.titanic.sh/u/813)   | osu! BAT / osu!taiko BAT                     |
@@ -51,6 +51,7 @@ User                                             |                     Title    
 [Rei](https://osu.titanic.sh/u/4110)             | osu! BAT                                     |
 [Konoe](https://osu.titanic.sh/u/4112)           | osu! BAT / osu!catch BAT                     |
 [SomalianPants](https://osu.titanic.sh/u/4119)   | osu! BAT                                     |
+[Eun](https://osu.titanic.sh/u/3006)             | osu!catch BAT                                |
 
 
 ## Contributors
@@ -92,5 +93,5 @@ User                                             |                     Title    
 -------------------------------------------------|:--------------------------------------------:|
 [BanchoBot](https://osu.titanic.sh/u/1)          | w00t p00t                                    |
 [Natasha](https://osu.titanic.sh/u/5)            | #1 osu! hacker                               |
-[Digitalfeat117](https://osu.titanic.sh/u/809)   | BAT Manager / Global Moderator / Mr. Ladybug |
+[Digitalfear117](https://osu.titanic.sh/u/809)   | BAT Manager / Global Moderator / Mr. Ladybug |
 
