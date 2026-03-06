@@ -35,10 +35,10 @@ Members of the Beatmap Approval Team are responsible primarily for managing the 
 |[SCAG]                            |                                |                             | November 11th, 2025        |
 |[scug]                            |                                |                             | January 10th, 2026         |
 |[laurafied]                       |                                |        Afrikaans, Zulu      | January 11th, 2026         |
-|[Rei]                             |                                |           Japanese          | February 19th, 2026[^11]   |
-|[Azu]                             |                                |           Japanese          | February 22nd, 2026[^11]   |
-|[SomalianPants]                   |                                |                             | February 22nd, 2026[^11]   |
-|[Konoe]                           |                                |           Japanese          | February 22nd, 2026[^11]   |  
+|[Rei]                             |                                |           Japanese          | February 19th, 2026([^11]) |
+|[Azu]                             |                                |           Japanese          | February 22nd, 2026([^11]) |
+|[SomalianPants]                   |                                |                             | February 22nd, 2026([^11]) |
+|[Konoe]                           |                                |           Japanese          | February 22nd, 2026([^11]) |  
 
 
 ### Taiko team members
@@ -52,12 +52,12 @@ Members of the Beatmap Approval Team are responsible primarily for managing the 
 
 ### Catch the Beat team members
 
-|User                              | Specialization | Additional Languages Spoken | Added Date               |
-|----------------------------------|:--------------:|:---------------------------:|--------------------------|
-|[Digitalfear117]                  |  .osu mapping  |                             | May 29th, 2024           |
-|[Nikku]                           | Storyboarding  |                             | May 19th, 2024([^1])     |
-|[Konoe]                           |                |           Japanese          | February 22nd, 2026[^11] |
-|[Eun]                             |                |                             | March 1st, 2026[^11]     |
+|User                              | Specialization | Additional Languages Spoken | Added Date                 |
+|----------------------------------|:--------------:|:---------------------------:|----------------------------|
+|[Digitalfear117]                  |  .osu mapping  |                             | May 29th, 2024             |
+|[Nikku]                           | Storyboarding  |                             | May 19th, 2024([^1])       |
+|[Konoe]                           |                |           Japanese          | February 22nd, 2026([^11]) |
+|[Eun]                             |                |                             | March 1st, 2026[^11]       |
 
 
 ### Mania team members
