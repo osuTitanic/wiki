@@ -39,6 +39,7 @@ User                                             |                     Title    
 [Cuddles](https://osu.titanic.sh/u/69)           | osu! BAT / osu!taiko BAT                     |
 [scug](https://osu.titanic.sh/u/636)             | osu! BAT                                     |
 [Nikku](https://osu.titanic.sh/u/811)            | osu! BAT / osu!catch BAT                     |
+[Dark](https://osu.titanic.sh/u/812)             | osu!catch BAT                                |
 [[Kagamine Rin]](https://osu.titanic.sh/u/813)   | osu! BAT / osu!taiko BAT                     |
 [Ady](https://osu.titanic.sh/u/821)              | osu! BAT                                     |
 [willow](https://osu.titanic.sh/u/1088)          | osu!taiko BAT                                |

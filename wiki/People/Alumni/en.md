@@ -11,7 +11,6 @@ User                                           | Past roles
 [StreeX](https://osu.titanic.sh/u/67)          | BAT
 [fluxie31](https://osu.titanic.sh/u/517)       | BAT
 [w81056398](https://osu.titanic.sh/u/645)      | BAT
-[Dark](https://osu.titanic.sh/u/812)           | BAT
 [Dandy](https://osu.titanic.sh/u/857)          | BAT
 [iSlodinx](https://osu.titanic.sh/u/869)       | BAT, GMT & Wiki Maintainer
 [kanocchi](https://osu.titanic.sh/u/943)       | BAT
