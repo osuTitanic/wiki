@@ -51,6 +51,7 @@ User                                             |                     Title    
 [Rei](https://osu.titanic.sh/u/4110)             | osu! BAT                                     |
 [Konoe](https://osu.titanic.sh/u/4112)           | osu! BAT / osu!catch BAT                     |
 [SomalianPants](https://osu.titanic.sh/u/4119)   | osu! BAT                                     |
+[Eun](https://osu.titanic.sh/u/3006)             | osu!catch BAT                                |
 
 
 ## Contributors
