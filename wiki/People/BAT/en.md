@@ -36,9 +36,9 @@ Members of the Beatmap Approval Team are responsible primarily for managing the 
 |[scug]                            |                                |                             | January 10th, 2026         |
 |[laurafied]                       |                                |        Afrikaans, Zulu      | January 11th, 2026         |
 |[Rei]                             |                                |           Japanese          | February 18th, 2026([^11]) |
-|[Azu]                             |                                |           Japanese          | February 21nd, 2026([^11]) |
-|[SomalianPants]                   |                                |                             | February 22nd, 2026([^11]) |
-|[Konoe]                           |                                |           Japanese          | February 23nd, 2026([^11]) |  
+|[Azu]                             |                                |           Japanese          | February 21st, 2026([^11]) |
+|[SomalianPants]                   |                                |                             | February 21st, 2026([^11]) |
+|[Konoe]                           |                                |           Japanese          | February 23rd, 2026([^11]) |  
 
 
 ### Taiko team members
