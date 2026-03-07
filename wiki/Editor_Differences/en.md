@@ -14,6 +14,8 @@ I have omitted some versions from this list if I could not find any significant 
 
 During the development of osu!, uploading maps through the "Beatmap Submission System" (BSS) has changed drastically. Titanic's implementation of the BSS supports all clients, but be aware that extremely old clients may have certain limitations because of their age (such as changing the difficulty name creating a new beatmap ID before b20121003shine.test). However, the older the client the map was made in, the more compatible it will be. On Titanic our goal is to ensure maps stay compatible with as many clients as reasonably possible. I recommend using my [b20130303 modded client](https://osu.titanic.sh/forum/23/t/560/), as it offers many features to help find you make your maps compatible on as many clients as possible.
 
+The oldest client you can upload maps on Titanic with is the [b99 Titanic modded client](https://osu.titanic.sh/forum/23/t/2254/). This client actually predates BSS entirely, but it was backported by [lunii](https://osu.titanic.sh/u/817) and [Digitalfear117](https://osu.titanic.sh/u/809)!
+
 ## Pre-release osu! versions (v1)
 
 Some versions of osu! exist that predate the games official public beta. A lot of the earliest maps in the game were made during this pre-release era and were updated by peppy to .osu v3 and ranked.
@@ -167,8 +169,6 @@ The switch to .osu v5 seemed to happen on 2008-03-24, but we have no builds in b
 The first versions that use .osu v5 are not majorly different from what came before, it seems that the major change is that 25ms of offset was removed from new maps going forward due to a change peppy made on March 23rd of 2008. This from his official changelog:
 
 `Realised my silence finding function WASN'T RUNNING! Fixed, and adjusted previous beatmaps to earn themselves a free 25ms offset.`
-
-As of me writing this, this is the oldest possible version that works with osu!titanic, however only testers are allowed to use it due to bugs that exist with the client. I think this is a shame but maybe one day this can be changed.
 
 ## b294 remove redundant slider anchor on slider head
 
