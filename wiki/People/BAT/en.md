@@ -29,7 +29,7 @@ Members of the Beatmap Approval Team are responsible primarily for managing the 
 |[kingkurboh335]                   |         BAT Management         |           Croatian          | May 22nd, 2024([^3])       |
 |[Nikku]                           |         Storyboarding          |                             | May 19th, 2024([^1])       |
 |[\[Kagamine Rin\]]                |                                |            Dutch            | August 19th, 2024          |
-|[Cuddles]                         |                                |                             | October 20th, 2024         |
+|[Cuddles]                         |         BAT Management         |                             | October 20th, 2024([^12])  |
 |[pimpG]                           |                                |          Portuguese         | June 16th, 2025            |
 |[Ady]                             |                                |                             | December 8th, 2025([^6])   |
 |[SCAG]                            |                                |                             | November 11th, 2025        |
@@ -38,7 +38,7 @@ Members of the Beatmap Approval Team are responsible primarily for managing the 
 |[Rei]                             |                                |           Japanese          | February 18th, 2026([^11]) |
 |[Azu]                             |                                |           Japanese          | February 21st, 2026([^11]) |
 |[SomalianPants]                   |                                |                             | February 21st, 2026([^11]) |
-|[Konoe]                           |                                |           Japanese          | February 23rd, 2026([^11]) |  
+|[Konoe]                           |                                |           Japanese          | February 23rd, 2026([^11]) |
 
 
 ### Taiko team members
@@ -46,6 +46,7 @@ Members of the Beatmap Approval Team are responsible primarily for managing the 
 |User                              |   Specialization    | Additional Languages Spoken | Added Date                |
 |----------------------------------|:-------------------:|:---------------------------:|---------------------------|
 |[willow]                          |                     |                             | February 5th, 2025([^10]) |
+|[Cuddles]                         |   BAT Management    |                             | May 16th, 2025            |
 |[Donkey Kong]                     |                     |                             | June 21th, 2025           |
 |[gsxr4o0]                         | Taikosu hitsounding |        Some Japanese        | July 21th, 2025           |
 
@@ -98,7 +99,7 @@ Members of the Beatmap Approval Team are responsible primarily for managing the 
 
 ## History
 
-[Levi] Removed himself from BAT as soon as new members showed up to focus more on developing Titanic.  
+[Levi] Removed himself from BAT as soon as new members showed up to focus more on developing Titanic.
 [Ada] Removed himself from BAT due to inactivity for the past 6 months.
 
 
@@ -115,6 +116,7 @@ Members of the Beatmap Approval Team are responsible primarily for managing the 
 [^9]: arutama joined the osu!BAT in June 14th 2024, resigned in April 22nd 2025, rejoined osu!BAT in July 7th 2025, resigned in February 8th 2026.
 [^10]: willow joined the osu!mania BAT in March 4th 2025, resigned in November 17th 2025.
 [^11]: [Second BAT wave]
+[^12]: [New BAT Manager announcement]
 
 
 [Levi]: https://osu.titanic.sh/u/2
@@ -150,13 +152,13 @@ Members of the Beatmap Approval Team are responsible primarily for managing the 
 [SCAG]: https://osu.titanic.sh/u/2631
 [pimpG]: https://osu.titanic.sh/u/2719
 [gsxr4o0]: https://osu.titanic.sh/u/2883
+[Eun]: https://osu.titanic.sh/u/3006
 [Sonnyc]: https://osu.titanic.sh/u/3041
 [laurafied]: https://osu.titanic.sh/u/3578
 [Azu]: https://osu.titanic.sh/u/4109
 [Rei]: https://osu.titanic.sh/u/4110
 [Konoe]: https://osu.titanic.sh/u/4112
 [SomalianPants]: https://osu.titanic.sh/u/4119
-[Eun]: https://osu.titanic.sh/u/3006
 
 
 [First BAT wave]: https://discord.com/channels/1152925764262580236/1152925765566988341/1241727343983198270
@@ -165,3 +167,4 @@ Members of the Beatmap Approval Team are responsible primarily for managing the 
 [arutama Discord #announce ping]: https://discord.com/channels/1152925764262580236/1152925765566988341/1251193374438854706
 [kanocchi forum announcement]: https://osu.titanic.sh/forum/20/t/472/
 [Second BAT wave]: https://discord.com/channels/1152925764262580236/1152925765566988341/1479204223798477024
+[New BAT Manager announcement]: https://discord.com/channels/1152925764262580236/1152925765566988341/1483108513029820536

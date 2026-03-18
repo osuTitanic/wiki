@@ -27,6 +27,7 @@ User                                             |                     Title    
 [Ada](https://osu.titanic.sh/u/39)               | Community Manager                            |
 [BlueChinchompa](https://osu.titanic.sh/u/40)    | Community / Content Manager                  |
 [Meru](https://osu.titanic.sh/u/41)              | Community Manager                            |
+[Cuddles](https://osu.titanic.sh/u/69)           | BAT Manager                                  |
 [Hatate Himekaidou](https://osu.titanic.sh/u/85) | Global Moderator                             |
 [vg185](https://osu.titanic.sh/u/568)            | Global Moderator                             |
 [Digitalfear117](https://osu.titanic.sh/u/809)   | BAT Manager / Global Moderator / Mr. Ladybug |
@@ -36,7 +37,6 @@ User                                             |                     Title    
 ## Beatmap Approval Team 
 User                                             |                     Title                    |
 -------------------------------------------------|:--------------------------------------------:|
-[Cuddles](https://osu.titanic.sh/u/69)           | osu! BAT / osu!taiko BAT                     |
 [scug](https://osu.titanic.sh/u/636)             | osu! BAT                                     |
 [Nikku](https://osu.titanic.sh/u/811)            | osu! BAT / osu!catch BAT                     |
 [Dark](https://osu.titanic.sh/u/812)             | osu!catch BAT                                |
