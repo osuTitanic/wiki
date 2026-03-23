@@ -59,6 +59,8 @@ chmod +x ./osu-winello.sh
 ./osu-winello.sh
 ```
 
+Once you have osu! stable up and running with the `osu-wine` command, you can proceed with the installation of Titanic!
+
 ### Download the Titanic client
 
 You can download any patched osu! version from the [downloads page](https://osu.titanic.sh/download/).
