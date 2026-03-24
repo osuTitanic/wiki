@@ -491,4 +491,4 @@ This is the .osu version for all maps made on lazer. Inside lazer you can export
 
 ## b20130303 Digital Client++
 
-This a modded mapping client made by me and other community members on Titanic! This client offers many legacy, modern, and brand new features for mappers to use! For those serious about making maps on Titanic this is the go to client. [You can find it here](https://osu.titanic.sh/forum/23/t/560/)
+This is a modded client made by [Digitalfear117](https://osu.titanic.sh/u/809) and other community members on Titanic! This client offers many legacy, modern, and brand new features for mappers to use! It's highly recommended to use this modded client for mapping, [you can find it here](https://osu.titanic.sh/forum/23/t/560/).
