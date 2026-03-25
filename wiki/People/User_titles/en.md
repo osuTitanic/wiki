@@ -31,7 +31,7 @@ User                                             |                     Title    
 [Hatate Himekaidou](https://osu.titanic.sh/u/85) | Global Moderator                             |
 [vg185](https://osu.titanic.sh/u/568)            | Global Moderator                             |
 [Digitalfear117](https://osu.titanic.sh/u/809)   | BAT Manager / Global Moderator / Mr. Ladybug |
-[kingkurboh335](https://osu.titanic.sh/u/810)    | BAT Manager                                  |
+[kingkurboh335](https://osu.titanic.sh/u/810)    | BAT Manager / Global Moderator               |
 
 
 ## Beatmap Approval Team 
