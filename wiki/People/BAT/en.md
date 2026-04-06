@@ -27,7 +27,7 @@ Members of the Beatmap Approval Team are responsible primarily for managing the 
 |----------------------------------|:------------------------------:|:---------------------------:|----------------------------|
 |[Digitalfear117]                  | BAT Management / Beatmap Files |                             | May 29th, 2024             |
 |[kingkurboh335]                   |         BAT Management         |           Croatian          | May 22nd, 2024([^3])       |
-|[Nikku]                           |         Storyboarding          |                             | May 19th, 2024([^1])       |
+|[Nikku]                           |         BAT Management         |                             | May 19th, 2024([^1])       |
 |[\[Kagamine Rin\]]                |                                |            Dutch            | August 19th, 2024          |
 |[Cuddles]                         |         BAT Management         |                             | October 20th, 2024([^12])  |
 |[pimpG]                           |                                |          Portuguese         | June 16th, 2025            |
@@ -56,7 +56,7 @@ Members of the Beatmap Approval Team are responsible primarily for managing the 
 |User                              | Specialization | Additional Languages Spoken | Added Date                 |
 |----------------------------------|:--------------:|:---------------------------:|----------------------------|
 |[Digitalfear117]                  |  .osu mapping  |                             | May 29th, 2024             |
-|[Nikku]                           | Storyboarding  |                             | May 19th, 2024([^1])       |
+|[Nikku]                           | BAT Management |                             | May 19th, 2024([^1])       |
 |[Konoe]                           |                |           Japanese          | February 22nd, 2026([^11]) |
 |[Dark]                            |                |                             | February 23rd, 2026([^11]) |
 |[Eun]                             |                |                             | March 1st, 2026[^11]       |
