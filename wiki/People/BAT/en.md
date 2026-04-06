@@ -33,6 +33,7 @@ Members of the Beatmap Approval Team are responsible primarily for managing the 
 |[pimpG]                           |                                |          Portuguese         | June 16th, 2025            |
 |[Ady]                             |                                |                             | December 8th, 2025([^6])   |
 |[SCAG]                            |                                |                             | November 11th, 2025        |
+|[Avril]                           |                                |           Filipino          | April 6th, 2026([^13])     |
 |[scug]                            |                                |                             | January 10th, 2026         |
 |[laurafied]                       |                                |        Afrikaans, Zulu      | January 11th, 2026         |
 |[Rei]                             |                                |           Japanese          | February 18th, 2026([^11]) |
@@ -92,7 +93,6 @@ Members of the Beatmap Approval Team are responsible primarily for managing the 
 |[iSlodinx]                        |           May 29th, 2024 -> August 17th, 2025        |
 |[Yurizono Seia]                   |           May 26th, 2025 -> August 22nd, 2025        |
 |[Oposh]                           |       May 19th, 2024([^1]) -> November 22nd, 2025    |
-|[Avril]                           |     February 23rd, 2025 -> January 6th, 2026         |
 |[Sonnyc]                          |     August 3rd, 2025 -> February 7th, 2026           |
 |[arutama]                         |     July 7th, 2025([^4]) -> February 8th, 2026([^9]) |
 
@@ -117,6 +117,7 @@ Members of the Beatmap Approval Team are responsible primarily for managing the 
 [^10]: willow joined the osu!mania BAT in March 4th 2025, resigned in November 17th 2025.
 [^11]: [Second BAT wave]
 [^12]: [New BAT Manager announcement]
+[^13]: Avril joined the osu!BAT in February 23rd, 2025, resigned in January 6th, 2026, rejoined osu!BAT in April 6th, 2026.
 
 
 [Levi]: https://osu.titanic.sh/u/2

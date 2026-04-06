@@ -38,6 +38,7 @@ User                                             |                     Title    
 ## Beatmap Approval Team 
 User                                             |                     Title                    |
 -------------------------------------------------|:--------------------------------------------:|
+[Avril](https://osu.titanic.sh/u/593)            | osu! BAT                                     |
 [scug](https://osu.titanic.sh/u/636)             | osu! BAT                                     |
 [Dark](https://osu.titanic.sh/u/812)             | osu!catch BAT                                |
 [[Kagamine Rin]](https://osu.titanic.sh/u/813)   | osu! BAT / osu!taiko BAT                     |
