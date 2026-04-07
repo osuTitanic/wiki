@@ -10,6 +10,6 @@ User                                           | Added Date
 [Digitalfear117](https://osu.titanic.sh/u/809) | November 28th, 2024
 [Nikku](https://osu.titanic.sh/u/811)          | June 13th, 2025
 [iSlodinx](https://osu.titanic.sh/u/869)       | March 24th, 2026([^1])
-[Cloudpaw](https://osu.titanic.sh/u/2302)      | March 24th. 2026
+[Cloudpaw](https://osu.titanic.sh/u/2302)      | March 24th, 2026
 
 [^1]: iSlodinx became Wiki maintainer in October 19th 2024, resigned in August 17th 2025 and rejoined March 24th 2026.
