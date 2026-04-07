@@ -88,7 +88,7 @@ Members of the Beatmap Approval Team are responsible primarily for managing the 
 |[BlueChinchompa]                  |         Since the beginning -> June 17th, 2025       |
 |[fluxie31]                        |      May 19th, 2024([^1]) -> June 22nd, 2025([^7])   |
 |[Genorocks100]                    |           April 9th, 2025 -> July 18th, 2025         |
-|[Dandy]                           |     May 28th, 2025([^2]) -> August 28th, 2025([^8])  |
+|[Toothy]                           |     May 28th, 2025([^2]) -> August 28th, 2025([^8])  |
 |[Dark]                            |          March 18th, 2025 -> August 28th, 2025       |
 |[iSlodinx]                        |           May 29th, 2024 -> August 17th, 2025        |
 |[Yurizono Seia]                   |           May 26th, 2025 -> August 22nd, 2025        |
@@ -138,7 +138,7 @@ Members of the Beatmap Approval Team are responsible primarily for managing the 
 [\[Kagamine Rin\]]: https://osu.titanic.sh/u/813
 [Ady]: https://osu.titanic.sh/u/821
 [Oposh]: https://osu.titanic.sh/u/829
-[Dandy]: https://osu.titanic.sh/u/857
+[Toothy]: https://osu.titanic.sh/u/857
 [iSlodinx]: https://osu.titanic.sh/u/869
 [arutama]: https://osu.titanic.sh/u/905
 [kanocchi]: https://osu.titanic.sh/u/943
