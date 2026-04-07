@@ -112,7 +112,7 @@ Members of the Beatmap Approval Team are responsible primarily for managing the 
 [^5]: [kanocchi forum announcement]
 [^6]: Ady joined the osu!BAT in May 19th 2024, resigned in August 13th 2024, rejoined osu!BAT in October 22nd 2024, resigned in April 29th 2025 and rejoined osu!BAT in December 8th 2025
 [^7]: fluxie31 joined the osu!BAT in May 19th 2024, resigned in June 6th 2024, rejoined osu!BAT in May 11th 2025, resigned in June 22nd 2025.
-[^8]: Dandy joined the osu!BAT in May 20th 2024, resigned in January 3rd 2025, rejoined osu!BAT in May 28th 2025, resigned in August 28th 2025.
+[^8]: Toothy joined the osu!BAT in May 20th 2024, resigned in January 3rd 2025, rejoined osu!BAT in May 28th 2025, resigned in August 28th 2025.
 [^9]: arutama joined the osu!BAT in June 14th 2024, resigned in April 22nd 2025, rejoined osu!BAT in July 7th 2025, resigned in February 8th 2026.
 [^10]: willow joined the osu!mania BAT in March 4th 2025, resigned in November 17th 2025.
 [^11]: [Second BAT wave]
@@ -163,7 +163,7 @@ Members of the Beatmap Approval Team are responsible primarily for managing the 
 
 
 [First BAT wave]: https://discord.com/channels/1152925764262580236/1152925765566988341/1241727343983198270
-[Dandy Discord #announce ping]: https://discord.com/channels/1152925764262580236/1152925765566988341/1242130083049766922
+[Toothy Discord #announce ping]: https://discord.com/channels/1152925764262580236/1152925765566988341/1242130083049766922
 [kingkurboh335 Discord #announce ping]: https://discord.com/channels/1152925764262580236/1152925765566988341/1242819755241635880
 [arutama Discord #announce ping]: https://discord.com/channels/1152925764262580236/1152925765566988341/1251193374438854706
 [kanocchi forum announcement]: https://osu.titanic.sh/forum/20/t/472/
