@@ -11,7 +11,7 @@ The Alumni are a group of members who contributed to Titanic in some way, either
 | [StreeX](https://osu.titanic.sh/u/67)            | BAT                                |
 | [fluxie31](https://osu.titanic.sh/u/517)         | BAT                                |
 | [w81056398](https://osu.titanic.sh/u/645)        | BAT                                |
-| [Dandy](https://osu.titanic.sh/u/857)            | BAT                                |
+| [Toothy](https://osu.titanic.sh/u/857)           | BAT                                |
 | [iSlodinx](https://osu.titanic.sh/u/869)         | BAT, GMT & Wiki Maintainer         |
 | [kanocchi](https://osu.titanic.sh/u/943)         | BAT                                |
 | [broilertm](https://osu.titanic.sh/u/989)        | BAT                                |
