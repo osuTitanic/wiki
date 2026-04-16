@@ -49,7 +49,6 @@ Members of the Beatmap Approval Team are responsible primarily for managing the 
 |[willow]                          |                     |                             | February 5th, 2025([^10]) |
 |[Cuddles]                         |   BAT Management    |                             | May 16th, 2025            |
 |[Donkey Kong]                     |                     |                             | June 21th, 2025           |
-|[gsxr4o0]                         | Taikosu hitsounding |        Some Japanese        | July 21th, 2025           |
 
 
 ### Catch the Beat team members
@@ -95,6 +94,7 @@ Members of the Beatmap Approval Team are responsible primarily for managing the 
 |[Oposh]                           |       May 19th, 2024([^1]) -> November 22nd, 2025    |
 |[Sonnyc]                          |     August 3rd, 2025 -> February 7th, 2026           |
 |[arutama]                         |     July 7th, 2025([^4]) -> February 8th, 2026([^9]) |
+|[gsxr4o0]                         |          July 21th, 2025 -> April 16th, 2026         |
 
 
 ## History
