@@ -47,7 +47,6 @@ User                                             |                     Title    
 [Donkey Kong](https://osu.titanic.sh/u/1091)     | osu!taiko BAT                                |
 [SCAG](https://osu.titanic.sh/u/2631)            | osu! BAT                                     |
 [pimpG](https://osu.titanic.sh/u/2719)           | osu! BAT                                     |
-[gsxr4o0](https://osu.titanic.sh/u/2883)         | osu!taiko BAT                                |
 [laurafied](https://osu.titanic.sh/u/3578)       | osu! BAT                                     |
 [Azu](https://osu.titanic.sh/u/4109)             | osu! BAT                                     |
 [Rei](https://osu.titanic.sh/u/4110)             | osu! BAT                                     |
