@@ -102,7 +102,7 @@ Members of the Beatmap Approval Team are responsible primarily for managing the 
 [Ada] Removed himself from osu!BAT due to inactivity for the past 6 months.
 [pimpG] was removed from osu!BAT due to inactivity.
 [Azu] was removed from osu!BAT due to inactivity.
-[Konoe] was removed from osu!catch BAT due to inactivity.
+[Konoe] was removed from osu!BAT and osu!catch BAT due to inactivity.
 [SomalianPants] was removed from osu!BAT due to inactivity.
 
 
