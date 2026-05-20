@@ -43,7 +43,7 @@ Sudden Death Gauntlet was run by a few community members.
 
 - [Forum thread](https://osu.titanic.sh/forum/27/t/2666/)
 - [Challonge bracket](https://challonge.com/ap1izprr)
-- [Livestream](https://twitch.tv/ferret_irl)
+- [Stream VOD](https://youtu.be/8HfRSWrs5lM)
 
 ## Participants
 
