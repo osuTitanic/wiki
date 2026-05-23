@@ -195,3 +195,25 @@ These pointers may also lead you in the right direction:
   - **Example 1:** "How does this object represent the sound it aligns with?"
   - **Example 2:** "How does this section of objects follow the general mood of this section of the song?"
 - **Consider how other people will interpret your map.** If your way of interpreting the song isn't clear, it'll feel like your map doesn't follow the song!
+
+# Official Beatmap imports
+
+We refer to "Bancho" in this section as the official osu! server, [osu.ppy.sh](https://osu.ppy.sh).
+"Grandfathered mapsets" are mapsets that were ranked on Titanic before the following cutoff rules were introduced.
+
+## Bancho-ranked map imports
+
+- **All osu!std Bancho mapsets ranked in 2015 or earlier are eligible to be added to Titanic.**
+  - This sets 2015 as Titanic's Bancho-ranked map cutoff.
+  - This cutoff is based on the mapset's Bancho ranked date.
+
+- **For osu!taiko, osu!catch, and osu!mania, Bancho-ranked mode-specific mapsets ranked in 2018 or earlier are eligible to be added to Titanic.**
+  - This only applies to mapsets made specifically for those game modes.
+  - Hybrid mapsets ranked from 2016 through 2018 are not eligible through this rule.
+  - Map requests for non-osu! mode mapsets made after 2018 are not eligible for Ranked status on Titanic.
+
+## Grandfathered mapsets
+
+- **Any mapset already ranked on Titanic before cutoff rules were introduced is grandfathered in.**
+  - This includes mapsets ranked on Bancho after 2015 that were already added to Titanic.
+  - Grandfathered mapsets will remain ranked in favor of users' scores.
