@@ -8,9 +8,6 @@ The rules also have been simplified to give mappers a clearer perspective on wha
 [TOC]
 
 For a map to be ranked, it has to follow this ranking criteria, as well be reviewed by at least **2 independent [BAT members](https://osu.titanic.sh/g/3)** plus one for each additional mode. This means a BAT can't approve their own beatmap, and beatmaps with multiple game modes also require approval from BAT members of that game mode.
-
-Users must earn at least **10 kudosu** on Titanic before applying for BAT. This requirement ensures applicants have interacted with Titanic's mapping and modding community before joining the Beatmap Approval Team.
-
 This criteria may change in the future due to increasing map requests and BAT members.
 
 # Beatmap
