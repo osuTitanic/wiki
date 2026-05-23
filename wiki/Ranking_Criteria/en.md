@@ -200,6 +200,8 @@ These pointers may also lead you in the right direction:
 
 We refer to "Bancho" in this section as the official osu! server, [osu.ppy.sh](https://osu.ppy.sh).
 "Grandfathered mapsets" are mapsets that were ranked on Titanic before the following cutoff rules were introduced.
+"BSS" refers to the [Beatmap Submission System](https://osu.ppy.sh/community/forums/topics/835) used for submitting maps to Titanic.
+<!-- TODO: Add a wiki page for BSS -->
 
 ## Bancho-ranked map imports
 
@@ -217,3 +219,9 @@ We refer to "Bancho" in this section as the official osu! server, [osu.ppy.sh](h
 - **Any mapset already ranked on Titanic before cutoff rules were introduced is grandfathered in.**
   - This includes mapsets ranked on Bancho after 2015 that were already added to Titanic.
   - Grandfathered mapsets will remain ranked in favor of users' scores.
+
+## Map requests
+
+- **Users may not submit their own mapsets through map requests.**
+  - If a user created or hosted a mapset, it must be submitted directly through BSS instead.
+  - Map requests are intended for requesting other users' existing mapsets.
