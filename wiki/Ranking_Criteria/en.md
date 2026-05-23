@@ -211,9 +211,7 @@ We refer to "Bancho" in this section as the official osu! server, [osu.ppy.sh](h
   - This cutoff is based on the mapset's Bancho ranked date.
 
 - **For osu!taiko, osu!catch, and osu!mania, Bancho-ranked mode-specific mapsets ranked in 2018 or earlier are eligible to be added to Titanic.**
-  - This only applies to mapsets made specifically for those game modes.
   - Hybrid mapsets ranked from 2016 through 2018 are not eligible through this rule.
-  - Map requests for non-osu! mode mapsets made after 2018 are not eligible for Ranked status on Titanic.
 
 ## Grandfathered mapsets
 
