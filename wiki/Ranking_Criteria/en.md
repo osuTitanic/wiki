@@ -29,6 +29,7 @@ This criteria may change in the future due to increasing map requests and BAT me
   - Logical naming schemes like Seed -> Sprout -> Tree are okay too.
   - **Exception:** The hardest difficulty can use a custom name, like Normal -> Hard -> *Melancholy*.
 - **Don't skip difficulties.** For example, if you have Normal and Insane difficulties, you need a Hard too.
+  - **Exception:** Marathon mapsets may skip difficulties. Marathon mapsets are defined as mapsets with a drain time of at least 5 minutes.
 - **A [guest mapper](https://osu.ppy.sh/wiki/Beatmap/Guest_difficulty) can't create more difficulties than the [host](https://osu.ppy.sh/wiki/Beatmap/Beatmap_host).**
 
 ## Slider Usage
