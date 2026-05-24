@@ -203,11 +203,6 @@ We refer to "Bancho" in this section as the official osu! server, [osu.ppy.sh](h
 "BSS" refers to the [Beatmap Submission System](https://osu.ppy.sh/community/forums/topics/835) used for submitting maps to Titanic.
 <!-- TODO: Add a wiki page for BSS -->
 
-## Bancho-ranked map imports
-
-- **All osu! Bancho mapsets ranked in 2015 or earlier are eligible to be added to Titanic.**
-  - All ranked maps from Bancho from 2007 through 2015 are added on Titanic
-
 ## Map requests
 
 - **Users may not submit their own mapsets through map requests.**
