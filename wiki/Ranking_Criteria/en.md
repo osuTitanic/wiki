@@ -209,10 +209,6 @@ We refer to "Bancho" in this section as the official osu! server, [osu.ppy.sh](h
   - This sets 2015 as Titanic's Bancho-ranked map cutoff.
   - This cutoff is based on the mapset's Bancho ranked date.
 
-- **For osu!taiko, osu!catch, and osu!mania, Bancho-ranked mode-specific mapsets ranked in 2018 or earlier are eligible to be added to Titanic.**
-  - Hybrid mapsets ranked from 2016 through 2018 are not eligible through this rule.
-
-
 - **Any mapset already ranked on Titanic before cutoff rules were introduced is grandfathered in.**
   - This includes mapsets ranked on Bancho after 2015 that were already added to Titanic.
   - Grandfathered mapsets will remain ranked in favor of users' scores.
