@@ -207,7 +207,6 @@ We refer to "Bancho" in this section as the official osu! server, [osu.ppy.sh](h
 
 - **All osu! Bancho mapsets ranked in 2015 or earlier are eligible to be added to Titanic.**
   - All ranked maps from Bancho from 2007 through 2015 are added on Titanic
-  - This cutoff is based on the mapset's Bancho ranked date.
 
 - **Any mapset already ranked on Titanic before cutoff rules were introduced is grandfathered in.**
   - This includes mapsets ranked on Bancho after 2015 that were already added to Titanic.
