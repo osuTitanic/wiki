@@ -200,7 +200,6 @@ These pointers may also lead you in the right direction:
 # Official Beatmap imports
 
 We refer to "Bancho" in this section as the official osu! server, [osu.ppy.sh](https://osu.ppy.sh).
-"Grandfathered mapsets" are mapsets that were ranked on Titanic before the following cutoff rules were introduced.
 "BSS" refers to the [Beatmap Submission System](https://osu.ppy.sh/community/forums/topics/835) used for submitting maps to Titanic.
 <!-- TODO: Add a wiki page for BSS -->
 
