@@ -217,3 +217,6 @@ We refer to "Bancho" in this section as the official osu! server, [osu.ppy.sh](h
 - **Users may not submit their own mapsets through map requests.**
   - If a user created or hosted a mapset, it must be submitted directly through BSS instead.
   - Map requests are intended for requesting other users' existing mapsets.
+- **Map requests should generally fit older mapping styles.**
+  - Avoid requesting maps made in styles that only exist in modern mapping.
+  - Our goal is for them to feel authentic to 2015 and the older era of the game that Titanic emulates.
