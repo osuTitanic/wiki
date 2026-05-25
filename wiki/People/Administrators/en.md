@@ -20,7 +20,6 @@ The users who manage, moderate and improve Titanic every day.
 
 | User                                             |       Role       | Time Spent                           |
 | ------------------------------------------------ | :--------------: | ------------------------------------ |
-| [iSlodinx](https://osu.titanic.sh/u/869)         | Global Moderator | June 28th, 2025 -> August 17th, 2025 |
 | [Hatate Himekaidou](https://osu.titanic.sh/u/85) | Global Moderator | June 28th, 2025 -> March 16th, 2026  |
 
 <!--
