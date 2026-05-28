@@ -26,6 +26,7 @@ This criteria may change in the future due to increasing map requests and BAT me
   - Logical naming schemes like Seed -> Sprout -> Tree are okay too.
   - **Exception:** The hardest difficulty can use a custom name, like Normal -> Hard -> *Melancholy*.
 - **Don't skip difficulties.** For example, if you have Normal and Insane difficulties, you need a Hard too.
+  - **Exception:** Marathon mapsets may skip difficulties. Marathon mapsets are defined as mapsets with a difficulty over 5 minutes of drain time.
 - **A [guest mapper](https://osu.ppy.sh/wiki/Beatmap/Guest_difficulty) can't create more difficulties than the [host](https://osu.ppy.sh/wiki/Beatmap/Beatmap_host).**
 
 ## Slider Usage
@@ -163,10 +164,10 @@ This criteria may change in the future due to increasing map requests and BAT me
 ### osu!mania
 
 - **[Spread](#spread) rules apply to each key mode or [playstyle](https://osu.ppy.sh/wiki/Ranking_criteria/osu!mania#common-terms) separately.** For example, if you have 4K and 7K difficulties, you need two difficulty spreads.
-- **Beatmaps can only use 4–10, 12, 14, 16, or 18 keys.** Key modes over 10 keys must use [certain playstyles](https://osu.ppy.sh/wiki/Beatmapping/osu!mania_10K_plus_playstyles).
+- **Beatmaps can only use 4-8 keys.** This ensures that Mania maps are compatible with all osu! clients that implement Mania.
 - **No column can be left empty.**
 - **No more than 6 notes can be pressed at the same time in Insane or lower difficulties.**
-- **Difficulties using an [N+1 playstyle](https://osu.ppy.sh/wiki/Ranking_criteria/osu!mania#common-terms) must enable the `Use special style (N+1 style) for mania` toggle.**
+- **Difficulties using an [N+1 playstyle](https://osu.ppy.sh/wiki/Ranking_criteria/osu!mania#common-terms) must enable the `Use special style (N+1 style) for mania` toggle.** 
 
 ## Song interpretation
 
@@ -195,3 +196,20 @@ These pointers may also lead you in the right direction:
   - **Example 1:** "How does this object represent the sound it aligns with?"
   - **Example 2:** "How does this section of objects follow the general mood of this section of the song?"
 - **Consider how other people will interpret your map.** If your way of interpreting the song isn't clear, it'll feel like your map doesn't follow the song!
+
+# Official Beatmap imports
+
+We refer to "Bancho" in this section as the official osu! server, [osu.ppy.sh](https://osu.ppy.sh).
+"BSS" refers to the [Beatmap Submission System](https://osu.ppy.sh/community/forums/topics/835) used for submitting maps to Titanic.
+All Bancho-ranked maps from 2007 through 2015 have been imported into Titanic.
+
+<!-- TODO: Add a wiki page for BSS -->
+
+## Map requests
+
+- **Users may not submit their own mapsets through map requests.**
+  - If a user created or hosted a mapset, it must be submitted directly through BSS instead.
+  - Map requests are intended for requesting other users' existing mapsets.
+- **Map requests should generally fit older mapping styles.**
+  - Avoid requesting maps made in styles that only exist in modern mapping.
+  - Our goal is for them to feel authentic to 2015 and the older era of the game that Titanic emulates.
