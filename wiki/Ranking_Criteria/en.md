@@ -164,10 +164,10 @@ This criteria may change in the future due to increasing map requests and BAT me
 ### osu!mania
 
 - **[Spread](#spread) rules apply to each key mode or [playstyle](https://osu.ppy.sh/wiki/Ranking_criteria/osu!mania#common-terms) separately.** For example, if you have 4K and 7K difficulties, you need two difficulty spreads.
-- **Beatmaps can only use 4–10, 12, 14, 16, or 18 keys.** Key modes over 10 keys must use [certain playstyles](https://osu.ppy.sh/wiki/Beatmapping/osu!mania_10K_plus_playstyles).
+- **Beatmaps can only use 4-8 keys.** This ensures that Mania maps are compatible with all osu! clients that implement Mania.
 - **No column can be left empty.**
 - **No more than 6 notes can be pressed at the same time in Insane or lower difficulties.**
-- **Difficulties using an [N+1 playstyle](https://osu.ppy.sh/wiki/Ranking_criteria/osu!mania#common-terms) must enable the `Use special style (N+1 style) for mania` toggle.**
+- **Difficulties using an [N+1 playstyle](https://osu.ppy.sh/wiki/Ranking_criteria/osu!mania#common-terms) must enable the `Use special style (N+1 style) for mania` toggle.** 
 
 ## Song interpretation
 
