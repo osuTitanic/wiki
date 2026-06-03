@@ -28,7 +28,6 @@ User                                             |                     Title    
 [BlueChinchompa](https://osu.titanic.sh/u/40)    | Community / Content Manager                  |
 [Meru](https://osu.titanic.sh/u/41)              | Community Manager                            |
 [Cuddles](https://osu.titanic.sh/u/69)           | BAT Manager                                  |
-[Hatate Himekaidou](https://osu.titanic.sh/u/85) | Global Moderator                             |
 [vg185](https://osu.titanic.sh/u/568)            | Global Moderator                             |
 [Digitalfear117](https://osu.titanic.sh/u/809)   | BAT Manager / Global Moderator / Mr. Ladybug |
 [kingkurboh335](https://osu.titanic.sh/u/810)    | BAT Manager / Global Moderator               |
