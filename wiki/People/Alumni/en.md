@@ -31,3 +31,4 @@ The Alumni are a group of members who contributed to Titanic in some way, either
 | [Konoe](https://osu.titanic.sh/u/4112)           | BAT                                |
 | [Azu](https://osu.titanic.sh/u/4109)             | BAT                                |
 | [SomalianPants](https://osu.titanic.sh/u/4119)   | BAT                                |
+| [laurafied](https://osu.titanic.sh/u/3578)       | BAT                                |
