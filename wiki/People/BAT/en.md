@@ -34,7 +34,6 @@ Members of the Beatmap Approval Team are responsible primarily for managing the 
 |[SCAG]                            |                                |                             | November 11th, 2025        |
 |[Avril]                           |                                |           Filipino          | April 6th, 2026([^13])     |
 |[scug]                            |                                |                             | January 10th, 2026         |
-|[laurafied]                       |                                |        Afrikaans, Zulu      | January 11th, 2026         |
 |[Rei]                             |                                |           Japanese          | February 18th, 2026([^11]) |
 
 
@@ -93,6 +92,7 @@ Members of the Beatmap Approval Team are responsible primarily for managing the 
 |[Azu]                             |   February 21st, 2026([^11]) -> May 13th, 2026([^15])  |
 |[Konoe]                           |   February 22nd, 2026([^11]) -> May 13th, 2026([^16])  |
 |[SomalianPants]                   |   February 21st, 2026([^11]) -> May 13th, 2026([^17])  |
+|[laurafied]                       |         January 11th, 2026 -> June 10th, 2026          |
 
 
 ## History
