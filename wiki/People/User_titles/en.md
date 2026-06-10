@@ -45,7 +45,6 @@ User                                             |                     Title    
 [willow](https://osu.titanic.sh/u/1088)          | osu!taiko BAT                                |
 [Donkey Kong](https://osu.titanic.sh/u/1091)     | osu!taiko BAT                                |
 [SCAG](https://osu.titanic.sh/u/2631)            | osu! BAT                                     |
-[laurafied](https://osu.titanic.sh/u/3578)       | osu! BAT                                     |
 [Rei](https://osu.titanic.sh/u/4110)             | osu! BAT                                     |
 [Eun](https://osu.titanic.sh/u/3006)             | osu!catch BAT                                |
 
