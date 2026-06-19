@@ -36,7 +36,7 @@ Members of the Beatmap Approval Team are responsible primarily for managing the 
 |[scug]                            |                                |                             | January 10th, 2026         |
 |[laurafied]                       |                                |        Afrikaans, Zulu      | January 11th, 2026         |
 |[Rei]                             |                                |           Japanese          | February 18th, 2026([^11]) |
-|[Cloudpaw]                        |                                |                             | June 16th, 2026            |
+|[Cloudpaw]                        |                                |                             | June 16th, 2026([^18])     |
 
 
 ### Taiko team members
