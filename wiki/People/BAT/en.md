@@ -35,6 +35,7 @@ Members of the Beatmap Approval Team are responsible primarily for managing the 
 |[Avril]                           |                                |           Filipino          | April 6th, 2026([^13])     |
 |[scug]                            |                                |                             | January 10th, 2026         |
 |[Rei]                             |                                |           Japanese          | February 18th, 2026([^11]) |
+|[Cloudpaw]                        |                                |                             | June 16th, 2026([^18])     |
 
 
 ### Taiko team members
@@ -124,7 +125,7 @@ Members of the Beatmap Approval Team are responsible primarily for managing the 
 [^15]: Azu joined the osu!BAT in February 21st 2026 removed from osu!BAT in May 13th 2026 due to inactivity.
 [^16]: Konoe joined the osu!BAT and osu!catch BAT in February 22nd 2026, removed from osu!catch BAT in May 13th 2026 due to inactivity.
 [^17]: SomalianPants joined osu!BAT in February 21st 2026, removed from osu!BAT in May 13th 2026 due to inactivity.
-
+[^18]: [Cloudpaw Discord #announcements ping]
 
 [Levi]: https://osu.titanic.sh/u/2
 [Ada]: https://osu.titanic.sh/u/39
@@ -165,6 +166,7 @@ Members of the Beatmap Approval Team are responsible primarily for managing the 
 [Rei]: https://osu.titanic.sh/u/4110
 [Konoe]: https://osu.titanic.sh/u/4112
 [SomalianPants]: https://osu.titanic.sh/u/4119
+[Cloudpaw]: https://osu.titanic.sh/u/2302
 
 
 [First BAT wave]: https://discord.com/channels/1152925764262580236/1152925765566988341/1241727343983198270
@@ -174,3 +176,4 @@ Members of the Beatmap Approval Team are responsible primarily for managing the 
 [kanocchi forum announcement]: https://osu.titanic.sh/forum/20/t/472/
 [Second BAT wave]: https://discord.com/channels/1152925764262580236/1152925765566988341/1479204223798477024
 [New BAT Manager announcement]: https://discord.com/channels/1152925764262580236/1152925765566988341/1483108513029820536
+[Cloudpaw Discord #announcements ping]: https://discord.com/channels/1152925764262580236/1152925765566988341/1516579076960292886

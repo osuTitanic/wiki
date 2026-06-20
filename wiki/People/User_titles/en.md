@@ -32,7 +32,7 @@ User                                             |                     Title    
 [Digitalfear117](https://osu.titanic.sh/u/809)   | BAT Manager / Global Moderator / Mr. Ladybug |
 [kingkurboh335](https://osu.titanic.sh/u/810)    | BAT Manager / Global Moderator               |
 [Nikku](https://osu.titanic.sh/u/811)            | BAT Manager                                  |
-
+[Cloudpaw](https://osu.titanic.sh/u/2302)        | Tournament Manager                           |
 
 ## Beatmap Approval Team 
 User                                             |                     Title                    |
@@ -47,7 +47,7 @@ User                                             |                     Title    
 [SCAG](https://osu.titanic.sh/u/2631)            | osu! BAT                                     |
 [Rei](https://osu.titanic.sh/u/4110)             | osu! BAT                                     |
 [Eun](https://osu.titanic.sh/u/3006)             | osu!catch BAT                                |
-
+[Cloudpaw](https://osu.titanic.sh/u/2302)        | osu! BAT                                     |
 
 ## Contributors
 User                                             |                     Title                    |
