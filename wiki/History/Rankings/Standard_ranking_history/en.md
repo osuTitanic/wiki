@@ -61,7 +61,8 @@ These players have reached rank #1 on the ranked score leaderboard:
 - 2024-12-23 - 2025-04-04: [Koishi]
 - 2025-04-04 - 2025-07-25: [Champ]
 - 2025-07-25 - 2025-11-05: [Koishi]
-- 2025-11-05 - Today: [Champ]
+- 2025-11-05 - 2026-06-19: [Champ]
+- 2026-06-19 - Today: [Koishi]
 
 ## osu! ppv1
 
