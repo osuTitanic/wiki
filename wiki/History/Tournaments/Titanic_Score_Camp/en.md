@@ -2,7 +2,7 @@
 
 # Koishi's Titanic Score Camp
 
-**Koishi's Titanic Score Camp** (***TSC***) was an international osu! ranked score competition hosted by [KoishiTheKoishi](https://osu.titanic.sh/u/1022) and [Cloudpaw](https://osu.titanic.sh/u/2302).
+**Koishi's Titanic Score Camp** (***TSC***) was an international osu! ranked score competition hosted by [KoishiTheKoishi](https://osu.titanic.sh/u/1022) and [Cloudpaw](https://osu.titanic.sh/u/2302). Participants would compete to gain the most ranked score during a 20-day period.
 
 ## Schedule
 
