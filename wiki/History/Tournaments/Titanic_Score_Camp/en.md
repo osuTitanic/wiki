@@ -1,8 +1,8 @@
-# Koishi's Titanic Score Camp
+# Koishi's Score Camp
 
 ![TSC banner](img/tsc26-banner.png)
 
-**Koishi's Titanic Score Camp** (***TSC***) was an international osu! ranked score competition hosted by [KoishiTheKoishi](https://osu.titanic.sh/u/1022) and [Cloudpaw](https://osu.titanic.sh/u/2302). Participants competed to gain the most ranked score during a 20-day period.
+**Koishi's Score Camp** (***TSC***) was an international osu! ranked score competition hosted by [KoishiTheKoishi](https://osu.titanic.sh/u/1022) and [Cloudpaw](https://osu.titanic.sh/u/2302). Participants competed to gain the most ranked score during a 20-day period.
 
 ## Schedule
 
@@ -14,7 +14,7 @@
 
 ## Prizes
 
-Koishi's Titanic Score Camp offered a $225 USD cash prize pool.
+Koishi's Score Camp offered a $225 USD cash prize pool.
 
 | Placing | Prizes |
 | :-: | :-- |
