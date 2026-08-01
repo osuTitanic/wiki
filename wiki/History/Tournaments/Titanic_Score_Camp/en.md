@@ -1,8 +1,8 @@
-![TSC banner](img/tsc26-banner.png)
-
 # Koishi's Titanic Score Camp
 
-**Koishi's Titanic Score Camp** (***TSC***) was an international osu! ranked score competition hosted by [KoishiTheKoishi](https://osu.titanic.sh/u/1022) and [Cloudpaw](https://osu.titanic.sh/u/2302). Participants would compete to gain the most ranked score during a 20-day period.
+![TSC banner](img/tsc26-banner.png)
+
+**Koishi's Titanic Score Camp** (***TSC***) was an international osu! ranked score competition hosted by [KoishiTheKoishi](https://osu.titanic.sh/u/1022) and [Cloudpaw](https://osu.titanic.sh/u/2302). Participants competed to gain the most ranked score during a 20-day period.
 
 ## Schedule
 
@@ -31,14 +31,15 @@ The prize pool was sponsored by various community members:
 
 All participants were given a profile stamp showing their placing and ranked score gained during the event.
 
-![TSC 1st place badge](img/tsc26-1st-badge.png "TSC 1st place badge")
-![TSC 2nd place badge](img/tsc26-2nd-badge.png "TSC 2nd place badge")
-![TSC 3rd place badge](img/tsc26-3rd-badge.png "TSC 3rd place badge")
-![TSC stamp](img/tsc26-stamp.png "TSC stamp")
+![TSC 1st place badge](https://osu.titanic.sh/images/badges/tournaments/koishi-score-camp/ksc-first-place.png)
+![TSC 2nd place badge](https://osu.titanic.sh/images/badges/tournaments/koishi-score-camp/ksc-second-place.png)
+![TSC 3rd place badge](https://osu.titanic.sh/images/badges/tournaments/koishi-score-camp/ksc-third-place.png)  
+
+![TSC stamp](https://osu.titanic.sh/images/stamps/tournaments/koishi-score-camp/ksc-stamp.png "Stamp")
 
 ## Organization
 
-Sudden Death Gauntlet was run by a few community members.
+Koishi's Score Camp was run by a few community members.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -54,10 +55,10 @@ Sudden Death Gauntlet was run by a few community members.
 ## Results
 
 | Placement | Player | Score gained |
-| :-: | :-- | --: |
-| #1 | [fnight](https://osu.titanic.sh/u/3107) | 33,566,476,648 |
-| #2 | [cocoamallows](https://osu.titanic.sh/u/3627) | 25,000,000,000 |
-| #3 | [Wavewy](https://osu.titanic.sh/u/4707) | 19,151,297,237 |
+| -: | :-- | :-- |
+| 🥇 #1 | [fnight](https://osu.titanic.sh/u/3107) | 33,566,476,648 |
+| 🥈 #2 | [cocoamallows](https://osu.titanic.sh/u/3627) | 25,000,000,000 |
+| 🥉 #3 | [Wavewy](https://osu.titanic.sh/u/4707) | 19,151,297,237 |
 | #4 | [nita](https://osu.titanic.sh/u/3513) | 17,582,253,562 |
 | #5 | [RabbitAlice](https://osu.titanic.sh/u/4422) | 9,206,297,932 |
 | #6 | [thaibuy](https://osu.titanic.sh/u/3735) | 7,229,438,520 |
