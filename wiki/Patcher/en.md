@@ -31,11 +31,14 @@ Once downloaded, place the *.exe* file into your osu! installation folder and do
 
 Generally, it is recommended to download the regular "Titanic.exe" file, as it has the widest range of compatibility. However, there is an additional "fallback" version of the patcher, using .NET 2.0, which is compatible with versions before the middle of 2015 *only*. It might fix some unexpected issues, and it also works on very old operating systems (Windows 2000 and Windows XP before Service Pack 2).
 
-### Versions for "testers only"
+### Whitelisted Clients
 
+<!--
+Current image is outdated, we'll have to create a new one
 ![Example](img/testers-only.jpg)
+-->
 
 You may see a message saying:  
-**"The version of osu! you are using is made for testers only."**.
+**"The version of osu! you are using has not been whitelisted. Please download a different version of osu! from the website!"**.
 
-This simply means that the version you're trying to run has not been tested with Titanic! yet, or it's simply too new to be supported.
+This simply means that the version you're trying to run has not been tested with Titanic! yet, and thus is not whitelisted. You can still use it to chat and play in multiplayer lobbies, but score submission will be disabled. If you believe that your version should be whitelisted, please contact the developers or make a forum post about it in the [Feature Requests](https://osu.titanic.sh/forum/6) forum.

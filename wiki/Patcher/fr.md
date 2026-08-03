@@ -33,11 +33,14 @@ Il est recommandé d'utiliser la version .NET 4.0 du patcheur car, il est compat
 
 De plus, il y a une version du patcheur avec .NET 2.0 qui est compatible avec seulement les versions avant mi-2015, qui pourrait réparer des problèmes inattendus. Cela marche aussi avec des vieux systèmes d'exploitation (Windows 2000 et Windows XP avant le Pack de Service 2).
 
-### Versions pour les ”testeurs seulement”
+### Clients autorisés
 
+<!--
+Current image is outdated, we'll have to create a new one
 ![Example](img/testers-only.jpg)
+-->
 
 Vous pourrez voir un message disant:  
-**"The version of osu! you are using is made for testers only."**.
+**"The version of osu! you are using has not been whitelisted. Please download a different version of osu! from the website!"**.
 
-Cela veut simplement dire que la version que vous essayez de faire tourner n'a pas encore été testé avec Titanic!, ou, est simplement trop nouvelle pour être supporté.
+Cela veut simplement dire que la version que vous essayez de faire tourner n'a pas encore été testée avec Titanic! et qu'elle n'est donc pas autorisée. Vous pouvez tout de même l'utiliser pour discuter et jouer dans des salons multijoueurs, mais l'envoi des scores sera désactivé. Si vous pensez que votre version devrait être autorisée, veuillez contacter les développeurs ou créer un sujet à ce propos dans le forum des [Feature Requests](https://osu.titanic.sh/forum/6).
