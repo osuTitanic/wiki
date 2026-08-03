@@ -9,7 +9,6 @@ The users who manage, moderate and improve Titanic every day.
 | User                                           |                    Role                    | Added Date                                   |
 | ---------------------------------------------- | :----------------------------------------: | -------------------------------------------- |
 | [Levi](https://osu.titanic.sh/u/2)             | Titanic Lead Developer and Project Manager | Since the beginning                          |
-| [Ada](https://osu.titanic.sh/u/39)             |             Community Manager              | Since the beginning                          |
 | [BlueChinchompa](https://osu.titanic.sh/u/40)  |       Content and Community Manager        | Since the beginning                          |
 | [Meru](https://osu.titanic.sh/u/41)            |         Admin and Wiki Maintainer          | June 28th, 2025 (as GMT since the beginning) |
 | [vg185](https://osu.titanic.sh/u/568)          |              Global Moderator              | June 28th, 2025                              |
@@ -18,13 +17,9 @@ The users who manage, moderate and improve Titanic every day.
 
 ## Past Members
 
-| User                                             |       Role       | Time Spent                           |
-| ------------------------------------------------ | :--------------: | ------------------------------------ |
-| [Hatate Himekaidou](https://osu.titanic.sh/u/85) | Global Moderator | June 28th, 2025 -> March 16th, 2026  |
-
-<!--
-This will need further information if there are others
-Also should the Alumni members be included in here or in it's own section? I feel it should be it's own section that's why I'm not putting them here
--->
+| User                                             |       Role        | Time Spent                             |
+| ------------------------------------------------ | :---------------: | -------------------------------------- |
+| [Ada](https://osu.titanic.sh/u/39)               | Community Manager | Since the beginning -> July 16th, 2026 |
+| [Hatate Himekaidou](https://osu.titanic.sh/u/85) | Global Moderator  | June 28th, 2025 -> March 16th, 2026    |
 
 <!-- I used https://web.archive.org/web/20120617040838/http://osu.ppy.sh/wiki/Administrators as a base -Nikku -->

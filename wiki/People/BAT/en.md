@@ -10,91 +10,83 @@ Becoming a member of the Beatmap Approval Team requires both a decent amount of 
 
 If you're interested in applying, view [this forum post](https://osu.titanic.sh/forum/13/t/2/).
 
-
 ## Roles and responsibilities
 
 Members of the Beatmap Approval Team are responsible primarily for managing the moderation of pending beatmaps into the ranking cycle. The BAT are members to go for any modding or advice requests about mapping or gameplay related.
 
-
 ## Current members
 
-*Please note: All BAT members speak English unless otherwise noted.*
-
+_Please note: All BAT members speak English unless otherwise noted._
 
 ### Standard team members
 
-|User                              |         Specialization         | Additional Languages Spoken | Added Date                 |
-|----------------------------------|:------------------------------:|:---------------------------:|----------------------------|
-|[Digitalfear117]                  | BAT Management / Beatmap Files |                             | May 29th, 2024             |
-|[kingkurboh335]                   |         BAT Management         |           Croatian          | May 22nd, 2024([^3])       |
-|[Nikku]                           |         BAT Management         |                             | May 19th, 2024([^1])       |
-|[\[Kagamine Rin\]]                |                                |            Dutch            | August 19th, 2024          |
-|[Cuddles]                         |         BAT Management         |                             | October 20th, 2024([^12])  |
-|[Ady]                             |                                |                             | December 8th, 2025([^6])   |
-|[SCAG]                            |                                |                             | November 11th, 2025        |
-|[Avril]                           |                                |           Filipino          | April 6th, 2026([^13])     |
-|[scug]                            |                                |                             | January 10th, 2026         |
-|[Rei]                             |                                |           Japanese          | February 18th, 2026([^11]) |
-|[Cloudpaw]                        |                                |                             | June 16th, 2026([^18])     |
-
+| User             |         Specialization         | Additional Languages Spoken | Added Date                 |
+| ---------------- | :----------------------------: | :-------------------------: | -------------------------- |
+| [Digitalfear117] | BAT Management / Beatmap Files |                             | May 29th, 2024             |
+| [kingkurboh335]  |         BAT Management         |          Croatian           | May 22nd, 2024([^3])       |
+| [Nikku]          |         BAT Management         |                             | May 19th, 2024([^1])       |
+| [Rippuru]        |                                |            Dutch            | August 19th, 2024          |
+| [Cuddles]        |         BAT Management         |                             | October 20th, 2024([^12])  |
+| [SCAG]           |                                |                             | November 11th, 2025        |
+| [Avril]          |                                |          Filipino           | April 6th, 2026([^13])     |
+| [scug]           |                                |                             | January 10th, 2026         |
+| [Rei]            |                                |          Japanese           | February 18th, 2026([^11]) |
+| [Cloudpaw]       |                                |                             | June 16th, 2026([^18])     |
 
 ### Taiko team members
 
-|User                              |   Specialization    | Additional Languages Spoken | Added Date                |
-|----------------------------------|:-------------------:|:---------------------------:|---------------------------|
-|[willow]                          |                     |                             | February 5th, 2025([^10]) |
-|[Cuddles]                         |   BAT Management    |                             | May 16th, 2025            |
-|[Donkey Kong]                     |                     |                             | June 21th, 2025           |
-
+| User          |   Specialization    | Additional Languages Spoken | Added Date                |
+| ------------- | :-----------------: | :-------------------------: | ------------------------- |
+| [willow]      |                     |                             | February 5th, 2025([^10]) |
+| [Cuddles]     |   BAT Management    |                             | May 16th, 2025            |
+| [Donkey Kong] |                     |                             | June 21th, 2025           |
+| [Ura]         |                     |                             | June 22nd, 2026           |
+| [gsxr4o0]     | Taikosu hitsounding |        Some Japanese        | July 29th, 2026           |
 
 ### Catch the Beat team members
 
-|User                              | Specialization | Additional Languages Spoken | Added Date                 |
-|----------------------------------|:--------------:|:---------------------------:|----------------------------|
-|[Digitalfear117]                  |  .osu mapping  |                             | May 29th, 2024             |
-|[Nikku]                           | BAT Management |                             | May 19th, 2024([^1])       |
-|[Dark]                            |                |                             | February 23rd, 2026([^11]) |
-|[Eun]                             |                |                             | March 1st, 2026([^11])     |
-
+| User             | Specialization | Additional Languages Spoken | Added Date             |
+| ---------------- | :------------: | :-------------------------: | ---------------------- |
+| [Digitalfear117] |  .osu mapping  |                             | May 29th, 2024         |
+| [Nikku]          | BAT Management |                             | May 19th, 2024([^1])   |
+| [Eun]            |                |                             | March 1st, 2026([^11]) |
 
 ### Mania team members
 
-|User                              | Specialization | Additional Languages Spoken | Added Date      |
-|----------------------------------|:--------------:|:---------------------------:|-----------------|
-
+| User | Specialization | Additional Languages Spoken | Added Date |
+| ---- | :------------: | :-------------------------: | ---------- |
 
 ## Past members
 
-|User                              |                       Time in BAT                      |
-|----------------------------------|:------------------------------------------------------:|
-|[Levi]                            |          Since the beginning -> May 19th, 2024         |
-|[Spare]                           |          December 17th, 2023 -> May 15th, 2024         |
-|[Champ]                           |          December 17th, 2023 -> May 15th, 2024         |
-|[Ada]                             |       Since the beginning -> September 7th, 2024       |
-|[w81056398]                       |          May 19th, 2024 -> November 29th, 2024         |
-|[Syarika]                         |     October 6th, 2024 -> December 10th, 2024           |
-|[seksman sigma balls]             |           March 8th, 2025 -> March 16th, 2025          |
-|[Cheri]                           |          October 20th, 2024 -> March 6th, 2025         |
-|[broilertm]                       |         November 28th, 2024 -> April 21st, 2025        |
-|[Ady]                             |     May 19th, 2024([^1]) -> April 29th, 2025([^6])     |
-|[StreeX]                          |          May 19th, 2024([^1]) -> May 8th, 2025         |
-|[kanocchi]                        |        July 15th, 2024([^5]) -> June 17th, 2025        |
-|[BlueChinchompa]                  |         Since the beginning -> June 17th, 2025         |
-|[fluxie31]                        |      May 19th, 2024([^1]) -> June 22nd, 2025([^7])     |
-|[Genorocks100]                    |           April 9th, 2025 -> July 18th, 2025           |
-|[Toothy]                          |     May 28th, 2025([^2]) -> August 28th, 2025([^8])    |
-|[Dark]                            |          March 18th, 2025 -> August 28th, 2025         |
-|[Yurizono Seia]                   |           May 26th, 2025 -> August 22nd, 2025          |
-|[Oposh]                           |       May 19th, 2024([^1]) -> November 22nd, 2025      |
-|[Sonnyc]                          |     August 3rd, 2025 -> February 7th, 2026             |
-|[arutama]                         |     July 7th, 2025([^4]) -> February 8th, 2026([^9])   |
-|[gsxr4o0]                         |          July 21th, 2025 -> April 16th, 2026           |
-|[pimpG]                           |          June 16th, 2025 -> May 13th, 2026([^14])      |              
-|[Azu]                             |   February 21st, 2026([^11]) -> May 13th, 2026([^15])  |
-|[Konoe]                           |   February 22nd, 2026([^11]) -> May 13th, 2026([^16])  |
-|[SomalianPants]                   |   February 21st, 2026([^11]) -> May 13th, 2026([^17])  |
-|[laurafied]                       |         January 11th, 2026 -> June 10th, 2026          |
-
+| User                  |                                     Time in BAT                                      |
+| --------------------- | :----------------------------------------------------------------------------------: |
+| [Levi]                |                        Since the beginning -> May 19th, 2024                         |
+| [Spare]               |                        December 17th, 2023 -> May 15th, 2024                         |
+| [Champ]               |                        December 17th, 2023 -> May 15th, 2024                         |
+| [Ada]                 |                      Since the beginning -> September 7th, 2024                      |
+| [w81056398]           |                        May 19th, 2024 -> November 29th, 2024                         |
+| [Syarika]             |                       October 6th, 2024 -> December 10th, 2024                       |
+| [seksman sigma balls] |                         March 8th, 2025 -> March 16th, 2025                          |
+| [Cheri]               |                        October 20th, 2024 -> March 6th, 2025                         |
+| [broilertm]           |                       November 28th, 2024 -> April 21st, 2025                        |
+| [Ady]                 |        May 19th, 2024([^1]) -> April 29th, 2025([^6]); December 8th, 2025 ->         |
+| [StreeX]              |                        May 19th, 2024([^1]) -> May 8th, 2025                         |
+| [kanocchi]            |                       July 15th, 2024([^5]) -> June 17th, 2025                       |
+| [BlueChinchompa]      |                        Since the beginning -> June 17th, 2025                        |
+| [fluxie31]            |                    May 19th, 2024([^1]) -> June 22nd, 2025([^7])                     |
+| [Genorocks100]        |                          April 9th, 2025 -> July 18th, 2025                          |
+| [Toothy]              |                   May 28th, 2025([^2]) -> August 28th, 2025([^8])                    |
+| [Dark]                | March 18th, 2025 -> August 28th, 2025; February 23rd, 2026([^11]) -> July 19th, 2026 |
+| [Yurizono Seia]       |                         May 26th, 2025 -> August 22nd, 2025                          |
+| [Oposh]               |                     May 19th, 2024([^1]) -> November 22nd, 2025                      |
+| [Sonnyc]              |                        August 3rd, 2025 -> February 7th, 2026                        |
+| [arutama]             |                   July 7th, 2025([^4]) -> February 8th, 2026([^9])                   |
+| [gsxr4o0]             |                         July 21th, 2025 -> April 16th, 2026                          |
+| [pimpG]               |                       June 16th, 2025 -> May 13th, 2026([^14])                       |
+| [Azu]                 |                 February 21st, 2026([^11]) -> May 13th, 2026([^15])                  |
+| [Konoe]               |                 February 22nd, 2026([^11]) -> May 13th, 2026([^16])                  |
+| [SomalianPants]       |                 February 21st, 2026([^11]) -> May 13th, 2026([^17])                  |
+| [laurafied]           |                        January 11th, 2026 -> June 10th, 2026                         |
 
 ## History
 
@@ -105,27 +97,45 @@ Members of the Beatmap Approval Team are responsible primarily for managing the 
 [Konoe] was removed from osu!BAT and osu!catch BAT due to inactivity.
 [SomalianPants] was removed from osu!BAT due to inactivity.
 
-
 ## Notes
 
 [^1]: [First BAT wave]
+
 [^2]: [Toothy Discord #announce ping]
+
 [^3]: [kingkurboh335 Discord #announce ping]
+
 [^4]: [arutama Discord #announce ping]
+
 [^5]: [kanocchi forum announcement]
+
 [^6]: Ady joined the osu!BAT in May 19th 2024, resigned in August 13th 2024, rejoined osu!BAT in October 22nd 2024, resigned in April 29th 2025 and rejoined osu!BAT in December 8th 2025
+
 [^7]: fluxie31 joined the osu!BAT in May 19th 2024, resigned in June 6th 2024, rejoined osu!BAT in May 11th 2025, resigned in June 22nd 2025.
+
 [^8]: Toothy joined the osu!BAT in May 20th 2024, resigned in January 3rd 2025, rejoined osu!BAT in May 28th 2025, resigned in August 28th 2025.
+
 [^9]: arutama joined the osu!BAT in June 14th 2024, resigned in April 22nd 2025, rejoined osu!BAT in July 7th 2025, resigned in February 8th 2026.
+
 [^10]: willow joined the osu!mania BAT in March 4th 2025, resigned in November 17th 2025.
+
 [^11]: [Second BAT wave]
+
 [^12]: [New BAT Manager announcement]
+
 [^13]: Avril joined the osu!BAT in February 23rd, 2025, resigned in January 6th, 2026, rejoined osu!BAT in April 6th, 2026.
+
 [^14]: pimpG joined the osu!BAT in June 16th 2025, removed from osu!BAT in May 13th 2026 due to inactivity.
+
 [^15]: Azu joined the osu!BAT in February 21st 2026 removed from osu!BAT in May 13th 2026 due to inactivity.
+
 [^16]: Konoe joined the osu!BAT and osu!catch BAT in February 22nd 2026, removed from osu!catch BAT in May 13th 2026 due to inactivity.
+
 [^17]: SomalianPants joined osu!BAT in February 21st 2026, removed from osu!BAT in May 13th 2026 due to inactivity.
+
 [^18]: [Cloudpaw Discord #announcements ping]
+
+<!-- Links to people -->
 
 [Levi]: https://osu.titanic.sh/u/2
 [Ada]: https://osu.titanic.sh/u/39
@@ -142,7 +152,7 @@ Members of the Beatmap Approval Team are responsible primarily for managing the 
 [kingkurboh335]: https://osu.titanic.sh/u/810
 [Nikku]: https://osu.titanic.sh/u/811
 [Dark]: https://osu.titanic.sh/u/812
-[\[Kagamine Rin\]]: https://osu.titanic.sh/u/813
+[Rippuru]: https://osu.titanic.sh/u/813
 [Ady]: https://osu.titanic.sh/u/821
 [Oposh]: https://osu.titanic.sh/u/829
 [Toothy]: https://osu.titanic.sh/u/857
@@ -167,7 +177,9 @@ Members of the Beatmap Approval Team are responsible primarily for managing the 
 [Konoe]: https://osu.titanic.sh/u/4112
 [SomalianPants]: https://osu.titanic.sh/u/4119
 [Cloudpaw]: https://osu.titanic.sh/u/2302
+[Ura]: https://osu.titanic.sh/u/4458
 
+<!-- Links to events -->
 
 [First BAT wave]: https://discord.com/channels/1152925764262580236/1152925765566988341/1241727343983198270
 [Toothy Discord #announce ping]: https://discord.com/channels/1152925764262580236/1152925765566988341/1242130083049766922
