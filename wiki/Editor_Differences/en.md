@@ -371,7 +371,7 @@ You can tell within the .osu which sampleset override has been applied to a timi
 
 `500,-100,4,2,1,75,0`
 
-- the `1` in the 5th section here denotes that this section is using custom sampleset 1. This is the version version of the game that lets you use up to 2, if the number is higher it will read as if there is no override, so no cheating! osu! won't override any of these when saving at least.
+- the `1` in the 5th section here denotes that this section is using custom sampleset 1. This is the version of the game that lets you use up to 2, if the number is higher it will read as if there is no override, so no cheating! osu! won't override any of these when saving at least.
 
 ### b699 support for mode specific maps
 
@@ -380,7 +380,6 @@ Now when you upload a map it should correctly identify the mode. I can't test th
 ### b699 kiai time
 
 Kiai time can now be added! This adds some visual flare to the game during the timing sections that utilize it. For some reason it also has gameplay modifications as well, such as making some objects worth more points in taiko, changes the HD fade distance to be lower. In addition, there are glow effects for notes. In standard this shows up under notes, and in CtB the glow effect is where the fruit will land.
-
 
 ### b699 rotate by...
 
@@ -406,7 +405,7 @@ According to documentation, 3 changes were made with v8.
 
 ### mm additions
 
-Constant sliderticks-per-beat are now generated
+Constant slider ticks-per-beat are now generated
 
 ### HP drain near breaks
 
@@ -428,14 +427,14 @@ This is a change that peppy has flip flopped on many times. In modern stable thi
 
 ## b20121003shine.test to b20121203 (v10)
 
-Compared to previous .osu firmat updates, this brings many new features to the format!
+Compared to previous .osu format updates, this brings many new features to the format!
 
 ### b20121003shine.test mania editor
 ![b20121003shine.test mania editor](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Editor_Differences/img/b20121003_mania_editor.png)
 
-This is the very first version that supports mania! It has some differences compared to modern. This veraion of the game uses a very basic column grid with normal hitobjects. This gives a great view of how mania maps are acrually stored in the .osu file. The playfield is divided into how many columns the map has (based on circle size). Sliders are used for LN's, the modern "Hold Note" button does not exist yet.
+This is the very first version that supports mania! It has some differences compared to modern. This version of the game uses a very basic column grid with normal hitobjects. This gives a great view of how mania maps are actually stored in the .osu file. The playfield is divided into how many columns the map has (based on circle size). Sliders are used for LN's, the modern "Hold Note" button does not exist yet.
 
-Mania was so experimental during the time of this format, that maps were not allowed to be ranked during this .osu version on Bancho. All Mania maps that weremade during this time were updated alongside the editor improving.
+Mania was so experimental during the time of this format, that maps were not allowed to be ranked during this .osu version on Bancho. All Mania maps that were made during this time were updated alongside the editor improving.
 
 ### b20121003shine.test sampleset additions
 ![b20121003shine.test SamepleSet Additions](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Editor_Differences/img/b20121003_sampleset_additions.png)
@@ -445,7 +444,7 @@ This greatly expands hitsounding, you can add the soft, normal, drum versions of
 ### b20121003shine.test romanized artist and song fields 
 ![b20121003shine.test Song Setup](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Editor_Differences/img/b20121003_song_setup.png)
 
-Finally you use the original language for the artist and song name and English as well. This is an important feature on Bancho, if the artist's name is written in another language on Bancho, you must use both fields as per the ranking criteria. Take the Japanese artist monet, her name is always written in English, so only the normal field is needed. This is not an enforced rule of titanic though.
+Finally you can use the original language for the artist and song name and English as well. This is an important feature on Bancho, if the artist's name is written in another language on Bancho, you must use both fields as per the ranking criteria. Take the Japanese artist monet, her name is always written in English, so only the normal field is needed. This is not an enforced rule of titanic though.
 
 ### b20121003shine.test BeatmapID and BeatmapsetID saved directly to the .osu file. 
 
@@ -453,7 +452,7 @@ This is important, as tools such as Mapset Verifier check to make sure these tag
 
 ### b20121003shine.test fixed each bezier sliders part being 1/50 second too short
 
-This is the actual reason for peppy incrementing the format to v10. This is the second time a .osu incrememnt happened due to issues with Bezier sliders lol
+This is the actual reason for peppy incrementing the format to v10. This is the second time a .osu increment happened due to issues with Bezier sliders lol
 
 ### b20121003shine.test osz2
 
@@ -461,7 +460,7 @@ This is the very first release version of osu! that uploads maps as osz2's. The 
 
 ## b20121223 (v11)
 
-This is the only build we have that creates .osu v11's. 
+This is the only build we have that creates .osu v11's. This version adds support for hold notes as a replacement for sliders in Mania. This is also the first version of the Mania editor the resembles the one we have today. 
 
 ### "only" perfect curve sliders
 
@@ -473,21 +472,33 @@ At some point it got switched to the way we all know today. Honestly I'm not eve
 
 2 point sliders are always saved linear, 3 points as perfect curves, 4 points or more as bezier. This is how osu! reads the maps that claim every slider is a perfect curve, so may as well just save it like this so it's easier to parse the .osu file.
 
-## b20130303 to mid 2014 (v12)
+## b20130303 to b20140323.3 (v12)
 
-I have no idea what this added
+This version adds support for custom sample files and per-note volume.
 
-## mid 2014 to mid 2015 (v13)
+## b20140616.test to b20150101cuttingedge (v13)
 
 This build adds the ability to add decimal difficulty values to maps! At the time this got added you could only do .5 increments, but this would later be changed to support .1 increments. However, do note that decimal difficulty settings are against the ranking criteria on titanic! Do not upload maps with AR 9.5 for example.
 
-## mid 2015 to now (v14)
+## b20150203.7 to now (v14)
 
 This versions adds per node sampleset changes to sliders (or juice streams) for Catch the Beat. I'm a CtB player and even I don't even know what this means, and I have no idea if anyone uses this to be honest.
 
 ## Late 2018 to now (v128)
 
-This is the .osu version for all maps made on lazer. Inside lazer you can export maps in compatiblity mode (osz) for editing on stable, or you can save in the lazer format (olz) for editing on lazer. As of the time of me writing this (7-25-2024), there has never been a 100% pure .osu v128 ranked, as all lazer maps ranked on Bancho, or Titanic have been updated on stable during the ranking process, bringing the .osu version back to v14. However, using my modded client you can actually upload the map as a pure .osu v128, so if you are feeling adventurous you could be the very first one to do so!
+This is the .osu version for all maps made on lazer. There are essentially two .osu v128 types that exist. There is the .osu v128 made inside of lazer that has not been exported for compatibility (.osz), and has not been uploaded through BSS (Beatmap Submission Services). This version of .osu v128 has access to new a new slider curve type, and multi-curve sliders! These maps also have decimal timing support, and decimal object positions. Versions after converting for compatibility are still called .osu v128 but will load into most clients will no issues.
+
+### b2019.1213.0 multiple segment slider paths
+![b2019.1213.0 slider with multiple curve type segments](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Editor_Differences/img/b2019.1213.0_multiple_segment_slider_paths.png)
+
+This allows each slider control point to be that of a new slider curve type. This will affect the arc created after the point. When the map is exported for compatibility, or is uploaded through BSS, this will automatically be converted to an identically shaped Bezier slider.
+
+### b2023.1130.0 B-Spline curve type
+![b2019.1213.0 slider with multiple curve type segments](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Editor_Differences/img/b2023.1130.0_B-Spline_curve_type.avif)
+
+This is the slider curve type used when dragging to draw sliders in lazer. This essentially works by "generalizing" your drawing in Bezier curves without having a very large amount of slider curve points. When the map is exported for compatibility, or is uploaded through BSS, this will automatically be converted to an identically shaped Bezier slider.
+
+Inside lazer you can export maps in compatibility mode (osz) for editing on stable, or you can save in the lazer format (olz) for editing on lazer. As of the time of me writing this (7-25-2024), there has never been a 100% pure .osu v128 ranked, as all lazer maps ranked on Bancho, or Titanic have been updated on stable during the ranking process, bringing the .osu version back to v14. However, using my modded client you can actually upload the map as a pure .osu v128, so if you are feeling adventurous you could be the very first one to do so!
 
 ## b20130303 Digital Client++
 
