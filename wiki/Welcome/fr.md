@@ -14,7 +14,7 @@ Si vous êtes entièrement nouveau à osu!, il est recommandé que vous jouez le
 
 Qu'est-ce qu'une 'beatmap' demandez-vous? Comme n'importe quelle autre jeux, il y a des niveaux, ou quelque fois, des maps. Justement, nous avons des ”Beatmaps” dans osu!, qui sont exactement ce à quoi vous pensez, ce sont des cartes (maps) avec du rythme (Beat). Trouvez des 'beatmaps' pour des musiques est simple! Vous pouvez facilement trouver toutes les 'beatmaps' soumises [ici](https://osu.titanic.sh/beatmapsets). Vous pouvez trouver toutes les choses en rapport avec votre recherche: nom de la musique, nom de l'artiste, nom de l'album, et même le genre! Pour cette exemple, nous allons essayer de trouver ”Coldplay - Don't Let It Break Your Heart”
 
-![Using beatmap search](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Welcome/img/step_1.jpg)
+![Using beatmap search](img/step_1.jpg)
 
 ### Étape 2 - Téléchargez-la!
 
@@ -22,7 +22,7 @@ Si il y a une version 'beatmap' approuvée de la musique que vous cherchez, vous
 
 Dès que vous êtes sur la page de la 'beatmap', vous devriez voir un bouton "Download Beatmap" géant (vous devez être connecter d'abord, sinon, un bouton jaune vous dirigera vers la page de connection/création de compte)
 
-![Downloading a beatmap](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Welcome/img/step_2.jpg)
+![Downloading a beatmap](img/step_2.jpg)
 
 **Note:** Il importe peu là où vous sauvegardez le fichier, tant que vous pouvez le retrouver après avoir fini de le télécharger. Aussi, vous pouvez choisir de l'ouvrir directement, mais cela forcera votre client osu! a s'allumer, si il ne l'est pas déjà.
 
@@ -30,13 +30,13 @@ Dès que vous êtes sur la page de la 'beatmap', vous devriez voir un bouton "Do
 
 Dès que votre téléchargement est terminé, vous pourrez simplement ouvrir la 'beatmap' en fichier **.osz**. Si pour certaines raisons cela ne vous convient pas, vous pouvez prendre et amener le fichier dans la fenêtre osu!
 
-![Opening the file](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Welcome/img/step_3.jpg)
+![Opening the file](img/step_3.jpg)
 
 ### Étape 4 - Jouez pour vous amusez ou rivalisez avec les autres joueurs!
 
 Dès que le fichier est ouvert, osu! devrait s'ouvrir. Pour commencer à rechercher vos 'beatmaps' dans votre librairie, cliquez juste sur le géant logo osu! au milieu, appuyez sur ”Jouer”, ”Solo”. Votre nouvelle 'beatmap' (ainsi que le tutoriel) devrait être listé ici. Choisissez la difficulté que vous voulez jouer et vous êtes partis pour devenir un joueur de osu!! Vous pouvez aussi jouer en ”Multi” au lieu de ”Solo” ou d'autres joueurs seront en train de participer dans des matchs en direct. Vous pouvez aussi faire partie du plaisir.
 
-![Playing in osu!](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Welcome/img/step_4.jpg)
+![Playing in osu!](img/step_4.jpg)
 
 Et voilà! Maintenant vous êtes prêt pour jouer à osu! et trouver vos musiques favorites. Mais si vous avez des problèmes, vous pouvez demander de l'aide dans les forums ou en jeu (appuyez sur F8 pour ouvrir la fenêtre de chat, sous #osu).
 
@@ -78,7 +78,7 @@ Les médailles sont des petits badges sur le profil de quelqu'un qui indique que
 
 Connaître les bases du fonctionnement de la Console de Chat est important pour ceux qui sont intéressés de se faire de nouveaux amis dans notre environnement amical. C'est aussi important de comprendre comment l'utiliser dans un cas ou quelqu'un vous envoie un message (peu commun à part si vous êtes quelqu'un de connu), vous donne des conseils, ou vous demande de l'aide. Il y a un bouton qui ouvre le chat en bas à droite de l'écran, mais c'est plus rapide d'appuyer sur la touche F8 de votre clavier. Vous allez avoir quelque fenêtre, comme ”#osu!# ”#annonce”, ”#userlog”, ou si vous êtes en conversation avec quelqu'un, vous verrez leur nom dans une fenêtre de chat séparée. Naviguez dans les fenêtres est extrêmement simple, appuyez juste sur la fenêtre que vous voulez, écrivez votre message, et puis appuyez sur ”ENTRÉE” pour envoyer le message dans la fenêtre ouverte. Mais quand même, ne spammez pas (envoyez continuellement des messages court dans le chat) car, faire cela rendra votre compte automatiquement muet pendant quelque minutes et votre ”dur labeur” sera enlever du chat. Vous pouvez appuyer sur ”F9” pour ouvrir la liste des utilisateurs (appelez ”Extended Chat Console”) qui sont connectés au serveur, et vous pouvez appliquer des filtres pour centrer votre recherche.
 
-![Extended Chat Console](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Welcome/img/chat.jpg)
+![Extended Chat Console](img/chat.jpg)
 
 Ceci sont les bases, ne soyez pas timides pour demander de l'aide dans le chat en jeu, ou dans les forums, aussi, le osu!wiki est là pour vous aidez un peu plus à comprendre comment le jeu marche.
 

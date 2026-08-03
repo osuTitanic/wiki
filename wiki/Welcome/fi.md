@@ -14,7 +14,7 @@ Jos olet täysin uusi osu!-pelissä, suosittelemme aloittamaan opastuksella ([Pe
 
 Mikä on beatmap, saatat kysyä? Kuten kaikissa peleissä, osu!-pelissäkin on tasoja tai joskus karttoja. Osu! pelissä niitä kutsutaan "Beatmapeiksi", jotka ovat täsmälleen sitä, mitä ajattelet – karttoja, joilla on rytmi. Karttojen löytäminen on helppoa! Voit löytää kaikki lähetetyt beatmapit [tästä](https://osu.titanic.sh/beatmapsets). Voit etsiä mitä tahansa: kappaleen nimi, artistin nimi, albumin nimi, jopa genren mukaan! Tämän esimerkin vuoksi yritämme etsiä "Coldplay - Don't Let It Break Your Heart".
 
-![Beatmapin etsiminen](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Welcome/img/step_1.jpg)
+![Beatmapin etsiminen](img/step_1.jpg)
 
 ### Vaihe 2 - Lataa se!
 
@@ -22,7 +22,7 @@ Jos etsimällesi kappaleelle on olemassa hyväksytty beatmap-versio, löydät se
 
 Kun olet mennyt beatmapin sivulle, sinun pitäisi nähdä suuri "Lataa Beatmap" -painike (sinun täytyy olla kirjautunut sisään, muuten keltainen painike ohjaa sinut kirjautumissivulle).
 
-![Beatmapin lataaminen](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Welcome/img/step_2.jpg)
+![Beatmapin lataaminen](img/step_2.jpg)
 
 **Huomautus:** Ei ole väliä, minne tallennat tiedoston, kunhan pystyt löytämään sen, kun lataus on valmis. Voit myös valita avata sen suoraan, mutta se käynnistää osu!-pelin, jos se ei ole vielä käynnissä.
 
@@ -30,13 +30,13 @@ Kun olet mennyt beatmapin sivulle, sinun pitäisi nähdä suuri "Lataa Beatmap" 
 
 Kun lataus on valmis, voit yksinkertaisesti avata **.osz**-tiedoston. Jos jostain syystä se ei toimi, voit yrittää pitää tiedostoa ja vetää sen osu!-ikkunaan.
 
-![Tiedoston avaaminen](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Welcome/img/step_3.jpg)
+![Tiedoston avaaminen](img/step_3.jpg)
 
 ### Vaihe 4 - Pelaa hauskanpidon vuoksi tai kilpaile muiden pelaajien kanssa!
 
 Kun tiedosto on avattu, osu! käynnistyy. Jos haluat selata karttakirjastoasi, klikkaa keskellä olevaa suurta osu!-ympyrää, valitse "Play" ja sitten "Solo". Uusi karttasi (opastuksen kanssa) pitäisi olla siellä. Valitse haluamasi vaikeustaso ja olet valmis tulemaan osu!-pelaajaksi! Voit myös valita "Multi"-tilan sen sijaan, että pelaat "Solo"-tilassa, jossa pelaajat kilpailevat reaaliaikaisissa peleissä. Voit myös olla osa hauskanpitoa.
 
-![Pelaaminen osu!:ssa](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Welcome/img/step_4.jpg)
+![Pelaaminen osu!:ssa](img/step_4.jpg)
 
 Nyt olet valmis pelaamaan osu!:ta ja etsimään lempikappaleitasi. Jos kohtaat ongelmia, kysy rohkeasti apua foorumeilta tai pelin aikana (paina F8 avataksesi keskusteluikkunan, #osu alla).
 
@@ -78,7 +78,7 @@ Saavutukset ovat profiilissasi olevia medaleja, jotka osoittavat, että joku on 
 
 Keskustelukonsolin käyttö on tärkeää niille, jotka haluavat tutustua uusiin ystäviin ystävällisessä ympäristössämme. Se on myös tärkeää, jos joku lähettää sinulle viestin (vaikka tämä ei yleensä tapahdu, ellei olet tunnettu), antaen neuvoja tai kysyen apua. Näet keskusteluikkunan oikeassa alakulmassa olevan painikkeen, mutta paljon nopeampaa on painaa F8 näppäimistöltä. Siellä on useita välilehtiä, kuten "#osu!", "#announce", "#userlog" tai jos keskustelussa on joku, heidän nimensä näkyy omana välilehtenään. Välilehtien välillä liikkuminen on erittäin helppoa, napsauta vain haluamaasi välilehteä, kirjoita viestisi ja paina "ENTER", niin se menee auki olevalle välilehdelle. Älä kuitenkaan spämmi (lähetä lyhyitä viestejä jatkuvasti), koska se johtaa automaattiseen mykistämiseen ja viestisi poistamiseen. Voit myös painaa "F9", jotta näet palvelimeen yhdistetyt käyttäjät ja voit suodattaa hakutuloksia.
 
-![Laajennettu keskustelukonsoli](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Welcome/img/chat.jpg)
+![Laajennettu keskustelukonsoli](img/chat.jpg)
 
 Näiden perusteiden avulla voit aloittaa! Älä epäröi kysyä apua pelissä tai foorumeilla, osu! wiki on täällä auttamassa pelin ymmärtämisessä.
 

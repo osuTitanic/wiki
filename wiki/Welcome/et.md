@@ -14,7 +14,7 @@ Kui oled osu!-s täiesti uus, soovitame kõigepealt läbi mängida õpetuse ([Pe
 
 Mis on “beatmap”? Nagu igas mängus, on ka siin “tasemed” või “kaardid”. osu!-s kutsume neid **beatmap’ideks** – täpselt see, mida arvadki: rütmiga kaardid. Beatmap’e on lihtne leida! Kõik esitatud beatmap’id on leitavad [siin](https://osu.titanic.sh/beatmapsets). Otsingusse võid kirjutada ükskõik mida: loo nime, esitaja, albumi või isegi žanri. Näiteks otsime “Coldplay – Don’t Let It Break Your Heart”.
 
-![Using beatmap search](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Welcome/img/step_1.jpg)
+![Using beatmap search](img/step_1.jpg)
 
 ### Samm 2 – Laadi see alla!
 
@@ -22,7 +22,7 @@ Kui sinu loo jaoks on olemas **approved**-versioon, leiad selle tulemustest. Är
 
 Beatmapi lehel peaks olema hiiglaslik **“Download Beatmap”** nupp (pead olema sisse logitud; vastasel juhul suunab sind kollane nupp sisselogimisele).
 
-![Downloading a beatmap](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Welcome/img/step_2.jpg)
+![Downloading a beatmap](img/step_2.jpg)
 
 **Märkus:** Pole vahet, kuhu faili salvestad – peaasi, et selle pärast üles leiad. Võid valida ka “Open”, kuid see käivitab osu! automaatselt, kui see pole juba avatud.
 
@@ -30,13 +30,13 @@ Beatmapi lehel peaks olema hiiglaslik **“Download Beatmap”** nupp (pead olem
 
 Kui allalaadimine on lõppenud, saad beatmapi **.osz**-faili lihtsalt avada. Kui see mingil põhjusel ei sobi, lohista ja aseta fail osu! aknasse.
 
-![Opening the file](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Welcome/img/step_3.jpg)
+![Opening the file](img/step_3.jpg)
 
 ### Samm 4 – Mängi lõbu pärast või võistle teistega!
 
 Pärast avamist käivitub osu!. Oma beatmappide sirvimiseks klõpsa keskel suurt osu!-ringi, vali **“Play”**, **“Solo”**. Sinu uus beatmap (koos õpetusega) peaks seal nimekirjas olema. Vali raskusaste ja oledki teel, et saada osu!-mängijaks! Soovi korral võid mängida ka **“Multi”** režiimis, kus mängijad võistlevad reaalajas. Lõbust ei puudu!
 
-![Playing in osu!](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Welcome/img/step_4.jpg)
+![Playing in osu!](img/step_4.jpg)
 
 Nii lihtne ongi! Oled valmis osu!-d mängima ja oma lemmiklugusid leidma. Kui tekib küsimusi, küsi julgelt abi foorumis või mängus (vajuta vestlusaknaks F8, kanal **#osu**).
 
@@ -78,7 +78,7 @@ Saavutused on väiksed märgid profiilil, mis näitavad erilise eesmärgi täitm
 
 Chat-konsooli põhitõdede teadmine on kasulik kõigile, kes tahavad meie sõbralikus keskkonnas uusi tuttavaid leida. See on abiks ka siis, kui keegi sulle kirjutab (tõsi, juhtub harva, kui sa just kuulus pole) – ehk annab nõu või küsib abi. Vestluse avamiseks on ekraani paremas alanurgas nupp, kuid palju kiirem on vajutada **F8**. Näed mitut vahekaarti, nt **#osu!**, **#announce**, **#userlog**, ja kui kellegagi privaatselt räägid, on seal ka tema nimi. Vahetamine on lihtne: klõpsa vahekaarti, kirjuta sõnum ja vajuta **ENTER**. Palun **ära spämmi**; vastasel juhul vaigistatakse su konto mõneks minutiks ja sõnumid eemaldatakse. Vajutades **F9** avad kasutajate nimekirja (Extended Chat Console), kus saad otsingut filtritega täpsustada.
 
-![Extended Chat Console](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Welcome/img/chat.jpg)
+![Extended Chat Console](img/chat.jpg)
 
 Need on põhitõed. Ära karda abi küsida – mängus või foorumis. Ka **osu!wiki** aitab mängu paremini mõista.
 
