@@ -32,6 +32,7 @@ These players have reached rank #1 on the ranked score leaderboard:
 
 - [Ada]
 - [Champ]
+- [cocoamallows]
 - [Koishi]
 - [Natasha] (profile wiped)
 - [zverhome]
@@ -62,15 +63,16 @@ These players have reached rank #1 on the ranked score leaderboard:
 - 2025-04-04 - 2025-07-25: [Champ]
 - 2025-07-25 - 2025-11-05: [Koishi]
 - 2025-11-05 - 2026-06-19: [Champ]
-- 2026-06-19 - Today: [Koishi]
+- 2026-06-19 - 2026-07-14: [Koishi]
+- 2026-07-14 - Today: [cocoamallows]
 
 ## osu! ppv1
 
 These players have reached rank #1 on the ppv1 leaderboard:
 
-- [bingle]
 - [BlueChinchompa]
 - [Champ]
+- [cocoamallows]
 - [Curapika]
 - [haru urara]
 - [ibce]
@@ -110,7 +112,7 @@ These players have reached rank #1 on the ppv1 leaderboard:
 - 2025-11-22 - 2025-11-28: [Champ]
 - 2025-11-28 - 2026-02-07: [Cuddles]
 - 2026-02-07 - 2026-02-08: [puffle osu]
-- 2026-02-08 - 2026-02-08: [Cuddles], [bingle], [puffle osu]
+- 2026-02-08 - 2026-02-08: [Cuddles], [cocoamallows], [puffle osu]
 - 2026-02-08 - Today: [puffle osu]
 
 [Natasha]: https://osu.titanic.sh/u/5
@@ -128,4 +130,4 @@ These players have reached rank #1 on the ppv1 leaderboard:
 [Curapika]: https://osu.titanic.sh/u/2304
 [haru urara]: https://osu.titanic.sh/u/3297
 [puffle osu]: https://osu.titanic.sh/u/3847
-[bingle]: https://osu.titanic.sh/u/3627
+[cocoamallows]: https://osu.titanic.sh/u/3627
