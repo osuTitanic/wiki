@@ -58,35 +58,35 @@ _Please note: All BAT members speak English unless otherwise noted._
 
 ## Past members
 
-| User                  |                                     Time in BAT                                      |
-| --------------------- | :----------------------------------------------------------------------------------: |
-| [Levi]                |                        Since the beginning -> May 19th, 2024                         |
-| [Spare]               |                        December 17th, 2023 -> May 15th, 2024                         |
-| [Champ]               |                        December 17th, 2023 -> May 15th, 2024                         |
-| [Ada]                 |                      Since the beginning -> September 7th, 2024                      |
-| [w81056398]           |                        May 19th, 2024 -> November 29th, 2024                         |
-| [Syarika]             |                       October 6th, 2024 -> December 10th, 2024                       |
-| [seksman sigma balls] |                         March 8th, 2025 -> March 16th, 2025                          |
-| [Cheri]               |                        October 20th, 2024 -> March 6th, 2025                         |
-| [broilertm]           |                       November 28th, 2024 -> April 21st, 2025                        |
-| [Ady]                 |        May 19th, 2024([^1]) -> April 29th, 2025([^6]); December 8th, 2025 ->         |
-| [StreeX]              |                        May 19th, 2024([^1]) -> May 8th, 2025                         |
-| [kanocchi]            |                       July 15th, 2024([^5]) -> June 17th, 2025                       |
-| [BlueChinchompa]      |                        Since the beginning -> June 17th, 2025                        |
-| [fluxie31]            |                    May 19th, 2024([^1]) -> June 22nd, 2025([^7])                     |
-| [Genorocks100]        |                          April 9th, 2025 -> July 18th, 2025                          |
-| [Toothy]              |                   May 28th, 2025([^2]) -> August 28th, 2025([^8])                    |
-| [Dark]                | March 18th, 2025 -> August 28th, 2025; February 23rd, 2026([^11]) -> July 19th, 2026 |
-| [Yurizono Seia]       |                         May 26th, 2025 -> August 22nd, 2025                          |
-| [Oposh]               |                     May 19th, 2024([^1]) -> November 22nd, 2025                      |
-| [Sonnyc]              |                        August 3rd, 2025 -> February 7th, 2026                        |
-| [arutama]             |                   July 7th, 2025([^4]) -> February 8th, 2026([^9])                   |
-| [gsxr4o0]             |                         July 21th, 2025 -> April 16th, 2026                          |
-| [pimpG]               |                       June 16th, 2025 -> May 13th, 2026([^14])                       |
-| [Azu]                 |                 February 21st, 2026([^11]) -> May 13th, 2026([^15])                  |
-| [Konoe]               |                 February 22nd, 2026([^11]) -> May 13th, 2026([^16])                  |
-| [SomalianPants]       |                 February 21st, 2026([^11]) -> May 13th, 2026([^17])                  |
-| [laurafied]           |                        January 11th, 2026 -> June 10th, 2026                         |
+| User                  |                                      Time in BAT                                      |
+| --------------------- | :-----------------------------------------------------------------------------------: |
+| [Levi]                |                         Since the beginning -> May 19th, 2024                         |
+| [Spare]               |                         December 17th, 2023 -> May 15th, 2024                         |
+| [Champ]               |                         December 17th, 2023 -> May 15th, 2024                         |
+| [Ada]                 |                      Since the beginning -> September 7th, 2024                       |
+| [w81056398]           |                         May 19th, 2024 -> November 29th, 2024                         |
+| [Syarika]             |                       October 6th, 2024 -> December 10th, 2024                        |
+| [seksman sigma balls] |                          March 8th, 2025 -> March 16th, 2025                          |
+| [Cheri]               |                         October 20th, 2024 -> March 6th, 2025                         |
+| [broilertm]           |                        November 28th, 2024 -> April 21st, 2025                        |
+| [Ady]                 | May 19th, 2024([^1]) -> April 29th, 2025([^6]); December 8th, 2025 -> June 21st, 2026 |
+| [StreeX]              |                         May 19th, 2024([^1]) -> May 8th, 2025                         |
+| [kanocchi]            |                       July 15th, 2024([^5]) -> June 17th, 2025                        |
+| [BlueChinchompa]      |                        Since the beginning -> June 17th, 2025                         |
+| [fluxie31]            |                     May 19th, 2024([^1]) -> June 22nd, 2025([^7])                     |
+| [Genorocks100]        |                          April 9th, 2025 -> July 18th, 2025                           |
+| [Toothy]              |                    May 28th, 2025([^2]) -> August 28th, 2025([^8])                    |
+| [Dark]                | March 18th, 2025 -> August 28th, 2025; February 23rd, 2026([^11]) -> July 19th, 2026  |
+| [Yurizono Seia]       |                          May 26th, 2025 -> August 22nd, 2025                          |
+| [Oposh]               |                      May 19th, 2024([^1]) -> November 22nd, 2025                      |
+| [Sonnyc]              |                        August 3rd, 2025 -> February 7th, 2026                         |
+| [arutama]             |                   July 7th, 2025([^4]) -> February 8th, 2026([^9])                    |
+| [gsxr4o0]             |                          July 21th, 2025 -> April 16th, 2026                          |
+| [pimpG]               |                       June 16th, 2025 -> May 13th, 2026([^14])                        |
+| [Azu]                 |                  February 21st, 2026([^11]) -> May 13th, 2026([^15])                  |
+| [Konoe]               |                  February 22nd, 2026([^11]) -> May 13th, 2026([^16])                  |
+| [SomalianPants]       |                  February 21st, 2026([^11]) -> May 13th, 2026([^17])                  |
+| [laurafied]           |                         January 11th, 2026 -> June 10th, 2026                         |
 
 ## History
 
@@ -109,7 +109,8 @@ _Please note: All BAT members speak English unless otherwise noted._
 
 [^5]: [kanocchi forum announcement]
 
-[^6]: Ady joined the osu!BAT in May 19th 2024, resigned in August 13th 2024, rejoined osu!BAT in October 22nd 2024, resigned in April 29th 2025 and rejoined osu!BAT in December 8th 2025
+<!-- Holy shit man, this is impossible to keep track of -->
+[^6]: Ady joined the osu!BAT in May 19th, 2024, resigned in August 13th, 2024, rejoined the osu!BAT in October 22nd, 2024, resigned in April 29th, 2025, rejoined the osu!BAT in December 8th, 2025, and left the osu!BAT on June 21st, 2026.
 
 [^7]: fluxie31 joined the osu!BAT in May 19th 2024, resigned in June 6th 2024, rejoined osu!BAT in May 11th 2025, resigned in June 22nd 2025.
 
