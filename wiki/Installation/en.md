@@ -4,7 +4,7 @@
 
 To begin playing on Titanic!, head over to the [Download page](https://osu.titanic.sh/download/) and pick any client from as old as 2007 up to 2015.
 
-![BuildDownload](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Installation/img/BuildDownload.png)
+![BuildDownload](img/BuildDownload.png)
 
 After it finishes installing, extract the folder and double-click `osu!.exe`.
 
@@ -14,11 +14,11 @@ There is a chance that Windows Defender may block it since the game is *unsigned
 
 To register an account you can go to the [registration page](https://osu.titanic.sh/account/register) by clicking on "I'm New!" (**Remember you are only allowed to have *ONE* account EVER!**)
 
-![NewUser](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Installation/img/NewUser.png)
+![NewUser](img/NewUser.png)
 
 After you create your account you will be prompted to verify your email:
 
-![Verification](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Installation/img/Verification.png)
+![Verification](img/Verification.png)
 
 ## Linux Installation
 
@@ -65,7 +65,7 @@ Once you have osu! stable up and running with the `osu-wine` command, you can pr
 
 You can download any patched osu! version from the [downloads page](https://osu.titanic.sh/download/).
 
-![BuildDownloadSmall](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Installation/img/BuildDownloadSmall.png)
+![BuildDownloadSmall](img/BuildDownloadSmall.png)
 
 ### Install Titanic through Lutris
 
@@ -74,9 +74,9 @@ Open Lutris and let it load fully for first startup.
 Then click the plus icon on top left -> select "*Add locally installed game*".  
 Give it a proper name and such, and set the runner to *Wine*.
 
-![LutrisAddLocalGame](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Installation/img/LutrisAddLocalGame.png)
+![LutrisAddLocalGame](img/LutrisAddLocalGame.png)
 
-![LutrisGameInfo](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Installation/img/LutrisGameInfo.png)
+![LutrisGameInfo](img/LutrisGameInfo.png)
 
 
 **In Game options:**
@@ -85,30 +85,30 @@ Set the executable to the osu.exe inside of the zip you extracted.
 Set working directory to the osu! folder of the zip you extracted.  
 Set the wine prefix to `~/.local/share/wineprefixes/osu-wineprefix`.
 
-![LutrisWineprefix](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Installation/img/LutrisWineprefix.png)
+![LutrisWineprefix](img/LutrisWineprefix.png)
 
-![LutrisGameOptions](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Installation/img/LutrisGameOptions.png)
+![LutrisGameOptions](img/LutrisGameOptions.png)
 
 
 **In Runner options:**
 
 Set `~/.local/share/osuconfig/yawl-winello` as the Wine version:  
-![LutrisWineVersion](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Installation/img/LutrisWineVersion.png)
+![LutrisWineVersion](img/LutrisWineVersion.png)
 
 Turn off DXVK and VKD3D:  
-![LutrisGraphicsSection](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Installation/img/LutrisGraphicsSection.png)
+![LutrisGraphicsSection](img/LutrisGraphicsSection.png)
 
 Make sure ESync and FSync are enabled.  
 Additionally, disable AMD FSR, BattlEye Anti-Cheat and Easy Anti-Cheat.  
-![LutrisEsyncFsync](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Installation/img/LutrisEsyncFsync.png)
+![LutrisEsyncFsync](img/LutrisEsyncFsync.png)
 
 **In System options:**
 
 Turn on "Advanced" mode then switch "Disable desktop effects" on:  
-![LutrisDisableDesktopEffects](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Installation/img/LutrisDisableDesktopEffects.png)
+![LutrisDisableDesktopEffects](img/LutrisDisableDesktopEffects.png)
 
 Enable Feral Gamemode:  
-![LutrisFeralGamemode](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Installation/img/LutrisFeralGamemode.png)
+![LutrisFeralGamemode](img/LutrisFeralGamemode.png)
 
 
 Scroll down until you see Environment Variables.  
@@ -117,7 +117,7 @@ On the left side put WINE_BLOCK_GET_VERSION.
 On the right side put 1.
 
 This is what it should look like:  
-![LutrisEnvironment](https://raw.githubusercontent.com/osuTitanic/wiki/refs/heads/main/wiki/Installation/img/LutrisEnvironment.png)
+![LutrisEnvironment](img/LutrisEnvironment.png)
 
 
 Now from here you can launch osu! and enjoy!
