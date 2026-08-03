@@ -498,7 +498,7 @@ This allows each slider control point to be that of a new slider curve type. Thi
 
 This is the slider curve type used when dragging to draw sliders in lazer. This essentially works by "generalizing" your drawing in Bezier curves without having a very large amount of slider curve points. When the map is exported for compatibility, or is uploaded through BSS, this will automatically be converted to an identically shaped Bezier slider.
 
-Inside lazer you can export maps in compatibility mode (osz) for editing on stable, or you can save in the lazer format (olz) for editing on lazer. As of the time of me writing this (7-25-2024), there has never been a 100% pure .osu v128 ranked, as all lazer maps ranked on Bancho, or Titanic have been updated on stable during the ranking process, bringing the .osu version back to v14. However, using my modded client you can actually upload the map as a pure .osu v128, so if you are feeling adventurous you could be the very first one to do so!
+My modded client can load lazer .osu can load lazer formatted .osu v128 beatmaps and will convert them in a similar manner to how lazer does in it's compatibility mode.
 
 ## b20130303 Digital Client++
 
