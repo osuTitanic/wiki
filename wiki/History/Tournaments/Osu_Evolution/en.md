@@ -395,9 +395,12 @@ Matches from Swiss 1 to Swiss 2 link to Titanic multiplayer rooms, while later m
 
 ### Qualifiers
 
-- Teams scheduled one lobby during the Qualifiers period and played all 11 maps in order from NM1 through LG1.
-- A technical problem could cause a replay of the affected map after the regular playthrough.
-- Teams that did not complete a Qualifiers lobby were eliminated. The 16 highest-rated teams advanced to the Swiss stage, from which eight teams proceeded to the double-elimination bracket.
+- Each team has to schedule their match during the Qualifier period.
+- Teams must play all 11 maps in mappool order, beginning with **NM1** and ending with **LG1**.
+- If a technical issue affects a map, the referee may permit the team to replay that map after completing the regular playthrough.
+- Any team that fails to complete a Qualifiers lobby is eliminated.
+- The 16 highest-rated teams advance to the Swiss stage.
+- The eight highest-performing teams from the Swiss stage advance to the double-elimination bracket.
 
 ### Bracket matches
 
