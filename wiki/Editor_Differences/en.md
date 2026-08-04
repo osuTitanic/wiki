@@ -498,7 +498,7 @@ This allows each slider control point to be that of a new slider curve type. Thi
 
 This is the slider curve type used when dragging to draw sliders in lazer. This essentially works by "generalizing" your drawing in Bezier curves without having a very large amount of slider curve points. When the map is exported for compatibility, or is uploaded through BSS, this will automatically be converted to an identically shaped Bezier slider.
 
-My modded client can load lazer .osu can load lazer formatted .osu v128 beatmaps and will convert them in a similar manner to how lazer does in it's compatibility mode.
+[b20130303 Digital Client++](https://osu.titanic.sh/forum/23/t/560/) can load lazer formatted .osu v128 beatmaps and will convert them in a similar manner to how lazer does in its compatibility mode.
 
 ## b20130303 Digital Client++
 
