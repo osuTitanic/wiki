@@ -10,7 +10,7 @@ The tournament was built around the idea of _evolution_: each stage used maps fr
 
 ## Links
 
-- [Forum Post (archived)](https://web.archive.org/web/20250605155416/https://osu.ppy.sh/community/forums/topics/2084455?n=1)
+- [Forum Post (archived)](https://web.archive.org/web/20250605155416/https://osu.ppy.sh/community/forums/topics/2084455)
 - [Rules](https://docs.google.com/document/d/1hmnkXghNxwpUJiDZq0WdAyyKOiJjK6IEjKlEaewOGBE/edit)
 - [Main Sheet](https://docs.google.com/spreadsheets/d/1zmnjY6hHg1IRIa4_0X9OIFogLCsu_feEoeLz8k4MfGc/edit)
 - [Statistics Sheet](https://docs.google.com/spreadsheets/d/14YnK_tBtOobLhNlmlQcfcO0be5EiWW1jJ8cuAgS-tSw/edit)
