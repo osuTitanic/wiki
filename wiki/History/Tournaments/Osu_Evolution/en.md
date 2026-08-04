@@ -303,7 +303,7 @@ Played on [osu! stable](https://osu.ppy.sh/home/download).
 
 ## Match results
 
-Qualifier lobbies were full-pool playthroughs rather than head-to-head matches, so the head-to-head record begins with Swiss 1. Matches through Swiss 2 link to Titanic multiplayer rooms, while later matches link to their osu! multiplayer rooms.
+Matches from Swiss 1 to Swiss 2 link to Titanic multiplayer rooms, while later matches link to their osu! Bancho multiplayer rooms.
 
 ### Swiss 1
 
