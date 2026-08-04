@@ -388,7 +388,7 @@ Matches from Swiss 1 to Swiss 2 link to Titanic multiplayer rooms, while later m
 ### Teams
 
 - Teams had two or three members and selected two to play each map. Free agents could join a team or be assigned one after registration.
-- Each player had to remain between ranks 80,000 and 400,000 at the end of registrations.
+- Players had to be between rank #80,000 to #400,000 at the end of registrations.
 - Players could be screened for falling outside the rank range, having a tournament ban, suspected manual deranking, or an otherwise suspicious profile.
 
 ### Qualifiers
