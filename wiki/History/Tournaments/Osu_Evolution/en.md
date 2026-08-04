@@ -104,7 +104,7 @@ Qualifiers, Swiss 1, and Swiss 2 were played on Titanic. The target map eras cou
 
 ## Statistics
 
-The statistics sheet ranks team performances by _z-sum_ and individual performances by _match cost_. Raw scores should not be compared across stages, particularly because the tournament switched from [ScoreV1 to ScoreV2](https://osu.ppy.sh/wiki/en/Gameplay/Score) for the Quarterfinals.
+The [statistics sheet](https://docs.google.com/spreadsheets/d/14YnK_tBtOobLhNlmlQcfcO0be5EiWW1jJ8cuAgS-tSw/edit) ranks team performances by _z-sum_ and individual performances by _match cost_. Raw scores should not be compared across stages, particularly because the tournament switched from [ScoreV1 to ScoreV2](https://osu.ppy.sh/wiki/en/Gameplay/Score) for the Quarterfinals.
 
 | Stage         | Leading team                  | Z-sum | Average accuracy | Leading player | Match cost | Average accuracy |
 | ------------- | ----------------------------- | ----: | ---------------: | -------------- | ---------: | ---------------: |
