@@ -95,12 +95,12 @@ Qualifiers, Swiss 1, and Swiss 2 were played on Titanic. The target map eras cou
 
 ## Podium
 
-|  Place | Team                              | Roster                                 |
-| -----: | --------------------------------- | -------------------------------------- |
-| 1st 🥇 | **Gosling appreciation club**     | [Har_ka], [cant tap], [Qbaa]           |
-| 2nd 🥈 | **Sparkling Suisei**              | [aSparkle], [Sparkle], [Kagura Suzuki] |
-| 3rd 🥉 | **Unlimited Bacon, but No Bacon** | [Colon], [Maiji], [notaimingxd]        |
-| 4th 🏅 | **i cant hold Newton**            | [Typchen], [sparky_123], [hieuchan]    |
+|  Place | Team                              | Roster                                 |                                 Cosmetic                                 |
+| -----: | --------------------------------- | -------------------------------------- | :----------------------------------------------------------------------: |
+| 1st 🥇 | **Gosling appreciation club**     | [Har_ka], [cant tap], [Qbaa]           | [Badge](https://osu.titanic.sh/images/badges/tournaments/evo/1st@8x.png) |
+| 2nd 🥈 | **Sparkling Suisei**              | [aSparkle], [Sparkle], [Kagura Suzuki] | [Badge](https://osu.titanic.sh/images/badges/tournaments/evo/2nd@8x.png) |
+| 3rd 🥉 | **Unlimited Bacon, but No Bacon** | [Colon], [Maiji], [notaimingxd]        | [Badge](https://osu.titanic.sh/images/badges/tournaments/evo/3rd@8x.png) |
+| 4th 🏅 | **i cant hold Newton**            | [Typchen], [sparky_123], [hieuchan]    |                                    -                                     |
 
 ## Statistics
 
