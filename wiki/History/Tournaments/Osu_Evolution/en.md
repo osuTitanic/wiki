@@ -404,18 +404,43 @@ Matches from Swiss 1 to Swiss 2 link to Titanic multiplayer rooms, while later m
 
 ### Bracket matches
 
-- Teams could arrange a different match time within the relevant stage week.
-- A team unable to assemble two players within 10 minutes of the scheduled time forfeited. If neither team appeared, both were eliminated.
-- Warmups were not allowed. Captains rolled at the start: the roll winner protected first and chose either pick order or ban order, while the loser protected second and chose the remaining order.
-- Bans followed ABBA order. Consecutive picks or bans from one mod category were forbidden except for NoMod, and three consecutive picks from one category were always forbidden.
-- Teams had 90 seconds to choose a map and two minutes to ready up. A missed pick timer resulted in a random pick. Each team could take one three-minute break per match.
-- When both teams reached match point, the Tiebreaker was played. It allowed any valid Freemod combination or two NoMod players.
+#### Scheduling and attendance
+
+- Each match is assigned a default time.
+- Teams may agree to reschedule the match to another time within the relevant stage week.
+- A team must have at least two players present within 10 minutes of the scheduled match time.
+- A team that fails to meet this requirement forfeits the match.
+- If neither team meets the attendance requirement, both teams are eliminated.
+
+#### Match procedure
+
+- Warmups are not allowed.
+- Once both captains are in the lobby, they must use `!roll`.
+- The roll _winner_ protects first and chooses either the pick or ban order.
+- The roll _loser_ protects second and receives the remaining order.
+- Bans use the **ABBA*** format.
+- Teams may not pick or ban the same mod category twice in a row, except NoMod.
+- Three consecutive picks from the same mod category are never allowed.
+- Teams have 90 seconds to select a map. If time expires, the referee selects one at random.
+- Teams have two minutes to ready after a map is selected.
+- Each team may request one three-minute break per match before the current timer expires.
+
+#### Tiebreaker
+
+- If both teams reach match point, the Tiebreaker must be played.
+- Each player may use any valid Freemod option or combination permitted by the tournament.
+- A team may alternatively field two players using NoMod.
 
 ### Mods
 
-- NoFail was forced on every map.
-- On Freemod picks, the two players on a team had to represent two different categories: EZ/EZHD, HD, or HR/HDHR. EZ received an additional 1.8x score multiplier.
-- Legendary picks could override the standard rules according to the stage-specific conditions listed above.
+- NoFail is enforced for every player on every map.
+- On a Freemod pick, a team's two players must select mods from two different categories:
+    1. **EZ or EZHD**
+    2. **HD**
+    3. **HR or HDHR**
+- Scores set with EZ or EZHD receive an additional **1.8x multiplier**.
+- Legendary picks may use rules that differ from the standard mod and match rules.
+- Any special conditions for a Legendary pick are defined in the map's stage-specific comments.
 
 <!-- Organizers -->
 
