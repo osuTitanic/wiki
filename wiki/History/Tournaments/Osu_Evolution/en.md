@@ -28,7 +28,7 @@ The tournament was built around the idea of _evolution_: each stage used maps fr
 | Finals        | 2022-2023 | Stable       | ScoreV2 | Best of 13, 2 bans, 1 protect |
 | Grand Finals  | 2024-2025 | Stable       | ScoreV2 | Best of 13, 2 bans, 1 protect |
 
-Qualifiers, Swiss 1, and Swiss 2 were played on Titanic. The target map eras could be relaxed slightly when needed for a better pool, and [osu!lazer](https://osu.ppy.sh/wiki/en/Help_centre/Upgrading_to_lazer) was removed from the later stages at the players' request. The top 16 teams from Qualifiers advanced to the Swiss stage, after which the top eight proceeded to the double-elimination bracket. Although the Grand Finals were originally scheduled to end on October 5th, Gosling appreciation club forced a bracket reset and won the deciding match one week later.
+Qualifiers, Swiss 1, and Swiss 2 were played on Titanic. The target map eras were relaxed slightly as needed for a better pool, and [osu!lazer](https://osu.ppy.sh/wiki/en/Help_centre/Upgrading_to_lazer) was removed from the later stages at the players' request. The top 16 teams from Qualifiers advanced to the Swiss stage, after which the top eight proceeded to the double-elimination bracket. Although the Grand Finals were originally scheduled to end on October 5th, _Gosling appreciation club_ forced a bracket reset and won the deciding match one week later.
 
 ## Schedule
 
