@@ -1,6 +1,6 @@
-![Title Banner](img/banner.png)
-
 # osu!evolution tournament
+
+![Title Banner](img/banner.png)
 
 **osu!evolution tournament** was an osu!standard 2v2 team tournament hosted by [Sanyek KD] and [Snapy]. It was the first tournament held on Titanic, running from August 8th to October 12th, 2025. The event was open to players ranked between 80,000 and 400,000 without a rank buffer.
 
