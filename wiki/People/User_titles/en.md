@@ -32,7 +32,6 @@ These titles are only visible in the forums.
 | [Cuddles](https://osu.titanic.sh/u/69)         |                 BAT Manager                  |
 | [vg185](https://osu.titanic.sh/u/568)          |               Global Moderator               |
 | [Digitalfear117](https://osu.titanic.sh/u/809) | BAT Manager / Global Moderator / Mr. Ladybug |
-| [kingkurboh335](https://osu.titanic.sh/u/810)  |        BAT Manager / Global Moderator        |
 | [Nikku](https://osu.titanic.sh/u/811)          |                 BAT Manager                  |
 | [Cloudpaw](https://osu.titanic.sh/u/2302)      |              Tournament Manager              |
 
