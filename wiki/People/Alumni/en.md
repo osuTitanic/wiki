@@ -13,7 +13,6 @@ The Alumni are a group of members who contributed to Titanic in some way, either
 | [fluxie31](https://osu.titanic.sh/u/517)         | BAT                                |
 | [Avril](https://osu.titanic.sh/u/593)            | BAT                                |
 | [w81056398](https://osu.titanic.sh/u/645)        | BAT                                |
-| [kingkurboh335](https://osu.titanic.sh/u/810)    | BAT Manager & GMT                  |
 | [Dark](https://osu.titanic.sh/u/812)             | BAT                                |
 | [Ady](https://osu.titanic.sh/u/821)              | BAT                                |
 | [Oposh](https://osu.titanic.sh/u/829)            | BAT                                |
