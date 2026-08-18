@@ -13,7 +13,6 @@ The users who manage, moderate and improve Titanic every day.
 | [Meru](https://osu.titanic.sh/u/41)            |         Admin and Wiki Maintainer          | June 28th, 2025 (as GMT since the beginning) |
 | [vg185](https://osu.titanic.sh/u/568)          |              Global Moderator              | June 28th, 2025                              |
 | [Digitalfear117](https://osu.titanic.sh/u/809) |    Global Moderator and Wiki Maintainer    | June 28th, 2025                              |
-| [kingkurboh335](https://osu.titanic.sh/u/810)  |              Global Moderator              | March 25th, 2026                             |
 
 ## Past Members
 
@@ -21,5 +20,6 @@ The users who manage, moderate and improve Titanic every day.
 | ------------------------------------------------ | :---------------: | -------------------------------------- |
 | [Ada](https://osu.titanic.sh/u/39)               | Community Manager | Since the beginning -> July 16th, 2026 |
 | [Hatate Himekaidou](https://osu.titanic.sh/u/85) | Global Moderator  | June 28th, 2025 -> March 16th, 2026    |
+| [kingkurboh335](https://osu.titanic.sh/u/810)    | Global Moderator  | March 25th, 2026                       |
 
 <!-- I used https://web.archive.org/web/20120617040838/http://osu.ppy.sh/wiki/Administrators as a base -Nikku -->

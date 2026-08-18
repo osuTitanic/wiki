@@ -23,7 +23,6 @@ _Please note: All BAT members speak English unless otherwise noted._
 | User             |         Specialization         | Additional Languages Spoken | Added Date                 |
 | ---------------- | :----------------------------: | :-------------------------: | -------------------------- |
 | [Digitalfear117] | BAT Management / Beatmap Files |                             | May 29th, 2024             |
-| [kingkurboh335]  |         BAT Management         |          Croatian           | May 22nd, 2024([^3])       |
 | [Nikku]          |         BAT Management         |                             | May 19th, 2024([^1])       |
 | [Rippuru]        |                                |            Dutch            | August 19th, 2024          |
 | [Cuddles]        |         BAT Management         |                             | October 20th, 2024([^12])  |
@@ -87,6 +86,7 @@ _Please note: All BAT members speak English unless otherwise noted._
 | [Konoe]               |                  February 22nd, 2026([^11]) -> May 13th, 2026([^16])                  |
 | [SomalianPants]       |                  February 21st, 2026([^11]) -> May 13th, 2026([^17])                  |
 | [laurafied]           |                         January 11th, 2026 -> June 10th, 2026                         |
+| [kingkurboh335]       |                       May 22nd, 2024([^3]) -> August 18th, 2026                       |
 
 ## History
 
