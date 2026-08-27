@@ -6,6 +6,7 @@ These players have reached #1 on the Catch ppv2 leaderboard:
 - [Hatate Himekaidou]
 - [Libegon]
 - [Meru]
+- [Mike Stoklasa]
 - [qwerty1234]
 - [zverhome]
 
@@ -20,7 +21,8 @@ These players have reached #1 on the Catch ppv2 leaderboard:
 - 2023-12-18 - 2024-01-09: [Libegon]
 - 2024-01-09 - 2024-01-09: [Hatate Himekaidou]
 - 2024-01-09 - 2025-09-02: [Libegon]
-- 2025-09-02 - Today: [qwerty1234]
+- 2025-09-02 - 2026-08-24: [qwerty1234]
+- 2026-08-24 - Today: [Mike Stoklasa]
 
 [db2k]: https://osu.titanic.sh/u/10
 [Meru]: https://osu.titanic.sh/u/41
@@ -28,3 +30,4 @@ These players have reached #1 on the Catch ppv2 leaderboard:
 [Hatate Himekaidou]: https://osu.titanic.sh/u/85
 [Libegon]: https://osu.titanic.sh/u/151
 [qwerty1234]: https://osu.titanic.sh/u/1056
+[Mike Stoklasa]: https://osu.titanic.sh/u/4885
