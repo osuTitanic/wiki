@@ -9,7 +9,7 @@ A list containing all of the user titles players have in Titanic.
 These titles are only visible in the forums.
 
 |   Forum title    | Total post count |
-| :--------------: | :--------------: |
+|:----------------:|:----------------:|
 |  Rhythm Rookie   |       0–4        |
 |  Tempo Trainee   |       5–14       |
 |  Whistle Blower  |      15–29       |
@@ -24,7 +24,7 @@ These titles are only visible in the forums.
 ## Staff
 
 | User                                           |                    Title                     |
-| ---------------------------------------------- | :------------------------------------------: |
+|------------------------------------------------|:--------------------------------------------:|
 | [Levi](https://osu.titanic.sh/u/2)             |           Project Lead / Developer           |
 | [Ada](https://osu.titanic.sh/u/39)             |              Community Manager               |
 | [BlueChinchompa](https://osu.titanic.sh/u/40)  |         Community / Content Manager          |
@@ -32,12 +32,12 @@ These titles are only visible in the forums.
 | [vg185](https://osu.titanic.sh/u/568)          |               Global Moderator               |
 | [Digitalfear117](https://osu.titanic.sh/u/809) | BAT Manager / Global Moderator / Mr. Ladybug |
 | [Nikku](https://osu.titanic.sh/u/811)          |                 BAT Manager                  |
-| [Cloudpaw](https://osu.titanic.sh/u/2302)      |              Tournament Manager              |
+| [Cloudpaw](https://osu.titanic.sh/u/2302)      |        osu! BAT / Tournament Manager         |
 
 ## Beatmap Approval Team
 
 | User                                           |          Title           |
-| ---------------------------------------------- | :----------------------: |
+|------------------------------------------------|:------------------------:|
 | [Avril](https://osu.titanic.sh/u/593)          |         osu! BAT         |
 | [scug](https://osu.titanic.sh/u/636)           |         osu! BAT         |
 | [Dark](https://osu.titanic.sh/u/812)           |      osu!catch BAT       |
@@ -52,7 +52,7 @@ These titles are only visible in the forums.
 ## Contributors
 
 | User                                     |    Title    |
-| ---------------------------------------- | :---------: |
+|------------------------------------------|:-----------:|
 | [Oreeeee](https://osu.titanic.sh/u/1053) | Contributor |
 | [Riley](https://osu.titanic.sh/u/2464)   | Contributor |
 | [Cl8n](https://osu.titanic.sh/u/3004)    | Contributor |
@@ -60,7 +60,7 @@ These titles are only visible in the forums.
 ## Other private servers
 
 | User                                           |     Title      |
-| ---------------------------------------------- | :------------: |
+|------------------------------------------------|:--------------:|
 | [Furball](https://osu.titanic.sh/u/2283)       | oldsu! creator |
 | [marshallracer](https://osu.titanic.sh/u/2371) |  oldsu! staff  |
 | [jiniux](https://osu.titanic.sh/u/2398)        |  oldsu! staff  |
@@ -68,24 +68,18 @@ These titles are only visible in the forums.
 ## Tournaments
 
 | User                                 |     Title     |
-| ------------------------------------ | :-----------: |
+|--------------------------------------|:-------------:|
 | [SKD](https://osu.titanic.sh/u/2441) | osu!evo staff |
 
 ## Players
 
 | User                                       |     Title     |
-| ------------------------------------------ | :-----------: |
-| [arutama](https://osu.titanic.sh/u/905)    | Completionist |
-| [Koishi](https://osu.titanic.sh/u/1022)    | Completionist |
+|--------------------------------------------|:-------------:|
 | [Patchouli](https://osu.titanic.sh/u/1885) | Perfectionist |
-
-<!--    probably should not have the two named Completionist as they have not yet completed all Titanic maps    -->
-<!-- unless another title is going to be used for that and these are for the people actively completing Titanic -->
 
 ## Other
 
-| User                                           |                    Title                     |
-| ---------------------------------------------- | :------------------------------------------: |
-| [BanchoBot](https://osu.titanic.sh/u/1)        |                  w00t p00t                   |
-| [Natasha](https://osu.titanic.sh/u/5)          |                #1 osu! hacker                |
-| [Digitalfear117](https://osu.titanic.sh/u/809) | BAT Manager / Global Moderator / Mr. Ladybug |
+| User                                    |     Title      |
+|-----------------------------------------|:--------------:|
+| [BanchoBot](https://osu.titanic.sh/u/1) |   w00t p00t    |
+| [Natasha](https://osu.titanic.sh/u/5)   | #1 osu! hacker |
