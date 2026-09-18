@@ -28,7 +28,6 @@ These titles are only visible in the forums.
 | [Levi](https://osu.titanic.sh/u/2)             |           Project Lead / Developer           |
 | [Ada](https://osu.titanic.sh/u/39)             |              Community Manager               |
 | [BlueChinchompa](https://osu.titanic.sh/u/40)  |         Community / Content Manager          |
-| [Meru](https://osu.titanic.sh/u/41)            |              Community Manager               |
 | [Cuddles](https://osu.titanic.sh/u/69)         |                 BAT Manager                  |
 | [vg185](https://osu.titanic.sh/u/568)          |               Global Moderator               |
 | [Digitalfear117](https://osu.titanic.sh/u/809) | BAT Manager / Global Moderator / Mr. Ladybug |
@@ -44,7 +43,6 @@ These titles are only visible in the forums.
 | [Dark](https://osu.titanic.sh/u/812)           |      osu!catch BAT       |
 | [[Kagamine Rin]](https://osu.titanic.sh/u/813) | osu! BAT / osu!taiko BAT |
 | [Ady](https://osu.titanic.sh/u/821)            |         osu! BAT         |
-| [willow](https://osu.titanic.sh/u/1088)        |      osu!taiko BAT       |
 | [Donkey Kong](https://osu.titanic.sh/u/1091)   |      osu!taiko BAT       |
 | [SCAG](https://osu.titanic.sh/u/2631)          |         osu! BAT         |
 | [Rei](https://osu.titanic.sh/u/4110)           |         osu! BAT         |
