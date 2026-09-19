@@ -150,7 +150,6 @@ _Please note: All BAT members speak English unless otherwise noted._
 [Toothy]: https://osu.titanic.sh/u/857
 [arutama]: https://osu.titanic.sh/u/905
 [kanocchi]: https://osu.titanic.sh/u/943
-[broilertm]: https://osu.titanic.sh/u/989
 [willow]: https://osu.titanic.sh/u/1088
 [Donkey Kong]: https://osu.titanic.sh/u/1091
 [Syarika]: https://osu.titanic.sh/u/1730
