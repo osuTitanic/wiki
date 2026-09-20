@@ -3,7 +3,7 @@
 These players have reached #1 on the Catch ppv2 leaderboard:
 
 - [db2k]
-- [Hatate Himekaidou]
+- [DeletedUser85]
 - [Libegon]
 - [Meru]
 - [Mike Stoklasa]
@@ -17,9 +17,9 @@ These players have reached #1 on the Catch ppv2 leaderboard:
 - 2023-10-06 - 2023-10-15: [zverhome]
 - 2023-10-15 - 2023-12-14: [Meru], [zverhome] <!-- They traded back and forth like 30 times in two months and I'm not writing all that shit out -->
 - 2023-12-14 - 2023-12-16: [zverhome]
-- 2023-12-16 - 2023-12-18: [Hatate Himekaidou]
+- 2023-12-16 - 2023-12-18: [DeletedUser85]
 - 2023-12-18 - 2024-01-09: [Libegon]
-- 2024-01-09 - 2024-01-09: [Hatate Himekaidou]
+- 2024-01-09 - 2024-01-09: [DeletedUser85]
 - 2024-01-09 - 2025-09-02: [Libegon]
 - 2025-09-02 - 2026-08-24: [qwerty1234]
 - 2026-08-24 - Today: [Mike Stoklasa]
@@ -27,7 +27,7 @@ These players have reached #1 on the Catch ppv2 leaderboard:
 [db2k]: https://osu.titanic.sh/u/10
 [Meru]: https://osu.titanic.sh/u/41
 [zverhome]: https://osu.titanic.sh/u/47
-[Hatate Himekaidou]: https://osu.titanic.sh/u/85
+[DeletedUser85]: https://osu.titanic.sh/u/85
 [Libegon]: https://osu.titanic.sh/u/151
 [qwerty1234]: https://osu.titanic.sh/u/1056
 [Mike Stoklasa]: https://osu.titanic.sh/u/4885
