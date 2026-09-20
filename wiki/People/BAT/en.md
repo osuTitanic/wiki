@@ -87,6 +87,7 @@ _Please note: All BAT members speak English unless otherwise noted._
 | [kingkurboh335]       |                       May 22nd, 2024([^3]) -> August 18th, 2026                       |
 | [Donkey Kong]         |                         June 21th, 2025 -> August 26th, 2026                          |
 | [willow]              |                   February 5th, 2025([^10]) -> September 14th, 2026                   |
+| [DeletedUser869]      |                          May 29th, 2024 -> August 17th, 2025                          |
 
 ## Notes
 
@@ -170,6 +171,7 @@ _Please note: All BAT members speak English unless otherwise noted._
 [SomalianPants]: https://osu.titanic.sh/u/4119
 [Cloudpaw]: https://osu.titanic.sh/u/2302
 [Ura]: https://osu.titanic.sh/u/4458
+[DeletedUser869]: https://osu.titanic.sh/u/869
 
 <!-- Links to events -->
 
