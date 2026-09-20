@@ -21,7 +21,7 @@ _Please note: All BAT members speak English unless otherwise noted._
 ### Standard team members
 
 | User             |         Specialization         | Additional Languages Spoken | Added Date                 |
-|------------------|:------------------------------:|:---------------------------:|----------------------------|
+| ---------------- | :----------------------------: | :-------------------------: | -------------------------- |
 | [Digitalfear117] | BAT Management / Beatmap Files |                             | May 29th, 2024             |
 | [Nikku]          |         BAT Management         |                             | May 19th, 2024([^1])       |
 | [Rippuru]        |                                |            Dutch            | August 19th, 2024          |
@@ -35,7 +35,7 @@ _Please note: All BAT members speak English unless otherwise noted._
 ### Taiko team members
 
 | User      |   Specialization    | Additional Languages Spoken | Added Date      |
-|-----------|:-------------------:|:---------------------------:|-----------------|
+| --------- | :-----------------: | :-------------------------: | --------------- |
 | [Cuddles] |   BAT Management    |                             | May 16th, 2025  |
 | [Ura]     |                     |                             | June 22nd, 2026 |
 | [gsxr4o0] | Taikosu hitsounding |        Some Japanese        | July 29th, 2026 |
@@ -43,7 +43,7 @@ _Please note: All BAT members speak English unless otherwise noted._
 ### Catch the Beat team members
 
 | User             | Specialization | Additional Languages Spoken | Added Date             |
-|------------------|:--------------:|:---------------------------:|------------------------|
+| ---------------- | :------------: | :-------------------------: | ---------------------- |
 | [Digitalfear117] |  .osu mapping  |                             | May 29th, 2024         |
 | [Nikku]          | BAT Management |                             | May 19th, 2024([^1])   |
 | [Eun]            |                |                             | March 1st, 2026([^11]) |
@@ -51,12 +51,12 @@ _Please note: All BAT members speak English unless otherwise noted._
 ### Mania team members
 
 | User | Specialization | Additional Languages Spoken | Added Date |
-|------|:--------------:|:---------------------------:|------------|
+| ---- | :------------: | :-------------------------: | ---------- |
 
 ## Past members
 
 | User                  |                                      Time in BAT                                      |
-|-----------------------|:-------------------------------------------------------------------------------------:|
+| --------------------- | :-----------------------------------------------------------------------------------: |
 | [Levi]                |                         Since the beginning -> May 19th, 2024                         |
 | [Spare]               |                         December 17th, 2023 -> May 15th, 2024                         |
 | [Champ]               |                         December 17th, 2023 -> May 15th, 2024                         |
@@ -65,7 +65,7 @@ _Please note: All BAT members speak English unless otherwise noted._
 | [Syarika]             |                       October 6th, 2024 -> December 10th, 2024                        |
 | [seksman sigma balls] |                          March 8th, 2025 -> March 16th, 2025                          |
 | [Cheri]               |                         October 20th, 2024 -> March 6th, 2025                         |
-| [broilertm]           |                        November 28th, 2024 -> April 21st, 2025                        |
+| [DeletedUser989]      |                        November 28th, 2024 -> April 21st, 2025                        |
 | [Ady]                 | May 19th, 2024([^1]) -> April 29th, 2025([^6]); December 8th, 2025 -> June 21st, 2026 |
 | [StreeX]              |                         May 19th, 2024([^1]) -> May 8th, 2025                         |
 | [kanocchi]            |                       July 15th, 2024([^5]) -> June 17th, 2025                        |
@@ -150,7 +150,7 @@ _Please note: All BAT members speak English unless otherwise noted._
 [Toothy]: https://osu.titanic.sh/u/857
 [arutama]: https://osu.titanic.sh/u/905
 [kanocchi]: https://osu.titanic.sh/u/943
-[broilertm]: https://osu.titanic.sh/u/989
+[DeletedUser989]: https://osu.titanic.sh/u/989
 [willow]: https://osu.titanic.sh/u/1088
 [Donkey Kong]: https://osu.titanic.sh/u/1091
 [Syarika]: https://osu.titanic.sh/u/1730
