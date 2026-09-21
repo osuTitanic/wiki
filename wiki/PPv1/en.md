@@ -8,18 +8,9 @@ PPv1 aimed to shift the focus from being on the amount of time played to the act
 
 ## History  
   
-This is an attempt at recreating the original ppv1 system from back in the day. You can find the official explanation of the old system [here](https://osu.ppy.sh/wiki/en/Performance_points/ppv1). Expect inaccuracies to the original system. This is not a perfect recreation.  
+Titanic attempts to recreate the original [ppv1](https://osu.titanic.sh/rankings/osu/ppv1) system from back in the day. You can find the official explanation of the old system [here](https://osu.ppy.sh/wiki/en/Performance_points/ppv1). Expect inaccuracies to the original system. This is not a perfect recreation.  
   
 The PPv1 metric was initially released in April, 2012 as '???' during a testing phase, being finally renamed to "pp" (Performance Points) on the 17th April 2012. In July 24, the (20120722-24) osu! release replaced the Ranked score system with Performance Points for every 30 minutes. At August 16, the pp system was eventually updated real-time, it was later replaced by Performance Points v2 (PPv2) due to the neglect towards higher difficulty favourment.  
-  
-The changelog can be found [here](https://github.com/osuTitanic/titanic/commits/deck-rewrite/internal/performance/ppv1.go).  
-  
-
-## Location  
-  
-The performance points ranking can be found [here](https://osu.titanic.sh/rankings/osu/ppv1).  
-  
-It can also be found from the bar at the top (Rankings -> PPv1).  
 
 
 ## Calculation  
@@ -49,8 +40,7 @@ It can also be found from the bar at the top (Rankings -> PPv1).
 * Updated in real-time.  
 
                                                                                                                
-## Increasing your rank  
-### Your performance rank is predominantly based on your performance on individual maps. The easiest way to improve it is to improve your rank on difficult songs:  
+## Increasing your rank:  
   
 * Play better, rank higher on songs by improving acc, combo and applying more mods.
   
@@ -66,30 +56,8 @@ It can also be found from the bar at the top (Rankings -> PPv1).
   
 * Get "SS" grade instead of just Full Combo/Perfect.  
 
-                                           
-## Formulae Index
-  
-* Pass Rate: (passCount) / (playCount) > 0.3 = 0.2, (passCount) / (playCount) < 0.3 = 1.
-  
-* Play Count: (3.6) * (0.24) * ( (playCount) ^ (0.4) ), playCount < 1 = 1.
-  
-* Weighting: pp * ( (0.994) ^ (index) ).
-  
-* Difficulty: (difficultyEyupStars) < 5 = (difficultyEyupStars) ^ 4, (difficultyEyupStars) > 5 = (5) ^ (4).
-  
-* Decay: (1 - (0.01 * ( ( (scoreAgeDays) / (10) ) ) ) > 0.01 = [Result of formula], [Result of formula] < 0.01 = 0.01.
-  
-* Leaderboard Placement: (rank + 1) ^ (0.8).
-  
-* Accuracy: (accuracy) ^ (15).
-  
-* Perfect Full Combo & SS: PFC = 1.2x, SS = 1.36x.
-  
-* Mods: HR = 1.1x, DT = 1.1x, EZHT = 0.2x, NM = 1.0x.
-
-
-## Picture  
-#### Picture example. PPv1 can be found at your account page under "General" tab and selecting "PPv1 Rank". 
+                                             
+## Picture example of PPv1 Ranking:  
 ![Ranking Graph](img/PPv1GraphWiki.jpg)
                                                                                                                
                                                                                                                
