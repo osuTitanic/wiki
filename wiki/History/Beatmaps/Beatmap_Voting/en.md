@@ -4,9 +4,8 @@ A list of beatmap related voting that have happened in titanic's history.
 
 [TOC]
 
-<!--remove comment when no longer mostly stub in feel-->
-
 ## Beatmap of The Year 2024 
+
 The first Beatmap of The Year vote that happened.
 The [Voting](https://osu.titanic.sh/forum/20/t/1108/#post-14554) and [Results](https://osu.titanic.sh/forum/20/t/1108/#post-14715) forum posts in the same forum thread.
 
@@ -17,6 +16,7 @@ The [Voting](https://osu.titanic.sh/forum/20/t/1108/#post-14554) and [Results](h
 
 
 ## Beatmap of The Year 2025 
+
 The second Beatmap of The Year vote that happened. 
 [Announcement forum post](https://osu.titanic.sh/forum/20/t/2619/?page=1#post-23397) | [Results forum post](https://osu.titanic.sh/forum/20/t/2898/?page=1#post-25617)
 
@@ -26,6 +26,7 @@ The second Beatmap of The Year vote that happened.
 
 
 ## Best oldsu! Map
+
 This was included as a bonus for the 2025 vote, and was won by [Shuichi Saihara] with the beatmapset [ZUN - Naki Oujo no Tame no Septette](https://osu.titanic.sh/s/1000000640).
 ![best oldsu! map badge](https://osu.titanic.sh/images/badges/mapping/best-oldsu-map@2x.png)
 
