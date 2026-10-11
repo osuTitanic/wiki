@@ -16,7 +16,7 @@ Members of the Beatmap Approval Team are responsible primarily for managing the 
 
 <!--rename to benefits if there are more things that fit; based on modern bancho BN page-->
 ## Badges 
-###### BAT members are given the current badges:
+**BAT members are given the current badges:**
 
 Tenure badge: A profile badge that displays total length on the Beatmap Approval Team
 ![1 year BAT badge](https://osu.titanic.sh/images/badges/tenure/BAT/titanic-bat-1yr.png) ![2 year BAT badge](https://osu.titanic.sh/images/badges/tenure/BAT/titanic-bat-2yr.png) ![3 year BAT badge](https://osu.titanic.sh/images/badges/tenure/BAT/titanic-bat-3yr.png) ![4 year BAT badge](https://osu.titanic.sh/images/badges/tenure/BAT/titanic-bat-4yr.png) ![5 year BAT badge](https://osu.titanic.sh/images/badges/tenure/BAT/titanic-bat-5yr.png)
