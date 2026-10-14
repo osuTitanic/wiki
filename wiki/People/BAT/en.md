@@ -38,7 +38,7 @@ _Please note: All BAT members speak English unless otherwise noted._
 | --------- | :-----------------: | :-------------------------: | --------------- |
 | [Cuddles] |   BAT Management    |                             | May 16th, 2025  |
 | [Ura]     |                     |                             | June 22nd, 2026 |
-| [gsxr4o0] | Taikosu hitsounding |        Some Japanese        | July 29th, 2026 |
+| [Makore]  | Taikosu hitsounding |        Some Japanese        | July 29th, 2026 |
 
 ### Catch the Beat team members
 
@@ -78,7 +78,7 @@ _Please note: All BAT members speak English unless otherwise noted._
 | [Oposh]               |                      May 19th, 2024([^1]) -> November 22nd, 2025                      |
 | [Sonnyc]              |                        August 3rd, 2025 -> February 7th, 2026                         |
 | [arutama]             |                   July 7th, 2025([^4]) -> February 8th, 2026([^9])                    |
-| [gsxr4o0]             |                          July 21th, 2025 -> April 16th, 2026                          |
+| [Makore]              |                          July 21st, 2025 -> April 16th, 2026                          |
 | [pimpG]               |                       June 16th, 2025 -> May 13th, 2026([^14])                        |
 | [Azu]                 |                  February 21st, 2026([^11]) -> May 13th, 2026([^15])                  |
 | [Konoe]               |                  February 22nd, 2026([^11]) -> May 13th, 2026([^16])                  |
