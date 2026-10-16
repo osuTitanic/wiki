@@ -161,7 +161,7 @@ _Please note: All BAT members speak English unless otherwise noted._
 [Yurizono Seia]: https://osu.titanic.sh/u/2168
 [SCAG]: https://osu.titanic.sh/u/2631
 [pimpG]: https://osu.titanic.sh/u/2719
-[gsxr4o0]: https://osu.titanic.sh/u/2883
+[Makore]: https://osu.titanic.sh/u/2883
 [Eun]: https://osu.titanic.sh/u/3006
 [Sonnyc]: https://osu.titanic.sh/u/3041
 [laurafied]: https://osu.titanic.sh/u/3578
