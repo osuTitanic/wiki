@@ -12,6 +12,8 @@ The users who manage, moderate and improve Titanic every day.
 | [BlueChinchompa] |              Global Moderator              | Since the beginning |
 | [vg185]          |              Global Moderator              | June 28th, 2025     |
 | [Digitalfear117] |     Global Moderator / Wiki Maintainer     | June 28th, 2025     |
+| [Lili]           |              Global Moderator              | October 14th, 2026  |
+| [Jason X]        |              Global Moderator              | October 14th, 2026  |
 
 ## Past Members
 
@@ -34,3 +36,5 @@ The users who manage, moderate and improve Titanic every day.
 [kingkurboh335]: https://osu.titanic.sh/u/810
 [Meru]: https://osu.titanic.sh/u/41
 [DeletedUser869]: https://osu.titanic.sh/u/869
+[Lili]: https://osu.titanic.sh/u/3505
+[Jason X]: https://osu.titanic.sh/u/3071
