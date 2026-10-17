@@ -18,10 +18,10 @@ Members of the Beatmap Approval Team are responsible primarily for managing the 
 ## Badges 
 **BAT members are given the current badges:**
 
-Tenure badge: A profile badge that displays total length on the Beatmap Approval Team
+Tenure badge: A profile badge that displays total length on the Beatmap Approval Team  
 ![1 year BAT badge](https://osu.titanic.sh/images/badges/tenure/BAT/titanic-bat-1yr.png) ![2 year BAT badge](https://osu.titanic.sh/images/badges/tenure/BAT/titanic-bat-2yr.png) ![3 year BAT badge](https://osu.titanic.sh/images/badges/tenure/BAT/titanic-bat-3yr.png) ![4 year BAT badge](https://osu.titanic.sh/images/badges/tenure/BAT/titanic-bat-4yr.png) ![5 year BAT badge](https://osu.titanic.sh/images/badges/tenure/BAT/titanic-bat-5yr.png)
 
-Nomination badge: A profile badge awarded for nominated beatmapset milestones
+Nomination badge: A profile badge awarded for nominated beatmapset milestones  
 ![100 nominations badge](https://osu.titanic.sh/images/badges/nomination/titanic-nominations-100.png) ![200 nominations badge](https://osu.titanic.sh/images/badges/nomination/titanic-nominations-200.png) ![400 nominations badge](https://osu.titanic.sh/images/badges/nomination/titanic-nominations-400.png) ![600 nominations badge](https://osu.titanic.sh/images/badges/nomination/titanic-nominations-600.png) ![800 nominations badge](https://osu.titanic.sh/images/badges/nomination/titanic-nominations-800.png) ![1000 nominations badge](https://osu.titanic.sh/images/badges/nomination/titanic-nominations-1000.png)
 
 

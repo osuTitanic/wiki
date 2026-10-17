@@ -7,7 +7,7 @@ The users who manage, moderate and improve Titanic every day.
 ## Badges 
 **GMT members are given the current badges:**
 
-Tenure badge: A profile badge that displays total length on the Global Moderation Team
+Tenure badge: A profile badge that displays total length on the Global Moderation Team  
 ![1 year GMT badge](https://osu.titanic.sh/images/badges/tenure/GMT/titanic-gmt-1yr.png) ![2 year GMT badge](https://osu.titanic.sh/images/badges/tenure/GMT/titanic-gmt-2yr.png) ![3 year GMT badge](https://osu.titanic.sh/images/badges/tenure/GMT/titanic-gmt-3yr.png) ![4 year GMT badge](https://osu.titanic.sh/images/badges/tenure/GMT/titanic-gmt-4yr.png) ![5 year GMT badge](https://osu.titanic.sh/images/badges/tenure/GMT/titanic-gmt-5yr.png)
 <!--admin badge waiting room (Nikku paused due to the restructuring) -->
 
