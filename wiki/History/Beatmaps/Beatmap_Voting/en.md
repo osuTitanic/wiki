@@ -11,8 +11,7 @@ The first Beatmap of The Year vote.
 The [Voting](https://osu.titanic.sh/forum/20/t/1108/#post-14554) and [Results](https://osu.titanic.sh/forum/20/t/1108/#post-14715) forum posts in the same forum thread.
 
 <!--data came from asking kurboh about the vote numbers since they were not shown at the time of voting-->
-[kingkurboh335]'s beatmapset of [BlueChinchompa - LiebingsFUCK](https://osu.titanic.sh/s/1000000097) won with 26.09% of the votes.
-
+[kingkurboh335]'s beatmapset of [BlueChinchompa - LiebingsFUCK](https://osu.titanic.sh/s/1000000097) won with 26.09% of the votes.  
 [w81056398] also obtained the badge from a guest difficulty on the beatmapset.
 
 ![beatmap of the year 2024 badge](https://osu.titanic.sh/images/badges/mapping/map-of-the-year-2024-remake@2x.png)
@@ -24,8 +23,7 @@ The second Beatmap of The Year vote.
 
 [Announcement forum post](https://osu.titanic.sh/forum/20/t/2619/?page=1#post-23397) | [Results forum post](https://osu.titanic.sh/forum/20/t/2898/?page=1#post-25617)
 
-[Mahogany]'s beatmapset of [tiramisou - Silly Bug Song](https://osu.titanic.sh/s/1000000854) won the overall with 41.86% of the votes.
-
+[Mahogany]'s beatmapset of [tiramisou - Silly Bug Song](https://osu.titanic.sh/s/1000000854) won the overall with 41.86% of the votes.  
 [vg185], [deafleaf], and [BlakeBelladonna] also obtained the badge through guest difficulties on the beatmapset.
 
 ![beatmap of the year 2025 badge](https://osu.titanic.sh/images/badges/mapping/map-of-the-year-2025@2x.png)
