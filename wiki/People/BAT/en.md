@@ -14,6 +14,17 @@ If you're interested in applying, view [this forum post](https://osu.titanic.sh/
 
 Members of the Beatmap Approval Team are responsible primarily for managing the moderation of pending beatmaps into the ranking cycle. The BAT are members to go for any modding or advice requests about mapping or gameplay related.
 
+<!--rename to benefits if there are more things that fit; based on modern bancho BN page-->
+## Badges 
+**BAT members are given the current badges:**
+
+Tenure badge: A profile badge that displays total length on the Beatmap Approval Team  
+![1 year BAT badge](https://osu.titanic.sh/images/badges/tenure/BAT/titanic-bat-1yr.png) ![2 year BAT badge](https://osu.titanic.sh/images/badges/tenure/BAT/titanic-bat-2yr.png) ![3 year BAT badge](https://osu.titanic.sh/images/badges/tenure/BAT/titanic-bat-3yr.png) ![4 year BAT badge](https://osu.titanic.sh/images/badges/tenure/BAT/titanic-bat-4yr.png) ![5 year BAT badge](https://osu.titanic.sh/images/badges/tenure/BAT/titanic-bat-5yr.png)
+
+Nomination badge: A profile badge awarded for nominated beatmapset milestones  
+![100 nominations badge](https://osu.titanic.sh/images/badges/nomination/titanic-nominations-100.png) ![200 nominations badge](https://osu.titanic.sh/images/badges/nomination/titanic-nominations-200.png) ![400 nominations badge](https://osu.titanic.sh/images/badges/nomination/titanic-nominations-400.png) ![600 nominations badge](https://osu.titanic.sh/images/badges/nomination/titanic-nominations-600.png) ![800 nominations badge](https://osu.titanic.sh/images/badges/nomination/titanic-nominations-800.png) ![1000 nominations badge](https://osu.titanic.sh/images/badges/nomination/titanic-nominations-1000.png)
+
+
 ## Current members
 
 _Please note: All BAT members speak English unless otherwise noted._
@@ -74,6 +85,7 @@ _Please note: All BAT members speak English unless otherwise noted._
 | [Genorocks100]        |                          April 9th, 2025 -> July 18th, 2025                           |
 | [Toothy]              |                    May 28th, 2025([^2]) -> August 28th, 2025([^8])                    |
 | [Dark]                | March 18th, 2025 -> August 28th, 2025; February 23rd, 2026([^11]) -> July 19th, 2026  |
+| [DeletedUser869]      |                          May 29th, 2024 -> August 17th, 2025                          |
 | [Yurizono Seia]       |                          May 26th, 2025 -> August 22nd, 2025                          |
 | [Oposh]               |                      May 19th, 2024([^1]) -> November 22nd, 2025                      |
 | [Sonnyc]              |                        August 3rd, 2025 -> February 7th, 2026                         |
@@ -87,7 +99,6 @@ _Please note: All BAT members speak English unless otherwise noted._
 | [kingkurboh335]       |                       May 22nd, 2024([^3]) -> August 18th, 2026                       |
 | [Donkey Kong]         |                         June 21th, 2025 -> August 26th, 2026                          |
 | [willow]              |                   February 5th, 2025([^10]) -> September 14th, 2026                   |
-| [DeletedUser869]      |                          May 29th, 2024 -> August 17th, 2025                          |
 
 ## Notes
 
@@ -149,6 +160,7 @@ _Please note: All BAT members speak English unless otherwise noted._
 [Ady]: https://osu.titanic.sh/u/821
 [Oposh]: https://osu.titanic.sh/u/829
 [Toothy]: https://osu.titanic.sh/u/857
+[DeletedUser869]: https://osu.titanic.sh/u/869
 [arutama]: https://osu.titanic.sh/u/905
 [kanocchi]: https://osu.titanic.sh/u/943
 [DeletedUser989]: https://osu.titanic.sh/u/989
@@ -159,6 +171,7 @@ _Please note: All BAT members speak English unless otherwise noted._
 [Genorocks100]: https://osu.titanic.sh/u/1853
 [seksman sigma balls]: https://osu.titanic.sh/u/2153
 [Yurizono Seia]: https://osu.titanic.sh/u/2168
+[Cloudpaw]: https://osu.titanic.sh/u/2302
 [SCAG]: https://osu.titanic.sh/u/2631
 [pimpG]: https://osu.titanic.sh/u/2719
 [Makore]: https://osu.titanic.sh/u/2883
@@ -169,9 +182,7 @@ _Please note: All BAT members speak English unless otherwise noted._
 [Rei]: https://osu.titanic.sh/u/4110
 [Konoe]: https://osu.titanic.sh/u/4112
 [SomalianPants]: https://osu.titanic.sh/u/4119
-[Cloudpaw]: https://osu.titanic.sh/u/2302
 [Ura]: https://osu.titanic.sh/u/4458
-[DeletedUser869]: https://osu.titanic.sh/u/869
 
 <!-- Links to events -->
 
