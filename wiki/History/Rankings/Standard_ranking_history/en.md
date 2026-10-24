@@ -113,7 +113,8 @@ These players have reached rank #1 on the ppv1 leaderboard:
 - 2025-11-28 - 2026-02-07: [Cuddles]
 - 2026-02-07 - 2026-02-08: [puffle osu]
 - 2026-02-08 - 2026-02-08: [Cuddles], [cocoamallows], [puffle osu]
-- 2026-02-08 - Today: [puffle osu]
+- 2026-02-08 - 2026-10-21: [puffle osu]
+- 2026-10-21 - Today: [Cuddles]
 
 [Natasha]: https://osu.titanic.sh/u/5
 [Levi]: https://osu.titanic.sh/u/2
