@@ -15,7 +15,7 @@ As an alternative: the launcher is fully open-source and also available for down
 
 ![Launcher Download](img/1_download.png)
 
-Once downloaded, place the *.exe* file in an **empty folder** and launch it.
+Once downloaded, place the *.exe* file in an **empty folder** and launch it. Use the *fallback* variant of the launcher if you experience issues with the regular one.
 
 ![On Launch](img/2_launch.jpg)
 
