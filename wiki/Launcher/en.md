@@ -9,10 +9,6 @@ Previously, users would download a custom patched build of the game. However, wi
 
 You can find the latest release of the launcher on the [downloads page](https://osu.titanic.sh/download). Click the conveniently huge placed button and it will redirect you to the download.
 
-<!-- dunno whether to include this
-As an alternative: the launcher is fully open-source and also available for download on the GitHub [Release Page](https://github.com/osuTitanic/hook/releases).
--->
-
 ![Launcher Download](img/1_download.png)
 
 Once downloaded, place the *.exe* file in an **empty folder** and launch it. Use the *fallback* variant of the launcher if you experience issues with the regular one.
