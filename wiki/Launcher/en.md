@@ -44,3 +44,7 @@ If you, for any reason, want to skip straight to the game, you have two options:
 The first one should be self-explanatory. Simply remove the tick from the checkbox that says "Show launcher at startup". Once you restart the launcher, it will no longer show the "osume" interface, and directly launch the game. To re-enable the launcher, remove your `Titanic!.cfg` file.
 
 Similar to how you might use `-devserver` to play on modern osu! private servers, you can create a shortcut on your launcher executable, and append `-go` to the "Target". Note that this method will *not* automatically check for new updates anymore.
+
+## Open Source
+
+The launcher and patcher components are fully open-source. If you are skeptical, or are just curious on how the launcher works behind the scenes, check out the [GitHub Repository](https://github.com/osuTitanic/hook).
