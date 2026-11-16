@@ -33,3 +33,14 @@ Titanic has revived this functionality, and you can find it in the same place as
 ![Extra Tab](img/4_extra.png)
 
 Simply tick the things you would like to install, and click "**Install selected**".
+
+## Skipping the Launcher
+
+If you, for any reason, want to skip straight to the game, you have two options:
+
+- Uncheck "Show launcher at startup"
+- Create a custom shortcut
+
+The first one should be self-explanatory. Simply remove the tick from the checkbox that says "Show launcher at startup". Once you restart the launcher, it will no longer show the "osume" interface, and directly launch the game. To re-enable the launcher, remove your `Titanic!.cfg` file.
+
+Similar to how you might use `-devserver` to play on modern osu! private servers, you can create a shortcut on your launcher executable, and append `-go` to the "Target". Note that this method will *not* automatically check for new updates anymore.
