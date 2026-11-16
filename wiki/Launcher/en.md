@@ -31,3 +31,5 @@ This launcher is directly inspired by "[osume](https://osu.ppy.sh/community/foru
 Titanic has revived this functionality, and you can find it in the same place as osume once had it.
 
 ![Extra Tab](img/4_extra.png)
+
+Simply tick the things you would like to install, and click "**Install selected**".
