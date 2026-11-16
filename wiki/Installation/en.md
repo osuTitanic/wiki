@@ -16,6 +16,8 @@ Choose one, click "**select**", wait for the download to finish, and click **sta
 
 ![Ready to play](../Launcher/img/3_ready.png)
 
+Whenever you want to play the game now, you should use the *.exe* of the launcher and **not** the original osu!.exe. Using the original .exe won't connect you to Titanic's servers.
+
 If you are not able to get the game to work, and you don't know what to do, fear not! We will resolve your issue in the [Support](https://osu.titanic.sh/forum/7) forum. Clearly state your situation, and we will try to help as much as we can.
 
 ## Registering an account
