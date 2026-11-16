@@ -2,13 +2,7 @@
 
 [TOC]
 
-To begin playing on Titanic!, head over to the [Download page](https://osu.titanic.sh/download/) and pick any client from as old as 2007 up to 2015.
-
-![BuildDownload](img/BuildDownload.png)
-
-After it finishes installing, extract the folder and double-click `osu!.exe`.
-
-There is a chance that Windows Defender may block it since the game is *unsigned* (certificate for signing would cost $200). An alternative would be to use the [[Patcher]], which is still experimental, but does not get blocked by Windows Defender from our testing.
+To begin playing on Titanic!, follow the installation instructions of the [[Launcher]].
 
 ## Registering an account
 
