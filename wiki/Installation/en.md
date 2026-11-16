@@ -16,6 +16,8 @@ Choose one, click "**select**", wait for the download to finish, and click **sta
 
 ![Ready to play](../Launcher/img/3_ready.jpg)
 
+If you are not able to get the game to work, and you don't know what to do, fear not! We will resolve your issue in the [Support](https://osu.titanic.sh/forum/7) forum. Clearly state your situation, and we will try to help as much as we can.
+
 ## Registering an account
 
 To start playing online, you need an account, for obvious reasons. Head on over to the [registration page](https://osu.titanic.sh/account/register) by clicking on "I'm New!". **Remember you are only allowed to have *ONE* account EVER!**
