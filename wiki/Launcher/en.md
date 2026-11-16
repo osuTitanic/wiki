@@ -17,12 +17,12 @@ As an alternative: the launcher is fully open-source and also available for down
 
 Once downloaded, place the *.exe* file in an **empty folder** and launch it. Use the *fallback* variant of the launcher if you experience issues with the regular one.
 
-![On Launch](img/2_launch.jpg)
+![On Launch](img/2_launch.png)
 
 You will be prompted by a collection of versions you can download.  
 Choose one, click "**select**", wait for the download to finish, and **start osu!**
 
-![Ready to play](img/3_ready.jpg)
+![Ready to play](img/3_ready.png)
 
 ## "Extra" Content
 
@@ -30,4 +30,4 @@ This launcher is directly inspired by "[osume](https://osu.ppy.sh/community/foru
 
 Titanic has revived this functionality, and you can find it in the same place as osume once had it.
 
-![Extra Tab](img/4_extra.jpg)
+![Extra Tab](img/4_extra.png)
