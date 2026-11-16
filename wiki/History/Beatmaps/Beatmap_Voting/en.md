@@ -21,7 +21,7 @@ The first Beatmap of The Year vote.
 
 The second Beatmap of The Year vote.
 
-[Announcement forum post](https://osu.titanic.sh/forum/20/t/2619/?page=1#post-23397) | [Results forum post](https://osu.titanic.sh/forum/20/t/2898/?page=1#post-25617)
+[Announcement](https://osu.titanic.sh/forum/20/t/2619/?page=1#post-23397) | [Results](https://osu.titanic.sh/forum/20/t/2898/?page=1#post-25617)
 
 [Mahogany]'s beatmapset of [tiramisou - Silly Bug Song](https://osu.titanic.sh/s/1000000854) won the overall with 41.86% of the votes.  
 [vg185], [deafleaf], and [BlakeBelladonna] also obtained the badge through guest difficulties on the beatmapset.
