@@ -24,7 +24,7 @@ The second Beatmap of The Year vote.
 [Announcement](https://osu.titanic.sh/forum/20/t/2619/?page=1#post-23397) | [Results](https://osu.titanic.sh/forum/20/t/2898/?page=1#post-25617)
 
 [Mahogany]'s beatmapset of [tiramisou - Silly Bug Song](https://osu.titanic.sh/s/1000000854) won the overall with 41.86% of the votes.  
-[vg185], [deafleaf], and [BlakeBelladonna] also obtained the badge through guest difficulties on the beatmapset.
+[vg185], [deafleaf], [scug], and [BlakeBelladonna] also obtained the badge through guest difficulties on the beatmapset.
 
 ![beatmap of the year 2025 badge](https://osu.titanic.sh/images/badges/mapping/map-of-the-year-2025@2x.png)
 
@@ -40,4 +40,5 @@ This was included as a bonus for the 2025 vote, and was won by [Shuichi Saihara]
 [Mahogany]: https://osu.titanic.sh/u/2036
 [deafleaf]: https://osu.titanic.sh/u/2125
 [Shuichi Saihara]: https://osu.titanic.sh/u/2369
-[BlakeBelladonna]:https://osu.titanic.sh/u/2453
+[BlakeBelladonna]: https://osu.titanic.sh/u/2453
+[scug]: https://osu.titanic.sh/u/636
