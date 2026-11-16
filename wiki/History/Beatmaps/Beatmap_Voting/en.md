@@ -8,7 +8,7 @@ A list of beatmap related contests in Titanic's history.
 
 The first Beatmap of The Year vote.
 
-The [Voting](https://osu.titanic.sh/forum/20/t/1108/#post-14554) and [Results](https://osu.titanic.sh/forum/20/t/1108/#post-14715) forum posts in the same forum thread.
+[Voting](https://osu.titanic.sh/forum/20/t/1108/#post-14554) | [Results](https://osu.titanic.sh/forum/20/t/1108/#post-14715)
 
 <!--data came from asking kurboh about the vote numbers since they were not shown at the time of voting-->
 [kingkurboh335]'s beatmapset of [BlueChinchompa - LiebingsFUCK](https://osu.titanic.sh/s/1000000097) won with 26.09% of the votes.  
