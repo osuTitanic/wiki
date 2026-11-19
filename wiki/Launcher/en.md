@@ -7,7 +7,7 @@ Previously, users would download a custom patched build of the game. However, wi
 
 ## Installation Instructions
 
-You can find the latest release of the launcher on the [downloads page](https://osu.titanic.sh/download). Click the conveniently huge placed button and it will redirect you to the download.
+You can find the latest release of the launcher on the [downloads page](https://osu.titanic.sh/download). Click the huge, conveniently placed button and it will redirect you to the download.
 
 ![Launcher Download](img/1_download.png)
 
