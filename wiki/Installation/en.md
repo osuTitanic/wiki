@@ -1,9 +1,11 @@
 # Installation
 
+<!--
 [TOC]
+-->
 
-To begin playing on Titanic!, being by downloading the [[Launcher]], found on the [download page](https://osu.titanic.sh/download).
-The button you will find there should be easy to find. Click it, and it will start downloading the launcher.
+To begin playing on Titanic!, start by downloading the [[Launcher]], found on the [download page](https://osu.titanic.sh/download).
+The button on this page should be easy to find. Click it, and it will start downloading the launcher.
 
 ![Launcher Download](../Launcher/img/1_download.png)
 
